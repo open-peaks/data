@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.0614,
+      60.7036
+    ]
+  },
+  "properties": {
+    "feet": 12200,
+    "meters": 3719,
+    "latitude": 60.7036,
+    "longitude": -141.0614,
+    "name": "Mount Hope",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Wrangell Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

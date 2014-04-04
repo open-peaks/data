@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2836,
+          -22.9889
+        ]
+      },
+      "properties": {
+        "feet": 2274,
+        "meters": 693,
+        "latitude": -22.9889,
+        "longitude": -43.2836,
+        "name": "Bonita Rock (Pedra Bonita)",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8333,
+          -22.4667
+        ]
+      },
+      "properties": {
+        "feet": 9176,
+        "meters": 2797,
+        "latitude": -22.4667,
+        "longitude": -44.8333,
+        "name": "Pedra Da Mina",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.775397,
+          -22.337126
+        ]
+      },
+      "properties": {
+        "feet": 5249,
+        "meters": 1600,
+        "latitude": -22.337126,
+        "longitude": -44.775397,
+        "name": "Pedra do Picú",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.669938,
+          -22.399721
+        ]
+      },
+      "properties": {
+        "feet": 8301,
+        "meters": 2530,
+        "latitude": -22.399721,
+        "longitude": -44.669938,
+        "name": "Prateleiras",
+        "regions": [
+          "Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15,
+          -22.95
+        ]
+      },
+      "properties": {
+        "feet": 1296,
+        "meters": 395,
+        "latitude": -22.95,
+        "longitude": -43.15,
+        "name": "Sugar Loaf Mountain",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8,
+          -22.4
+        ]
+      },
+      "properties": {
+        "feet": 8743,
+        "meters": 2665,
+        "latitude": -22.4,
+        "longitude": -44.8,
+        "name": "Tres Estados",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

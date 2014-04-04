@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.757,
+      36.7575
+    ]
+  },
+  "properties": {
+    "feet": 9619,
+    "meters": 2932,
+    "latitude": 36.7575,
+    "longitude": 137.757,
+    "name": "Shirouma Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

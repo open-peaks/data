@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.283051,
+      40.241799
+    ]
+  },
+  "properties": {
+    "feet": 6890,
+    "meters": 2100,
+    "latitude": 40.241799,
+    "longitude": -5.283051,
+    "name": "Torreón Los Galayos",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

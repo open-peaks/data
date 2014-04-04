@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.257,
+      43.7036
+    ]
+  },
+  "properties": {
+    "feet": 6781,
+    "meters": 2067,
+    "latitude": 43.7036,
+    "longitude": 18.257,
+    "name": "Bjelasnica",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

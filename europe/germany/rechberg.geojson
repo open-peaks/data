@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.790363,
+      48.757915
+    ]
+  },
+  "properties": {
+    "feet": 2320,
+    "meters": 707,
+    "latitude": 48.757915,
+    "longitude": 9.790363,
+    "name": "Rechberg",
+    "regions": [
+      "Central Europe Ranges",
+      "Swabian Alb"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

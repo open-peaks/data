@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.144449,
+      49.177793
+    ]
+  },
+  "properties": {
+    "feet": 7785,
+    "meters": 2373,
+    "latitude": 49.177793,
+    "longitude": 20.144449,
+    "name": "Diva veza",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

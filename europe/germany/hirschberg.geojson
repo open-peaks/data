@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.6833,
+      47.65
+    ]
+  },
+  "properties": {
+    "feet": 5479,
+    "meters": 1670,
+    "latitude": 47.65,
+    "longitude": 11.6833,
+    "name": "Hirschberg",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

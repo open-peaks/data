@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8669,
+    "meters": 2642,
+    "name": "Trusmadi",
+    "regions": [
+      "Malay Archipelago",
+      "Borneo"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

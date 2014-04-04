@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.041051,
+      30.290984
+    ]
+  },
+  "properties": {
+    "feet": 20741,
+    "meters": 6322,
+    "latitude": 30.290984,
+    "longitude": 80.041051,
+    "name": "Changuch",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

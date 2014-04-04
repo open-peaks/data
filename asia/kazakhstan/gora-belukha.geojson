@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.5908,
+      49.8067
+    ]
+  },
+  "properties": {
+    "feet": 14784,
+    "meters": 4506,
+    "latitude": 49.8067,
+    "longitude": 86.5908,
+    "name": "Gora Belukha",
+    "regions": [
+      "Mongolia Ranges",
+      "Altai"
+    ],
+    "countries": [
+      "Kazakhstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

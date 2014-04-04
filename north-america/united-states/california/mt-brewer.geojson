@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.483,
+      36.7
+    ]
+  },
+  "properties": {
+    "feet": 13570,
+    "meters": 4136,
+    "latitude": 36.7,
+    "longitude": -118.483,
+    "name": "Mt. Brewer",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

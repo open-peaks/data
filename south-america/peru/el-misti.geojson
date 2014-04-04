@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4,
+      -16.3
+    ]
+  },
+  "properties": {
+    "feet": 19101,
+    "meters": 5822,
+    "latitude": -16.3,
+    "longitude": -71.4,
+    "name": "El Misti",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.8975,
+      39.5814
+    ]
+  },
+  "properties": {
+    "feet": 2898,
+    "meters": 883,
+    "latitude": 39.5814,
+    "longitude": -78.8975,
+    "name": "Dans Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Allegheny Mountains"
+    ],
+    "states": [
+      "Maryland"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

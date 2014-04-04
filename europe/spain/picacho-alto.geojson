@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 5810,
+    "meters": 1771,
+    "name": "Picacho Alto",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

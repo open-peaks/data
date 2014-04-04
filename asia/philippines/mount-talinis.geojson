@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.17625,
+      9.242761
+    ]
+  },
+  "properties": {
+    "feet": 6243,
+    "meters": 1903,
+    "latitude": 9.242761,
+    "longitude": 123.17625,
+    "name": "Mount Talinis",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

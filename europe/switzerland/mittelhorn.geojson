@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.124647,
+      46.634881
+    ]
+  },
+  "properties": {
+    "feet": 12152,
+    "meters": 3704,
+    "latitude": 46.634881,
+    "longitude": 8.124647,
+    "name": "Mittelhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

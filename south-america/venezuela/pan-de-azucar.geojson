@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.001034,
+      8.810355
+    ]
+  },
+  "properties": {
+    "feet": 15233,
+    "meters": 4643,
+    "latitude": 8.810355,
+    "longitude": -71.001034,
+    "name": "Pan de Azúcar",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

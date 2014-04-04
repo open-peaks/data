@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9803,
+      40.6456
+    ]
+  },
+  "properties": {
+    "feet": 1533,
+    "meters": 467,
+    "latitude": 40.6456,
+    "longitude": -75.9803,
+    "name": "Hawk Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Northern Appalachian Ridges"
+    ],
+    "states": [
+      "Pennsylvania"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

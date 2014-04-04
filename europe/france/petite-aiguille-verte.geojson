@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9586,
+      45.9479
+    ]
+  },
+  "properties": {
+    "feet": 11522,
+    "meters": 3512,
+    "latitude": 45.9479,
+    "longitude": 6.9586,
+    "name": "Petite Aiguille verte",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

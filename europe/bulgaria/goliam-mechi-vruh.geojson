@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8576,
+    "meters": 2614,
+    "name": "Goliam Mechi Vruh",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.407,
+      46.4885
+    ]
+  },
+  "properties": {
+    "feet": 8184,
+    "meters": 2494,
+    "latitude": 46.4885,
+    "longitude": -121.407,
+    "name": "Goat Rocks",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.3667,
+      27.95
+    ]
+  },
+  "properties": {
+    "feet": 22312,
+    "meters": 6801,
+    "latitude": 27.95,
+    "longitude": 86.3667,
+    "name": "Drangnag Ri",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

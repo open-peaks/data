@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.6667,
+      27.9167
+    ]
+  },
+  "properties": {
+    "feet": 19741,
+    "meters": 6017,
+    "latitude": 27.9167,
+    "longitude": 86.6667,
+    "name": "Pharilapcha",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

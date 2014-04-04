@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.305,
+      33.4033
+    ]
+  },
+  "properties": {
+    "feet": 3300,
+    "meters": 1006,
+    "latitude": 33.4033,
+    "longitude": -113.305,
+    "name": "Eagletail Peak",
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

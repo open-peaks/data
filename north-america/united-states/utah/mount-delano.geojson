@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.371,
+      38.3692
+    ]
+  },
+  "properties": {
+    "feet": 12173,
+    "meters": 3710,
+    "latitude": 38.3692,
+    "longitude": -112.371,
+    "name": "Mount Delano",
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

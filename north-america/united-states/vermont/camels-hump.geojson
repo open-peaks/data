@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.8867,
+      44.3194
+    ]
+  },
+  "properties": {
+    "feet": 4083,
+    "meters": 1245,
+    "latitude": 44.3194,
+    "longitude": -72.8867,
+    "name": "Camels Hump",
+    "states": [
+      "Vermont"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

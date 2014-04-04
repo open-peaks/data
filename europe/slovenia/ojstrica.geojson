@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.639626,
+      46.366121
+    ]
+  },
+  "properties": {
+    "feet": 7710,
+    "meters": 2350,
+    "latitude": 46.366121,
+    "longitude": 14.639626,
+    "name": "Ojstrica",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

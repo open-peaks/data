@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.291253,
+      36.564743
+    ]
+  },
+  "properties": {
+    "feet": 14012,
+    "meters": 4271,
+    "latitude": 36.564743,
+    "longitude": -118.291253,
+    "name": "Mount Muir",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

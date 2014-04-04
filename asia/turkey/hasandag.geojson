@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1667,
+      38.1333
+    ]
+  },
+  "properties": {
+    "feet": 10722,
+    "meters": 3268,
+    "latitude": 38.1333,
+    "longitude": 34.1667,
+    "name": "Hasandag",
+    "regions": [
+      "Anatolia",
+      "Central Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

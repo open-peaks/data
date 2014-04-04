@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.051895,
+      53.127616
+    ]
+  },
+  "properties": {
+    "feet": 2726,
+    "meters": 831,
+    "latitude": 53.127616,
+    "longitude": -4.051895,
+    "name": "Foel-goch",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

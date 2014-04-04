@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.333,
+      1.7333
+    ]
+  },
+  "properties": {
+    "feet": 2658,
+    "meters": 810,
+    "latitude": 1.7333,
+    "longitude": 110.333,
+    "name": "Gunung Santubong",
+    "regions": [
+      "Malay Archipelago",
+      "Borneo"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.005171,
+      46.577595
+    ]
+  },
+  "properties": {
+    "feet": 13025,
+    "meters": 3970,
+    "latitude": 46.577595,
+    "longitude": 8.005171,
+    "name": "Eiger",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

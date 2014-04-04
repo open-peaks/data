@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.685,
+      40.5983
+    ]
+  },
+  "properties": {
+    "feet": 10320,
+    "meters": 3146,
+    "latitude": 40.5983,
+    "longitude": -111.685,
+    "name": "Sundial Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

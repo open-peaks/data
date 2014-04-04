@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.779549,
+      47.507809
+    ]
+  },
+  "properties": {
+    "feet": 3491,
+    "meters": 1064,
+    "latitude": 47.507809,
+    "longitude": 9.779549,
+    "name": "Pfänder",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.979616,
+      44.151697
+    ]
+  },
+  "properties": {
+    "feet": 4580,
+    "meters": 1396,
+    "latitude": 44.151697,
+    "longitude": -73.979616,
+    "name": "Wright Peak",
+    "regions": [
+      "Appalachian Mountains",
+      "Northern Appalachian Ridges"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 584,
+    "meters": 178,
+    "name": "Himmelbjerget",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Denmark"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

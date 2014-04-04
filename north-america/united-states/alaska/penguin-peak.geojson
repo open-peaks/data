@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.376984,
+      60.965443
+    ]
+  },
+  "properties": {
+    "feet": 4305,
+    "meters": 1312,
+    "latitude": 60.965443,
+    "longitude": -149.376984,
+    "name": "Penguin Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

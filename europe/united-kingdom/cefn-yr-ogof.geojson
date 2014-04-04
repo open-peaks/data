@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 669,
+    "meters": 204,
+    "name": "Cefn-yr-Ogof",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.26667,
+      46.6167
+    ]
+  },
+  "properties": {
+    "feet": 6900,
+    "meters": 2103,
+    "latitude": 46.6167,
+    "longitude": 7.26667,
+    "name": "Chorblispitz",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

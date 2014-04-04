@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 21030,
+    "meters": 6410,
+    "name": "La Ramada",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

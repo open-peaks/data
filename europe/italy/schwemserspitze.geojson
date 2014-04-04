@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11348,
+    "meters": 3459,
+    "name": "Schwemserspitze",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

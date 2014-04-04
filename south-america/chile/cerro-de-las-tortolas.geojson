@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.910126,
+      -29.928755
+    ]
+  },
+  "properties": {
+    "feet": 20200,
+    "meters": 6160,
+    "latitude": -29.928755,
+    "longitude": -69.910126,
+    "name": "Cerro de las Tortolas",
+    "regions": [
+      "Andes"
+    ],
+    "countries": [
+      "Chile",
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

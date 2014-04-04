@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.869937,
+      42.817125
+    ]
+  },
+  "properties": {
+    "feet": 9449,
+    "meters": 2880,
+    "latitude": 42.817125,
+    "longitude": 0.869937,
+    "name": "Maubermé",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

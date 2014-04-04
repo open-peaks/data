@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.707222,
+      47.053889
+    ]
+  },
+  "properties": {
+    "feet": 9724,
+    "meters": 2965,
+    "latitude": 47.053889,
+    "longitude": 9.707222,
+    "name": "Schesaplana",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

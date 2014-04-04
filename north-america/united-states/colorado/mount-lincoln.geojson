@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.111,
+      39.3514
+    ]
+  },
+  "properties": {
+    "feet": 14286,
+    "meters": 4354,
+    "latitude": 39.3514,
+    "longitude": -106.111,
+    "name": "Mount Lincoln",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

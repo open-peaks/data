@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.138,
+      46.055
+    ]
+  },
+  "properties": {
+    "feet": 1896,
+    "meters": 1896,
+    "latitude": 46.055,
+    "longitude": 8.138,
+    "name": "Moncucco",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

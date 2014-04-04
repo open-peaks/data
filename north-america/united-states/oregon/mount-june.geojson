@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.724838,
+      43.792906
+    ]
+  },
+  "properties": {
+    "feet": 4616,
+    "meters": 1407,
+    "latitude": 43.792906,
+    "longitude": -122.724838,
+    "name": "Mount June",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

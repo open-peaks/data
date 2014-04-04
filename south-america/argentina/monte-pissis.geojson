@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.85,
+      -27.7833
+    ]
+  },
+  "properties": {
+    "feet": 22241,
+    "meters": 6779,
+    "latitude": -27.7833,
+    "longitude": -68.85,
+    "name": "Monte Pissis",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

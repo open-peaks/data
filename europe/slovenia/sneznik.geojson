@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4476,
+      45.5885
+    ]
+  },
+  "properties": {
+    "feet": 5892,
+    "meters": 1796,
+    "latitude": 45.5885,
+    "longitude": 14.4476,
+    "name": "Snežnik",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

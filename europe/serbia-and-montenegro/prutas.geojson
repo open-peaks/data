@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.00201,
+      43.12667
+    ]
+  },
+  "properties": {
+    "feet": 7851,
+    "meters": 2393,
+    "latitude": 43.12667,
+    "longitude": 19.00201,
+    "name": "Prutaš",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

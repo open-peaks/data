@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.5447,
+      36.6597
+    ]
+  },
+  "properties": {
+    "feet": 5729,
+    "meters": 1746,
+    "latitude": 36.6597,
+    "longitude": -81.5447,
+    "name": "Mount Rogers",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

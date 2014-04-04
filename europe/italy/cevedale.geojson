@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.620833,
+      46.448055
+    ]
+  },
+  "properties": {
+    "feet": 12365,
+    "meters": 3769,
+    "latitude": 46.448055,
+    "longitude": 10.620833,
+    "name": "Cevedale",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

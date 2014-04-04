@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 21007,
+    "meters": 6403,
+    "name": "Peak Europa",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

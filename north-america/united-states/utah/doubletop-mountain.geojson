@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.65,
+      41.95
+    ]
+  },
+  "properties": {
+    "feet": 9873,
+    "meters": 3009,
+    "latitude": 41.95,
+    "longitude": -111.65,
+    "name": "Doubletop Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

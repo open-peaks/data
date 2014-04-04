@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11542,
+    "meters": 3518,
+    "name": "Weissseespitze",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

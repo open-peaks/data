@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13064,
+    "meters": 3982,
+    "name": "Meije",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

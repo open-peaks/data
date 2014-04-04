@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.919,
+      39.8283
+    ]
+  },
+  "properties": {
+    "feet": 12101,
+    "meters": 3688,
+    "latitude": 39.8283,
+    "longitude": -113.919,
+    "name": "Ibapah",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

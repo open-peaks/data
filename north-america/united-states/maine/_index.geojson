@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.36,
+          45.42
+        ]
+      },
+      "properties": {
+        "feet": 2671,
+        "meters": 814,
+        "latitude": 45.42,
+        "longitude": -69.36,
+        "name": "Barren Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Longfellow Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1889,
+          44.3333
+        ]
+      },
+      "properties": {
+        "feet": 520,
+        "meters": 158,
+        "latitude": 44.3333,
+        "longitude": -68.1889,
+        "name": "Beehive",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.741898,
+          45.496722
+        ]
+      },
+      "properties": {
+        "feet": 3196,
+        "meters": 974,
+        "latitude": 45.496722,
+        "longitude": -69.741898,
+        "name": "Big Squaw Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Longfellow Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4058,
+          45.3769
+        ]
+      },
+      "properties": {
+        "feet": 1947,
+        "meters": 593,
+        "latitude": 45.3769,
+        "longitude": -69.4058,
+        "name": "Boarstone Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Longfellow Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2244,
+          44.3528
+        ]
+      },
+      "properties": {
+        "feet": 1533,
+        "meters": 467,
+        "latitude": 44.3528,
+        "longitude": -68.2244,
+        "name": "Cadillac Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "New England Upland"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.216257,
+          44.355892
+        ]
+      },
+      "properties": {
+        "feet": 1265,
+        "meters": 386,
+        "latitude": 44.355892,
+        "longitude": -68.216257,
+        "name": "Dorr Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "New England Upland"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9167,
+          45.9
+        ]
+      },
+      "properties": {
+        "feet": 5268,
+        "meters": 1606,
+        "latitude": 45.9,
+        "longitude": -68.9167,
+        "name": "Mount Katahdin",
+        "regions": [
+          "Appalachian Mountains",
+          "Longfellow Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3592,
+          45.1291
+        ]
+      },
+      "properties": {
+        "feet": 1463,
+        "meters": 446,
+        "latitude": 45.1291,
+        "longitude": -68.3592,
+        "name": "Passadumkeag Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Northern Appalachian Ridges"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States",
+          "Saint Kitts and Nevis"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.95,
+          45.9
+        ]
+      },
+      "properties": {
+        "feet": 3736,
+        "meters": 1139,
+        "latitude": 45.9,
+        "longitude": -68.95,
+        "name": "The Owl",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.23,
+          45.55
+        ]
+      },
+      "properties": {
+        "feet": 3644,
+        "meters": 1111,
+        "latitude": 45.55,
+        "longitude": -69.23,
+        "name": "White Cap Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Longfellow Mountains"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

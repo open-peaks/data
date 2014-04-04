@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.23,
+      45.55
+    ]
+  },
+  "properties": {
+    "feet": 3644,
+    "meters": 1111,
+    "latitude": 45.55,
+    "longitude": -69.23,
+    "name": "White Cap Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Longfellow Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

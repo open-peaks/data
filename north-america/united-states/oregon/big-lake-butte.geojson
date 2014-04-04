@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.890092,
+      44.364913
+    ]
+  },
+  "properties": {
+    "feet": 5197,
+    "meters": 1584,
+    "latitude": 44.364913,
+    "longitude": -121.890092,
+    "name": "Big Lake Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

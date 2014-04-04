@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.644698,
+      35.1667
+    ]
+  },
+  "properties": {
+    "feet": 2753,
+    "meters": 839,
+    "latitude": 35.1667,
+    "longitude": -93.644698,
+    "name": "Mount Magazine",
+    "regions": [
+      "North American Plains",
+      "Ozark Highlands"
+    ],
+    "states": [
+      "Arkansas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

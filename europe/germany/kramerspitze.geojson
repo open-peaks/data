@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6512,
+    "meters": 1985,
+    "name": "Kramerspitze",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

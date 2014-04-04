@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.05,
+      46.8
+    ]
+  },
+  "properties": {
+    "feet": 11384,
+    "meters": 3470,
+    "latitude": 46.8,
+    "longitude": 11.05,
+    "name": "Hinterer Seelenkogel",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

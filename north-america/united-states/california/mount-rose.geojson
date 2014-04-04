@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 10776,
+    "meters": 3285,
+    "name": "Mount Rose",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

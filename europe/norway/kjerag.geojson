@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.601067,
+      59.015819
+    ]
+  },
+  "properties": {
+    "feet": 3609,
+    "meters": 1100,
+    "latitude": 59.015819,
+    "longitude": 6.601067,
+    "name": "Kjerag",
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.32,
+      37.9669
+    ]
+  },
+  "properties": {
+    "feet": 12590,
+    "meters": 3837,
+    "latitude": 37.9669,
+    "longitude": -119.32,
+    "name": "Mount Conness",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

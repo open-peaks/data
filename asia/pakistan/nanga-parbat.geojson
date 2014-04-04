@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.591804,
+      35.248668
+    ]
+  },
+  "properties": {
+    "feet": 26658,
+    "meters": 8125,
+    "latitude": 35.248668,
+    "longitude": 74.591804,
+    "name": "Nanga Parbat",
+    "regions": [
+      "Himalaya ",
+      "Punjab Himalaya"
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.173,
+      44.3822
+    ]
+  },
+  "properties": {
+    "feet": 13166,
+    "meters": 4013,
+    "latitude": 44.3822,
+    "longitude": -107.173,
+    "name": "Cloud Peak",
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

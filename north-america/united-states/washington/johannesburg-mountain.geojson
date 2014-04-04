@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.092057,
+      48.464847
+    ]
+  },
+  "properties": {
+    "feet": 8200,
+    "meters": 2499,
+    "latitude": 48.464847,
+    "longitude": -121.092057,
+    "name": "Johannesburg Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

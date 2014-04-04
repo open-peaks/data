@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.746835,
+          52.007287
+        ]
+      },
+      "properties": {
+        "feet": 3314,
+        "meters": 1010,
+        "latitude": 52.007287,
+        "longitude": -9.746835,
+        "name": "Beenkeragh",
+        "countries": [
+          "Ireland",
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.75,
+          52.0
+        ]
+      },
+      "properties": {
+        "feet": 3414,
+        "meters": 1040,
+        "latitude": 52.0,
+        "longitude": -9.75,
+        "name": "Carrantuohill",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Ireland "
+        ],
+        "countries": [
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.724311,
+          51.99166
+        ]
+      },
+      "properties": {
+        "feet": 3602,
+        "meters": 1098,
+        "latitude": 51.99166,
+        "longitude": -9.724311,
+        "name": "Corraun Tuathal",
+        "countries": [
+          "Ireland",
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.711914,
+          53.761702
+        ]
+      },
+      "properties": {
+        "feet": 2493,
+        "meters": 760,
+        "latitude": 53.761702,
+        "longitude": -9.711914,
+        "name": "Croagh Patrick",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Ireland "
+        ],
+        "countries": [
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.112668,
+          55.033889
+        ]
+      },
+      "properties": {
+        "feet": 751,
+        "meters": 229,
+        "latitude": 55.033889,
+        "longitude": -8.112668,
+        "name": "Mount Errigal",
+        "countries": [
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.830913,
+          53.637375
+        ]
+      },
+      "properties": {
+        "feet": 814,
+        "meters": 248,
+        "latitude": 53.637375,
+        "longitude": -9.830913,
+        "name": "Mweelrea",
+        "countries": [
+          "Ireland"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

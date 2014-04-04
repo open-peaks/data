@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 9888,
+    "meters": 2995,
+    "name": "Pico da Neblina",
+    "regions": [
+      "Guiana Highlands",
+      "Southern Guiana Highlands"
+    ],
+    "countries": [
+      "Brazil",
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

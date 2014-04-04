@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.126057,
+      48.907834
+    ]
+  },
+  "properties": {
+    "feet": 7489,
+    "meters": 2283,
+    "latitude": 48.907834,
+    "longitude": -120.126057,
+    "name": "Cal Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

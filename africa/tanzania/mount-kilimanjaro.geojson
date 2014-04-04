@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.35,
+      -3.06667
+    ]
+  },
+  "properties": {
+    "feet": 19340,
+    "meters": 5895,
+    "latitude": -3.06667,
+    "longitude": 37.35,
+    "name": "Mount Kilimanjaro",
+    "regions": [
+      "East Africa Mountains",
+      "Northeast Tanzania"
+    ],
+    "countries": [
+      "Tanzania"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

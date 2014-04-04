@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.083,
+      48.8436
+    ]
+  },
+  "properties": {
+    "feet": 7556,
+    "meters": 2303,
+    "latitude": 48.8436,
+    "longitude": -120.083,
+    "name": "Kay Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

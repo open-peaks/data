@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.56972,
+      31.5111
+    ]
+  },
+  "properties": {
+    "feet": 13346,
+    "meters": 4068,
+    "latitude": 31.5111,
+    "longitude": -5.56972,
+    "name": "m'goun",
+    "regions": [
+      "Atlas Mountains",
+      "High Atlas"
+    ],
+    "countries": [
+      "Morocco",
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

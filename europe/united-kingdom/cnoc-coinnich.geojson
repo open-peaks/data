@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 2497,
+    "meters": 761,
+    "name": "Cnoc Coinnich",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

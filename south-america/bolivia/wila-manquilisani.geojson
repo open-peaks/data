@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.079058,
+      -16.312366
+    ]
+  },
+  "properties": {
+    "feet": 17467,
+    "meters": 5324,
+    "latitude": -16.312366,
+    "longitude": -68.079058,
+    "name": "Wila Manquilisani",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

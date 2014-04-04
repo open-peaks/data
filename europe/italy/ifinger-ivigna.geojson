@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.255492,
+      46.693253
+    ]
+  },
+  "properties": {
+    "feet": 8468,
+    "meters": 2581,
+    "latitude": 46.693253,
+    "longitude": 11.255492,
+    "name": "Ifinger (Ivigna)",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

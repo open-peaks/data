@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6627,
+    "meters": 2020,
+    "name": "Gorsedd Y Cwmwl",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

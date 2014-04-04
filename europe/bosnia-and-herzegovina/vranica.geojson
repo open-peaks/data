@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.716389,
+      43.956667
+    ]
+  },
+  "properties": {
+    "feet": 6923,
+    "meters": 2110,
+    "latitude": 43.956667,
+    "longitude": 17.716389,
+    "name": "Vranica",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

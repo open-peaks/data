@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.993,
+      38.7914
+    ]
+  },
+  "properties": {
+    "feet": 12367,
+    "meters": 3770,
+    "latitude": 38.7914,
+    "longitude": -104.993,
+    "name": "Almagre Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

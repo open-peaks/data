@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.141,
+      -0.481
+    ]
+  },
+  "properties": {
+    "feet": 18,
+    "meters": 5,
+    "latitude": -0.481,
+    "longitude": -78.141,
+    "name": "Antisana",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

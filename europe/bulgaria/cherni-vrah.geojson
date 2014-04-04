@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.05,
+      42.1
+    ]
+  },
+  "properties": {
+    "feet": 7513,
+    "meters": 2290,
+    "latitude": 42.1,
+    "longitude": 23.05,
+    "name": "Cherni Vrah",
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

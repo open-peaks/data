@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 10292,
+    "meters": 3137,
+    "name": "Rocky Mouth Canyon Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

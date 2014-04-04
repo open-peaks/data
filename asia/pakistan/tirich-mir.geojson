@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.8333,
+      36.25
+    ]
+  },
+  "properties": {
+    "feet": 25282,
+    "meters": 7706,
+    "latitude": 36.25,
+    "longitude": 71.8333,
+    "name": "Tirich Mir",
+    "regions": [
+      "Central Asia Ranges",
+      "Hindu Kush "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

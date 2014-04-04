@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.260636,
+      47.521664
+    ]
+  },
+  "properties": {
+    "feet": 5944,
+    "meters": 1812,
+    "latitude": 47.521664,
+    "longitude": -123.260636,
+    "name": "Mount Ellinor",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

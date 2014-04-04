@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.72,
+      40.5939
+    ]
+  },
+  "properties": {
+    "feet": 11330,
+    "meters": 3453,
+    "latitude": 40.5939,
+    "longitude": -111.72,
+    "name": "Twin Peaks",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

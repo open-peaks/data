@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.9871,
+      39.076
+    ]
+  },
+  "properties": {
+    "feet": 14019,
+    "meters": 4273,
+    "latitude": 39.076,
+    "longitude": -106.9871,
+    "name": "North Maroon Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

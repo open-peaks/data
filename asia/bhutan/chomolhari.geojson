@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.2667,
+      27.8333
+    ]
+  },
+  "properties": {
+    "feet": 23997,
+    "meters": 7314,
+    "latitude": 27.8333,
+    "longitude": 89.2667,
+    "name": "Chomolhari",
+    "regions": [
+      "Himalaya ",
+      "Bhutan Himalaya"
+    ],
+    "countries": [
+      "Bhutan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

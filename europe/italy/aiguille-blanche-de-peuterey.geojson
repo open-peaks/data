@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13491,
+    "meters": 4112,
+    "name": "Aiguille Blanche De Peuterey",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.3,
+      45.15
+    ]
+  },
+  "properties": {
+    "feet": 9595,
+    "meters": 2925,
+    "latitude": 45.15,
+    "longitude": -117.3,
+    "name": "Eagle Cap",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

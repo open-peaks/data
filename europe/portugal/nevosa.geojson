@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.039932,
+      41.829282
+    ]
+  },
+  "properties": {
+    "feet": 5033,
+    "meters": 1534,
+    "latitude": 41.829282,
+    "longitude": -8.039932,
+    "name": "Nevosa",
+    "regions": [
+      "Iberian Peninsula",
+      "Portugal-Galicia"
+    ],
+    "countries": [
+      "Portugal",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

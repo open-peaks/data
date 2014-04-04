@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.546331,
+      -17.557191
+    ]
+  },
+  "properties": {
+    "feet": 4501,
+    "meters": 1372,
+    "latitude": -17.557191,
+    "longitude": 145.546331,
+    "name": "Millaa Millaa Mountain",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

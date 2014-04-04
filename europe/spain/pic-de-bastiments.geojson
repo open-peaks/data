@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.190399,
+      42.416867
+    ]
+  },
+  "properties": {
+    "feet": 9468,
+    "meters": 2886,
+    "latitude": 42.416867,
+    "longitude": 2.190399,
+    "name": "Pic de Bastiments",
+    "regions": [
+      "Iberian Peninsula"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

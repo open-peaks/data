@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4933,
+          35.5417
+        ]
+      },
+      "properties": {
+        "feet": 5860,
+        "meters": 1786,
+        "latitude": 35.5417,
+        "longitude": -83.4933,
+        "name": "Andrews Bald",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8817,
+          36.1844
+        ]
+      },
+      "properties": {
+        "feet": 5505,
+        "meters": 1678,
+        "latitude": 36.1844,
+        "longitude": -81.8817,
+        "name": "Beech Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3781,
+          35.7033
+        ]
+      },
+      "properties": {
+        "feet": 5892,
+        "meters": 1796,
+        "latitude": 35.7033,
+        "longitude": -82.3781,
+        "name": "Craggy Pinnacle",
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8619,
+          36.115
+        ]
+      },
+      "properties": {
+        "feet": 5964,
+        "meters": 1818,
+        "latitude": 36.115,
+        "longitude": -81.8619,
+        "name": "Grandfather Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0117,
+          36.14
+        ]
+      },
+      "properties": {
+        "feet": 5587,
+        "meters": 1703,
+        "latitude": 36.14,
+        "longitude": -82.0117,
+        "name": "Hump Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0933,
+          36.1064
+        ]
+      },
+      "properties": {
+        "feet": 5807,
+        "meters": 1770,
+        "latitude": 36.1064,
+        "longitude": -82.0933,
+        "name": "Jane Bald",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina",
+          "Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7936,
+          35.3036
+        ]
+      },
+      "properties": {
+        "feet": 3969,
+        "meters": 1210,
+        "latitude": 35.3036,
+        "longitude": -82.7936,
+        "name": "Looking Glass Rock",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9569,
+          35.7969
+        ]
+      },
+      "properties": {
+        "feet": 4629,
+        "meters": 1411,
+        "latitude": 35.7969,
+        "longitude": -82.9569,
+        "name": "Max Patch",
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2619,
+          35.7775
+        ]
+      },
+      "properties": {
+        "feet": 6645,
+        "meters": 2025,
+        "latitude": 35.7775,
+        "longitude": -82.2619,
+        "name": "Mount Craig",
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4633,
+          36.4031
+        ]
+      },
+      "properties": {
+        "feet": 4683,
+        "meters": 1427,
+        "latitude": 36.4031,
+        "longitude": -81.4633,
+        "name": "Mount Jefferson",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2653,
+          35.7647
+        ]
+      },
+      "properties": {
+        "feet": 6684,
+        "meters": 2037,
+        "latitude": 35.7647,
+        "longitude": -82.2653,
+        "name": "Mount Mitchell",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7569,
+          35.4258
+        ]
+      },
+      "properties": {
+        "feet": 5721,
+        "meters": 1744,
+        "latitude": 35.4258,
+        "longitude": -82.7569,
+        "name": "Mount Pisgah",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3464,
+          35.3689
+        ]
+      },
+      "properties": {
+        "feet": 2490,
+        "meters": 759,
+        "latitude": 35.3689,
+        "longitude": -82.3464,
+        "name": "Pilot Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1225,
+          36.1044
+        ]
+      },
+      "properties": {
+        "feet": 6285,
+        "meters": 1916,
+        "latitude": 36.1044,
+        "longitude": -82.1225,
+        "name": "Roan High Knob",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina",
+          "Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.862,
+          35.368
+        ]
+      },
+      "properties": {
+        "feet": 5940,
+        "meters": 1811,
+        "latitude": 35.368,
+        "longitude": -82.862,
+        "name": "Shining Rock",
+        "regions": [
+          "Appalachian Mountains",
+          "Southern Appalachian Ridges"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8944,
+          35.8383
+        ]
+      },
+      "properties": {
+        "feet": 2920,
+        "meters": 890,
+        "latitude": 35.8383,
+        "longitude": -81.8944,
+        "name": "Shortoff Mountain",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8831,
+          35.8908
+        ]
+      },
+      "properties": {
+        "feet": 3890,
+        "meters": 1186,
+        "latitude": 35.8908,
+        "longitude": -81.8831,
+        "name": "Table Rock",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8886,
+          35.8772
+        ]
+      },
+      "properties": {
+        "feet": 3557,
+        "meters": 1084,
+        "latitude": 35.8772,
+        "longitude": -81.8886,
+        "name": "The Chimneys",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1382,
+          35.0809
+        ]
+      },
+      "properties": {
+        "feet": 4930,
+        "meters": 1503,
+        "latitude": 35.0809,
+        "longitude": -83.1382,
+        "name": "Whiteside Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

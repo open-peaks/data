@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.975,
+      44.1011
+    ]
+  },
+  "properties": {
+    "feet": 10229,
+    "meters": 3118,
+    "latitude": 44.1011,
+    "longitude": -114.975,
+    "name": "Mount Heyburn",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

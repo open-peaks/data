@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.35,
+      67.1
+    ]
+  },
+  "properties": {
+    "feet": 6250,
+    "meters": 1905,
+    "latitude": 67.1,
+    "longitude": 17.35,
+    "name": "Saitaris",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

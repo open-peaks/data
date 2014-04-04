@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0333,
+      50.75
+    ]
+  },
+  "properties": {
+    "feet": 3320,
+    "meters": 1012,
+    "latitude": 50.75,
+    "longitude": 15.0333,
+    "name": "Jested",
+    "countries": [
+      "Czech Republic"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

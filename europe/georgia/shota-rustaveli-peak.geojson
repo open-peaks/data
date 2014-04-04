@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 16273,
+    "meters": 4960,
+    "name": "Shota Rustaveli Peak",
+    "regions": [
+      "Caucasus Mountains"
+    ],
+    "countries": [
+      "Georgia",
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

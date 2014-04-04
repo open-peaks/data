@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.75,
+      31.3333
+    ]
+  },
+  "properties": {
+    "feet": 7221,
+    "meters": 2201,
+    "latitude": 31.3333,
+    "longitude": -110.75,
+    "name": "Mount Washington",
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

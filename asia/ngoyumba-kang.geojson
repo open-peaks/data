@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.684103,
+      28.105903
+    ]
+  },
+  "properties": {
+    "feet": 25971,
+    "meters": 7916,
+    "latitude": 28.105903,
+    "longitude": 86.684103,
+    "name": "Ngoyumba Kang",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

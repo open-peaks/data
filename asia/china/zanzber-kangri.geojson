@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.3667,
+      85.7667
+    ]
+  },
+  "properties": {
+    "feet": 22874,
+    "meters": 6972,
+    "latitude": 85.7667,
+    "longitude": 34.3667,
+    "name": "Zanzber Kangri",
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.121799,
+      28.534766
+    ]
+  },
+  "properties": {
+    "feet": 26040,
+    "meters": 7937,
+    "latitude": 28.534766,
+    "longitude": 84.121799,
+    "name": "Annapurna 2",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

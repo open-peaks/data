@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.239,
+      35.6734
+    ]
+  },
+  "properties": {
+    "feet": 10474,
+    "meters": 3192,
+    "latitude": 35.6734,
+    "longitude": 138.239,
+    "name": "Kita Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

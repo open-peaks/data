@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1850,
+    "meters": 564,
+    "name": "Government Peak",
+    "regions": [
+      "Central American Ranges"
+    ],
+    "states": [
+      "Michigan"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.853146,
+      47.516853
+    ]
+  },
+  "properties": {
+    "feet": 7616,
+    "meters": 2321,
+    "latitude": 47.516853,
+    "longitude": 12.853146,
+    "name": "Seehorn",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

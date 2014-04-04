@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.24272,
+      57.2222
+    ]
+  },
+  "properties": {
+    "feet": 3166,
+    "meters": 965,
+    "latitude": 57.2222,
+    "longitude": -6.24272,
+    "name": "Sgurr Na Banachdich",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

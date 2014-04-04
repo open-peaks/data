@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.604,
+      40.2486
+    ]
+  },
+  "properties": {
+    "feet": 13911,
+    "meters": 4240,
+    "latitude": 40.2486,
+    "longitude": -105.604,
+    "name": "Mount Meeker",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

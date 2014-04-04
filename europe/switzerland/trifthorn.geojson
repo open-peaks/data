@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 12231,
+    "meters": 3728,
+    "name": "Trifthorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

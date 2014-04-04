@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.003411,
+      47.874648
+    ]
+  },
+  "properties": {
+    "feet": 4898,
+    "meters": 1493,
+    "latitude": 47.874648,
+    "longitude": 8.003411,
+    "name": "Feldberg",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

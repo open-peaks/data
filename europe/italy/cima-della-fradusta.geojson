@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.8734,
+      46.2511
+    ]
+  },
+  "properties": {
+    "feet": 9642,
+    "meters": 2939,
+    "latitude": 46.2511,
+    "longitude": 11.8734,
+    "name": "Cima della Fradusta",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

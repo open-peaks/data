@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.756,
+      51.879
+    ]
+  },
+  "properties": {
+    "feet": 10200,
+    "meters": 3109,
+    "latitude": 51.879,
+    "longitude": -116.756,
+    "name": "Kaufmann Peaks",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

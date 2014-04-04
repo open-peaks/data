@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.846,
+      37.8964
+    ]
+  },
+  "properties": {
+    "feet": 11880,
+    "meters": 3621,
+    "latitude": 37.8964,
+    "longitude": -107.846,
+    "name": "Bald Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

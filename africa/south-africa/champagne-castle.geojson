@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11811,
+    "meters": 3600,
+    "name": "Champagne Castle",
+    "regions": [
+      "Southern Africa",
+      "Drakensberg"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

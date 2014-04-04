@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.788369,
+      48.504493
+    ]
+  },
+  "properties": {
+    "feet": 8080,
+    "meters": 2463,
+    "latitude": 48.504493,
+    "longitude": -120.788369,
+    "name": "Corteo Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1667,
+      47.05
+    ]
+  },
+  "properties": {
+    "feet": 10174,
+    "meters": 3101,
+    "latitude": 47.05,
+    "longitude": 11.1667,
+    "name": "Oestliche Knotenspitze",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

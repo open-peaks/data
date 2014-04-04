@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.25,
+      47.0833
+    ]
+  },
+  "properties": {
+    "feet": 10866,
+    "meters": 3312,
+    "latitude": 47.0833,
+    "longitude": 9.25,
+    "name": "Piz Buin",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

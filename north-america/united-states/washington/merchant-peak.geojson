@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.4318,
+      47.8013
+    ]
+  },
+  "properties": {
+    "feet": 6113,
+    "meters": 1863,
+    "latitude": 47.8013,
+    "longitude": -121.4318,
+    "name": "Merchant Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

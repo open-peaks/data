@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.25,
+      47.25
+    ]
+  },
+  "properties": {
+    "feet": 10170,
+    "meters": 3100,
+    "latitude": 47.25,
+    "longitude": 11.25,
+    "name": "Kreusspitze",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

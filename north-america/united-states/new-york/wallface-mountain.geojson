@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.0369,
+      44.1378
+    ]
+  },
+  "properties": {
+    "feet": 3727,
+    "meters": 1136,
+    "latitude": 44.1378,
+    "longitude": -74.0369,
+    "name": "Wallface Mountain",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

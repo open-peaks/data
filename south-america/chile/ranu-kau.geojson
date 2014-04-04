@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.435539,
+      -27.186257
+    ]
+  },
+  "properties": {
+    "feet": 1063,
+    "meters": 324,
+    "latitude": -27.186257,
+    "longitude": -109.435539,
+    "name": "Ranu Kau",
+    "regions": [
+      "Coastal South America",
+      "Chilean Coastal Islands"
+    ],
+    "countries": [
+      "Chile",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

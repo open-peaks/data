@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.971389,
+      50.441944
+    ]
+  },
+  "properties": {
+    "feet": 3373,
+    "meters": 1028,
+    "latitude": 50.441944,
+    "longitude": 12.971389,
+    "name": "Eisenberg",
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

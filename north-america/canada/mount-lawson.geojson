@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.19,
+      50.7667
+    ]
+  },
+  "properties": {
+    "feet": 9170,
+    "meters": 2795,
+    "latitude": 50.7667,
+    "longitude": -115.19,
+    "name": "Mount Lawson",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

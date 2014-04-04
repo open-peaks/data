@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 7382,
+    "meters": 2250,
+    "name": "Matroosberg",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

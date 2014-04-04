@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8182,
+    "meters": 2494,
+    "name": "Krivan",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

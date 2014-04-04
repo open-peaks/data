@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.016739,
+      47.657872
+    ]
+  },
+  "properties": {
+    "feet": 4000,
+    "meters": 1189,
+    "latitude": 47.657872,
+    "longitude": 13.016739,
+    "name": "Kneifelspitze",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.592539,
+      42.185094
+    ]
+  },
+  "properties": {
+    "feet": 9354,
+    "meters": 2851,
+    "latitude": 42.185094,
+    "longitude": 23.592539,
+    "name": "Irechek",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

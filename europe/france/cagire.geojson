@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7661,
+      42.9464
+    ]
+  },
+  "properties": {
+    "feet": 6273,
+    "meters": 1912,
+    "latitude": 42.9464,
+    "longitude": 0.7661,
+    "name": "Cagire",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

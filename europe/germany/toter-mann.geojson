@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.923098,
+      47.630867
+    ]
+  },
+  "properties": {
+    "feet": 4566,
+    "meters": 1392,
+    "latitude": 47.630867,
+    "longitude": 12.923098,
+    "name": "Toter Mann",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

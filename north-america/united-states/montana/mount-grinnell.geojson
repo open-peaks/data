@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.726111,
+      48.776944
+    ]
+  },
+  "properties": {
+    "feet": 8851,
+    "meters": 2698,
+    "latitude": 48.776944,
+    "longitude": -113.726111,
+    "name": "Mount Grinnell",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

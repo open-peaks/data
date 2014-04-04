@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.18,
+      32.9244
+    ]
+  },
+  "properties": {
+    "feet": 9001,
+    "meters": 2744,
+    "latitude": 32.9244,
+    "longitude": -108.18,
+    "name": "Signal Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

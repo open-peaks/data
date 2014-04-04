@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.551833,
+      47.521403
+    ]
+  },
+  "properties": {
+    "feet": 4523,
+    "meters": 1379,
+    "latitude": 47.521403,
+    "longitude": -121.551833,
+    "name": "The Pulpit",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

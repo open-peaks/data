@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.95,
+      23.4667
+    ]
+  },
+  "properties": {
+    "feet": 13113,
+    "meters": 3997,
+    "latitude": 23.4667,
+    "longitude": 120.95,
+    "name": "Yushan",
+    "regions": [
+      "Taiwan"
+    ],
+    "countries": [
+      "Taiwan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

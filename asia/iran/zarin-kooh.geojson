@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.227974,
+      35.706377
+    ]
+  },
+  "properties": {
+    "feet": 12631,
+    "meters": 3850,
+    "latitude": 35.706377,
+    "longitude": 52.227974,
+    "name": "Zarin kooh",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

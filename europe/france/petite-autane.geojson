@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.24619,
+      44.640366
+    ]
+  },
+  "properties": {
+    "feet": 8264,
+    "meters": 2519,
+    "latitude": 44.640366,
+    "longitude": 6.24619,
+    "name": "Petite Autane",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

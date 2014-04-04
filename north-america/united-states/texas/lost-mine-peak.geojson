@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.25823,
+      29.275756
+    ]
+  },
+  "properties": {
+    "feet": 7535,
+    "meters": 2262,
+    "latitude": 29.275756,
+    "longitude": -103.25823,
+    "name": "Lost Mine Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.391094,
+      -21.887784
+    ]
+  },
+  "properties": {
+    "feet": 20161,
+    "meters": 6145,
+    "latitude": -21.887784,
+    "longitude": -68.391094,
+    "name": "San Pedro",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

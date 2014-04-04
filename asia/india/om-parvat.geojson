@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.034704,
+      30.198803
+    ]
+  },
+  "properties": {
+    "feet": 20312,
+    "meters": 6191,
+    "latitude": 30.198803,
+    "longitude": 81.034704,
+    "name": "Om Parvat",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

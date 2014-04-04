@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8946,
+      46.1615
+    ]
+  },
+  "properties": {
+    "feet": 9439,
+    "meters": 2877,
+    "latitude": 46.1615,
+    "longitude": 10.8946,
+    "name": "Campanile Basso",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

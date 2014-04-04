@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      113.417,
+      0.0
+    ]
+  },
+  "properties": {
+    "feet": 10033,
+    "meters": 3058,
+    "latitude": 0.0,
+    "longitude": 113.417,
+    "name": "Wutai Shan",
+    "regions": [
+      "North Central China"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

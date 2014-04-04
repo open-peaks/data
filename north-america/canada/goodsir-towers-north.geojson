@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.414394,
+      51.210432
+    ]
+  },
+  "properties": {
+    "feet": 11565,
+    "meters": 3525,
+    "latitude": 51.210432,
+    "longitude": -116.414394,
+    "name": "Goodsir Towers North",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

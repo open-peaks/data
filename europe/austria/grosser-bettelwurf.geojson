@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5167,
+      47.35
+    ]
+  },
+  "properties": {
+    "feet": 8940,
+    "meters": 2725,
+    "latitude": 47.35,
+    "longitude": 11.5167,
+    "name": "Grosser Bettelwurf",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.7,
+      40.5333
+    ]
+  },
+  "properties": {
+    "feet": 11326,
+    "meters": 3452,
+    "latitude": 40.5333,
+    "longitude": -111.7,
+    "name": "Pfeifferhorn",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

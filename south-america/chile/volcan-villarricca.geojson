@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8,
+    "meters": 2,
+    "name": "Volcan Villarricca",
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

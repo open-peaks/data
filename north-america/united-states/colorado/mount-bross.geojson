@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.107,
+      39.3353
+    ]
+  },
+  "properties": {
+    "feet": 14172,
+    "meters": 4320,
+    "latitude": 39.3353,
+    "longitude": -106.107,
+    "name": "Mount Bross",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

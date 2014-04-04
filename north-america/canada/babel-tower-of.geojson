@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.169,
+      51.325
+    ]
+  },
+  "properties": {
+    "feet": 7290,
+    "meters": 2221,
+    "latitude": 51.325,
+    "longitude": -116.169,
+    "name": "Babel, Tower of",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

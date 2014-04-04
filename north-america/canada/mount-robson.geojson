@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.15,
+      53.1167
+    ]
+  },
+  "properties": {
+    "feet": 12972,
+    "meters": 3954,
+    "latitude": 53.1167,
+    "longitude": -119.15,
+    "name": "Mount Robson",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

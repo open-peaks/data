@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.321484,
+      47.306474
+    ]
+  },
+  "properties": {
+    "feet": 7963,
+    "meters": 2427,
+    "latitude": 47.306474,
+    "longitude": 10.321484,
+    "name": "Kratzer",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

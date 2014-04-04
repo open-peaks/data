@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.175,
+      43.4802
+    ]
+  },
+  "properties": {
+    "feet": 10458,
+    "meters": 3188,
+    "latitude": 43.4802,
+    "longitude": -114.175,
+    "name": "Rock Roll Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

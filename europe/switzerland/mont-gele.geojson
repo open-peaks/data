@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.35,
+      45.9
+    ]
+  },
+  "properties": {
+    "feet": 11542,
+    "meters": 3518,
+    "latitude": 45.9,
+    "longitude": 7.35,
+    "name": "Mont Gele",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.78172,
+      56.2498
+    ]
+  },
+  "properties": {
+    "feet": 3002,
+    "meters": 915,
+    "latitude": 56.2498,
+    "longitude": -4.78172,
+    "name": "Ben Vane",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

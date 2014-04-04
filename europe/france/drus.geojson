@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.955547,
+      45.932647
+    ]
+  },
+  "properties": {
+    "feet": 12316,
+    "meters": 3754,
+    "latitude": 45.932647,
+    "longitude": 6.955547,
+    "name": "Drus",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

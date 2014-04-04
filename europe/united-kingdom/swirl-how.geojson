@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.121662,
+      54.395151
+    ]
+  },
+  "properties": {
+    "feet": 2631,
+    "meters": 802,
+    "latitude": 54.395151,
+    "longitude": -3.121662,
+    "name": "Swirl How",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

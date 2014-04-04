@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.2666,
+      66.671135
+    ]
+  },
+  "properties": {
+    "feet": 6598,
+    "meters": 2011,
+    "latitude": 66.671135,
+    "longitude": -65.2666,
+    "name": "Mount Asgard",
+    "regions": [
+      "North American Arctic Islands",
+      "Baffin Island"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

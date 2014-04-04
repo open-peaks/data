@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.591,
+      36.4116
+    ]
+  },
+  "properties": {
+    "feet": 9593,
+    "meters": 2924,
+    "latitude": 36.4116,
+    "longitude": 137.591,
+    "name": "Washiba Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

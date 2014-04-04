@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.600842,
+      48.523057
+    ]
+  },
+  "properties": {
+    "feet": 5541,
+    "meters": 1689,
+    "latitude": 48.523057,
+    "longitude": -121.600842,
+    "name": "Sauk Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

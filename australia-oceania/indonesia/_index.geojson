@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.183,
+          -4.08333
+        ]
+      },
+      "properties": {
+        "feet": 16023,
+        "meters": 4884,
+        "latitude": -4.08333,
+        "longitude": 137.183,
+        "name": "Puncak Jaya",
+        "regions": [
+          "Maoke Range"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.750501,
+          -4.247641
+        ]
+      },
+      "properties": {
+        "feet": 15518,
+        "meters": 4730,
+        "latitude": -4.247641,
+        "longitude": 138.750501,
+        "name": "Puncak Trikora",
+        "regions": [
+          "New Guinea",
+          "Maoke Range"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

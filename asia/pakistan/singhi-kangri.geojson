@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.983647,
+      35.599846
+    ]
+  },
+  "properties": {
+    "feet": 23645,
+    "meters": 7207,
+    "latitude": 35.599846,
+    "longitude": 76.983647,
+    "name": "Singhi Kangri",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan",
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.42991,
+      57.595
+    ]
+  },
+  "properties": {
+    "feet": 3313,
+    "meters": 1010,
+    "latitude": 57.595,
+    "longitude": -5.42991,
+    "name": "Beinn Eighe",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

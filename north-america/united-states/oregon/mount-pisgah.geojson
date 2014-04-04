@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.96452,
+      44.00567
+    ]
+  },
+  "properties": {
+    "feet": 1531,
+    "meters": 467,
+    "latitude": 44.00567,
+    "longitude": -122.96452,
+    "name": "Mount Pisgah",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

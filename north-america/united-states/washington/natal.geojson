@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86978,
+      48.53077
+    ]
+  },
+  "properties": {
+    "feet": 7800,
+    "meters": 2377,
+    "latitude": 48.53077,
+    "longitude": -120.86978,
+    "name": "Natal",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

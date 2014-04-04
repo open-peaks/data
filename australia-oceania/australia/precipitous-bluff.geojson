@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 3852,
+    "meters": 1174,
+    "name": "Precipitous Bluff",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

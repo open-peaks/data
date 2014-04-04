@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.643071,
+      48.956524
+    ]
+  },
+  "properties": {
+    "feet": 6521,
+    "meters": 1988,
+    "latitude": 48.956524,
+    "longitude": -121.643071,
+    "name": "Winchester Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

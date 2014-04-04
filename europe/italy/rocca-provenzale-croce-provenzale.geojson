@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.921869,
+      44.505423
+    ]
+  },
+  "properties": {
+    "feet": 7881,
+    "meters": 2402,
+    "latitude": 44.505423,
+    "longitude": 6.921869,
+    "name": "Rocca Provenzale (Croce Provenzale)",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

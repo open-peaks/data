@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.7166,
+      30.4666
+    ]
+  },
+  "properties": {
+    "feet": 20699,
+    "meters": 6309,
+    "latitude": 30.4666,
+    "longitude": 79.7166,
+    "name": "Nanda Ghunti",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

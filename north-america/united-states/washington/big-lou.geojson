@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.839782,
+      47.63535
+    ]
+  },
+  "properties": {
+    "feet": 7763,
+    "meters": 2366,
+    "latitude": 47.63535,
+    "longitude": -120.839782,
+    "name": "Big Lou",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

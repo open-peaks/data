@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.971,
+      50.7944
+    ]
+  },
+  "properties": {
+    "feet": 8818,
+    "meters": 2688,
+    "latitude": 50.7944,
+    "longitude": -114.971,
+    "name": "Mount Remus",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

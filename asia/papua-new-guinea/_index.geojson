@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333,
+          -8.5
+        ]
+      },
+      "properties": {
+        "feet": 13090,
+        "meters": 3990,
+        "latitude": -8.5,
+        "longitude": 147.333,
+        "name": "Mount Albert Edward",
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

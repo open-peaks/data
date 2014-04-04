@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.482,
+      39.1286
+    ]
+  },
+  "properties": {
+    "feet": 13940,
+    "meters": 4249,
+    "latitude": 39.1286,
+    "longitude": -106.482,
+    "name": "Mount French",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

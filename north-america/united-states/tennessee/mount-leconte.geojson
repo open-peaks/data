@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.4368,
+      35.6543
+    ]
+  },
+  "properties": {
+    "feet": 6593,
+    "meters": 2010,
+    "latitude": 35.6543,
+    "longitude": -83.4368,
+    "name": "Mount LeConte",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Tennessee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

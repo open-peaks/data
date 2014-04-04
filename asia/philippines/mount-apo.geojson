@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.276,
+      7.00833
+    ]
+  },
+  "properties": {
+    "feet": 10331,
+    "meters": 3148,
+    "latitude": 7.00833,
+    "longitude": 125.276,
+    "name": "Mount Apo",
+    "regions": [
+      "Philippines",
+      "Minidnao"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

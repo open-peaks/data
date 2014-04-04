@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 19734,
+    "meters": 6015,
+    "name": "Cima Kelo",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

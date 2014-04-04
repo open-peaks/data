@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.291069,
+      58.707971
+    ]
+  },
+  "properties": {
+    "feet": 5810,
+    "meters": 1771,
+    "latitude": 58.707971,
+    "longitude": -134.291069,
+    "name": "Taku D Peak",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

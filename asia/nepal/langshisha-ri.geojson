@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.7136,
+      28.2169
+    ]
+  },
+  "properties": {
+    "feet": 21086,
+    "meters": 6427,
+    "latitude": 28.2169,
+    "longitude": 85.7136,
+    "name": "Langshisha Ri",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

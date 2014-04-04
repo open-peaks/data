@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.031,
+          42.0035
+        ]
+      },
+      "properties": {
+        "feet": 9003,
+        "meters": 2744,
+        "latitude": 42.0035,
+        "longitude": 128.031,
+        "name": "Mount Baekdu ",
+        "regions": [
+          "Korea",
+          "Taebaek Sanmae"
+        ],
+        "countries": [
+          "Korea, North",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.603,
+      40.5853
+    ]
+  },
+  "properties": {
+    "feet": 10795,
+    "meters": 3290,
+    "latitude": 40.5853,
+    "longitude": -111.603,
+    "name": "Mount Wolverine",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

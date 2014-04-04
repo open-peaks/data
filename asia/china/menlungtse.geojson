@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.432662,
+      27.972004
+    ]
+  },
+  "properties": {
+    "feet": 23559,
+    "meters": 7181,
+    "latitude": 27.972004,
+    "longitude": 86.432662,
+    "name": "Menlungtse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

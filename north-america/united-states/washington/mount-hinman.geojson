@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.212029,
+      47.5681
+    ]
+  },
+  "properties": {
+    "feet": 7492,
+    "meters": 2284,
+    "latitude": 47.5681,
+    "longitude": -121.212029,
+    "name": "Mount Hinman",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.0386,
+      43.1925
+    ]
+  },
+  "properties": {
+    "feet": 8351,
+    "meters": 2545,
+    "latitude": 43.1925,
+    "longitude": -122.0386,
+    "name": "Howlock Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

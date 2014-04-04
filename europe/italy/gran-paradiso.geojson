@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2678,
+      45.5177
+    ]
+  },
+  "properties": {
+    "feet": 13323,
+    "meters": 4061,
+    "latitude": 45.5177,
+    "longitude": 7.2678,
+    "name": "Gran Paradiso",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

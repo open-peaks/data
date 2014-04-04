@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.295863,
+      47.303709
+    ]
+  },
+  "properties": {
+    "feet": 8514,
+    "meters": 2595,
+    "latitude": 47.303709,
+    "longitude": 10.295863,
+    "name": "Trettachspitze",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

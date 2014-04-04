@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.41783,
+      45.67548
+    ]
+  },
+  "properties": {
+    "feet": 10846,
+    "meters": 3306,
+    "latitude": 45.67548,
+    "longitude": 7.41783,
+    "name": "Punta di Leppe",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

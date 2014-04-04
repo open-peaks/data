@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.077784,
+      46.531705
+    ]
+  },
+  "properties": {
+    "feet": 13268,
+    "meters": 4044,
+    "latitude": 46.531705,
+    "longitude": 8.077784,
+    "name": "Gross-Grünhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.0,
+      0.0
+    ]
+  },
+  "properties": {
+    "feet": 17552,
+    "meters": 5350,
+    "latitude": 0.0,
+    "longitude": -70.0,
+    "name": "Cerro Alto Rio Blanco",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.783,
+      38.5167
+    ]
+  },
+  "properties": {
+    "feet": 9970,
+    "meters": 3039,
+    "latitude": 38.5167,
+    "longitude": -119.783,
+    "name": "Tryon Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

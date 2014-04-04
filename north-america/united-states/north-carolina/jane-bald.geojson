@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.0933,
+      36.1064
+    ]
+  },
+  "properties": {
+    "feet": 5807,
+    "meters": 1770,
+    "latitude": 36.1064,
+    "longitude": -82.0933,
+    "name": "Jane Bald",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina",
+      "Tennessee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

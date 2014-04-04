@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.52283,
+      38.8028
+    ]
+  },
+  "properties": {
+    "feet": 11397,
+    "meters": 3474,
+    "latitude": 38.8028,
+    "longitude": -107.52283,
+    "name": "Mount Lamborn",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

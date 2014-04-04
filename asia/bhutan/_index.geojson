@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2667,
+          27.8333
+        ]
+      },
+      "properties": {
+        "feet": 23997,
+        "meters": 7314,
+        "latitude": 27.8333,
+        "longitude": 89.2667,
+        "name": "Chomolhari",
+        "regions": [
+          "Himalaya ",
+          "Bhutan Himalaya"
+        ],
+        "countries": [
+          "Bhutan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.27,
+          28.03
+        ]
+      },
+      "properties": {
+        "feet": 24836,
+        "meters": 7570,
+        "latitude": 28.03,
+        "longitude": 90.27,
+        "name": "Gangkar Punsum",
+        "regions": [
+          "Himalaya ",
+          "Bhutan Himalaya"
+        ],
+        "countries": [
+          "Bhutan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.150278,
+          27.7025
+        ]
+      },
+      "properties": {
+        "feet": 22290,
+        "meters": 6794,
+        "latitude": 27.7025,
+        "longitude": 88.150278,
+        "name": "Jichu Drake",
+        "regions": [
+          "Himalaya ",
+          "Bhutan Himalaya"
+        ],
+        "countries": [
+          "Bhutan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6,
+          28.2333
+        ]
+      },
+      "properties": {
+        "feet": 24731,
+        "meters": 7538,
+        "latitude": 28.2333,
+        "longitude": 90.6,
+        "name": "Kula Kangri",
+        "regions": [
+          "Himalaya ",
+          "Bhutan Himalaya"
+        ],
+        "countries": [
+          "Bhutan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

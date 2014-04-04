@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 7188,
+    "meters": 2191,
+    "name": "Goliam- Perelik",
+    "regions": [
+      "Balkan Peninsula"
+    ],
+    "countries": [
+      "Bulgaria",
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

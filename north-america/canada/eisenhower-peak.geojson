@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.922413,
+      51.299711
+    ]
+  },
+  "properties": {
+    "feet": 9029,
+    "meters": 2752,
+    "latitude": 51.299711,
+    "longitude": -115.922413,
+    "name": "Eisenhower Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

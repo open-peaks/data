@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.1167,
+      42.95
+    ]
+  },
+  "properties": {
+    "feet": 15945,
+    "meters": 4860,
+    "latitude": 42.95,
+    "longitude": 43.1167,
+    "name": "Gistola",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

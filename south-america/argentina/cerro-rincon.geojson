@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.430106,
+      -32.968581
+    ]
+  },
+  "properties": {
+    "feet": 17598,
+    "meters": 5364,
+    "latitude": -32.968581,
+    "longitude": -69.430106,
+    "name": "Cerro Rincón",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

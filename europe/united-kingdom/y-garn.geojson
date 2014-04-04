@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0464,
+      53.1152
+    ]
+  },
+  "properties": {
+    "feet": 3107,
+    "meters": 947,
+    "latitude": 53.1152,
+    "longitude": -4.0464,
+    "name": "Y Garn",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

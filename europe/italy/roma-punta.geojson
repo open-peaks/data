@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.074962,
+      44.688259
+    ]
+  },
+  "properties": {
+    "feet": 10072,
+    "meters": 3070,
+    "latitude": 44.688259,
+    "longitude": 7.074962,
+    "name": "Roma (Punta)",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

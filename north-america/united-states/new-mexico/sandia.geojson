@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.456,
+      35.235
+    ]
+  },
+  "properties": {
+    "feet": 10678,
+    "meters": 3255,
+    "latitude": 35.235,
+    "longitude": -106.456,
+    "name": "Sandia",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

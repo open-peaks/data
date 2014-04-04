@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.637,
+      37.7342
+    ]
+  },
+  "properties": {
+    "feet": 7569,
+    "meters": 2307,
+    "latitude": 37.7342,
+    "longitude": -119.637,
+    "name": "El Capitan",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

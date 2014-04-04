@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.3917,
+      51.0533
+    ]
+  },
+  "properties": {
+    "feet": 8799,
+    "meters": 2682,
+    "latitude": 51.0533,
+    "longitude": -115.3917,
+    "name": "Mount Lawrence Grassi",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada",
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.271,
+      37.7394
+    ]
+  },
+  "properties": {
+    "feet": 13114,
+    "meters": 3998,
+    "latitude": 37.7394,
+    "longitude": -119.271,
+    "name": "Mount Lyell",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

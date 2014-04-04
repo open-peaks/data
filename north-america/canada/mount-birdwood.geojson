@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.36778,
+      50.78472
+    ]
+  },
+  "properties": {
+    "feet": 10161,
+    "meters": 3097,
+    "latitude": 50.78472,
+    "longitude": -115.36778,
+    "name": "Mount Birdwood",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

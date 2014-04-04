@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.060195,
+      48.45414
+    ]
+  },
+  "properties": {
+    "feet": 7231,
+    "meters": 2204,
+    "latitude": 48.45414,
+    "longitude": -121.060195,
+    "name": "Mix-up Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

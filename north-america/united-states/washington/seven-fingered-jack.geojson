@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.814419,
+      48.150426
+    ]
+  },
+  "properties": {
+    "feet": 9077,
+    "meters": 2767,
+    "latitude": 48.150426,
+    "longitude": -120.814419,
+    "name": "Seven Fingered Jack",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

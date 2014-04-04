@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.476774,
+      47.98366
+    ]
+  },
+  "properties": {
+    "feet": 6213,
+    "meters": 1894,
+    "latitude": 47.98366,
+    "longitude": -121.476774,
+    "name": "Gothic Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

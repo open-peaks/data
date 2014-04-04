@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2783,
+      44.3283
+    ]
+  },
+  "properties": {
+    "feet": 5367,
+    "meters": 1636,
+    "latitude": 44.3283,
+    "longitude": -71.2783,
+    "name": "Mount Madison",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

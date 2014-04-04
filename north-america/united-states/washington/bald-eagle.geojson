@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.271682,
+      47.616926
+    ]
+  },
+  "properties": {
+    "feet": 6241,
+    "meters": 1902,
+    "latitude": 47.616926,
+    "longitude": -121.271682,
+    "name": "Bald Eagle",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

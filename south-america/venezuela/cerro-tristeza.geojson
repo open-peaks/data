@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.958411,
+      10.08384
+    ]
+  },
+  "properties": {
+    "feet": 8514,
+    "meters": 2595,
+    "latitude": 10.08384,
+    "longitude": -63.958411,
+    "name": "Cerro Tristeza",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

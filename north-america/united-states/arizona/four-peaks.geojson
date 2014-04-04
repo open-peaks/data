@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.083,
+      34.1167
+    ]
+  },
+  "properties": {
+    "feet": 7657,
+    "meters": 2334,
+    "latitude": 34.1167,
+    "longitude": -111.083,
+    "name": "Four Peaks",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

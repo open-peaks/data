@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.88333,
+      45.9167
+    ]
+  },
+  "properties": {
+    "feet": 15203,
+    "meters": 4633,
+    "latitude": 45.9167,
+    "longitude": 7.88333,
+    "name": "Monte Rosa",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

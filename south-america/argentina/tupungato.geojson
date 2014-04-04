@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.7833,
+      -33.3667
+    ]
+  },
+  "properties": {
+    "feet": 21489,
+    "meters": 6550,
+    "latitude": -33.3667,
+    "longitude": -69.7833,
+    "name": "Tupungato",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,2522 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.335587,
+          47.55753
+        ]
+      },
+      "properties": {
+        "feet": 7641,
+        "meters": 2329,
+        "latitude": 47.55753,
+        "longitude": 12.335587,
+        "name": "Ackerlspitze",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5167,
+          47.5333
+        ]
+      },
+      "properties": {
+        "feet": 7205,
+        "meters": 2196,
+        "latitude": 47.5333,
+        "longitude": 14.5167,
+        "name": "Admonter Kalbling",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2,
+          46.8667
+        ]
+      },
+      "properties": {
+        "feet": 10590,
+        "meters": 3228,
+        "latitude": 46.8667,
+        "longitude": 10.2,
+        "name": "Augstenberg",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.81667,
+          47.0167
+        ]
+      },
+      "properties": {
+        "feet": 9285,
+        "meters": 2830,
+        "latitude": 47.0167,
+        "longitude": 9.81667,
+        "name": "Drei Türme",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82937,
+          47.118154
+        ]
+      },
+      "properties": {
+        "feet": 8453,
+        "meters": 2576,
+        "latitude": 47.118154,
+        "longitude": 12.82937,
+        "name": "Edelweißspitze",
+        "regions": [
+          "Central Europe Ranges"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361263,
+          47.617851
+        ]
+      },
+      "properties": {
+        "feet": 5537,
+        "meters": 1688,
+        "latitude": 47.617851,
+        "longitude": 13.361263,
+        "name": "Einberg",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30513,
+          47.748904
+        ]
+      },
+      "properties": {
+        "feet": 5114,
+        "meters": 1559,
+        "latitude": 47.748904,
+        "longitude": 13.30513,
+        "name": "Faisten Schafberg",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7,
+          47.0667
+        ]
+      },
+      "properties": {
+        "feet": 9531,
+        "meters": 2905,
+        "latitude": 47.0667,
+        "longitude": 12.7,
+        "name": "Fanatkogl",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276634,
+          47.790209
+        ]
+      },
+      "properties": {
+        "feet": 4284,
+        "meters": 1306,
+        "latitude": 47.790209,
+        "longitude": 13.276634,
+        "name": "Filbling",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.317,
+          47.5688
+        ]
+      },
+      "properties": {
+        "feet": 7175,
+        "meters": 2187,
+        "latitude": 47.5688,
+        "longitude": 12.317,
+        "name": "Fleischbank",
+        "regions": [
+          "Eastern Alps",
+          "Tirol Alpen"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.675179,
+          47.110911
+        ]
+      },
+      "properties": {
+        "feet": 7877,
+        "meters": 2401,
+        "latitude": 47.110911,
+        "longitude": 9.675179,
+        "name": "Fundelkopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.478165,
+          47.623289
+        ]
+      },
+      "properties": {
+        "feet": 6649,
+        "meters": 2027,
+        "latitude": 47.623289,
+        "longitude": 13.478165,
+        "name": "Gamsfeld",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30925,
+          47.674866
+        ]
+      },
+      "properties": {
+        "feet": 5691,
+        "meters": 1735,
+        "latitude": 47.674866,
+        "longitude": 13.30925,
+        "name": "Gennerhorn",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6124,
+          47.5007
+        ]
+      },
+      "properties": {
+        "feet": 6916,
+        "meters": 2108,
+        "latitude": 47.5007,
+        "longitude": 10.6124,
+        "name": "Gimpel",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.066864,
+          47.594183
+        ]
+      },
+      "properties": {
+        "feet": 8277,
+        "meters": 2523,
+        "latitude": 47.594183,
+        "longitude": 13.066864,
+        "name": "Göll",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          46.6667
+        ]
+      },
+      "properties": {
+        "feet": 6575,
+        "meters": 2004,
+        "latitude": 46.6667,
+        "longitude": 13.35,
+        "name": "Golz",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88559,
+          47.512563
+        ]
+      },
+      "properties": {
+        "feet": 8505,
+        "meters": 2592,
+        "latitude": 47.512563,
+        "longitude": 12.88559,
+        "name": "Gr. Hundstod",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167,
+          47.35
+        ]
+      },
+      "properties": {
+        "feet": 8940,
+        "meters": 2725,
+        "latitude": 47.35,
+        "longitude": 11.5167,
+        "name": "Grosser Bettelwurf",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.786884,
+          47.631966
+        ]
+      },
+      "properties": {
+        "feet": 6151,
+        "meters": 1864,
+        "latitude": 47.631966,
+        "longitude": 12.786884,
+        "name": "Großer Bruder",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.355515,
+          47.312439
+        ]
+      },
+      "properties": {
+        "feet": 8714,
+        "meters": 2656,
+        "latitude": 47.312439,
+        "longitude": 10.355515,
+        "name": "Grosser Krottenkopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17,
+          47.19
+        ]
+      },
+      "properties": {
+        "feet": 7749,
+        "meters": 2362,
+        "latitude": 47.19,
+        "longitude": 12.17,
+        "name": "Großer Rettenstein",
+        "regions": [
+          "Northern Alps",
+          "Kitzbuhel"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.033333,
+          47.616667
+        ]
+      },
+      "properties": {
+        "feet": 7149,
+        "meters": 2179,
+        "latitude": 47.616667,
+        "longitude": 14.033333,
+        "name": "Grosses Tragl",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.755256,
+          47.156893
+        ]
+      },
+      "properties": {
+        "feet": 11693,
+        "meters": 3564,
+        "latitude": 47.156893,
+        "longitude": 12.755256,
+        "name": "Grosses Wiesbachhorn",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7,
+          47.0667
+        ]
+      },
+      "properties": {
+        "feet": 12461,
+        "meters": 3798,
+        "latitude": 47.0667,
+        "longitude": 12.7,
+        "name": "Grossglockner",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          47.1
+        ]
+      },
+      "properties": {
+        "feet": 12054,
+        "meters": 3674,
+        "latitude": 47.1,
+        "longitude": 12.35,
+        "name": "Grossvenediger",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8333,
+          46.8617
+        ]
+      },
+      "properties": {
+        "feet": 10325,
+        "meters": 3147,
+        "latitude": 46.8617,
+        "longitude": 10.8333,
+        "name": "Guslarspitzen",
+        "regions": [
+          "Eastern Alps",
+          "Otztal Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.018085,
+          46.835301
+        ]
+      },
+      "properties": {
+        "feet": 9908,
+        "meters": 3020,
+        "latitude": 46.835301,
+        "longitude": 11.018085,
+        "name": "Hangerer",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.148583,
+          47.881192
+        ]
+      },
+      "properties": {
+        "feet": 8314,
+        "meters": 2534,
+        "latitude": 47.881192,
+        "longitude": 10.148583,
+        "name": "Hasenfluh",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.688777,
+          47.689081
+        ]
+      },
+      "properties": {
+        "feet": 6585,
+        "meters": 2007,
+        "latitude": 47.689081,
+        "longitude": 15.688777,
+        "name": "Heukuppe",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3167,
+          47.0
+        ]
+      },
+      "properties": {
+        "feet": 11023,
+        "meters": 3360,
+        "latitude": 47.0,
+        "longitude": 13.3167,
+        "name": "Hochalmspitze",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.4167
+        ]
+      },
+      "properties": {
+        "feet": 9649,
+        "meters": 2941,
+        "latitude": 47.4167,
+        "longitude": 13.05,
+        "name": "Hochkönig",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1833,
+          46.4333
+        ]
+      },
+      "properties": {
+        "feet": 7336,
+        "meters": 2236,
+        "latitude": 46.4333,
+        "longitude": 14.1833,
+        "name": "Hochstuhl",
+        "countries": [
+          "Austria",
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1167,
+          47.4167
+        ]
+      },
+      "properties": {
+        "feet": 8934,
+        "meters": 2723,
+        "latitude": 47.4167,
+        "longitude": 11.1167,
+        "name": "Hochwand",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0833,
+          47.3333
+        ]
+      },
+      "properties": {
+        "feet": 8733,
+        "meters": 2662,
+        "latitude": 47.3333,
+        "longitude": 11.0833,
+        "name": "Hohe Munde",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8,
+          47.3
+        ]
+      },
+      "properties": {
+        "feet": 6575,
+        "meters": 2004,
+        "latitude": 47.3,
+        "longitude": 9.8,
+        "name": "Hoher Freschen",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356087,
+          47.360339
+        ]
+      },
+      "properties": {
+        "feet": 8170,
+        "meters": 2491,
+        "latitude": 47.360339,
+        "longitude": 11.356087,
+        "name": "Hoher Gleiersch",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351135,
+          47.664462
+        ]
+      },
+      "properties": {
+        "feet": 5645,
+        "meters": 1721,
+        "latitude": 47.664462,
+        "longitude": 13.351135,
+        "name": "Hoher Zinken, Osterhorn",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.275135,
+          47.280976
+        ]
+      },
+      "properties": {
+        "feet": 8698,
+        "meters": 2651,
+        "latitude": 47.280976,
+        "longitude": 10.275135,
+        "name": "Hohes Licht",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558333,
+          47.341111
+        ]
+      },
+      "properties": {
+        "feet": 7358,
+        "meters": 2243,
+        "latitude": 47.341111,
+        "longitude": 11.558333,
+        "name": "Hundskopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.338954,
+          47.065832
+        ]
+      },
+      "properties": {
+        "feet": 8832,
+        "meters": 2692,
+        "latitude": 47.065832,
+        "longitude": 11.338954,
+        "name": "Ilmspitze",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4167,
+          47.4167
+        ]
+      },
+      "properties": {
+        "feet": 8966,
+        "meters": 2733,
+        "latitude": 47.4167,
+        "longitude": 11.4167,
+        "name": "Kaltwasserkarspitze",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.614609,
+          47.453166
+        ]
+      },
+      "properties": {
+        "feet": 6594,
+        "meters": 2010,
+        "latitude": 47.453166,
+        "longitude": 11.614609,
+        "name": "Kompar",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          47.25
+        ]
+      },
+      "properties": {
+        "feet": 10170,
+        "meters": 3100,
+        "latitude": 47.25,
+        "longitude": 11.25,
+        "name": "Kreusspitze",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          47.55
+        ]
+      },
+      "properties": {
+        "feet": 6598,
+        "meters": 2011,
+        "latitude": 47.55,
+        "longitude": 14.5,
+        "name": "Kreuzkogel",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1,
+          47.5833
+        ]
+      },
+      "properties": {
+        "feet": 7585,
+        "meters": 2312,
+        "latitude": 47.5833,
+        "longitude": 13.1,
+        "name": "Kuchler Freieck",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.507921,
+          47.38853
+        ]
+      },
+      "properties": {
+        "feet": 8472,
+        "meters": 2582,
+        "latitude": 47.38853,
+        "longitude": 11.507921,
+        "name": "Laliderer Spitze",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.346573,
+          46.969008
+        ]
+      },
+      "properties": {
+        "feet": 10164,
+        "meters": 3098,
+        "latitude": 46.969008,
+        "longitude": 12.346573,
+        "name": "Lasörling",
+        "regions": [
+          "Northern Alps",
+          "Kitzbuhel"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5167,
+          47.2167
+        ]
+      },
+      "properties": {
+        "feet": 9022,
+        "meters": 2750,
+        "latitude": 47.2167,
+        "longitude": 10.5167,
+        "name": "Leiterspitze",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.569317,
+          47.754444
+        ]
+      },
+      "properties": {
+        "feet": 5584,
+        "meters": 1702,
+        "latitude": 47.754444,
+        "longitude": 13.569317,
+        "name": "Leonsberg",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1167,
+          47.0833
+        ]
+      },
+      "properties": {
+        "feet": 10823,
+        "meters": 3299,
+        "latitude": 47.0833,
+        "longitude": 11.1167,
+        "name": "Lisenser Fernerkogel",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7,
+          47.0667
+        ]
+      },
+      "properties": {
+        "feet": 8756,
+        "meters": 2669,
+        "latitude": 47.0667,
+        "longitude": 12.7,
+        "name": "Medelspitze",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3312,
+          46.6433
+        ]
+      },
+      "properties": {
+        "feet": 9622,
+        "meters": 2933,
+        "latitude": 46.6433,
+        "longitude": 12.3312,
+        "name": "Mittlerer Burgstall",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95,
+          47.13
+        ]
+      },
+      "properties": {
+        "feet": 7575,
+        "meters": 2309,
+        "latitude": 47.13,
+        "longitude": 10.95,
+        "name": "Narrenkogel",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.283,
+          47.0204
+        ]
+      },
+      "properties": {
+        "feet": 9869,
+        "meters": 3008,
+        "latitude": 47.0204,
+        "longitude": 12.283,
+        "name": "Ochsenbug",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1667,
+          47.05
+        ]
+      },
+      "properties": {
+        "feet": 10174,
+        "meters": 3101,
+        "latitude": 47.05,
+        "longitude": 11.1667,
+        "name": "Oestliche Knotenspitze",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96,
+          47.09
+        ]
+      },
+      "properties": {
+        "feet": 11404,
+        "meters": 3476,
+        "latitude": 47.09,
+        "longitude": 11.96,
+        "name": "Olperer",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.779549,
+          47.507809
+        ]
+      },
+      "properties": {
+        "feet": 3491,
+        "meters": 1064,
+        "latitude": 47.507809,
+        "longitude": 9.779549,
+        "name": "Pfänder",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25,
+          47.0833
+        ]
+      },
+      "properties": {
+        "feet": 10866,
+        "meters": 3312,
+        "latitude": 47.0833,
+        "longitude": 9.25,
+        "name": "Piz Buin",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          47.55
+        ]
+      },
+      "properties": {
+        "feet": 6909,
+        "meters": 2106,
+        "latitude": 47.55,
+        "longitude": 14.5,
+        "name": "Riffel",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.486,
+          47.6665
+        ]
+      },
+      "properties": {
+        "feet": 5850,
+        "meters": 1783,
+        "latitude": 47.6665,
+        "longitude": 13.486,
+        "name": "Rinnkogel",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15,
+          47.15
+        ]
+      },
+      "properties": {
+        "feet": 2750,
+        "meters": 838,
+        "latitude": 47.15,
+        "longitude": 9.15,
+        "name": "Rockspitze",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13333,
+          47.25
+        ]
+      },
+      "properties": {
+        "feet": 8678,
+        "meters": 2645,
+        "latitude": 47.25,
+        "longitude": 9.13333,
+        "name": "Roggalspitze",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.478851,
+          47.415311
+        ]
+      },
+      "properties": {
+        "feet": 5806,
+        "meters": 1770,
+        "latitude": 47.415311,
+        "longitude": 13.478851,
+        "name": "Rossbrand",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985456,
+          47.186563
+        ]
+      },
+      "properties": {
+        "feet": 8868,
+        "meters": 2703,
+        "latitude": 47.186563,
+        "longitude": 9.985456,
+        "name": "Rote Wand",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.005066,
+          47.71802
+        ]
+      },
+      "properties": {
+        "feet": 6078,
+        "meters": 1853,
+        "latitude": 47.71802,
+        "longitude": 13.005066,
+        "name": "Salzburger Hochthron",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          47.0833
+        ]
+      },
+      "properties": {
+        "feet": 8254,
+        "meters": 2516,
+        "latitude": 47.0833,
+        "longitude": 9.1,
+        "name": "Saulakopf",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463745,
+          47.739323
+        ]
+      },
+      "properties": {
+        "feet": 5702,
+        "meters": 1782,
+        "latitude": 47.739323,
+        "longitude": 13.463745,
+        "name": "Schafberg",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0197,
+          47.04065
+        ]
+      },
+      "properties": {
+        "feet": 10246,
+        "meters": 3123,
+        "latitude": 47.04065,
+        "longitude": 13.0197,
+        "name": "Schareck",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.707222,
+          47.053889
+        ]
+      },
+      "properties": {
+        "feet": 9724,
+        "meters": 2965,
+        "latitude": 47.053889,
+        "longitude": 9.707222,
+        "name": "Schesaplana",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21372,
+          47.681512
+        ]
+      },
+      "properties": {
+        "feet": 5409,
+        "meters": 1649,
+        "latitude": 47.681512,
+        "longitude": 13.21372,
+        "name": "Schlenken",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1807,
+          47.3162
+        ]
+      },
+      "properties": {
+        "feet": 7339,
+        "meters": 2237,
+        "latitude": 47.3162,
+        "longitude": 12.1807,
+        "name": "Schneegrubenspitze",
+        "regions": [
+          "Northern Alps",
+          "Kitzbuhel"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.311653,
+          47.812924
+        ]
+      },
+      "properties": {
+        "feet": 4359,
+        "meters": 1329,
+        "latitude": 47.812924,
+        "longitude": 13.311653,
+        "name": "Schober",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.937946,
+          47.457925
+        ]
+      },
+      "properties": {
+        "feet": 8782,
+        "meters": 2653,
+        "latitude": 47.457925,
+        "longitude": 12.937946,
+        "name": "Schönfeldspitze",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1,
+          47.0333
+        ]
+      },
+      "properties": {
+        "feet": 11473,
+        "meters": 3497,
+        "latitude": 47.0333,
+        "longitude": 11.1,
+        "name": "Schrankogel",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.853146,
+          47.516853
+        ]
+      },
+      "properties": {
+        "feet": 7616,
+        "meters": 2321,
+        "latitude": 47.516853,
+        "longitude": 12.853146,
+        "name": "Seehorn",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6,
+          47.4
+        ]
+      },
+      "properties": {
+        "feet": 8064,
+        "meters": 2458,
+        "latitude": 47.4,
+        "longitude": 11.6,
+        "name": "Sonnjoch",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5167,
+          47.55
+        ]
+      },
+      "properties": {
+        "feet": 7372,
+        "meters": 2247,
+        "latitude": 47.55,
+        "longitude": 14.5167,
+        "name": "Sparafeld",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466663,
+          47.693357
+        ]
+      },
+      "properties": {
+        "feet": 4927,
+        "meters": 1502,
+        "latitude": 47.693357,
+        "longitude": 13.466663,
+        "name": "Sparber",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4833,
+          47.35
+        ]
+      },
+      "properties": {
+        "feet": 8599,
+        "meters": 2621,
+        "latitude": 47.35,
+        "longitude": 11.4833,
+        "name": "Speckkarspitze",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4,
+          46.65
+        ]
+      },
+      "properties": {
+        "feet": 6952,
+        "meters": 2119,
+        "latitude": 46.65,
+        "longitude": 13.4,
+        "name": "Spitzegel",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577801,
+          47.603964
+        ]
+      },
+      "properties": {
+        "feet": 6130,
+        "meters": 1868,
+        "latitude": 47.603964,
+        "longitude": 12.577801,
+        "name": "Steinplatte",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.280833,
+          47.285
+        ]
+      },
+      "properties": {
+        "feet": 8579,
+        "meters": 2615,
+        "latitude": 47.285,
+        "longitude": 10.280833,
+        "name": "Steinschartenkopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8308,
+          47.0141
+        ]
+      },
+      "properties": {
+        "feet": 9245,
+        "meters": 2818,
+        "latitude": 47.0141,
+        "longitude": 9.8308,
+        "name": "Sulzfluh",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.273716,
+          47.64122
+        ]
+      },
+      "properties": {
+        "feet": 5763,
+        "meters": 1757,
+        "latitude": 47.64122,
+        "longitude": 13.273716,
+        "name": "Trattberg",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.125572,
+          47.532502
+        ]
+      },
+      "properties": {
+        "feet": 6921,
+        "meters": 2110,
+        "latitude": 47.532502,
+        "longitude": 13.125572,
+        "name": "Tristkopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.796041,
+          47.241716
+        ]
+      },
+      "properties": {
+        "feet": 7776,
+        "meters": 2370,
+        "latitude": 47.241716,
+        "longitude": 10.796041,
+        "name": "Tschirgant",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.435837,
+          47.620281
+        ]
+      },
+      "properties": {
+        "feet": 5815,
+        "meters": 1772,
+        "latitude": 47.620281,
+        "longitude": 12.435837,
+        "name": "Unterberghorn",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4333,
+          46.65
+        ]
+      },
+      "properties": {
+        "feet": 6916,
+        "meters": 2108,
+        "latitude": 46.65,
+        "longitude": 13.4333,
+        "name": "Vellacher Egel",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75,
+          47.75
+        ]
+      },
+      "properties": {
+        "feet": 5807,
+        "meters": 1770,
+        "latitude": 47.75,
+        "longitude": 14.75,
+        "name": "Voralpe",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7833,
+          47.2
+        ]
+      },
+      "properties": {
+        "feet": 11588,
+        "meters": 3532,
+        "latitude": 47.2,
+        "longitude": 10.7833,
+        "name": "Watzespitze",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4,
+          47.0667
+        ]
+      },
+      "properties": {
+        "feet": 10827,
+        "meters": 3300,
+        "latitude": 47.0667,
+        "longitude": 12.4,
+        "name": "Weissspitze",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2,
+          46.8
+        ]
+      },
+      "properties": {
+        "feet": 11214,
+        "meters": 3418,
+        "latitude": 46.8,
+        "longitude": 11.2,
+        "name": "Wilder Freiger",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.899639,
+          46.884483
+        ]
+      },
+      "properties": {
+        "feet": 9918,
+        "meters": 3023,
+        "latitude": 46.884483,
+        "longitude": 10.899639,
+        "name": "Wildes Mannle",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8833,
+          46.8833
+        ]
+      },
+      "properties": {
+        "feet": 12375,
+        "meters": 3772,
+        "latitude": 46.8833,
+        "longitude": 10.8833,
+        "name": "Wildspitze",
+        "regions": [
+          "Eastern Alps",
+          "Otztal Alps"
+        ],
+        "countries": [
+          "Austria",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          47.0833
+        ]
+      },
+      "properties": {
+        "feet": 8671,
+        "meters": 2643,
+        "latitude": 47.0833,
+        "longitude": 9.1,
+        "name": "Zimba",
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          46.95
+        ]
+      },
+      "properties": {
+        "feet": 11499,
+        "meters": 3505,
+        "latitude": 46.95,
+        "longitude": 11.15,
+        "name": "Zuckerhuetl",
+        "regions": [
+          "Eastern Alps",
+          "Stubai Alps"
+        ],
+        "countries": [
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

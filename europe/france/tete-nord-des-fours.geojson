@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.724877,
+      45.734903
+    ]
+  },
+  "properties": {
+    "feet": 9042,
+    "meters": 2756,
+    "latitude": 45.734903,
+    "longitude": 6.724877,
+    "name": "Tête Nord des Fours",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

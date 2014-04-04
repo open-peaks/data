@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.818172,
+      48.744078
+    ]
+  },
+  "properties": {
+    "feet": 2484,
+    "meters": 757,
+    "latitude": 48.744078,
+    "longitude": 9.818172,
+    "name": "Stuifen",
+    "regions": [
+      "Central Europe Ranges",
+      "Swabian Alb"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

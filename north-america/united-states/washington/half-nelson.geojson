@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.232758,
+      46.818505
+    ]
+  },
+  "properties": {
+    "feet": 7146,
+    "meters": 2178,
+    "latitude": 46.818505,
+    "longitude": -121.232758,
+    "name": "Half Nelson",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

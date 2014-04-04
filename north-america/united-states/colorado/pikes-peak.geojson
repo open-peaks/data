@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.044,
+      38.8406
+    ]
+  },
+  "properties": {
+    "feet": 14109,
+    "meters": 4300,
+    "latitude": 38.8406,
+    "longitude": -105.044,
+    "name": "Pikes Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

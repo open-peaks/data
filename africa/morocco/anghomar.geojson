@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.021079,
+      31.574404
+    ]
+  },
+  "properties": {
+    "feet": 11844,
+    "meters": 3610,
+    "latitude": 31.574404,
+    "longitude": -7.021079,
+    "name": "Anghomar",
+    "regions": [
+      "Atlas Mountains",
+      "High Atlas"
+    ],
+    "countries": [
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

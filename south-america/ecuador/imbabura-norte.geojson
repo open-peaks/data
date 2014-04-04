@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.180465,
+      0.261636
+    ]
+  },
+  "properties": {
+    "feet": 15026,
+    "meters": 4580,
+    "latitude": 0.261636,
+    "longitude": -78.180465,
+    "name": "Imbabura Norte",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

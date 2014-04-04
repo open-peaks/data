@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.381434,
+      45.66518
+    ]
+  },
+  "properties": {
+    "feet": 11909,
+    "meters": 3630,
+    "latitude": 45.66518,
+    "longitude": 7.381434,
+    "name": "Punta Rossa",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

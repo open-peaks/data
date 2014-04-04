@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.1667,
+      16.7167
+    ]
+  },
+  "properties": {
+    "feet": 4052,
+    "meters": 1235,
+    "latitude": 16.7167,
+    "longitude": -62.1667,
+    "name": "Montserrat",
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

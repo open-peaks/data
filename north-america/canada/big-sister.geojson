@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.353012,
+      51.014511
+    ]
+  },
+  "properties": {
+    "feet": 9632,
+    "meters": 2936,
+    "latitude": 51.014511,
+    "longitude": -115.353012,
+    "name": "Big Sister",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

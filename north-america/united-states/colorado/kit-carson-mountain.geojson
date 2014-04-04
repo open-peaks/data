@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.602,
+      37.9797
+    ]
+  },
+  "properties": {
+    "feet": 14165,
+    "meters": 4318,
+    "latitude": 37.9797,
+    "longitude": -105.602,
+    "name": "Kit Carson Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

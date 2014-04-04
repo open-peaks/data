@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.8833,
+      0.366667
+    ]
+  },
+  "properties": {
+    "feet": 15889,
+    "meters": 4843,
+    "latitude": 0.366667,
+    "longitude": 29.8833,
+    "name": "Mount Baker",
+    "regions": [
+      "East Africa Mountains",
+      "Ruwenzori"
+    ],
+    "countries": [
+      "Uganda"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

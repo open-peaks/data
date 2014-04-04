@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8274,
+    "meters": 2522,
+    "name": "Lespezi",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania",
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

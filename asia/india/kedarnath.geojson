@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.0667,
+      30.7833
+    ]
+  },
+  "properties": {
+    "feet": 22769,
+    "meters": 6940,
+    "latitude": 30.7833,
+    "longitude": 79.0667,
+    "name": "kedarnath",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

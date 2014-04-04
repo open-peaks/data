@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.4333,
+      -64.6833
+    ]
+  },
+  "properties": {
+    "feet": 5479,
+    "meters": 1670,
+    "latitude": -64.6833,
+    "longitude": -35.4333,
+    "name": "Mount Emu",
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

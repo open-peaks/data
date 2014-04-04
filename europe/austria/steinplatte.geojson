@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.577801,
+      47.603964
+    ]
+  },
+  "properties": {
+    "feet": 6130,
+    "meters": 1868,
+    "latitude": 47.603964,
+    "longitude": 12.577801,
+    "name": "Steinplatte",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

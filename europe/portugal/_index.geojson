@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.599277,
+          40.327964
+        ]
+      },
+      "properties": {
+        "feet": 6325,
+        "meters": 1928,
+        "latitude": 40.327964,
+        "longitude": -7.599277,
+        "name": "Cantaro Magro",
+        "regions": [
+          "Iberian Peninsula",
+          "Portugal-Galicia"
+        ],
+        "countries": [
+          "Portugal"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.039932,
+          41.829282
+        ]
+      },
+      "properties": {
+        "feet": 5033,
+        "meters": 1534,
+        "latitude": 41.829282,
+        "longitude": -8.039932,
+        "name": "Nevosa",
+        "regions": [
+          "Iberian Peninsula",
+          "Portugal-Galicia"
+        ],
+        "countries": [
+          "Portugal",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.158422,
+          41.766991
+        ]
+      },
+      "properties": {
+        "feet": 4058,
+        "meters": 1237,
+        "latitude": 41.766991,
+        "longitude": -8.158422,
+        "name": "Pé de Cabril",
+        "regions": [
+          "Iberian Peninsula",
+          "Portugal-Galicia"
+        ],
+        "countries": [
+          "Portugal"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.61301,
+          40.321813
+        ]
+      },
+      "properties": {
+        "feet": 6539,
+        "meters": 1993,
+        "latitude": 40.321813,
+        "longitude": -7.61301,
+        "name": "Torre",
+        "regions": [
+          "Iberian Peninsula",
+          "Portugal-Galicia"
+        ],
+        "countries": [
+          "Portugal"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

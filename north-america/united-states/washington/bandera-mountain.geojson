@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.538,
+      47.4155
+    ]
+  },
+  "properties": {
+    "feet": 5240,
+    "meters": 1597,
+    "latitude": 47.4155,
+    "longitude": -121.538,
+    "name": "Bandera Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

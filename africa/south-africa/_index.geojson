@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15,
+          -28.9167
+        ]
+      },
+      "properties": {
+        "feet": 9856,
+        "meters": 3004,
+        "latitude": -28.9167,
+        "longitude": 29.15,
+        "name": "Cathedral Peak",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4167,
+          -33.9167
+        ]
+      },
+      "properties": {
+        "feet": 3281,
+        "meters": 1000,
+        "latitude": -33.9167,
+        "longitude": 18.4167,
+        "name": "Devil's Peak",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0833,
+          -32.2333
+        ]
+      },
+      "properties": {
+        "feet": 5725,
+        "meters": 1745,
+        "latitude": -32.2333,
+        "longitude": 19.0833,
+        "name": "Krakadou",
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.528,
+          -24.7233
+        ]
+      },
+      "properties": {
+        "feet": 4406,
+        "meters": 1343,
+        "latitude": -24.7233,
+        "longitude": 28.528,
+        "name": "Kranskop",
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3571,
+          -29.2023
+        ]
+      },
+      "properties": {
+        "feet": 11319,
+        "meters": 3450,
+        "latitude": -29.2023,
+        "longitude": 29.3571,
+        "name": "Mafadi",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.884644,
+          -28.759081
+        ]
+      },
+      "properties": {
+        "feet": 10768,
+        "meters": 3282,
+        "latitude": -28.759081,
+        "longitude": 28.884644,
+        "name": "Mont-aux-Sources",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1667,
+          -32.5167
+        ]
+      },
+      "properties": {
+        "feet": 6650,
+        "meters": 2027,
+        "latitude": -32.5167,
+        "longitude": 19.1667,
+        "name": "Sneeuberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4167,
+          -33.95
+        ]
+      },
+      "properties": {
+        "feet": 3566,
+        "meters": 1087,
+        "latitude": -33.95,
+        "longitude": 18.4167,
+        "name": "Table Mountain",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2,
+          -32.4167
+        ]
+      },
+      "properties": {
+        "feet": 6460,
+        "meters": 1969,
+        "latitude": -32.4167,
+        "longitude": 19.2,
+        "name": "Tafelberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2667,
+          -32.45
+        ]
+      },
+      "properties": {
+        "feet": 5279,
+        "meters": 1609,
+        "latitude": -32.45,
+        "longitude": 19.2667,
+        "name": "Wolfberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

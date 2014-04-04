@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.920061,
+      47.700173
+    ]
+  },
+  "properties": {
+    "feet": 7408,
+    "meters": 2258,
+    "latitude": 47.700173,
+    "longitude": 106.920061,
+    "name": "Tsetsee Gun Uul",
+    "regions": [
+      "Mongolia Ranges"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

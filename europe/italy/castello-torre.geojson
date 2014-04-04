@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.922451,
+      44.511152
+    ]
+  },
+  "properties": {
+    "feet": 8031,
+    "meters": 2448,
+    "latitude": 44.511152,
+    "longitude": 6.922451,
+    "name": "Castello (Torre)",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

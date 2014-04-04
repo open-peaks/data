@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.647,
+      37.14
+    ]
+  },
+  "properties": {
+    "feet": 13267,
+    "meters": 4044,
+    "latitude": 37.14,
+    "longitude": -118.647,
+    "name": "Clyde Spires",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

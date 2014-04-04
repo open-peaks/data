@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.363866,
+      40.932386
+    ]
+  },
+  "properties": {
+    "feet": 6906,
+    "meters": 2105,
+    "latitude": 40.932386,
+    "longitude": -121.363866,
+    "name": "Cinder Cone",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

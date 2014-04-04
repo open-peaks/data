@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.4667,
+      27.5167
+    ]
+  },
+  "properties": {
+    "feet": 13336,
+    "meters": 4065,
+    "latitude": 27.5167,
+    "longitude": 86.4667,
+    "name": "Pike",
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

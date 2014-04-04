@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.54795,
+      46.38667
+    ]
+  },
+  "properties": {
+    "feet": 11808,
+    "meters": 3599,
+    "latitude": 46.38667,
+    "longitude": 10.54795,
+    "name": "Punta Pedranzini",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

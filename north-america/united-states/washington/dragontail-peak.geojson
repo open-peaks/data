@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.832958,
+      47.478986
+    ]
+  },
+  "properties": {
+    "feet": 8840,
+    "meters": 2694,
+    "latitude": 47.478986,
+    "longitude": -120.832958,
+    "name": "Dragontail Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

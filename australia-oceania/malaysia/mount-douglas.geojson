@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 7175,
+    "meters": 2187,
+    "name": "Mount Douglas",
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

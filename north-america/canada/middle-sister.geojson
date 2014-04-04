@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.341167,
+      51.021854
+    ]
+  },
+  "properties": {
+    "feet": 9085,
+    "meters": 2769,
+    "latitude": 51.021854,
+    "longitude": -115.341167,
+    "name": "Middle Sister",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

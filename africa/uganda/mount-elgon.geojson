@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.55,
+      1.13333
+    ]
+  },
+  "properties": {
+    "feet": 14178,
+    "meters": 4321,
+    "latitude": 1.13333,
+    "longitude": 34.55,
+    "name": "Mount Elgon",
+    "regions": [
+      "East Africa Mountains",
+      "Central East Africa Plateau"
+    ],
+    "countries": [
+      "Uganda",
+      "Kenya"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

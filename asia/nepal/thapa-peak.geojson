@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.5833,
+      28.25
+    ]
+  },
+  "properties": {
+    "feet": 19685,
+    "meters": 6000,
+    "latitude": 28.25,
+    "longitude": 85.5833,
+    "name": "Thapa Peak",
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

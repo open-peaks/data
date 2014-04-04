@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.691357,
+      45.436767
+    ]
+  },
+  "properties": {
+    "feet": 6309,
+    "meters": 1923,
+    "latitude": 45.436767,
+    "longitude": 25.691357,
+    "name": "Neamtu",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

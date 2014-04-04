@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.657177,
+      48.506739
+    ]
+  },
+  "properties": {
+    "feet": 7808,
+    "meters": 2380,
+    "latitude": 48.506739,
+    "longitude": -120.657177,
+    "name": "Blue Lake Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

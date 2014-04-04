@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.497,
+      37.5667
+    ]
+  },
+  "properties": {
+    "feet": 14037,
+    "meters": 4279,
+    "latitude": 37.5667,
+    "longitude": -105.497,
+    "name": "Little Bear Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

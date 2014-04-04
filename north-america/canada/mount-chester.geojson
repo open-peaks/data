@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.267,
+      50.8
+    ]
+  },
+  "properties": {
+    "feet": 10020,
+    "meters": 3054,
+    "latitude": 50.8,
+    "longitude": -115.267,
+    "name": "Mount Chester",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

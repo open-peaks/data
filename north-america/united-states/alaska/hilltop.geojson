@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.74317,
+      61.141229
+    ]
+  },
+  "properties": {
+    "feet": 894,
+    "meters": 272,
+    "latitude": 61.141229,
+    "longitude": -149.74317,
+    "name": "Hilltop",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

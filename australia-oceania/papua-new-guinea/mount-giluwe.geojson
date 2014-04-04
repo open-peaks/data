@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.883,
+      -6.03333
+    ]
+  },
+  "properties": {
+    "feet": 14327,
+    "meters": 4367,
+    "latitude": -6.03333,
+    "longitude": 143.883,
+    "name": "Mount Giluwe",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

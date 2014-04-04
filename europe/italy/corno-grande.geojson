@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5667,
+      42.4667
+    ]
+  },
+  "properties": {
+    "feet": 9554,
+    "meters": 2912,
+    "latitude": 42.4667,
+    "longitude": 13.5667,
+    "name": "Corno Grande",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

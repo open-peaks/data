@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.583,
+      40.3667
+    ]
+  },
+  "properties": {
+    "feet": 10013,
+    "meters": 3052,
+    "latitude": 40.3667,
+    "longitude": -105.583,
+    "name": "Deer Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

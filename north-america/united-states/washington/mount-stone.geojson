@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.266473,
+      47.606308
+    ]
+  },
+  "properties": {
+    "feet": 6612,
+    "meters": 2015,
+    "latitude": 47.606308,
+    "longitude": -123.266473,
+    "name": "Mount Stone",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

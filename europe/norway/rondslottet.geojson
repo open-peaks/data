@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.851692,
+      61.914936
+    ]
+  },
+  "properties": {
+    "feet": 7146,
+    "meters": 2178,
+    "latitude": 61.914936,
+    "longitude": 9.851692,
+    "name": "Rondslottet",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

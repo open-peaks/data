@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.775,
+      51.132
+    ]
+  },
+  "properties": {
+    "feet": 9613,
+    "meters": 2930,
+    "latitude": 51.132,
+    "longitude": -115.775,
+    "name": "Mount Bourgeau",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

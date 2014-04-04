@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.054695,
+      46.555496
+    ]
+  },
+  "properties": {
+    "feet": 12113,
+    "meters": 3693,
+    "latitude": 46.555496,
+    "longitude": 8.054695,
+    "name": "Walcherhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

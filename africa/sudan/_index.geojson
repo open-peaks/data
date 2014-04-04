@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0167,
+          21.9167
+        ]
+      },
+      "properties": {
+        "feet": 6345,
+        "meters": 1934,
+        "latitude": 21.9167,
+        "longitude": 25.0167,
+        "name": "Jebel Uweinat",
+        "regions": [
+          "Sahara Desert Ranges"
+        ],
+        "countries": [
+          "Sudan",
+          "Libya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.910258,
+          3.946286
+        ]
+      },
+      "properties": {
+        "feet": 10449,
+        "meters": 3185,
+        "latitude": 3.946286,
+        "longitude": 32.910258,
+        "name": "Kinyeti",
+        "countries": [
+          "Sudan"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

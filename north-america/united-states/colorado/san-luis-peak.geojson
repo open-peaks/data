@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.931,
+      37.9869
+    ]
+  },
+  "properties": {
+    "feet": 14014,
+    "meters": 4272,
+    "latitude": 37.9869,
+    "longitude": -106.931,
+    "name": "San Luis Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

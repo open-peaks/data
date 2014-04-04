@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.295833,
+      47.3
+    ]
+  },
+  "properties": {
+    "feet": 8678,
+    "meters": 2645,
+    "latitude": 47.3,
+    "longitude": 10.295833,
+    "name": "Mädelegabel",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

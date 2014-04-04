@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021079,
+          31.574404
+        ]
+      },
+      "properties": {
+        "feet": 11844,
+        "meters": 3610,
+        "latitude": 31.574404,
+        "longitude": -7.021079,
+        "name": "Anghomar",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8254,
+          31.1753
+        ]
+      },
+      "properties": {
+        "feet": 11864,
+        "meters": 3616,
+        "latitude": 31.1753,
+        "longitude": -7.8254,
+        "name": "Angour",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.56972,
+          31.5111
+        ]
+      },
+      "properties": {
+        "feet": 13346,
+        "meters": 4068,
+        "latitude": 31.5111,
+        "longitude": -5.56972,
+        "name": "m'goun",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco",
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91547,
+          31.0611
+        ]
+      },
+      "properties": {
+        "feet": 13665,
+        "meters": 4167,
+        "latitude": 31.0611,
+        "longitude": -7.91547,
+        "name": "Toubkal",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

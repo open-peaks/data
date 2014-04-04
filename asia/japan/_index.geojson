@@ -1,0 +1,842 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.167496,
+          35.465284
+        ]
+      },
+      "properties": {
+        "feet": 10236,
+        "meters": 3120,
+        "latitude": 35.465284,
+        "longitude": 138.167496,
+        "name": "Akaishidake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.182173,
+          35.49974
+        ]
+      },
+      "properties": {
+        "feet": 10305,
+        "meters": 3141,
+        "latitude": 35.49974,
+        "longitude": 138.182173,
+        "name": "Arakawadake (Warusawadake)",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.517,
+          36.4057
+        ]
+      },
+      "properties": {
+        "feet": 8425,
+        "meters": 2568,
+        "latitude": 36.4057,
+        "longitude": 138.517,
+        "name": "Asama Yama",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.733,
+          35.3667
+        ]
+      },
+      "properties": {
+        "feet": 12389,
+        "meters": 3776,
+        "latitude": 35.3667,
+        "longitude": 138.733,
+        "name": "Fuji-san",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.752,
+          36.659
+        ]
+      },
+      "properties": {
+        "feet": 9232,
+        "meters": 2814,
+        "latitude": 36.659,
+        "longitude": 137.752,
+        "name": "Goryu Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.774,
+          36.6904
+        ]
+      },
+      "properties": {
+        "feet": 8845,
+        "meters": 2696,
+        "latitude": 36.6904,
+        "longitude": 137.774,
+        "name": "Happo One and Karamatsu Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.645,
+          36.2961
+        ]
+      },
+      "properties": {
+        "feet": 10466,
+        "meters": 3190,
+        "latitude": 36.2961,
+        "longitude": 137.645,
+        "name": "Hotakadake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.809,
+          35.7822
+        ]
+      },
+      "properties": {
+        "feet": 9616,
+        "meters": 2931,
+        "latitude": 35.7822,
+        "longitude": 137.809,
+        "name": "Houkendake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.304996,
+          35.702962
+        ]
+      },
+      "properties": {
+        "feet": 9318,
+        "meters": 2840,
+        "latitude": 35.702962,
+        "longitude": 138.304996,
+        "name": "Houousan",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.75,
+          36.5874
+        ]
+      },
+      "properties": {
+        "feet": 8760,
+        "meters": 2670,
+        "latitude": 36.5874,
+        "longitude": 137.75,
+        "name": "Jiigatake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.728,
+          36.3266
+        ]
+      },
+      "properties": {
+        "feet": 9373,
+        "meters": 2857,
+        "latitude": 36.3266,
+        "longitude": 137.728,
+        "name": "Jonen Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.237,
+          35.7581
+        ]
+      },
+      "properties": {
+        "feet": 9731,
+        "meters": 2967,
+        "latitude": 35.7581,
+        "longitude": 138.237,
+        "name": "Kai-Komagatake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.15239,
+          35.391429
+        ]
+      },
+      "properties": {
+        "feet": 9196,
+        "meters": 2803,
+        "latitude": 35.391429,
+        "longitude": 138.15239,
+        "name": "Kamikouchidake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.747,
+          36.6238
+        ]
+      },
+      "properties": {
+        "feet": 9478,
+        "meters": 2889,
+        "latitude": 36.6238,
+        "longitude": 137.747,
+        "name": "Kashima Yarigatake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.626,
+          35.872
+        ]
+      },
+      "properties": {
+        "feet": 8527,
+        "meters": 2599,
+        "latitude": 35.872,
+        "longitude": 138.626,
+        "name": "Kinpu-San",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.239,
+          35.6734
+        ]
+      },
+      "properties": {
+        "feet": 10474,
+        "meters": 3192,
+        "latitude": 35.6734,
+        "longitude": 138.239,
+        "name": "Kita Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.592,
+          35.8936
+        ]
+      },
+      "properties": {
+        "feet": 7316,
+        "meters": 2230,
+        "latitude": 35.8936,
+        "longitude": 138.592,
+        "name": "Mizugaki Yama",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1039,
+          32.8844
+        ]
+      },
+      "properties": {
+        "feet": 5223,
+        "meters": 1592,
+        "latitude": 32.8844,
+        "longitude": 131.1039,
+        "name": "Mount Aso",
+        "regions": [
+          "Japanese Archipelago",
+          "Kyushu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.825,
+          36.2561
+        ]
+      },
+      "properties": {
+        "feet": 3000,
+        "meters": 914,
+        "latitude": 36.2561,
+        "longitude": 137.825,
+        "name": "Mount Madoriama",
+        "regions": [
+          "Japanese Archipelago"
+        ],
+        "countries": [
+          "Japan",
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.725,
+          36.29
+        ]
+      },
+      "properties": {
+        "feet": 8740,
+        "meters": 2664,
+        "latitude": 36.29,
+        "longitude": 137.725,
+        "name": "Mt. Chogatake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.75,
+          36.3005
+        ]
+      },
+      "properties": {
+        "feet": 3622,
+        "meters": 1104,
+        "latitude": 36.3005,
+        "longitude": 138.75,
+        "name": "Myogi San",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.483,
+          35.8833
+        ]
+      },
+      "properties": {
+        "feet": 10051,
+        "meters": 3063,
+        "latitude": 35.8833,
+        "longitude": 137.483,
+        "name": "Ontake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.184,
+          35.7195
+        ]
+      },
+      "properties": {
+        "feet": 9951,
+        "meters": 3033,
+        "latitude": 35.7195,
+        "longitude": 138.184,
+        "name": "Senjou Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.186,
+          35.5746
+        ]
+      },
+      "properties": {
+        "feet": 10013,
+        "meters": 3052,
+        "latitude": 35.5746,
+        "longitude": 138.186,
+        "name": "Shiomi Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.757,
+          36.7575
+        ]
+      },
+      "properties": {
+        "feet": 9619,
+        "meters": 2932,
+        "latitude": 36.7575,
+        "longitude": 137.757,
+        "name": "Shirouma Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.619,
+          36.5759
+        ]
+      },
+      "properties": {
+        "feet": 9892,
+        "meters": 3015,
+        "latitude": 36.5759,
+        "longitude": 137.619,
+        "name": "Tateyama",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.716,
+          36.3996
+        ]
+      },
+      "properties": {
+        "feet": 9065,
+        "meters": 2763,
+        "latitude": 36.3996,
+        "longitude": 137.716,
+        "name": "Tsubakuro Dake (Mt. Tsubakuro)",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.62,
+          36.6204
+        ]
+      },
+      "properties": {
+        "feet": 9835,
+        "meters": 2998,
+        "latitude": 36.6204,
+        "longitude": 137.62,
+        "name": "Tsurugi Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.591,
+          36.4116
+        ]
+      },
+      "properties": {
+        "feet": 9593,
+        "meters": 2924,
+        "latitude": 36.4116,
+        "longitude": 137.591,
+        "name": "Washiba Dake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.648,
+          36.3428
+        ]
+      },
+      "properties": {
+        "feet": 10433,
+        "meters": 3180,
+        "latitude": 36.3428,
+        "longitude": 137.648,
+        "name": "Yarigadake",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.37014,
+          35.97075
+        ]
+      },
+      "properties": {
+        "feet": 9511,
+        "meters": 2899,
+        "latitude": 35.97075,
+        "longitude": 138.37014,
+        "name": "Yatsu ga Take",
+        "regions": [
+          "Japanese Archipelago",
+          "Honshu"
+        ],
+        "countries": [
+          "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

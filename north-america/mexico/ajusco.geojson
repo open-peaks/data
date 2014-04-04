@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 12992,
+    "meters": 3960,
+    "name": "Ajusco",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

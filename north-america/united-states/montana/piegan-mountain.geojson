@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.68924,
+      48.71024
+    ]
+  },
+  "properties": {
+    "feet": 9220,
+    "meters": 2810,
+    "latitude": 48.71024,
+    "longitude": -113.68924,
+    "name": "Piegan Mountain",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

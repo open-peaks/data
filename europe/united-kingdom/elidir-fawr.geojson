@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.075306,
+      53.131199
+    ]
+  },
+  "properties": {
+    "feet": 3031,
+    "meters": 924,
+    "latitude": 53.131199,
+    "longitude": -4.075306,
+    "name": "Elidir Fawr",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

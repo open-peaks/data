@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.15378,
+      48.897847
+    ]
+  },
+  "properties": {
+    "feet": 7621,
+    "meters": 2323,
+    "latitude": 48.897847,
+    "longitude": -120.15378,
+    "name": "Coleman Ridge Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

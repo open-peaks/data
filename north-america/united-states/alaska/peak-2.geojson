@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.658337,
+      61.084525
+    ]
+  },
+  "properties": {
+    "feet": 3658,
+    "meters": 1114,
+    "latitude": 61.084525,
+    "longitude": -149.658337,
+    "name": "Peak 2",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

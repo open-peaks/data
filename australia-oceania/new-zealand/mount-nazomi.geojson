@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 9557,
+    "meters": 2913,
+    "name": "Mount Nazomi",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

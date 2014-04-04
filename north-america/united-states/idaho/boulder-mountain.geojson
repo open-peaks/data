@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.938,
+      44.8814
+    ]
+  },
+  "properties": {
+    "feet": 8377,
+    "meters": 2553,
+    "latitude": 44.8814,
+    "longitude": -115.938,
+    "name": "Boulder Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

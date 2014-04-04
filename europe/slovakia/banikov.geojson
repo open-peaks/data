@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.710073,
+      49.197859
+    ]
+  },
+  "properties": {
+    "feet": 7146,
+    "meters": 2178,
+    "latitude": 49.197859,
+    "longitude": 19.710073,
+    "name": "Banikov",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

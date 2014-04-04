@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13396,
+    "meters": 4083,
+    "name": "Ras N'ouanoukrim",
+    "regions": [
+      "Atlas Mountains"
+    ],
+    "countries": [
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

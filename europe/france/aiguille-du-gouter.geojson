@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.843109,
+      45.842434
+    ]
+  },
+  "properties": {
+    "feet": 12674,
+    "meters": 3863,
+    "latitude": 45.842434,
+    "longitude": 6.843109,
+    "name": "Aiguille du Goûter",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

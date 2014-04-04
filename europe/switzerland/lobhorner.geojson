@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.83333,
+      46.6
+    ]
+  },
+  "properties": {
+    "feet": 8419,
+    "meters": 2566,
+    "latitude": 46.6,
+    "longitude": 7.83333,
+    "name": "Lobhörner",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

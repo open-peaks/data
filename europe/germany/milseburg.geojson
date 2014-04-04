@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.91667,
+      50.5
+    ]
+  },
+  "properties": {
+    "feet": 2739,
+    "meters": 835,
+    "latitude": 50.5,
+    "longitude": -9.91667,
+    "name": "Milseburg",
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.8667,
+      14.5
+    ]
+  },
+  "properties": {
+    "feet": 13044,
+    "meters": 3976,
+    "latitude": 14.5,
+    "longitude": -90.8667,
+    "name": "Acatenango",
+    "regions": [
+      "Central American Ranges",
+      "Guatemala Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

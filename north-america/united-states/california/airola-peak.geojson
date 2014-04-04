@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.45
+    ]
+  },
+  "properties": {
+    "feet": 9942,
+    "meters": 3030,
+    "latitude": 38.45,
+    "longitude": -119.8,
+    "name": "Airola Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

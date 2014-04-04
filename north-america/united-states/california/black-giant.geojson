@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.667,
+      37.1
+    ]
+  },
+  "properties": {
+    "feet": 13330,
+    "meters": 4063,
+    "latitude": 37.1,
+    "longitude": -118.667,
+    "name": "Black Giant",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

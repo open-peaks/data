@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.417,
+      -34.65
+    ]
+  },
+  "properties": {
+    "feet": 3829,
+    "meters": 1167,
+    "latitude": -34.65,
+    "longitude": 117.417,
+    "name": "Bluff Knoll",
+    "regions": [
+      "Western Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

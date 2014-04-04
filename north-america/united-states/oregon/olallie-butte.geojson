@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.763878,
+      44.821543
+    ]
+  },
+  "properties": {
+    "feet": 7219,
+    "meters": 2200,
+    "latitude": 44.821543,
+    "longitude": -121.763878,
+    "name": "Olallie Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

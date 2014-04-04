@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.674805,
+      51.93347
+    ]
+  },
+  "properties": {
+    "feet": 10935,
+    "meters": 3333,
+    "latitude": 51.93347,
+    "longitude": -116.674805,
+    "name": "Mount Murchison",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

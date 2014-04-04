@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.224781,
+      50.959075
+    ]
+  },
+  "properties": {
+    "feet": 9249,
+    "meters": 2819,
+    "latitude": 50.959075,
+    "longitude": -115.224781,
+    "name": "Mount Allan",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

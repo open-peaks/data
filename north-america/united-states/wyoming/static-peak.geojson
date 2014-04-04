@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.817,
+      40.8
+    ]
+  },
+  "properties": {
+    "feet": 11303,
+    "meters": 3445,
+    "latitude": 40.8,
+    "longitude": -110.817,
+    "name": "Static Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

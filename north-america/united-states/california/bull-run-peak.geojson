@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.883,
+      38.4667
+    ]
+  },
+  "properties": {
+    "feet": 9495,
+    "meters": 2894,
+    "latitude": 38.4667,
+    "longitude": -119.883,
+    "name": "Bull Run Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

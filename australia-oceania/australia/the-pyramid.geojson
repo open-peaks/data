@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.928488,
+      -35.477288
+    ]
+  },
+  "properties": {
+    "feet": 3835,
+    "meters": 1169,
+    "latitude": -35.477288,
+    "longitude": 148.928488,
+    "name": "The Pyramid",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

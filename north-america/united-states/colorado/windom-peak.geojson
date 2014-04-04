@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.591,
+      37.6214
+    ]
+  },
+  "properties": {
+    "feet": 14082,
+    "meters": 4292,
+    "latitude": 37.6214,
+    "longitude": -107.591,
+    "name": "Windom Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

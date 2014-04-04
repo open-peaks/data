@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.4,
+      36.5416
+    ]
+  },
+  "properties": {
+    "feet": 13113,
+    "meters": 3998,
+    "latitude": 36.5416,
+    "longitude": -105.4,
+    "name": "Old Mike",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

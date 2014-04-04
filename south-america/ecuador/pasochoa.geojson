@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13776,
+    "meters": 4199,
+    "name": "Pasochoa",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

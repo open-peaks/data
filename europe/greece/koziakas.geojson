@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.5333,
+      39.5333
+    ]
+  },
+  "properties": {
+    "feet": 6237,
+    "meters": 1901,
+    "latitude": 39.5333,
+    "longitude": 21.5333,
+    "name": "Koziakas",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

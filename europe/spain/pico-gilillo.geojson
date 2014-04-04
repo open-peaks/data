@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.993684,
+      37.869527
+    ]
+  },
+  "properties": {
+    "feet": 6063,
+    "meters": 1848,
+    "latitude": 37.869527,
+    "longitude": -2.993684,
+    "name": "Pico Gilillo",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

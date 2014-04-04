@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.95,
+      46.2667
+    ]
+  },
+  "properties": {
+    "feet": 10902,
+    "meters": 3323,
+    "latitude": 46.2667,
+    "longitude": 9.95,
+    "name": "Scalino",
+    "regions": [
+      "Southern Alps",
+      "Rhaetian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

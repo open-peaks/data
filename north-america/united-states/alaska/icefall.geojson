@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.350494,
+      63.278431
+    ]
+  },
+  "properties": {
+    "feet": 8000,
+    "meters": 2438,
+    "latitude": 63.278431,
+    "longitude": -145.350494,
+    "name": "Icefall",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

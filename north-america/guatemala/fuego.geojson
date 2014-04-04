@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 12346,
+    "meters": 3763,
+    "name": "Fuego",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre del Sur"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

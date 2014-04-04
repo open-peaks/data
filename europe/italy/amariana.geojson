@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.080162,
+      46.400735
+    ]
+  },
+  "properties": {
+    "feet": 6250,
+    "meters": 1905,
+    "latitude": 46.400735,
+    "longitude": 13.080162,
+    "name": "Amariana",
+    "regions": [
+      "Eastern Alps",
+      "Carnic Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

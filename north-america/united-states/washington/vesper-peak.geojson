@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.517801,
+      48.012951
+    ]
+  },
+  "properties": {
+    "feet": 6214,
+    "meters": 1894,
+    "latitude": 48.012951,
+    "longitude": -121.517801,
+    "name": "Vesper Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

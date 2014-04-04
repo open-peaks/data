@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.354122,
+      48.06876
+    ]
+  },
+  "properties": {
+    "feet": 6554,
+    "meters": 1998,
+    "latitude": 48.06876,
+    "longitude": -121.354122,
+    "name": "Bedal Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

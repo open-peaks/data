@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.449,
+      -37.1475
+    ]
+  },
+  "properties": {
+    "feet": 5919,
+    "meters": 1804,
+    "latitude": -37.1475,
+    "longitude": 146.449,
+    "name": "Mt. Buller",
+    "regions": [
+      "South Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

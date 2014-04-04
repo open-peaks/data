@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.00419,
+      56.7979
+    ]
+  },
+  "properties": {
+    "feet": 4409,
+    "meters": 1344,
+    "latitude": 56.7979,
+    "longitude": -5.00419,
+    "name": "Ben Nevis",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

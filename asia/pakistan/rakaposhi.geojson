@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.489965,
+      36.142311
+    ]
+  },
+  "properties": {
+    "feet": 25550,
+    "meters": 7788,
+    "latitude": 36.142311,
+    "longitude": 74.489965,
+    "name": "Rakaposhi",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

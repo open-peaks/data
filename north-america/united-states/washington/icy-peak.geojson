@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.528144,
+      48.836532
+    ]
+  },
+  "properties": {
+    "feet": 7073,
+    "meters": 2156,
+    "latitude": 48.836532,
+    "longitude": -121.528144,
+    "name": "Icy Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

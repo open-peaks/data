@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.635154,
+      48.650377
+    ]
+  },
+  "properties": {
+    "feet": 8084,
+    "meters": 2464,
+    "latitude": 48.650377,
+    "longitude": -113.635154,
+    "name": "Dusty Star Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

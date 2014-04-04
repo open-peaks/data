@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.79402,
+      43.0861
+    ]
+  },
+  "properties": {
+    "feet": 7329,
+    "meters": 2234,
+    "latitude": 43.0861,
+    "longitude": -4.79402,
+    "name": "Coriscao",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

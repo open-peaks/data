@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.257,
+          43.7036
+        ]
+      },
+      "properties": {
+        "feet": 6781,
+        "meters": 2067,
+        "latitude": 43.7036,
+        "longitude": 18.257,
+        "name": "Bjelasnica",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4,
+          43.85
+        ]
+      },
+      "properties": {
+        "feet": 6765,
+        "meters": 2062,
+        "latitude": 43.85,
+        "longitude": 18.4,
+        "name": "Krvavac",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9,
+          44.8555
+        ]
+      },
+      "properties": {
+        "feet": 3205,
+        "meters": 977,
+        "latitude": 44.8555,
+        "longitude": 16.9,
+        "name": "Lisina, Bosnia and Herzegowina",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina",
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.733056,
+          43.281111
+        ]
+      },
+      "properties": {
+        "feet": 7831,
+        "meters": 2387,
+        "latitude": 43.281111,
+        "longitude": 18.733056,
+        "name": "Maglic",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.507623,
+          44.432087
+        ]
+      },
+      "properties": {
+        "feet": 6444,
+        "meters": 1964,
+        "latitude": 44.432087,
+        "longitude": 16.507623,
+        "name": "Velika Klekovača",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina",
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0442,
+          44.1194
+        ]
+      },
+      "properties": {
+        "feet": 6257,
+        "meters": 1907,
+        "latitude": 44.1194,
+        "longitude": 17.0442,
+        "name": "Veliki Vitorog",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.716389,
+          43.956667
+        ]
+      },
+      "properties": {
+        "feet": 6923,
+        "meters": 2110,
+        "latitude": 43.956667,
+        "longitude": 17.716389,
+        "name": "Vranica",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Bosnia and Herzegovina",
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.903889,
+          43.549722
+        ]
+      },
+      "properties": {
+        "feet": 7070,
+        "meters": 2155,
+        "latitude": 43.549722,
+        "longitude": 17.903889,
+        "name": "Zelena Glava",
+        "countries": [
+          "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

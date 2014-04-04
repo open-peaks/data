@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.226,
+      51.1175
+    ]
+  },
+  "properties": {
+    "feet": 8865,
+    "meters": 2702,
+    "latitude": 51.1175,
+    "longitude": -115.226,
+    "name": "Mount Fable",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

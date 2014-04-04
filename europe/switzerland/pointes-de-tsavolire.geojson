@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.50924,
+      46.16236
+    ]
+  },
+  "properties": {
+    "feet": 9928,
+    "meters": 3026,
+    "latitude": 46.16236,
+    "longitude": 7.50924,
+    "name": "Pointes de Tsavolire",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

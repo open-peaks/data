@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.423095,
+      43.075401
+    ]
+  },
+  "properties": {
+    "feet": 6729,
+    "meters": 2051,
+    "latitude": 43.075401,
+    "longitude": -122.423095,
+    "name": "Fish Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 18871,
+    "meters": 5752,
+    "name": "Pisco",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

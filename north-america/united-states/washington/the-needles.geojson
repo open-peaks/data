@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.649,
+      48.5989
+    ]
+  },
+  "properties": {
+    "feet": 8170,
+    "meters": 2490,
+    "latitude": 48.5989,
+    "longitude": -120.649,
+    "name": "The Needles",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

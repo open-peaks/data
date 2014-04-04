@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.583,
+      49.2333
+    ]
+  },
+  "properties": {
+    "feet": 5184,
+    "meters": 1580,
+    "latitude": 49.2333,
+    "longitude": -124.583,
+    "name": "Mount Cokely",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

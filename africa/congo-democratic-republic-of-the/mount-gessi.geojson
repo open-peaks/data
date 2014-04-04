@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9167,
+      0.433333
+    ]
+  },
+  "properties": {
+    "feet": 15470,
+    "meters": 4715,
+    "latitude": 0.433333,
+    "longitude": 29.9167,
+    "name": "Mount Gessi",
+    "regions": [
+      "East Africa Mountains",
+      "Ruwenzori"
+    ],
+    "countries": [
+      "Congo, Democratic Republic of the"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

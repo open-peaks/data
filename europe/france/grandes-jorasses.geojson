@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.98333,
+      45.8667
+    ]
+  },
+  "properties": {
+    "feet": 13806,
+    "meters": 4208,
+    "latitude": 45.8667,
+    "longitude": 6.98333,
+    "name": "Grandes Jorasses",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

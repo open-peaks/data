@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.8147,
+      44.5436
+    ]
+  },
+  "properties": {
+    "feet": 4393,
+    "meters": 1339,
+    "latitude": 44.5436,
+    "longitude": -72.8147,
+    "name": "Mount Mansfield",
+    "regions": [
+      "Appalachian Mountains",
+      "Green Mountains"
+    ],
+    "states": [
+      "Vermont"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.263,
+      50.83
+    ]
+  },
+  "properties": {
+    "feet": 9843,
+    "meters": 3000,
+    "latitude": 50.83,
+    "longitude": -115.263,
+    "name": "Gusty Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.779,
+      43.7472
+    ]
+  },
+  "properties": {
+    "feet": 12325,
+    "meters": 3757,
+    "latitude": 43.7472,
+    "longitude": -110.779,
+    "name": "Teewinot",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

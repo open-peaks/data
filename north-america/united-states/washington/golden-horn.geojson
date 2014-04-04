@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.732052,
+      48.603469
+    ]
+  },
+  "properties": {
+    "feet": 8366,
+    "meters": 2550,
+    "latitude": 48.603469,
+    "longitude": -120.732052,
+    "name": "Golden Horn",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.617,
+      43.1167
+    ]
+  },
+  "properties": {
+    "feet": 13745,
+    "meters": 4190,
+    "latitude": 43.1167,
+    "longitude": -109.617,
+    "name": "Fremont Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wind River Range"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

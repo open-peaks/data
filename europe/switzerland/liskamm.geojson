@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 14852,
+    "meters": 4527,
+    "name": "Liskamm",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

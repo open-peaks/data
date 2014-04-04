@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.688,
+      43.979
+    ]
+  },
+  "properties": {
+    "feet": 9068,
+    "meters": 2764,
+    "latitude": 43.979,
+    "longitude": -121.688,
+    "name": "Mount Bachelor",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

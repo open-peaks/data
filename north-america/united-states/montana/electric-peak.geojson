@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.837,
+      45.0053
+    ]
+  },
+  "properties": {
+    "feet": 10992,
+    "meters": 3350,
+    "latitude": 45.0053,
+    "longitude": -110.837,
+    "name": "Electric Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8087,
+    "meters": 2465,
+    "name": "Haiduta",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

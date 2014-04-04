@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.9344,
+      9.99444
+    ]
+  },
+  "properties": {
+    "feet": 5676,
+    "meters": 1730,
+    "latitude": 9.99444,
+    "longitude": -66.9344,
+    "name": "Curucutí",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.361263,
+      47.617851
+    ]
+  },
+  "properties": {
+    "feet": 5537,
+    "meters": 1688,
+    "latitude": 47.617851,
+    "longitude": 13.361263,
+    "name": "Einberg",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

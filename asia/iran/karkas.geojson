@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.80023,
+      33.45613
+    ]
+  },
+  "properties": {
+    "feet": 12762,
+    "meters": 3890,
+    "latitude": 33.45613,
+    "longitude": 51.80023,
+    "name": "Karkas",
+    "regions": [
+      "Iranian Plateau",
+      "Central Iranian Plateau"
+    ],
+    "countries": [
+      "Iran",
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

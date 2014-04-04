@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.529444,
+          49.573333
+        ]
+      },
+      "properties": {
+        "feet": 5659,
+        "meters": 1725,
+        "latitude": 49.573333,
+        "longitude": 19.529444,
+        "name": "Babia Góra",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2344,
+          49.3426
+        ]
+      },
+      "properties": {
+        "feet": 3028,
+        "meters": 923,
+        "latitude": 49.3426,
+        "longitude": 19.2344,
+        "name": "Beskid Krzyżowski",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.052795,
+          49.240914
+        ]
+      },
+      "properties": {
+        "feet": 6877,
+        "meters": 2096,
+        "latitude": 49.240914,
+        "longitude": 20.052795,
+        "name": "Ciemniak",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9167,
+          53.5
+        ]
+      },
+      "properties": {
+        "feet": 1024,
+        "meters": 312,
+        "latitude": 53.5,
+        "longitude": 19.9167,
+        "name": "Dylewska",
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.151,
+          49.3354
+        ]
+      },
+      "properties": {
+        "feet": 4029,
+        "meters": 1228,
+        "latitude": 49.3354,
+        "longitude": 20.151,
+        "name": "Gorc",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.033333,
+          49.231944
+        ]
+      },
+      "properties": {
+        "feet": 7287,
+        "meters": 2221,
+        "latitude": 49.231944,
+        "longitude": 20.033333,
+        "name": "Granaty",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.981556,
+          49.232003
+        ]
+      },
+      "properties": {
+        "feet": 6519,
+        "meters": 1987,
+        "latitude": 49.232003,
+        "longitude": 19.981556,
+        "name": "Kasprov vrch",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0156,
+          49.225
+        ]
+      },
+      "properties": {
+        "feet": 7070,
+        "meters": 2155,
+        "latitude": 49.225,
+        "longitude": 20.0156,
+        "name": "kościelec",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "Poland",
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.897222,
+          49.241667
+        ]
+      },
+      "properties": {
+        "feet": 6962,
+        "meters": 2122,
+        "latitude": 49.241667,
+        "longitude": 19.897222,
+        "name": "Krzesanica",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2025,
+          49.2917
+        ]
+      },
+      "properties": {
+        "feet": 4019,
+        "meters": 1225,
+        "latitude": 49.2917,
+        "longitude": 20.2025,
+        "name": "Lubań",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1906,
+          49.3138
+        ]
+      },
+      "properties": {
+        "feet": 5108,
+        "meters": 1557,
+        "latitude": 49.3138,
+        "longitude": 19.1906,
+        "name": "Pilsko",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1552,
+          49.2948
+        ]
+      },
+      "properties": {
+        "feet": 3297,
+        "meters": 1005,
+        "latitude": 49.2948,
+        "longitude": 20.1552,
+        "name": "Runek",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.849,
+          50.207
+        ]
+      },
+      "properties": {
+        "feet": 4678,
+        "meters": 1426,
+        "latitude": 50.207,
+        "longitude": 16.849,
+        "name": "Snieznik",
+        "countries": [
+          "Poland",
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1,
+          49.55
+        ]
+      },
+      "properties": {
+        "feet": 4314,
+        "meters": 1315,
+        "latitude": 49.55,
+        "longitude": 20.1,
+        "name": "Turbacz",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.780556,
+          49.213889
+        ]
+      },
+      "properties": {
+        "feet": 6772,
+        "meters": 2064,
+        "latitude": 49.213889,
+        "longitude": 19.780556,
+        "name": "Wolowiec (Voloviec)",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Poland",
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.491985,
+      51.611514
+    ]
+  },
+  "properties": {
+    "feet": 10502,
+    "meters": 3201,
+    "latitude": 51.611514,
+    "longitude": -116.491985,
+    "name": "Mount Olive",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

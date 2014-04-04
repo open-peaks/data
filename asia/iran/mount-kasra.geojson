@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 14780,
+    "meters": 4505,
+    "name": "Mount Kasra",
+    "regions": [
+      "Iranian Plateau"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

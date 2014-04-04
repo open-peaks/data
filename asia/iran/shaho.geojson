@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.25,
+      35.03
+    ]
+  },
+  "properties": {
+    "feet": 11122,
+    "meters": 3390,
+    "latitude": 35.03,
+    "longitude": 46.25,
+    "name": "Shaho",
+    "regions": [
+      "Zagros Mountains",
+      "North Central Zagros"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.632257,
+      46.920021
+    ]
+  },
+  "properties": {
+    "feet": 7017,
+    "meters": 2139,
+    "latitude": 46.920021,
+    "longitude": -121.632257,
+    "name": "Antler Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.470809,
+      48.068788
+    ]
+  },
+  "properties": {
+    "feet": 5723,
+    "meters": 1744,
+    "latitude": 48.068788,
+    "longitude": -121.470809,
+    "name": "Dickerman",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

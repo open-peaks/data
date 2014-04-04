@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.784,
+      37.3864
+    ]
+  },
+  "properties": {
+    "feet": 13704,
+    "meters": 4177,
+    "latitude": 37.3864,
+    "longitude": -118.784,
+    "name": "Mount Abbot",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

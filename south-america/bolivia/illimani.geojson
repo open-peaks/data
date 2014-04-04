@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.787747,
+      -16.636932
+    ]
+  },
+  "properties": {
+    "feet": 21200,
+    "meters": 6460,
+    "latitude": -16.636932,
+    "longitude": -67.787747,
+    "name": "Illimani",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

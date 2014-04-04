@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.12078,
+      36.86618
+    ]
+  },
+  "properties": {
+    "feet": 7159,
+    "meters": 2182,
+    "latitude": 36.86618,
+    "longitude": 29.12078,
+    "name": "Çal",
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

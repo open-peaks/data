@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.883273,
+      27.968479
+    ]
+  },
+  "properties": {
+    "feet": 25790,
+    "meters": 7861,
+    "latitude": 27.968479,
+    "longitude": 86.883273,
+    "name": "Nuptse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

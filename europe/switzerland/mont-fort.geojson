@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.318889,
+      46.080278
+    ]
+  },
+  "properties": {
+    "feet": 10919,
+    "meters": 3328,
+    "latitude": 46.080278,
+    "longitude": 7.318889,
+    "name": "Mont Fort",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

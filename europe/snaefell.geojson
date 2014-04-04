@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.463028,
+      54.262995
+    ]
+  },
+  "properties": {
+    "feet": 2034,
+    "meters": 620,
+    "latitude": 54.262995,
+    "longitude": -4.463028,
+    "name": "Snaefell",
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

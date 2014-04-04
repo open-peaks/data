@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.392,
+      37.6797
+    ]
+  },
+  "properties": {
+    "feet": 13821,
+    "meters": 4213,
+    "latitude": 37.6797,
+    "longitude": -107.392,
+    "name": "Rio Grande Pyramid",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

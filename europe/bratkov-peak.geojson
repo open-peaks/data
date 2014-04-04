@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.75,
+      43.3167
+    ]
+  },
+  "properties": {
+    "feet": 6375,
+    "meters": 1943,
+    "latitude": 43.3167,
+    "longitude": 22.75,
+    "name": "Bratkov Peak",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

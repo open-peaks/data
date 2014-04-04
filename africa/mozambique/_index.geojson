@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.066667,
+          -19.783333
+        ]
+      },
+      "properties": {
+        "feet": 7995,
+        "meters": 2437,
+        "latitude": -19.783333,
+        "longitude": 33.066667,
+        "name": "Binga",
+        "regions": [
+          "Southern Africa",
+          "Zimbabwe Plateau"
+        ],
+        "countries": [
+          "Mozambique"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

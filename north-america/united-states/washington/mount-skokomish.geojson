@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.294196,
+      47.590912
+    ]
+  },
+  "properties": {
+    "feet": 6434,
+    "meters": 1961,
+    "latitude": 47.590912,
+    "longitude": -123.294196,
+    "name": "Mount Skokomish",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

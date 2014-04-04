@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.867,
+      32.7
+    ]
+  },
+  "properties": {
+    "feet": 10720,
+    "meters": 3267,
+    "latitude": 32.7,
+    "longitude": -109.867,
+    "name": "Mount Graham",
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

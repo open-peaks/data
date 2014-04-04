@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.1382,
+      35.0809
+    ]
+  },
+  "properties": {
+    "feet": 4930,
+    "meters": 1503,
+    "latitude": 35.0809,
+    "longitude": -83.1382,
+    "name": "Whiteside Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

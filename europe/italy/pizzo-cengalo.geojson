@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.601918,
+      46.294812
+    ]
+  },
+  "properties": {
+    "feet": 11112,
+    "meters": 3367,
+    "latitude": 46.294812,
+    "longitude": 9.601918,
+    "name": "Pizzo Cengalo",
+    "regions": [
+      "Southern Alps",
+      "Rhaetian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

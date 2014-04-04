@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.032959,
+      42.676599
+    ]
+  },
+  "properties": {
+    "feet": 11007,
+    "meters": 3355,
+    "latitude": 42.676599,
+    "longitude": 0.032959,
+    "name": "Monte Perdido",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

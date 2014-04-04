@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.505117,
+      51.684796
+    ]
+  },
+  "properties": {
+    "feet": 9700,
+    "meters": 2957,
+    "latitude": 51.684796,
+    "longitude": -116.505117,
+    "name": "Mount Jimmy Simpson",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

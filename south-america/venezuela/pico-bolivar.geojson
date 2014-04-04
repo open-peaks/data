@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0425,
+      8.54361
+    ]
+  },
+  "properties": {
+    "feet": 16332,
+    "meters": 4978,
+    "latitude": 8.54361,
+    "longitude": -71.0425,
+    "name": "Pico Bolivar",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.860527,
+      47.739092
+    ]
+  },
+  "properties": {
+    "feet": 5667,
+    "meters": 1773,
+    "latitude": 47.739092,
+    "longitude": 12.860527,
+    "name": "Hochstaufen",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6333,
+          -15.9667
+        ]
+      },
+      "properties": {
+        "feet": 9852,
+        "meters": 3003,
+        "latitude": -15.9667,
+        "longitude": 35.6333,
+        "name": "Mulanje",
+        "regions": [
+          "Southern Africa",
+          "Malawi Highlands"
+        ],
+        "countries": [
+          "Malawi"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

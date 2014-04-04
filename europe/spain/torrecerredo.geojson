@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.852867,
+      43.196667
+    ]
+  },
+  "properties": {
+    "feet": 8688,
+    "meters": 2648,
+    "latitude": 43.196667,
+    "longitude": -4.852867,
+    "name": "Torrecerredo",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

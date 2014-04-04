@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 10443,
+    "meters": 3183,
+    "name": "Hicks",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand",
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

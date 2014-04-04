@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.7167,
+      43.2333
+    ]
+  },
+  "properties": {
+    "feet": 13274,
+    "meters": 4046,
+    "latitude": 43.2333,
+    "longitude": 41.7167,
+    "name": "Dombai-Ulgen",
+    "regions": [
+      "Caucasus Mountains",
+      "Western Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

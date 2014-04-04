@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.0,
+      -5.66667
+    ]
+  },
+  "properties": {
+    "feet": 12434,
+    "meters": 3790,
+    "latitude": -5.66667,
+    "longitude": 144.0,
+    "name": "Mt. Hagen",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

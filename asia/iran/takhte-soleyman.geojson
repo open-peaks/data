@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.234859,
+      36.604297
+    ]
+  },
+  "properties": {
+    "feet": 4800,
+    "meters": 1463,
+    "latitude": 36.604297,
+    "longitude": 47.234859,
+    "name": "Takhte Soleyman",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

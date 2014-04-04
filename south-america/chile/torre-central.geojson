@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.95,
+      -50.9
+    ]
+  },
+  "properties": {
+    "feet": 8071,
+    "meters": 2460,
+    "latitude": -50.9,
+    "longitude": -72.95,
+    "name": "Torre Central",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

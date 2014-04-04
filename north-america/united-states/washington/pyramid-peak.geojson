@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.146069,
+      48.674753
+    ]
+  },
+  "properties": {
+    "feet": 7182,
+    "meters": 2189,
+    "latitude": 48.674753,
+    "longitude": -121.146069,
+    "name": "Pyramid Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

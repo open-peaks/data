@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.41667,
+      44.95
+    ]
+  },
+  "properties": {
+    "feet": 12021,
+    "meters": 3664,
+    "latitude": 44.95,
+    "longitude": 6.41667,
+    "name": "Montagne des Agneaux",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.273973,
+      46.76567
+    ]
+  },
+  "properties": {
+    "feet": 7585,
+    "meters": 2312,
+    "latitude": 46.76567,
+    "longitude": -121.273973,
+    "name": "Bismarck Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.036034,
+      48.409406
+    ]
+  },
+  "properties": {
+    "feet": 8280,
+    "meters": 2524,
+    "latitude": 48.409406,
+    "longitude": -121.036034,
+    "name": "Spider Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

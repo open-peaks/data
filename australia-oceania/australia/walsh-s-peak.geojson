@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.8,
+      -17.1293
+    ]
+  },
+  "properties": {
+    "feet": 3025,
+    "meters": 922,
+    "latitude": -17.1293,
+    "longitude": 145.8,
+    "name": "Walsh's Peak",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.5667,
+      -23.3667
+    ]
+  },
+  "properties": {
+    "feet": 18507,
+    "meters": 5641,
+    "latitude": -23.3667,
+    "longitude": -68.5667,
+    "name": "Lascar",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

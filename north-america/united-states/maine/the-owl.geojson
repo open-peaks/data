@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.95,
+      45.9
+    ]
+  },
+  "properties": {
+    "feet": 3736,
+    "meters": 1139,
+    "latitude": 45.9,
+    "longitude": -68.95,
+    "name": "The Owl",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

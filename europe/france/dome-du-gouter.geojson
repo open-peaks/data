@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.853237,
+      45.837889
+    ]
+  },
+  "properties": {
+    "feet": 14121,
+    "meters": 4304,
+    "latitude": 45.837889,
+    "longitude": 6.853237,
+    "name": "Dôme du Goûter",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

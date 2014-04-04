@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.648056,
+      50.455556
+    ]
+  },
+  "properties": {
+    "feet": 3343,
+    "meters": 1019,
+    "latitude": 50.455556,
+    "longitude": 12.648056,
+    "name": "Auersberg",
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

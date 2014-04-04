@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 15088,
+    "meters": 4599,
+    "name": "Pico La Conchita",
+    "regions": [
+      "Andes"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

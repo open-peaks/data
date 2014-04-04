@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.3144,
+      38.5517
+    ]
+  },
+  "properties": {
+    "feet": 3291,
+    "meters": 1003,
+    "latitude": 38.5517,
+    "longitude": -78.3144,
+    "name": "Old Rag Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.123686,
+      42.300111
+    ]
+  },
+  "properties": {
+    "feet": 8407,
+    "meters": 2562,
+    "latitude": 42.300111,
+    "longitude": -120.123686,
+    "name": "Drake Peak",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

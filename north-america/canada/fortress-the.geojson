@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.239,
+      50.8278
+    ]
+  },
+  "properties": {
+    "feet": 9842,
+    "meters": 3000,
+    "latitude": 50.8278,
+    "longitude": -115.239,
+    "name": "Fortress, The",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

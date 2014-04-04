@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.0667,
+      64.0333
+    ]
+  },
+  "properties": {
+    "feet": 5029,
+    "meters": 1533,
+    "latitude": 64.0333,
+    "longitude": -16.0667,
+    "name": "Esjufjöll",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Iceland"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

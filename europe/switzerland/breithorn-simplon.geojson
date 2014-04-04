@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.08401,
+      46.23837
+    ]
+  },
+  "properties": {
+    "feet": 11280,
+    "meters": 3438,
+    "latitude": 46.23837,
+    "longitude": 8.08401,
+    "name": "Breithorn (Simplon)",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

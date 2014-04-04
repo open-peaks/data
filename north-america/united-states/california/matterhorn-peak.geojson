@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.382,
+      38.0933
+    ]
+  },
+  "properties": {
+    "feet": 12264,
+    "meters": 3738,
+    "latitude": 38.0933,
+    "longitude": -119.382,
+    "name": "Matterhorn Peak ",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

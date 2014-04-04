@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.658,
+      -30.018
+    ]
+  },
+  "properties": {
+    "feet": 4948,
+    "meters": 1508,
+    "latitude": -30.018,
+    "longitude": 151.658,
+    "name": "Brothers Mountain",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia",
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

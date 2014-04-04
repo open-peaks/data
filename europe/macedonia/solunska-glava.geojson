@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8333,
+    "meters": 2540,
+    "name": "Solunska Glava",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Macedonia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.1086,
+      35.9558
+    ]
+  },
+  "properties": {
+    "feet": 18602,
+    "meters": 5670,
+    "latitude": 35.9558,
+    "longitude": 52.1086,
+    "name": "Damavand",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

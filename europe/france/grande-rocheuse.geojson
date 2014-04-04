@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.972918,
+      45.934574
+    ]
+  },
+  "properties": {
+    "feet": 13458,
+    "meters": 4102,
+    "latitude": 45.934574,
+    "longitude": 6.972918,
+    "name": "Grande Rocheuse",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

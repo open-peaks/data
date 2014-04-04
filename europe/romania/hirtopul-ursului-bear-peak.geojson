@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8074,
+    "meters": 2461,
+    "name": "Hirtopul Ursului (Bear Peak)",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Transylvanian Alps"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

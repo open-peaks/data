@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -19.65,
+      64.0167
+    ]
+  },
+  "properties": {
+    "feet": 4892,
+    "meters": 1491,
+    "latitude": 64.0167,
+    "longitude": -19.65,
+    "name": "Hekla",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Iceland"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

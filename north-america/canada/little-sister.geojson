@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.331726,
+      51.025093
+    ]
+  },
+  "properties": {
+    "feet": 8839,
+    "meters": 2694,
+    "latitude": 51.025093,
+    "longitude": -115.331726,
+    "name": "Little Sister",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

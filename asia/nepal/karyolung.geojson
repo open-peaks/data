@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.611919,
+      27.733452
+    ]
+  },
+  "properties": {
+    "feet": 21361,
+    "meters": 6511,
+    "latitude": 27.733452,
+    "longitude": 86.611919,
+    "name": "Karyolung",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

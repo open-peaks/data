@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.95,
+      53.2
+    ]
+  },
+  "properties": {
+    "feet": 3091,
+    "meters": 942,
+    "latitude": 53.2,
+    "longitude": -3.95,
+    "name": "Foel Fras",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

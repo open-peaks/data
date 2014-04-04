@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.23508,
+      57.2137
+    ]
+  },
+  "properties": {
+    "feet": 3235,
+    "meters": 986,
+    "latitude": 57.2137,
+    "longitude": -6.23508,
+    "name": "Sgurr Dearg",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

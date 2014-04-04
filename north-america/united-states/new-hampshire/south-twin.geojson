@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.553952,
+      44.188547
+    ]
+  },
+  "properties": {
+    "feet": 4902,
+    "meters": 1494,
+    "latitude": 44.188547,
+    "longitude": -71.553952,
+    "name": "South Twin",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

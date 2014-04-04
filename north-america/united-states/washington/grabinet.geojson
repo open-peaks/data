@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.865445,
+      48.614271
+    ]
+  },
+  "properties": {
+    "feet": 6882,
+    "meters": 2098,
+    "latitude": 48.614271,
+    "longitude": -120.865445,
+    "name": "Grabinet",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.671055,
+      40.591656
+    ]
+  },
+  "properties": {
+    "feet": 11040,
+    "meters": 3365,
+    "latitude": 40.591656,
+    "longitude": -111.671055,
+    "name": "Superior Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

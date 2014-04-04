@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.8,
+      28.2
+    ]
+  },
+  "properties": {
+    "feet": 23239,
+    "meters": 7083,
+    "latitude": 28.2,
+    "longitude": 85.8,
+    "name": "Loengpogang",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

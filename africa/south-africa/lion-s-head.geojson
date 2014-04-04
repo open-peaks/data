@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 2198,
+    "meters": 670,
+    "name": "Lion's Head",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

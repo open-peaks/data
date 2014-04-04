@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.643,
+      39.5886
+    ]
+  },
+  "properties": {
+    "feet": 14264,
+    "meters": 4350,
+    "latitude": 39.5886,
+    "longitude": -105.643,
+    "name": "Mount Evans",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.85,
+      35.4081
+    ]
+  },
+  "properties": {
+    "feet": 10418,
+    "meters": 3175,
+    "latitude": 35.4081,
+    "longitude": -111.85,
+    "name": "Kendrick Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

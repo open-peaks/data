@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8667,
+      47.5667
+    ]
+  },
+  "properties": {
+    "feet": 8553,
+    "meters": 2607,
+    "latitude": 47.5667,
+    "longitude": 12.8667,
+    "name": "Hochkalter",
+    "regions": [
+      "Northern Alps",
+      "Kitzbuhel"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8737,
+    "meters": 2663,
+    "name": "Mount Aurora",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.507034,
+      46.867889
+    ]
+  },
+  "properties": {
+    "feet": 6452,
+    "meters": 1967,
+    "latitude": 46.867889,
+    "longitude": -121.507034,
+    "name": "Naches Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

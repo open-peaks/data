@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.7301,
+      48.6171
+    ]
+  },
+  "properties": {
+    "feet": 8020,
+    "meters": 2444,
+    "latitude": 48.6171,
+    "longitude": -120.7301,
+    "name": "Holliway Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

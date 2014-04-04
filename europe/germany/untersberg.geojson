@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.974854,
+      47.690352
+    ]
+  },
+  "properties": {
+    "feet": 6314,
+    "meters": 1973,
+    "latitude": 47.690352,
+    "longitude": 12.974854,
+    "name": "Untersberg",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.006,
+      43.195
+    ]
+  },
+  "properties": {
+    "feet": 2959,
+    "meters": 902,
+    "latitude": 43.195,
+    "longitude": -3.006,
+    "name": "Gallarraga",
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

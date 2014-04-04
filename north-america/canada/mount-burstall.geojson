@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.325,
+      50.7723
+    ]
+  },
+  "properties": {
+    "feet": 8989,
+    "meters": 2740,
+    "latitude": 50.7723,
+    "longitude": -115.325,
+    "name": "Mount Burstall",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

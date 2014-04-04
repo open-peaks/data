@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.119869,
+      -27.380913
+    ]
+  },
+  "properties": {
+    "feet": 12717,
+    "meters": 3876,
+    "latitude": -27.380913,
+    "longitude": -68.119869,
+    "name": "cerro Tatin",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "countries": [
+      "Argentina",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

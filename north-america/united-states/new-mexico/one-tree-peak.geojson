@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.317,
+      32.7167
+    ]
+  },
+  "properties": {
+    "feet": 7089,
+    "meters": 2161,
+    "latitude": 32.7167,
+    "longitude": -105.317,
+    "name": "One Tree Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 2762,
+    "meters": 842,
+    "name": "Gavea Rock",
+    "regions": [
+      "Brazilian Highlands",
+      "Southern Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

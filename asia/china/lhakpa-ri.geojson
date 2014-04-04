@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.969831,
+      28.037811
+    ]
+  },
+  "properties": {
+    "feet": 23114,
+    "meters": 7045,
+    "latitude": 28.037811,
+    "longitude": 86.969831,
+    "name": "Lhakpa Ri",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "China",
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

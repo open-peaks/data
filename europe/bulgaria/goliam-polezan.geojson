@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.495808,
+      41.725077
+    ]
+  },
+  "properties": {
+    "feet": 9354,
+    "meters": 2851,
+    "latitude": 41.725077,
+    "longitude": 23.495808,
+    "name": "Goliam Polezan",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria",
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

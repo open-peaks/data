@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4167,
+      47.4167
+    ]
+  },
+  "properties": {
+    "feet": 8966,
+    "meters": 2733,
+    "latitude": 47.4167,
+    "longitude": 11.4167,
+    "name": "Kaltwasserkarspitze",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6398,
+    "meters": 1950,
+    "name": "Hallasan",
+    "regions": [
+      "Korea"
+    ],
+    "countries": [
+      "Korea, South",
+      "Korea, South"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

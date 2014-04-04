@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.571121,
+      51.65062
+    ]
+  },
+  "properties": {
+    "feet": 10082,
+    "meters": 3073,
+    "latitude": 51.65062,
+    "longitude": -116.571121,
+    "name": "Habel",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.63942,
+      47.462465
+    ]
+  },
+  "properties": {
+    "feet": 4841,
+    "meters": 1476,
+    "latitude": 47.462465,
+    "longitude": -121.63942,
+    "name": "Mailbox Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

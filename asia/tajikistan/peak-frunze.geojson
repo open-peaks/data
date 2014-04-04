@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 19048,
+    "meters": 5806,
+    "name": "Peak Frunze",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

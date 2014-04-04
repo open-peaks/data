@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.752,
+      36.659
+    ]
+  },
+  "properties": {
+    "feet": 9232,
+    "meters": 2814,
+    "latitude": 36.659,
+    "longitude": 137.752,
+    "name": "Goryu Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

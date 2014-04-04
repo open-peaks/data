@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.682056,
+      49.186728
+    ]
+  },
+  "properties": {
+    "feet": 6903,
+    "meters": 2104,
+    "latitude": 49.186728,
+    "longitude": -121.682056,
+    "name": "Mount Cheam",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

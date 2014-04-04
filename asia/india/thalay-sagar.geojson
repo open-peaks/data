@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 22651,
+    "meters": 6904,
+    "name": "Thalay Sagar",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

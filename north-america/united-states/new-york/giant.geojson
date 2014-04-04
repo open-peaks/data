@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.721094,
+      44.162566
+    ]
+  },
+  "properties": {
+    "feet": 4629,
+    "meters": 1411,
+    "latitude": 44.162566,
+    "longitude": -73.721094,
+    "name": "Giant",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

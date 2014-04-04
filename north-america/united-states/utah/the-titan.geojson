@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.29955,
+      38.71659
+    ]
+  },
+  "properties": {
+    "feet": 6260,
+    "meters": 1908,
+    "latitude": 38.71659,
+    "longitude": -109.29955,
+    "name": "The Titan",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

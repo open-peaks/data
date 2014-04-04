@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.102074,
+      46.60169
+    ]
+  },
+  "properties": {
+    "feet": 11463,
+    "meters": 3494,
+    "latitude": 46.60169,
+    "longitude": 8.102074,
+    "name": "Klein Schreckhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

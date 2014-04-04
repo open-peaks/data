@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.300864,
+      48.95782
+    ]
+  },
+  "properties": {
+    "feet": 8969,
+    "meters": 2734,
+    "latitude": 48.95782,
+    "longitude": -121.300864,
+    "name": "Mount Redoubt",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

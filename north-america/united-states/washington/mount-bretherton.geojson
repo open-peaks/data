@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.210211,
+      47.619558
+    ]
+  },
+  "properties": {
+    "feet": 5960,
+    "meters": 1817,
+    "latitude": 47.619558,
+    "longitude": -123.210211,
+    "name": "Mount Bretherton",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

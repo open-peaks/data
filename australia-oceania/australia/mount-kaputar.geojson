@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      150.167,
+      -30.25
+    ]
+  },
+  "properties": {
+    "feet": 4947,
+    "meters": 1508,
+    "latitude": -30.25,
+    "longitude": 150.167,
+    "name": "Mount Kaputar",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

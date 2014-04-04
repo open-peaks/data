@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.695857,
+      3.343909
+    ]
+  },
+  "properties": {
+    "feet": 13468,
+    "meters": 4105,
+    "latitude": 3.343909,
+    "longitude": -76.695857,
+    "name": "Pico Pance",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

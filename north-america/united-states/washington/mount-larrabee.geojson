@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.648195,
+      48.979016
+    ]
+  },
+  "properties": {
+    "feet": 7861,
+    "meters": 2398,
+    "latitude": 48.979016,
+    "longitude": -121.648195,
+    "name": "Mount Larrabee",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

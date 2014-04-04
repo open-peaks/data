@@ -1,0 +1,788 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.654371,
+          -8.878203
+        ]
+      },
+      "properties": {
+        "feet": 19511,
+        "meters": 5947,
+        "latitude": -8.878203,
+        "longitude": -77.654371,
+        "name": "Alpamayo",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53125,
+          -14.604847
+        ]
+      },
+      "properties": {
+        "feet": 20630,
+        "meters": 6288,
+        "latitude": -14.604847,
+        "longitude": -74.53125,
+        "name": "Ampato",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2308,
+          -13.7881
+        ]
+      },
+      "properties": {
+        "feet": 20945,
+        "meters": 6384,
+        "latitude": -13.7881,
+        "longitude": -71.2308,
+        "name": "Ausangate",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.838,
+          -14.868
+        ]
+      },
+      "properties": {
+        "feet": 6791,
+        "meters": 2070,
+        "latitude": -14.868,
+        "longitude": -74.838,
+        "name": "Cerro Blanco (Sand Dune)",
+        "regions": [
+          "Coastal South America"
+        ],
+        "countries": [
+          "Peru",
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53,
+          -16.191
+        ]
+      },
+      "properties": {
+        "feet": 19872,
+        "meters": 6057,
+        "latitude": -16.191,
+        "longitude": -71.53,
+        "name": "Chachani",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.573905,
+          -9.08718
+        ]
+      },
+      "properties": {
+        "feet": 20846,
+        "meters": 6354,
+        "latitude": -9.08718,
+        "longitude": -77.573905,
+        "name": "Chopicalqui",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.481638,
+          -9.26729
+        ]
+      },
+      "properties": {
+        "feet": 20253,
+        "meters": 6173,
+        "latitude": -9.26729,
+        "longitude": -77.481638,
+        "name": "Copa Norte",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6572,
+          -15.5203
+        ]
+      },
+      "properties": {
+        "feet": 21079,
+        "meters": 6425,
+        "latitude": -15.5203,
+        "longitude": -72.6572,
+        "name": "Coropuna",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4,
+          -16.3
+        ]
+      },
+      "properties": {
+        "feet": 19101,
+        "meters": 5822,
+        "latitude": -16.3,
+        "longitude": -71.4,
+        "name": "El Misti",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.669477,
+          -9.035816
+        ]
+      },
+      "properties": {
+        "feet": 20210,
+        "meters": 6160,
+        "latitude": -9.035816,
+        "longitude": -77.669477,
+        "name": "Huandoy Sur",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.663341,
+          -9.027636
+        ]
+      },
+      "properties": {
+        "feet": 20981,
+        "meters": 6395,
+        "latitude": -9.027636,
+        "longitude": -77.663341,
+        "name": "Huandoy",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          -9.53333
+        ]
+      },
+      "properties": {
+        "feet": 20981,
+        "meters": 6395,
+        "latitude": -9.53333,
+        "longitude": -77.3,
+        "name": "Huantsan",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5333,
+          -13.15
+        ]
+      },
+      "properties": {
+        "feet": 9100,
+        "meters": 2774,
+        "latitude": -13.15,
+        "longitude": -72.5333,
+        "name": "Huanya Picchu",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.604246,
+          -9.121504
+        ]
+      },
+      "properties": {
+        "feet": 22204,
+        "meters": 6768,
+        "latitude": -9.121504,
+        "longitude": -77.604246,
+        "name": "Huascaran",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4319,
+          -10.3297
+        ]
+      },
+      "properties": {
+        "feet": 20099,
+        "meters": 6126,
+        "latitude": -10.3297,
+        "longitude": -76.4319,
+        "name": "Jirishanca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.384992,
+          -9.377226
+        ]
+      },
+      "properties": {
+        "feet": 17388,
+        "meters": 5300,
+        "latitude": -9.377226,
+        "longitude": -77.384992,
+        "name": "Milpocraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8936,
+          -15.41
+        ]
+      },
+      "properties": {
+        "feet": 19990,
+        "meters": 6093,
+        "latitude": -15.41,
+        "longitude": -72.8936,
+        "name": "Nevado Solimana",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3847,
+          -13.1772
+        ]
+      },
+      "properties": {
+        "feet": 19100,
+        "meters": 5822,
+        "latitude": -13.1772,
+        "longitude": -72.3847,
+        "name": "Nevado Veronica",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.050668,
+          -11.96649
+        ]
+      },
+      "properties": {
+        "feet": 18865,
+        "meters": 5750,
+        "latitude": -11.96649,
+        "longitude": -76.050668,
+        "name": "Pariacaca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2533,
+          -16.4414
+        ]
+      },
+      "properties": {
+        "feet": 18583,
+        "meters": 5664,
+        "latitude": -16.4414,
+        "longitude": -71.2533,
+        "name": "Picchu Picchu",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.008099,
+          -13.177526
+        ]
+      },
+      "properties": {
+        "feet": 19915,
+        "meters": 6070,
+        "latitude": -13.177526,
+        "longitude": -73.008099,
+        "name": "Pumasillo",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.665272,
+          -8.89847
+        ]
+      },
+      "properties": {
+        "feet": 19816,
+        "meters": 6040,
+        "latitude": -8.89847,
+        "longitude": -77.665272,
+        "name": "Quitaraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4,
+          -9.41667
+        ]
+      },
+      "properties": {
+        "feet": 20216,
+        "meters": 6162,
+        "latitude": -9.41667,
+        "longitude": -77.4,
+        "name": "Ranrapalca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545214,
+          -13.333085
+        ]
+      },
+      "properties": {
+        "feet": 20574,
+        "meters": 6271,
+        "latitude": -13.333085,
+        "longitude": -72.545214,
+        "name": "Salcantay",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8833,
+          -10.2833
+        ]
+      },
+      "properties": {
+        "feet": 2115,
+        "meters": 6344,
+        "latitude": -10.2833,
+        "longitude": -76.8833,
+        "name": "Siula Grande",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5333,
+          -9.51667
+        ]
+      },
+      "properties": {
+        "feet": 18654,
+        "meters": 5686,
+        "latitude": -9.51667,
+        "longitude": -77.5333,
+        "name": "Vallunaraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.485844,
+          -9.29177
+        ]
+      },
+      "properties": {
+        "feet": 17438,
+        "meters": 5315,
+        "latitude": -9.29177,
+        "longitude": -77.485844,
+        "name": "Vicos",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.576652,
+          -9.027054
+        ]
+      },
+      "properties": {
+        "feet": 17913,
+        "meters": 5460,
+        "latitude": -9.027054,
+        "longitude": -77.576652,
+        "name": "Yanapaccha",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          -10.2667
+        ]
+      },
+      "properties": {
+        "feet": 21765,
+        "meters": 6634,
+        "latitude": -10.2667,
+        "longitude": -76.9,
+        "name": "Yerupaja",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

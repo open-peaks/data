@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.539133,
+      43.26866
+    ]
+  },
+  "properties": {
+    "feet": 11585,
+    "meters": 3531,
+    "latitude": 43.26866,
+    "longitude": 42.539133,
+    "name": "Itkol Peak",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

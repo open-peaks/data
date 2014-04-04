@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.238937,
+      48.291645
+    ]
+  },
+  "properties": {
+    "feet": 6500,
+    "meters": 1981,
+    "latitude": 48.291645,
+    "longitude": -121.238937,
+    "name": "Green Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

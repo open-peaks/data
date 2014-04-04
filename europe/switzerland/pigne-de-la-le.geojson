@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.61099,
+      46.08344
+    ]
+  },
+  "properties": {
+    "feet": 11142,
+    "meters": 3396,
+    "latitude": 46.08344,
+    "longitude": 7.61099,
+    "name": "Pigne de la Lé",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

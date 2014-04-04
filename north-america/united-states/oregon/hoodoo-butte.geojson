@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.884226,
+      44.401786
+    ]
+  },
+  "properties": {
+    "feet": 5702,
+    "meters": 1738,
+    "latitude": 44.401786,
+    "longitude": -121.884226,
+    "name": "Hoodoo Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.7899,
+      27.9595
+    ]
+  },
+  "properties": {
+    "feet": 20075,
+    "meters": 6119,
+    "latitude": 27.9595,
+    "longitude": 86.7899,
+    "name": "Lobuche East",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

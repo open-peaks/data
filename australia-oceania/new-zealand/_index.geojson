@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.167,
+          -43.6
+        ]
+      },
+      "properties": {
+        "feet": 12316,
+        "meters": 3754,
+        "latitude": -43.6,
+        "longitude": 170.167,
+        "name": "Aoraki/Mount Cook",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.4,
+          -45.6167
+        ]
+      },
+      "properties": {
+        "feet": 9285,
+        "meters": 2830,
+        "latitude": -45.6167,
+        "longitude": 168.4,
+        "name": "Earnslaw",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.917,
+          -44.6667
+        ]
+      },
+      "properties": {
+        "feet": 6562,
+        "meters": 2000,
+        "latitude": -44.6667,
+        "longitude": 167.917,
+        "name": "Mitre Peak",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.733,
+          -44.3833
+        ]
+      },
+      "properties": {
+        "feet": 9931,
+        "meters": 3027,
+        "latitude": -44.3833,
+        "longitude": 168.733,
+        "name": "Mount Aspiring",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.370312,
+          -44.866333
+        ]
+      },
+      "properties": {
+        "feet": 6350,
+        "meters": 1935,
+        "latitude": -44.866333,
+        "longitude": 170.370312,
+        "name": "Mount Domett",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.764167,
+          -36.879722
+        ]
+      },
+      "properties": {
+        "feet": 643,
+        "meters": 196,
+        "latitude": -36.879722,
+        "longitude": 174.764167,
+        "name": "Mount Eden",
+        "regions": [
+          "New Zealand",
+          "North Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.067,
+          -39.3
+        ]
+      },
+      "properties": {
+        "feet": 8261,
+        "meters": 2518,
+        "latitude": -39.3,
+        "longitude": 174.067,
+        "name": "Mount Egmont (Taranaki)",
+        "regions": [
+          "New Zealand",
+          "North Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.283333,
+          -43.583333
+        ]
+      },
+      "properties": {
+        "feet": 9199,
+        "meters": 2804,
+        "latitude": -43.583333,
+        "longitude": 170.283333,
+        "name": "Mount Nathan",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.5,
+          -42.9167
+        ]
+      },
+      "properties": {
+        "feet": 7464,
+        "meters": 2275,
+        "latitude": -42.9167,
+        "longitude": 171.5,
+        "name": "Mount Rolleston",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.15,
+          -43.5667
+        ]
+      },
+      "properties": {
+        "feet": 11476,
+        "meters": 3498,
+        "latitude": -43.5667,
+        "longitude": 170.15,
+        "name": "Mount Tasman",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.367,
+          -43.5167
+        ]
+      },
+      "properties": {
+        "feet": 8855,
+        "meters": 2699,
+        "latitude": -43.5167,
+        "longitude": 170.367,
+        "name": "Mt Aylmer",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.65,
+          -41.9833
+        ]
+      },
+      "properties": {
+        "feet": 9465,
+        "meters": 2885,
+        "latitude": -41.9833,
+        "longitude": 173.65,
+        "name": "Mt Tapuaenuku",
+        "regions": [
+          "New Zealand",
+          "South Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.561523,
+          -39.289804
+        ]
+      },
+      "properties": {
+        "feet": 9175,
+        "meters": 2796,
+        "latitude": -39.289804,
+        "longitude": 175.561523,
+        "name": "Ruapehu",
+        "regions": [
+          "New Zealand",
+          "North Island"
+        ],
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.147324,
+          -43.639802
+        ]
+      },
+      "properties": {
+        "feet": 7671,
+        "meters": 2338,
+        "latitude": -43.639802,
+        "longitude": 170.147324,
+        "name": "Turner peak",
+        "countries": [
+          "New Zealand"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

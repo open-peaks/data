@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.711914,
+      53.761702
+    ]
+  },
+  "properties": {
+    "feet": 2493,
+    "meters": 760,
+    "latitude": 53.761702,
+    "longitude": -9.711914,
+    "name": "Croagh Patrick",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Ireland "
+    ],
+    "countries": [
+      "Ireland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

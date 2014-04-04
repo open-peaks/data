@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.0,
+      37.0
+    ]
+  },
+  "properties": {
+    "feet": 9383,
+    "meters": 2860,
+    "latitude": 37.0,
+    "longitude": 46.0,
+    "name": "Misho",
+    "regions": [
+      "Iranian Plateau",
+      "Northwest Iran Ranges"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

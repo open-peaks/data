@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.06,
+      44.16
+    ]
+  },
+  "properties": {
+    "feet": 10190,
+    "meters": 3106,
+    "latitude": 44.16,
+    "longitude": -115.06,
+    "name": "Mount Regan",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.633,
+      19.55
+    ]
+  },
+  "properties": {
+    "feet": 14600,
+    "meters": 4450,
+    "latitude": 19.55,
+    "longitude": -103.633,
+    "name": "Nevado de Colima",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

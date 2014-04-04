@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37337,
+      46.04267
+    ]
+  },
+  "properties": {
+    "feet": 10873,
+    "meters": 3314,
+    "latitude": 46.04267,
+    "longitude": 7.37337,
+    "name": "Rochers du Bouc",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

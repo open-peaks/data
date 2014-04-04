@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.2833,
+      30.4333
+    ]
+  },
+  "properties": {
+    "feet": 25242,
+    "meters": 7694,
+    "latitude": 30.4333,
+    "longitude": 81.2833,
+    "name": "Gurla Mandata",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

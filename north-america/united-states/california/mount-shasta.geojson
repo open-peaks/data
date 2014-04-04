@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.195048,
+      41.409357
+    ]
+  },
+  "properties": {
+    "feet": 14162,
+    "meters": 4317,
+    "latitude": 41.409357,
+    "longitude": -122.195048,
+    "name": "Mount Shasta",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

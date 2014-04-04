@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9869,
+      44.1436
+    ]
+  },
+  "properties": {
+    "feet": 5114,
+    "meters": 1559,
+    "latitude": 44.1436,
+    "longitude": -73.9869,
+    "name": "Algonquin Peak",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

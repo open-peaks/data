@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.095893,
+      35.598997
+    ]
+  },
+  "properties": {
+    "feet": 7795,
+    "meters": 2376,
+    "latitude": 35.598997,
+    "longitude": -107.095893,
+    "name": "Cabezon Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

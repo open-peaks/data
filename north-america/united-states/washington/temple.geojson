@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.415062,
+      47.70309
+    ]
+  },
+  "properties": {
+    "feet": 3407,
+    "meters": 1038,
+    "latitude": 47.70309,
+    "longitude": -121.415062,
+    "name": "Temple",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

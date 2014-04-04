@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.516667,
+      40.283333
+    ]
+  },
+  "properties": {
+    "feet": 11428,
+    "meters": 3483,
+    "latitude": 40.283333,
+    "longitude": -105.516667,
+    "name": "Twin Sisters",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

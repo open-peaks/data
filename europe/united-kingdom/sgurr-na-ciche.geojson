@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.45617,
+      57.0135
+    ]
+  },
+  "properties": {
+    "feet": 3412,
+    "meters": 1040,
+    "latitude": 57.0135,
+    "longitude": -5.45617,
+    "name": "Sgurr na Ciche",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

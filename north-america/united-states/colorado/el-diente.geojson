@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.005,
+      37.8394
+    ]
+  },
+  "properties": {
+    "feet": 14159,
+    "meters": 4316,
+    "latitude": 37.8394,
+    "longitude": -108.005,
+    "name": "El Diente",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

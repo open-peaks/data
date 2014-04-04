@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.437,
+      38.9149
+    ]
+  },
+  "properties": {
+    "feet": 13951,
+    "meters": 4346,
+    "latitude": 38.9149,
+    "longitude": -106.437,
+    "name": "Ice Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

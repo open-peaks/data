@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.08136,
+      43.12229
+    ]
+  },
+  "properties": {
+    "feet": 7589,
+    "meters": 2313,
+    "latitude": 43.12229,
+    "longitude": 19.08136,
+    "name": "Savin kuk",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

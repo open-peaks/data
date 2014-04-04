@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.8831,
+      35.8908
+    ]
+  },
+  "properties": {
+    "feet": 3890,
+    "meters": 1186,
+    "latitude": 35.8908,
+    "longitude": -81.8831,
+    "name": "Table Rock",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

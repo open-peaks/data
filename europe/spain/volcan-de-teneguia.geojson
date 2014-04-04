@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.851882,
+      28.472011
+    ]
+  },
+  "properties": {
+    "feet": 1440,
+    "meters": 439,
+    "latitude": 28.472011,
+    "longitude": -17.851882,
+    "name": "Volcan de Teneguia",
+    "regions": [
+      "Mid-Atlantic Islands",
+      "Canary Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

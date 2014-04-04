@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.467,
+      36.7667
+    ]
+  },
+  "properties": {
+    "feet": 10700,
+    "meters": 3261,
+    "latitude": 36.7667,
+    "longitude": -118.467,
+    "name": "Charlotte Dome",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

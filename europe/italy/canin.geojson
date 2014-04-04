@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8481,
+    "meters": 2585,
+    "name": "Canin",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Italy",
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

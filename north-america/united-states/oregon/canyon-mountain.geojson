@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.67418,
+      45.601035
+    ]
+  },
+  "properties": {
+    "feet": 7999,
+    "meters": 2438,
+    "latitude": 45.601035,
+    "longitude": -110.67418,
+    "name": "Canyon Mountain",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

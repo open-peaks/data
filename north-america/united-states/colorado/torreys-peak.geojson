@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.821,
+      39.6428
+    ]
+  },
+  "properties": {
+    "feet": 14267,
+    "meters": 4349,
+    "latitude": 39.6428,
+    "longitude": -105.821,
+    "name": "Torreys Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

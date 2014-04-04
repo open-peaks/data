@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.814178,
+      47.755252
+    ]
+  },
+  "properties": {
+    "feet": 5845,
+    "meters": 1782,
+    "latitude": 47.755252,
+    "longitude": 12.814178,
+    "name": "Zwiesel",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

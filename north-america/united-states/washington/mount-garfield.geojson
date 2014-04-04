@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.49334,
+      47.552867
+    ]
+  },
+  "properties": {
+    "feet": 5519,
+    "meters": 1682,
+    "latitude": 47.552867,
+    "longitude": -121.49334,
+    "name": "Mount Garfield",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

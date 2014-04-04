@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.410298,
+      35.591645
+    ]
+  },
+  "properties": {
+    "feet": 20341,
+    "meters": 6200,
+    "latitude": 35.591645,
+    "longitude": 76.410298,
+    "name": "Laila Peak",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.777349,
+      35.065146
+    ]
+  },
+  "properties": {
+    "feet": 3560,
+    "meters": 1085,
+    "latitude": 35.065146,
+    "longitude": -82.777349,
+    "name": "Sassafras Mountain",
+    "states": [
+      "South Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

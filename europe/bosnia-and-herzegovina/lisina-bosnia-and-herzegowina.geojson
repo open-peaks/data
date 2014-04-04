@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9,
+      44.8555
+    ]
+  },
+  "properties": {
+    "feet": 3205,
+    "meters": 977,
+    "latitude": 44.8555,
+    "longitude": 16.9,
+    "name": "Lisina, Bosnia and Herzegowina",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

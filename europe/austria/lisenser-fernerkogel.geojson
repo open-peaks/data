@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1167,
+      47.0833
+    ]
+  },
+  "properties": {
+    "feet": 10823,
+    "meters": 3299,
+    "latitude": 47.0833,
+    "longitude": 11.1167,
+    "name": "Lisenser Fernerkogel",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

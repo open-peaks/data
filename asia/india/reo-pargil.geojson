@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.735624,
+      31.884373
+    ]
+  },
+  "properties": {
+    "feet": 22362,
+    "meters": 6816,
+    "latitude": 31.884373,
+    "longitude": 78.735624,
+    "name": "Reo pargil",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

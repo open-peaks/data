@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.113992,
+      48.111227
+    ]
+  },
+  "properties": {
+    "feet": 10541,
+    "meters": 3213,
+    "latitude": 48.111227,
+    "longitude": -121.113992,
+    "name": "Glacier Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

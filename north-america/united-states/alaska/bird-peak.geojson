@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.285,
+      61.0022
+    ]
+  },
+  "properties": {
+    "feet": 5505,
+    "meters": 1678,
+    "latitude": 61.0022,
+    "longitude": -149.285,
+    "name": "Bird Peak",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

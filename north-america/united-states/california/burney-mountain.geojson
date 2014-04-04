@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.627931,
+      40.806569
+    ]
+  },
+  "properties": {
+    "feet": 7863,
+    "latitude": 40.806569,
+    "longitude": -121.627931,
+    "name": "Burney Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

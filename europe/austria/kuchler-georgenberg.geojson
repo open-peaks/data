@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1788,
+    "meters": 545,
+    "name": "Kuchler Georgenberg",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

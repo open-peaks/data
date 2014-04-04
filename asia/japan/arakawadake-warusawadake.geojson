@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.182173,
+      35.49974
+    ]
+  },
+  "properties": {
+    "feet": 10305,
+    "meters": 3141,
+    "latitude": 35.49974,
+    "longitude": 138.182173,
+    "name": "Arakawadake (Warusawadake)",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

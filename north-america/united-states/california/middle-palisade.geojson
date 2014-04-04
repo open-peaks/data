@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.467,
+      37.0667
+    ]
+  },
+  "properties": {
+    "feet": 14040,
+    "meters": 4279,
+    "latitude": 37.0667,
+    "longitude": -118.467,
+    "name": "Middle Palisade",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

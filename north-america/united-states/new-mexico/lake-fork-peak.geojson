@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.433,
+      36.5333
+    ]
+  },
+  "properties": {
+    "feet": 12881,
+    "meters": 3926,
+    "latitude": 36.5333,
+    "longitude": -105.433,
+    "name": "Lake Fork Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

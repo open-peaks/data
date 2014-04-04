@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.162,
+      36.4782
+    ]
+  },
+  "properties": {
+    "feet": 11741,
+    "meters": 3579,
+    "latitude": 36.4782,
+    "longitude": -105.162,
+    "name": "Mount Phillips",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

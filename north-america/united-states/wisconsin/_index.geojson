@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1951,
+          45.4511
+        ]
+      },
+      "properties": {
+        "feet": 1952,
+        "meters": 595,
+        "latitude": 45.4511,
+        "longitude": -90.1951,
+        "name": "Timms Hill",
+        "regions": [
+          "North American Plains",
+          "Midwest-Great Lakes Area"
+        ],
+        "states": [
+          "Wisconsin"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

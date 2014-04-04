@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.033,
+      61.4756
+    ]
+  },
+  "properties": {
+    "feet": 6500,
+    "meters": 1981,
+    "latitude": 61.4756,
+    "longitude": -149.033,
+    "name": "Pioneer Peak",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.74771,
+      49.197326
+    ]
+  },
+  "properties": {
+    "feet": 6969,
+    "meters": 2124,
+    "latitude": 49.197326,
+    "longitude": 19.74771,
+    "name": "Placlivo",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

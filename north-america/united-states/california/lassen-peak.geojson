@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.504,
+      40.4878
+    ]
+  },
+  "properties": {
+    "feet": 10457,
+    "meters": 3187,
+    "latitude": 40.4878,
+    "longitude": -121.504,
+    "name": "Lassen Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

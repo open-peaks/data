@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.606,
+      37.9803
+    ]
+  },
+  "properties": {
+    "feet": 14080,
+    "meters": 4292,
+    "latitude": 37.9803,
+    "longitude": -105.606,
+    "name": "Challenger Point",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

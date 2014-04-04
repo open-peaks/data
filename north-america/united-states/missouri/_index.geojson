@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.729144,
+          37.571301
+        ]
+      },
+      "properties": {
+        "feet": 1779,
+        "meters": 542,
+        "latitude": 37.571301,
+        "longitude": -90.729144,
+        "name": "Taum Sauk",
+        "states": [
+          "Missouri"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.342441,
+      5.134334
+    ]
+  },
+  "properties": {
+    "feet": 7123,
+    "meters": 2171,
+    "latitude": 5.134334,
+    "longitude": 101.342441,
+    "name": "Gunung Chamah",
+    "regions": [
+      "Southeast Asia",
+      "Malay Peninsula"
+    ],
+    "countries": [
+      "Malaysia",
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

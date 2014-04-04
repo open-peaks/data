@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.786626,
+      44.082992
+    ]
+  },
+  "properties": {
+    "feet": 4856,
+    "meters": 1480,
+    "latitude": 44.082992,
+    "longitude": -73.786626,
+    "name": "Dix",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

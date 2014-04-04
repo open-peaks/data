@@ -1,0 +1,1432 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.861111,
+          27.861111
+        ]
+      },
+      "properties": {
+        "feet": 22494,
+        "meters": 6856,
+        "latitude": 27.861111,
+        "longitude": 86.861111,
+        "name": "Ama Dablam",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.121799,
+          28.534766
+        ]
+      },
+      "properties": {
+        "feet": 26040,
+        "meters": 7937,
+        "latitude": 28.534766,
+        "longitude": 84.121799,
+        "name": "Annapurna 2",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.805857,
+          28.518629
+        ]
+      },
+      "properties": {
+        "feet": 23684,
+        "meters": 7219,
+        "latitude": 28.518629,
+        "longitude": 83.805857,
+        "name": "Annapurna South",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.989921,
+          28.584823
+        ]
+      },
+      "properties": {
+        "feet": 26545,
+        "meters": 8091,
+        "latitude": 28.584823,
+        "longitude": 83.989921,
+        "name": "Annapurna",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9333,
+          30.0
+        ]
+      },
+      "properties": {
+        "feet": 23399,
+        "meters": 7132,
+        "latitude": 30.0,
+        "longitude": 80.9333,
+        "name": "Api",
+        "regions": [
+          "Himalaya ",
+          "Western Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5325,
+          28.1671
+        ]
+      },
+      "properties": {
+        "feet": 18760,
+        "meters": 5718,
+        "latitude": 28.1671,
+        "longitude": 85.5325,
+        "name": "Baden-Powell Peak",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.980043,
+          27.871636
+        ]
+      },
+      "properties": {
+        "feet": 23687,
+        "meters": 7220,
+        "latitude": 27.871636,
+        "longitude": 86.980043,
+        "name": "Baruntse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.97979,
+          27.775456
+        ]
+      },
+      "properties": {
+        "feet": 24152,
+        "meters": 7319,
+        "latitude": 27.775456,
+        "longitude": 86.97979,
+        "name": "Chamlang",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6608,
+          28.094092
+        ]
+      },
+      "properties": {
+        "feet": 26906,
+        "meters": 8201,
+        "latitude": 28.094092,
+        "longitude": 86.6608,
+        "name": "Cho Oyu",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.766071,
+          27.919952
+        ]
+      },
+      "properties": {
+        "feet": 21128,
+        "meters": 6440,
+        "latitude": 27.919952,
+        "longitude": 86.766071,
+        "name": "Cholatse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.108056,
+          27.93
+        ]
+      },
+      "properties": {
+        "feet": 25650,
+        "meters": 7818,
+        "latitude": 27.93,
+        "longitude": 87.108056,
+        "name": "Chomo Lonzo",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0851,
+          28.7311
+        ]
+      },
+      "properties": {
+        "feet": 19879,
+        "meters": 6059,
+        "latitude": 28.7311,
+        "longitude": 84.0851,
+        "name": "Chulu (Far) East",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          28.7
+        ]
+      },
+      "properties": {
+        "feet": 26794,
+        "meters": 8167,
+        "latitude": 28.7,
+        "longitude": 83.5,
+        "name": "Dhaulagiri",
+        "regions": [
+          "Himalaya ",
+          "Western Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.126963,
+          28.391551
+        ]
+      },
+      "properties": {
+        "feet": 24373,
+        "meters": 7429,
+        "latitude": 28.391551,
+        "longitude": 85.126963,
+        "name": "Ganesh Himal",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.963475,
+          28.605339
+        ]
+      },
+      "properties": {
+        "feet": 24754,
+        "meters": 7545,
+        "latitude": 28.605339,
+        "longitude": 83.963475,
+        "name": "Gangapurna",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.683214,
+          27.962089
+        ]
+      },
+      "properties": {
+        "feet": 17519,
+        "meters": 5357,
+        "latitude": 27.962089,
+        "longitude": 86.683214,
+        "name": "Gokyo Ri",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.75,
+          28.1
+        ]
+      },
+      "properties": {
+        "feet": 26089,
+        "meters": 7952,
+        "latitude": 28.1,
+        "longitude": 86.75,
+        "name": "Gyachung Kang",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0458,
+          27.6828
+        ]
+      },
+      "properties": {
+        "feet": 25295,
+        "meters": 7710,
+        "latitude": 27.6828,
+        "longitude": 88.0458,
+        "name": "Jannu",
+        "regions": [
+          "Himalaya ",
+          "Sikkim-Eastern Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.828417,
+          27.995833
+        ]
+      },
+      "properties": {
+        "feet": 18192,
+        "meters": 5545,
+        "latitude": 27.995833,
+        "longitude": 86.828417,
+        "name": "Kala Pattar",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1105,
+          27.7166
+        ]
+      },
+      "properties": {
+        "feet": 25781,
+        "meters": 7858,
+        "latitude": 27.7166,
+        "longitude": 88.1105,
+        "name": "Kangbachen",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.136616,
+          27.705187
+        ]
+      },
+      "properties": {
+        "feet": 27904,
+        "meters": 8505,
+        "latitude": 27.705187,
+        "longitude": 88.136616,
+        "name": "Kangchenjunga West",
+        "regions": [
+          "Himalaya ",
+          "Sikkim-Eastern Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1483,
+          27.7025
+        ]
+      },
+      "properties": {
+        "feet": 28169,
+        "meters": 8586,
+        "latitude": 27.7025,
+        "longitude": 88.1483,
+        "name": "Kangchenjunga",
+        "regions": [
+          "Himalaya ",
+          "Sikkim-Eastern Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.789031,
+          27.730869
+        ]
+      },
+      "properties": {
+        "feet": 22898,
+        "meters": 6979,
+        "latitude": 27.730869,
+        "longitude": 86.789031,
+        "name": "Kangguru",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8167,
+          27.7833
+        ]
+      },
+      "properties": {
+        "feet": 22250,
+        "meters": 6782,
+        "latitude": 27.7833,
+        "longitude": 86.8167,
+        "name": "Kangtega",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.778549,
+          29.368114
+        ]
+      },
+      "properties": {
+        "feet": 22582,
+        "meters": 6883,
+        "latitude": 29.368114,
+        "longitude": 82.778549,
+        "name": "Kanjiroba",
+        "regions": [
+          "Himalaya ",
+          "Western Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.611919,
+          27.733452
+        ]
+      },
+      "properties": {
+        "feet": 21361,
+        "meters": 6511,
+        "latitude": 27.733452,
+        "longitude": 86.611919,
+        "name": "Karyolung",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.816025,
+          28.01956
+        ]
+      },
+      "properties": {
+        "feet": 22346,
+        "meters": 6811,
+        "latitude": 28.01956,
+        "longitude": 86.816025,
+        "name": "Khangri Shar",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.788816,
+          27.730793
+        ]
+      },
+      "properties": {
+        "feet": 20888,
+        "meters": 6367,
+        "latitude": 27.730793,
+        "longitude": 86.788816,
+        "name": "Kusum Kangguru",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.610447,
+          28.202465
+        ]
+      },
+      "properties": {
+        "feet": 14272,
+        "meters": 4350,
+        "latitude": 28.202465,
+        "longitude": 85.610447,
+        "name": "Kyangjin",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.593667,
+          28.214945
+        ]
+      },
+      "properties": {
+        "feet": 15157,
+        "meters": 4620,
+        "latitude": 28.214945,
+        "longitude": 85.593667,
+        "name": "Kyimoshung Ri",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7136,
+          28.2169
+        ]
+      },
+      "properties": {
+        "feet": 21086,
+        "meters": 6427,
+        "latitude": 28.2169,
+        "longitude": 85.7136,
+        "name": "Langshisha Ri",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.519444,
+          28.256111
+        ]
+      },
+      "properties": {
+        "feet": 23711,
+        "meters": 7227,
+        "latitude": 28.256111,
+        "longitude": 85.519444,
+        "name": "Langtang Lirung",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.95,
+          27.9667
+        ]
+      },
+      "properties": {
+        "feet": 27559,
+        "meters": 8400,
+        "latitude": 27.9667,
+        "longitude": 86.95,
+        "name": "Lhotse Shar",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9333,
+          27.9667
+        ]
+      },
+      "properties": {
+        "feet": 27940,
+        "meters": 8516,
+        "latitude": 27.9667,
+        "longitude": 86.9333,
+        "name": "Lhotse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7899,
+          27.9595
+        ]
+      },
+      "properties": {
+        "feet": 20075,
+        "meters": 6119,
+        "latitude": 27.9595,
+        "longitude": 86.7899,
+        "name": "Lobuche East",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8,
+          28.2
+        ]
+      },
+      "properties": {
+        "feet": 23239,
+        "meters": 7083,
+        "latitude": 28.2,
+        "longitude": 85.8,
+        "name": "Loengpogang",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.089396,
+          27.889915
+        ]
+      },
+      "properties": {
+        "feet": 27765,
+        "meters": 8462,
+        "latitude": 27.889915,
+        "longitude": 87.089396,
+        "name": "Makalu",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.559536,
+          28.549959
+        ]
+      },
+      "properties": {
+        "feet": 26758,
+        "meters": 8156,
+        "latitude": 28.549959,
+        "longitude": 84.559536,
+        "name": "Manaslu",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9253,
+          27.9881
+        ]
+      },
+      "properties": {
+        "feet": 29035,
+        "meters": 8850,
+        "latitude": 27.9881,
+        "longitude": 86.9253,
+        "name": "Mount Everest",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8337,
+          27.904
+        ]
+      },
+      "properties": {
+        "feet": 16676,
+        "meters": 5083,
+        "latitude": 27.904,
+        "longitude": -86.8337,
+        "name": "Nangkartshang Peak",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5481,
+          28.1786
+        ]
+      },
+      "properties": {
+        "feet": 19180,
+        "meters": 5846,
+        "latitude": 28.1786,
+        "longitude": 83.5481,
+        "name": "Naya Kanga",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5675,
+          28.5033
+        ]
+      },
+      "properties": {
+        "feet": 25823,
+        "meters": 7871,
+        "latitude": 28.5033,
+        "longitude": 84.5675,
+        "name": "Ngadi Chuli",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.883273,
+          27.968479
+        ]
+      },
+      "properties": {
+        "feet": 25790,
+        "meters": 7861,
+        "latitude": 27.968479,
+        "longitude": 86.883273,
+        "name": "Nuptse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6667,
+          27.9167
+        ]
+      },
+      "properties": {
+        "feet": 19741,
+        "meters": 6017,
+        "latitude": 27.9167,
+        "longitude": 86.6667,
+        "name": "Pharilapcha",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4667,
+          27.5167
+        ]
+      },
+      "properties": {
+        "feet": 13336,
+        "meters": 4065,
+        "latitude": 27.5167,
+        "longitude": 86.4667,
+        "name": "Pike",
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8333,
+          27.9333
+        ]
+      },
+      "properties": {
+        "feet": 19009,
+        "meters": 5794,
+        "latitude": 27.9333,
+        "longitude": 86.8333,
+        "name": "Pokhalde",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.419873,
+          27.813913
+        ]
+      },
+      "properties": {
+        "feet": 19439,
+        "meters": 5925,
+        "latitude": 27.813913,
+        "longitude": 86.419873,
+        "name": "Ramdung",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0333,
+          27.8333
+        ]
+      },
+      "properties": {
+        "feet": 24997,
+        "meters": 7619,
+        "latitude": 27.8333,
+        "longitude": 81.0333,
+        "name": "Saipal",
+        "regions": [
+          "Himalaya ",
+          "Western Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.025556,
+          28.743333
+        ]
+      },
+      "properties": {
+        "feet": 20820,
+        "meters": 6346,
+        "latitude": 28.743333,
+        "longitude": 84.025556,
+        "name": "Saribung",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8639,
+          27.8617
+        ]
+      },
+      "properties": {
+        "feet": 21729,
+        "meters": 6623,
+        "latitude": 27.8617,
+        "longitude": 86.8639,
+        "name": "Thamserku",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5833,
+          28.25
+        ]
+      },
+      "properties": {
+        "feet": 19685,
+        "meters": 6000,
+        "latitude": 28.25,
+        "longitude": 85.5833,
+        "name": "Thapa Peak",
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.519209,
+          28.064558
+        ]
+      },
+      "properties": {
+        "feet": 12400,
+        "meters": 3780,
+        "latitude": 28.064558,
+        "longitude": 85.519209,
+        "name": "Tharepati",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6167,
+          28.25
+        ]
+      },
+      "properties": {
+        "feet": 18110,
+        "meters": 5520,
+        "latitude": 28.25,
+        "longitude": 85.6167,
+        "name": "Yala Peak",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.978727,
+      42.555736
+    ]
+  },
+  "properties": {
+    "feet": 9675,
+    "meters": 2949,
+    "latitude": 42.555736,
+    "longitude": 0.978727,
+    "name": "Subenuix",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

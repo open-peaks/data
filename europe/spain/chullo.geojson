@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.000126,
+      37.095169
+    ]
+  },
+  "properties": {
+    "feet": 8563,
+    "meters": 2610,
+    "latitude": 37.095169,
+    "longitude": -3.000126,
+    "name": "Chullo",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

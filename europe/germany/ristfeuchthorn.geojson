@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.783022,
+      47.695321
+    ]
+  },
+  "properties": {
+    "feet": 5136,
+    "meters": 1565,
+    "latitude": 47.695321,
+    "longitude": 12.783022,
+    "name": "Ristfeuchthorn",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.406208,
+      47.274075
+    ]
+  },
+  "properties": {
+    "feet": 6742,
+    "meters": 2055,
+    "latitude": 47.274075,
+    "longitude": -120.406208,
+    "name": "Wenatchee Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

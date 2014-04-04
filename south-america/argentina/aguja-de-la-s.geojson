@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.05,
+      -49.3
+    ]
+  },
+  "properties": {
+    "feet": 7661,
+    "meters": 2335,
+    "latitude": -49.3,
+    "longitude": -73.05,
+    "name": "Aguja De La S",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

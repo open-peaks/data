@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.190857,
+      43.031308
+    ]
+  },
+  "properties": {
+    "feet": 7192,
+    "meters": 2192,
+    "latitude": 43.031308,
+    "longitude": -5.190857,
+    "name": "Mampodre",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

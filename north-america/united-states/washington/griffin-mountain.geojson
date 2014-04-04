@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.979957,
+      46.655328
+    ]
+  },
+  "properties": {
+    "feet": 5283,
+    "meters": 1610,
+    "latitude": 46.655328,
+    "longitude": -121.979957,
+    "name": "Griffin Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

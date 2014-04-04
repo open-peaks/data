@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1167,
+      41.1
+    ]
+  },
+  "properties": {
+    "feet": 7067,
+    "meters": 2154,
+    "latitude": 41.1,
+    "longitude": 22.1167,
+    "name": "Pinovo",
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

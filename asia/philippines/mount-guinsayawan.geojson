@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.148764,
+      9.338494
+    ]
+  },
+  "properties": {
+    "feet": 5866,
+    "meters": 1788,
+    "latitude": 9.338494,
+    "longitude": 123.148764,
+    "name": "Mount Guinsayawan",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

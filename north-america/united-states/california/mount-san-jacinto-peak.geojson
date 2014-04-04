@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.678,
+      33.8144
+    ]
+  },
+  "properties": {
+    "feet": 10804,
+    "meters": 3293,
+    "latitude": 33.8144,
+    "longitude": -116.678,
+    "name": "Mount San Jacinto Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 17785,
+    "meters": 5421,
+    "name": "Huapi",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.940646,
+      46.784223
+    ]
+  },
+  "properties": {
+    "feet": 5475,
+    "meters": 1669,
+    "latitude": 46.784223,
+    "longitude": -121.940646,
+    "name": "Mount Beljica",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

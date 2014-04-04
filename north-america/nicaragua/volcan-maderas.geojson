@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.5011,
+      11.45042
+    ]
+  },
+  "properties": {
+    "feet": 4573,
+    "meters": 1394,
+    "latitude": 11.45042,
+    "longitude": -85.5011,
+    "name": "Volcan Maderas",
+    "countries": [
+      "Nicaragua"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

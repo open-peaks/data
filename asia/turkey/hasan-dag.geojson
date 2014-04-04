@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.164734,
+      38.126995
+    ]
+  },
+  "properties": {
+    "feet": 10722,
+    "meters": 3268,
+    "latitude": 38.126995,
+    "longitude": 34.164734,
+    "name": "Hasan dag",
+    "regions": [
+      "Anatolia",
+      "Central Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

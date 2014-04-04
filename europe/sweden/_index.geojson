@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55,
+          67.8833
+        ]
+      },
+      "properties": {
+        "feet": 6926,
+        "meters": 2111,
+        "latitude": 67.8833,
+        "longitude": 18.55,
+        "name": "Kebnekaise",
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.425301,
+          67.404701
+        ]
+      },
+      "properties": {
+        "feet": 3737,
+        "meters": 1139,
+        "latitude": 67.404701,
+        "longitude": 18.425301,
+        "name": "Lulep Gierkav",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9667,
+          67.3167
+        ]
+      },
+      "properties": {
+        "feet": 5787,
+        "meters": 1764,
+        "latitude": 67.3167,
+        "longitude": 17.9667,
+        "name": "Pastatjåkå",
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35,
+          67.1
+        ]
+      },
+      "properties": {
+        "feet": 6250,
+        "meters": 1905,
+        "latitude": 67.1,
+        "longitude": 17.35,
+        "name": "Saitaris",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095145,
+          63.042414
+        ]
+      },
+      "properties": {
+        "feet": 4006,
+        "meters": 1221,
+        "latitude": 63.042414,
+        "longitude": 13.095145,
+        "name": "Santa",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7167,
+          67.4167
+        ]
+      },
+      "properties": {
+        "feet": 6854,
+        "meters": 2089,
+        "latitude": 67.4167,
+        "longitude": 17.7167,
+        "name": "Sarektjkk",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167,
+          67.8667
+        ]
+      },
+      "properties": {
+        "feet": 5495,
+        "meters": 1675,
+        "latitude": 67.8667,
+        "longitude": 18.5167,
+        "name": "Tuolpagorni",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3333,
+      46.3333
+    ]
+  },
+  "properties": {
+    "feet": 8868,
+    "meters": 2703,
+    "latitude": 46.3333,
+    "longitude": 12.3333,
+    "name": "Cima Preti",
+    "regions": [
+      "Eastern Alps",
+      "Carnic Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

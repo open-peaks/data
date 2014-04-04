@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6667,
+          50.0667
+        ]
+      },
+      "properties": {
+        "feet": 13271,
+        "meters": 4045,
+        "latitude": 50.0667,
+        "longitude": 87.6667,
+        "name": "Aktru",
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.033,
+          65.1833
+        ]
+      },
+      "properties": {
+        "feet": 9852,
+        "meters": 3003,
+        "latitude": 65.1833,
+        "longitude": 146.033,
+        "name": "Gora Pobeda",
+        "regions": [
+          "Siberia",
+          "Cherskiy Range"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.633,
+          56.0667
+        ]
+      },
+      "properties": {
+        "feet": 15584,
+        "meters": 4750,
+        "latitude": 56.0667,
+        "longitude": 160.633,
+        "name": "Kliuchevskoi",
+        "regions": [
+          "Siberia",
+          "Kamchatka Peninsula"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.178,
+      13.6882
+    ]
+  },
+  "properties": {
+    "feet": 2723,
+    "meters": 830,
+    "latitude": 13.6882,
+    "longitude": 121.178,
+    "name": "Mount Banoi",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

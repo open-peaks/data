@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.798197,
+      48.408238
+    ]
+  },
+  "properties": {
+    "feet": 8136,
+    "meters": 2480,
+    "latitude": 48.408238,
+    "longitude": -120.798197,
+    "name": "McGregor Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.73055,
+      57.0777
+    ]
+  },
+  "properties": {
+    "feet": 4252,
+    "meters": 1296,
+    "latitude": 57.0777,
+    "longitude": -3.73055,
+    "name": "Braeriach",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

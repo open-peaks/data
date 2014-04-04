@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426169,
+          44.4756
+        ]
+      },
+      "properties": {
+        "feet": 4426,
+        "meters": 1349,
+        "latitude": 44.4756,
+        "longitude": -103.426169,
+        "name": "Bear Butte",
+        "regions": [
+          "North American Plains",
+          "Black Hills"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.533,
+          43.8667
+        ]
+      },
+      "properties": {
+        "feet": 7242,
+        "meters": 2207,
+        "latitude": 43.8667,
+        "longitude": -103.533,
+        "name": "Harney Peak",
+        "regions": [
+          "North American Plains",
+          "Black Hills"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.458,
+          43.8803
+        ]
+      },
+      "properties": {
+        "feet": 5275,
+        "meters": 1608,
+        "latitude": 43.8803,
+        "longitude": -103.458,
+        "name": "Mount Rushmore",
+        "regions": [
+          "North American Plains",
+          "Black Hills"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.368,
+          44.231619
+        ]
+      },
+      "properties": {
+        "feet": 3882,
+        "meters": 1183,
+        "latitude": 44.231619,
+        "longitude": -103.368,
+        "name": "Piedmont Butte",
+        "regions": [
+          "North American Plains",
+          "Black Hills"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.592042,
+          45.706046
+        ]
+      },
+      "properties": {
+        "feet": 2284,
+        "meters": 696,
+        "latitude": 45.706046,
+        "longitude": -100.592042,
+        "name": "Rattlesnake Butte",
+        "regions": [
+          "North American Plains",
+          "Black Hills"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.959212,
+          42.87444
+        ]
+      },
+      "properties": {
+        "feet": 1279,
+        "meters": 390,
+        "latitude": 42.87444,
+        "longitude": -96.959212,
+        "name": "Spirit Mound",
+        "regions": [
+          "North American Plains"
+        ],
+        "states": [
+          "South Dakota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

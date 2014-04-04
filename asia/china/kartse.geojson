@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.0,
+      28.0167
+    ]
+  },
+  "properties": {
+    "feet": 21348,
+    "meters": 6507,
+    "latitude": 28.0167,
+    "longitude": 87.0,
+    "name": "Kartse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

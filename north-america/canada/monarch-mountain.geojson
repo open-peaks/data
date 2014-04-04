@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -125.876287,
+      51.899443
+    ]
+  },
+  "properties": {
+    "feet": 11663,
+    "meters": 3555,
+    "latitude": 51.899443,
+    "longitude": -125.876287,
+    "name": "Monarch Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.991,
+      37.8392
+    ]
+  },
+  "properties": {
+    "feet": 14246,
+    "meters": 4342,
+    "latitude": 37.8392,
+    "longitude": -107.991,
+    "name": "Mount Wilson",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

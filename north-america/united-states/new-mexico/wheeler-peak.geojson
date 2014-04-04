@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.416901,
+      36.556941
+    ]
+  },
+  "properties": {
+    "feet": 13161,
+    "meters": 4011,
+    "latitude": 36.556941,
+    "longitude": -105.416901,
+    "name": "Wheeler Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

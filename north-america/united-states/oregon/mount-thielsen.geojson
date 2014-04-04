@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.066,
+      43.1531
+    ]
+  },
+  "properties": {
+    "feet": 9178,
+    "meters": 2797,
+    "latitude": 43.1531,
+    "longitude": -122.066,
+    "name": "Mount Thielsen",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

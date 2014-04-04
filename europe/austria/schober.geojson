@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.311653,
+      47.812924
+    ]
+  },
+  "properties": {
+    "feet": 4359,
+    "meters": 1329,
+    "latitude": 47.812924,
+    "longitude": 13.311653,
+    "name": "Schober",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

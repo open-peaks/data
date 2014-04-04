@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.873639,
+      0.380319
+    ]
+  },
+  "properties": {
+    "feet": 16763,
+    "meters": 5109,
+    "latitude": 0.380319,
+    "longitude": 29.873639,
+    "name": "Margherita",
+    "regions": [
+      "East Africa Mountains",
+      "Ruwenzori"
+    ],
+    "countries": [
+      "Uganda",
+      "Congo, Democratic Republic of the"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

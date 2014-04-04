@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3667,
+      47.75
+    ]
+  },
+  "properties": {
+    "feet": 5472,
+    "meters": 1668,
+    "latitude": 47.75,
+    "longitude": 12.3667,
+    "name": "Kampenwand",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

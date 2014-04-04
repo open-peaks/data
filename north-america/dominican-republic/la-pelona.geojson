@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 10180,
+    "meters": 3085,
+    "name": "La Pelona",
+    "regions": [
+      "The Caribbean",
+      "Hispaniola"
+    ],
+    "countries": [
+      "Dominican Republic"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

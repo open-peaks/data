@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.867,
+      38.4833
+    ]
+  },
+  "properties": {
+    "feet": 9334,
+    "meters": 2845,
+    "latitude": 38.4833,
+    "longitude": -119.867,
+    "name": "Henery Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

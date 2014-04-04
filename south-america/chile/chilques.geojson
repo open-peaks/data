@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.70196,
+      -23.580665
+    ]
+  },
+  "properties": {
+    "feet": 18956,
+    "meters": 5778,
+    "latitude": -23.580665,
+    "longitude": -67.70196,
+    "name": "Chilques",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

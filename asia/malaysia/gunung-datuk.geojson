@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 2900,
+    "meters": 884,
+    "name": "Gunung Datuk",
+    "regions": [
+      "Malay Archipelago"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

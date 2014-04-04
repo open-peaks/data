@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.18333,
+      44.9
+    ]
+  },
+  "properties": {
+    "feet": 5755,
+    "meters": 1754,
+    "latitude": 44.9,
+    "longitude": 4.18333,
+    "name": "Mont Mezenc",
+    "regions": [
+      "Central Europe Ranges",
+      "Massif Central"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

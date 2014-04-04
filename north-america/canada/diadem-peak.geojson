@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.422132,
+      52.310315
+    ]
+  },
+  "properties": {
+    "feet": 11060,
+    "meters": 3371,
+    "latitude": 52.310315,
+    "longitude": -117.422132,
+    "name": "Diadem Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

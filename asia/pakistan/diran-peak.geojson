@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.6667,
+      36.1167
+    ]
+  },
+  "properties": {
+    "feet": 23839,
+    "meters": 7266,
+    "latitude": 36.1167,
+    "longitude": 74.6667,
+    "name": "Diran Peak",
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

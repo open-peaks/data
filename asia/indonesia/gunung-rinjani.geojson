@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.467,
+      -8.43333
+    ]
+  },
+  "properties": {
+    "feet": 12224,
+    "meters": 3726,
+    "latitude": -8.43333,
+    "longitude": 116.467,
+    "name": "Gunung Rinjani",
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

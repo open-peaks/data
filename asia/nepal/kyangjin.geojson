@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.610447,
+      28.202465
+    ]
+  },
+  "properties": {
+    "feet": 14272,
+    "meters": 4350,
+    "latitude": 28.202465,
+    "longitude": 85.610447,
+    "name": "Kyangjin",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

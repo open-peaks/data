@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.290966,
+      42.838717
+    ]
+  },
+  "properties": {
+    "feet": 10322,
+    "meters": 3146,
+    "latitude": 42.838717,
+    "longitude": -0.290966,
+    "name": "Balaitous",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

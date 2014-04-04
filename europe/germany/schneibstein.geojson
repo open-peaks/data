@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.056393,
+      47.561701
+    ]
+  },
+  "properties": {
+    "feet": 7459,
+    "meters": 2274,
+    "latitude": 47.561701,
+    "longitude": 13.056393,
+    "name": "Schneibstein",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

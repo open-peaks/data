@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.835503,
+      54.476222
+    ]
+  },
+  "properties": {
+    "feet": 2552,
+    "meters": 778,
+    "latitude": 54.476222,
+    "longitude": -2.835503,
+    "name": "Harter Fell",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

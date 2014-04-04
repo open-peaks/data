@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.653,
+      60.5825
+    ]
+  },
+  "properties": {
+    "feet": 16971,
+    "meters": 5173,
+    "latitude": 60.5825,
+    "longitude": -140.653,
+    "name": "King Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.7748,
+      48.692405
+    ]
+  },
+  "properties": {
+    "feet": 8952,
+    "meters": 2729,
+    "latitude": 48.692405,
+    "longitude": -113.7748,
+    "name": "Mount Cannon",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

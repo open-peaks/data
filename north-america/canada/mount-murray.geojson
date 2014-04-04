@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.6867,
+      55.4567
+    ]
+  },
+  "properties": {
+    "feet": 5968,
+    "meters": 1819,
+    "latitude": 55.4567,
+    "longitude": -122.6867,
+    "name": "Mount Murray",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

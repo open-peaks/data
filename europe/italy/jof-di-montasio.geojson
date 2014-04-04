@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.442223,
+      46.433872
+    ]
+  },
+  "properties": {
+    "feet": 9032,
+    "meters": 2753,
+    "latitude": 46.433872,
+    "longitude": 13.442223,
+    "name": "Jof di Montasio",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

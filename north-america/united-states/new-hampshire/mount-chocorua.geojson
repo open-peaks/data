@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2739,
+      43.9542
+    ]
+  },
+  "properties": {
+    "feet": 3450,
+    "meters": 1052,
+    "latitude": 43.9542,
+    "longitude": -71.2739,
+    "name": "Mount Chocorua",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

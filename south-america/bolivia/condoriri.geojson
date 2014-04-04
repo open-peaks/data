@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.242693,
+      -16.168269
+    ]
+  },
+  "properties": {
+    "feet": 18530,
+    "meters": 5648,
+    "latitude": -16.168269,
+    "longitude": -68.242693,
+    "name": "Condoriri",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

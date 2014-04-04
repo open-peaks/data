@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0,
+      -27.0
+    ]
+  },
+  "properties": {
+    "feet": 1824,
+    "meters": 556,
+    "latitude": -27.0,
+    "longitude": 0.0,
+    "name": "Mount Beerwah",
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

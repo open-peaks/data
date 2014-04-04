@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9142,
+      28.0253
+    ]
+  },
+  "properties": {
+    "feet": 24868,
+    "meters": 7580,
+    "latitude": 28.0253,
+    "longitude": 86.9142,
+    "name": "Changtse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

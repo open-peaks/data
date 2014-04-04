@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.1807,
+      47.3162
+    ]
+  },
+  "properties": {
+    "feet": 7339,
+    "meters": 2237,
+    "latitude": 47.3162,
+    "longitude": 12.1807,
+    "name": "Schneegrubenspitze",
+    "regions": [
+      "Northern Alps",
+      "Kitzbuhel"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

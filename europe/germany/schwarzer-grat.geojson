@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.125704,
+      47.69197
+    ]
+  },
+  "properties": {
+    "feet": 3668,
+    "meters": 1118,
+    "latitude": 47.69197,
+    "longitude": 10.125704,
+    "name": "Schwarzer Grat",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53078,
+      45.576696
+    ]
+  },
+  "properties": {
+    "feet": 10381,
+    "meters": 3164,
+    "latitude": 45.576696,
+    "longitude": 7.53078,
+    "name": "Rosa dei Banchi",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

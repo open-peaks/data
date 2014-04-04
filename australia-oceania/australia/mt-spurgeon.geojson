@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.200734,
+      -16.438774
+    ]
+  },
+  "properties": {
+    "feet": 4354,
+    "meters": 1327,
+    "latitude": -16.438774,
+    "longitude": 145.200734,
+    "name": "Mt Spurgeon",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

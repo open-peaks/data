@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.95,
+      28.5167
+    ]
+  },
+  "properties": {
+    "feet": 8651,
+    "meters": 2640,
+    "latitude": 28.5167,
+    "longitude": 33.95,
+    "name": "Mount Sinai",
+    "countries": [
+      "Egypt"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

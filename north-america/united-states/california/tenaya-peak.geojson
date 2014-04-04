@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.443402,
+      37.828701
+    ]
+  },
+  "properties": {
+    "feet": 10280,
+    "meters": 3133,
+    "latitude": 37.828701,
+    "longitude": -119.443402,
+    "name": "Tenaya Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

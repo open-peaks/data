@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6047,
+    "meters": 1843,
+    "name": "Skala",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

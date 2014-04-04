@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.999506,
+      46.674795
+    ]
+  },
+  "properties": {
+    "feet": 8796,
+    "meters": 2681,
+    "latitude": 46.674795,
+    "longitude": 7.999506,
+    "name": "Faulhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

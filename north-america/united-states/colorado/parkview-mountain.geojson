@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.136,
+      40.3303
+    ]
+  },
+  "properties": {
+    "feet": 12296,
+    "meters": 3748,
+    "latitude": 40.3303,
+    "longitude": -106.136,
+    "name": "Parkview Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

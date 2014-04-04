@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.847549,
+      49.012654
+    ]
+  },
+  "properties": {
+    "feet": 7900,
+    "meters": 2408,
+    "latitude": 49.012654,
+    "longitude": -120.847549,
+    "name": "Mount Frosty",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

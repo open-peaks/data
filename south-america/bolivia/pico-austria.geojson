@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2575,
+      -16.189753
+    ]
+  },
+  "properties": {
+    "feet": 17480,
+    "meters": 5328,
+    "latitude": -16.189753,
+    "longitude": -68.2575,
+    "name": "Pico Austria",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

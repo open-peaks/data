@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.009783,
+      46.683098
+    ]
+  },
+  "properties": {
+    "feet": 4477,
+    "meters": 1365,
+    "latitude": 46.683098,
+    "longitude": -122.009783,
+    "name": "Snowbowl Hut Overlook",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

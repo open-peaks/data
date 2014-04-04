@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.408796,
+      47.442021
+    ]
+  },
+  "properties": {
+    "feet": 5168,
+    "meters": 1575,
+    "latitude": 47.442021,
+    "longitude": -121.408796,
+    "name": "Guye Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

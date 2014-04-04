@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.17,
+      47.19
+    ]
+  },
+  "properties": {
+    "feet": 7749,
+    "meters": 2362,
+    "latitude": 47.19,
+    "longitude": 12.17,
+    "name": "Großer Rettenstein",
+    "regions": [
+      "Northern Alps",
+      "Kitzbuhel"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.088,
+      50.7467
+    ]
+  },
+  "properties": {
+    "feet": 9524,
+    "meters": 2903,
+    "latitude": 50.7467,
+    "longitude": -115.088,
+    "name": "Mount Hood",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

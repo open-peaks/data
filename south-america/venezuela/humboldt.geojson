@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0,
+      8.55
+    ]
+  },
+  "properties": {
+    "feet": 16214,
+    "meters": 4942,
+    "latitude": 8.55,
+    "longitude": -71.0,
+    "name": "Humboldt",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

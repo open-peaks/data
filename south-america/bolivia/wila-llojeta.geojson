@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.292347,
+      -16.067064
+    ]
+  },
+  "properties": {
+    "feet": 17208,
+    "meters": 5245,
+    "latitude": -16.067064,
+    "longitude": -68.292347,
+    "name": "Wila Llojeta",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

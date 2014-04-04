@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      37.0
+    ]
+  },
+  "properties": {
+    "feet": 11562,
+    "meters": 3524,
+    "latitude": 37.0,
+    "longitude": 37.0,
+    "name": "Medetsiz",
+    "regions": [
+      "Anatolia",
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

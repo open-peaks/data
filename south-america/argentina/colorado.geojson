@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.429817,
+      -32.970364
+    ]
+  },
+  "properties": {
+    "feet": 17060,
+    "meters": 5200,
+    "latitude": -32.970364,
+    "longitude": -69.429817,
+    "name": "Colorado",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

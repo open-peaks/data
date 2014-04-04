@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1667,
+      37.8167
+    ]
+  },
+  "properties": {
+    "feet": 12323,
+    "meters": 3756,
+    "latitude": 37.8167,
+    "longitude": 35.1667,
+    "name": "Demirkazik",
+    "regions": [
+      "Anatolia",
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

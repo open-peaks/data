@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.050668,
+      -11.96649
+    ]
+  },
+  "properties": {
+    "feet": 18865,
+    "meters": 5750,
+    "latitude": -11.96649,
+    "longitude": -76.050668,
+    "name": "Pariacaca",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

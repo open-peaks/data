@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.75,
+      47.75
+    ]
+  },
+  "properties": {
+    "feet": 5807,
+    "meters": 1770,
+    "latitude": 47.75,
+    "longitude": 14.75,
+    "name": "Voralpe",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

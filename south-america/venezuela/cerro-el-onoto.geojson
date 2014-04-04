@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.429734,
+      9.954395
+    ]
+  },
+  "properties": {
+    "feet": 2969,
+    "meters": 905,
+    "latitude": 9.954395,
+    "longitude": -66.429734,
+    "name": "Cerro El Onoto",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

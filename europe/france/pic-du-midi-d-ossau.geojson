@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.438423,
+      42.844569
+    ]
+  },
+  "properties": {
+    "feet": 9465,
+    "meters": 2885,
+    "latitude": 42.844569,
+    "longitude": -0.438423,
+    "name": "Pic du Midi d'Ossau",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

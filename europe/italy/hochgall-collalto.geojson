@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.129057,
+      46.913681
+    ]
+  },
+  "properties": {
+    "feet": 11273,
+    "meters": 3436,
+    "latitude": 46.913681,
+    "longitude": 12.129057,
+    "name": "Hochgall (Collalto)",
+    "regions": [
+      "Eastern Alps",
+      "Noric Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

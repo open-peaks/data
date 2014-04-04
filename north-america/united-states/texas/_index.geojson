@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.883,
+          31.9167
+        ]
+      },
+      "properties": {
+        "feet": 8508,
+        "meters": 2593,
+        "latitude": 31.9167,
+        "longitude": -104.883,
+        "name": "Bartlett Peak",
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.867,
+          31.9167
+        ]
+      },
+      "properties": {
+        "feet": 8361,
+        "meters": 2548,
+        "latitude": 31.9167,
+        "longitude": -104.867,
+        "name": "Bush Mountain",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.667,
+          31.8333
+        ]
+      },
+      "properties": {
+        "feet": 8085,
+        "meters": 2464,
+        "latitude": 31.8333,
+        "longitude": -104.667,
+        "name": "El Capitan",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.304,
+          29.2458
+        ]
+      },
+      "properties": {
+        "feet": 7825,
+        "meters": 2385,
+        "latitude": 29.2458,
+        "longitude": -103.304,
+        "name": "Emory Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8189,
+          30.5066
+        ]
+      },
+      "properties": {
+        "feet": 1825,
+        "meters": 556,
+        "latitude": 30.5066,
+        "longitude": -98.8189,
+        "name": "Enchanted Rock",
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.867,
+          31.8833
+        ]
+      },
+      "properties": {
+        "feet": 8749,
+        "meters": 2667,
+        "latitude": 31.8833,
+        "longitude": -104.867,
+        "name": "Guadalupe Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.817,
+          31.9
+        ]
+      },
+      "properties": {
+        "feet": 8368,
+        "meters": 2551,
+        "latitude": 31.9,
+        "longitude": -104.817,
+        "name": "Hunter Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25823,
+          29.275756
+        ]
+      },
+      "properties": {
+        "feet": 7535,
+        "meters": 2262,
+        "latitude": 29.275756,
+        "longitude": -103.25823,
+        "name": "Lost Mine Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.417,
+          32.6167
+        ]
+      },
+      "properties": {
+        "feet": 7830,
+        "meters": 2387,
+        "latitude": 32.6167,
+        "longitude": -105.417,
+        "name": "Lost Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.817,
+          32.0
+        ]
+      },
+      "properties": {
+        "feet": 7480,
+        "meters": 2280,
+        "latitude": 32.0,
+        "longitude": -104.817,
+        "name": "Peak 7480",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.874115,
+          31.906707
+        ]
+      },
+      "properties": {
+        "feet": 8615,
+        "meters": 2626,
+        "latitude": 31.906707,
+        "longitude": -104.874115,
+        "name": "Shumard Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

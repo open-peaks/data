@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.5333,
+      -9.51667
+    ]
+  },
+  "properties": {
+    "feet": 18654,
+    "meters": 5686,
+    "latitude": -9.51667,
+    "longitude": -77.5333,
+    "name": "Vallunaraju",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

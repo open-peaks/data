@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.360817,
+      42.930725
+    ]
+  },
+  "properties": {
+    "feet": 8196,
+    "meters": 2498,
+    "latitude": 42.930725,
+    "longitude": -121.360817,
+    "name": "Yamsay Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

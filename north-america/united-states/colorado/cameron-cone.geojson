@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.954,
+      38.8314
+    ]
+  },
+  "properties": {
+    "feet": 10707,
+    "meters": 3263,
+    "latitude": 38.8314,
+    "longitude": -104.954,
+    "name": "Cameron Cone",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

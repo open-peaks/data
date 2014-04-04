@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.1667,
+      28.9333
+    ]
+  },
+  "properties": {
+    "feet": 23641,
+    "meters": 7206,
+    "latitude": 28.9333,
+    "longitude": 90.1667,
+    "name": "Nojinkangsang",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

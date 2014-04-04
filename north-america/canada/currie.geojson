@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.781944,
+      50.248333
+    ]
+  },
+  "properties": {
+    "feet": 8364,
+    "meters": 2549,
+    "latitude": 50.248333,
+    "longitude": -122.781944,
+    "name": "Currie",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

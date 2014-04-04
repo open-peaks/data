@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.317,
+      61.633
+    ]
+  },
+  "properties": {
+    "feet": 8100,
+    "meters": 2469,
+    "latitude": 61.633,
+    "longitude": 8.317,
+    "name": "Galdhøpiggen",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

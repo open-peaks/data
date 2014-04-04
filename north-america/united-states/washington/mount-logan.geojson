@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.952056,
+      48.536796
+    ]
+  },
+  "properties": {
+    "feet": 9087,
+    "meters": 2770,
+    "latitude": 48.536796,
+    "longitude": -120.952056,
+    "name": "Mount Logan",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.540667,
+          44.140667
+        ]
+      },
+      "properties": {
+        "feet": 4265,
+        "meters": 1300,
+        "latitude": 44.140667,
+        "longitude": -71.540667,
+        "name": "Bondcliff",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2914,
+          44.3203
+        ]
+      },
+      "properties": {
+        "feet": 5771,
+        "meters": 1759,
+        "latitude": 44.3203,
+        "longitude": -71.2914,
+        "name": "Mount Adams",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.531291,
+          44.153033
+        ]
+      },
+      "properties": {
+        "feet": 4698,
+        "meters": 1432,
+        "latitude": 44.153033,
+        "longitude": -71.531291,
+        "name": "Mount Bond",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.914101,
+          43.649553
+        ]
+      },
+      "properties": {
+        "feet": 3155,
+        "meters": 962,
+        "latitude": 43.649553,
+        "longitude": -71.914101,
+        "name": "Mount Cardigan",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4469,
+          44.0936
+        ]
+      },
+      "properties": {
+        "feet": 4700,
+        "meters": 1433,
+        "latitude": 44.0936,
+        "longitude": -71.4469,
+        "name": "Mount Carrigain",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2739,
+          43.9542
+        ]
+      },
+      "properties": {
+        "feet": 3450,
+        "meters": 1052,
+        "latitude": 43.9542,
+        "longitude": -71.2739,
+        "name": "Mount Chocorua",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.350619,
+          44.241144
+        ]
+      },
+      "properties": {
+        "feet": 4780,
+        "meters": 1457,
+        "latitude": 44.241144,
+        "longitude": -71.350619,
+        "name": "Mount Eisenhower",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.435549,
+          44.19667
+        ]
+      },
+      "properties": {
+        "feet": 4341,
+        "meters": 1323,
+        "latitude": 44.19667,
+        "longitude": -71.435549,
+        "name": "Mount Field",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.627898,
+          44.109066
+        ]
+      },
+      "properties": {
+        "feet": 4327,
+        "meters": 1319,
+        "latitude": 44.109066,
+        "longitude": -71.627898,
+        "name": "Mount Flume",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6114,
+          44.1869
+        ]
+      },
+      "properties": {
+        "feet": 4500,
+        "meters": 1372,
+        "latitude": 44.1869,
+        "longitude": -71.6114,
+        "name": "Mount Garfield",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3097,
+          44.2147
+        ]
+      },
+      "properties": {
+        "feet": 4004,
+        "meters": 1220,
+        "latitude": 44.2147,
+        "longitude": -71.3097,
+        "name": "Mount Isolation",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2783,
+          44.3283
+        ]
+      },
+      "properties": {
+        "feet": 5367,
+        "meters": 1636,
+        "latitude": 44.3283,
+        "longitude": -71.2783,
+        "name": "Mount Madison",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.287279,
+          43.51339
+        ]
+      },
+      "properties": {
+        "feet": 1786,
+        "meters": 544,
+        "latitude": 43.51339,
+        "longitude": -71.287279,
+        "name": "Mount Major",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1083,
+          42.8611
+        ]
+      },
+      "properties": {
+        "feet": 3165,
+        "meters": 965,
+        "latitude": 42.8611,
+        "longitude": -72.1083,
+        "name": "Mount Monadnock",
+        "regions": [
+          "Appalachian Mountains",
+          "New England Upland"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3225,
+          44.2556
+        ]
+      },
+      "properties": {
+        "feet": 5384,
+        "meters": 1641,
+        "latitude": 44.2556,
+        "longitude": -71.3225,
+        "name": "Mount Monroe",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.535614,
+          44.001614
+        ]
+      },
+      "properties": {
+        "feet": 4315,
+        "meters": 1315,
+        "latitude": 44.001614,
+        "longitude": -71.535614,
+        "name": "Mount Osceola",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8333,
+          44.25
+        ]
+      },
+      "properties": {
+        "feet": 4060,
+        "meters": 1238,
+        "latitude": 44.25,
+        "longitude": -71.8333,
+        "name": "Mount Passaconaway",
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3664,
+          44.2264
+        ]
+      },
+      "properties": {
+        "feet": 4310,
+        "meters": 1314,
+        "latitude": 44.2264,
+        "longitude": -71.3664,
+        "name": "Mount Pierce",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3047,
+          44.2706
+        ]
+      },
+      "properties": {
+        "feet": 6288,
+        "meters": 1917,
+        "latitude": 44.2706,
+        "longitude": -71.3047,
+        "name": "Mount Washington",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4175,
+          44.4328
+        ]
+      },
+      "properties": {
+        "feet": 4006,
+        "meters": 1221,
+        "latitude": 44.4328,
+        "longitude": -71.4175,
+        "name": "Mount Waumbek",
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4064,
+          43.9339
+        ]
+      },
+      "properties": {
+        "feet": 4020,
+        "meters": 1225,
+        "latitude": 43.9339,
+        "longitude": -71.4064,
+        "name": "Mount Whiteface",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.512582,
+          44.222971
+        ]
+      },
+      "properties": {
+        "feet": 4055,
+        "meters": 1236,
+        "latitude": 44.222971,
+        "longitude": -71.512582,
+        "name": "Mt Hale",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3181,
+          44.3044
+        ]
+      },
+      "properties": {
+        "feet": 5716,
+        "meters": 1742,
+        "latitude": 44.3044,
+        "longitude": -71.3181,
+        "name": "Mt. Jefferson",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5586,
+          43.9672
+        ]
+      },
+      "properties": {
+        "feet": 4003,
+        "meters": 1220,
+        "latitude": 43.9672,
+        "longitude": -71.5586,
+        "name": "Mt Tecumseh",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.865633,
+          42.886195
+        ]
+      },
+      "properties": {
+        "feet": 2276,
+        "meters": 694,
+        "latitude": 42.886195,
+        "longitude": -71.865633,
+        "name": "North Pack Monadnock",
+        "regions": [
+          "Appalachian Mountains",
+          "New England Upland"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.558333,
+          44.202333
+        ]
+      },
+      "properties": {
+        "feet": 4761,
+        "meters": 1451,
+        "latitude": 44.202333,
+        "longitude": -71.558333,
+        "name": "North Twin Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.553952,
+          44.188547
+        ]
+      },
+      "properties": {
+        "feet": 4902,
+        "meters": 1494,
+        "latitude": 44.188547,
+        "longitude": -71.553952,
+        "name": "South Twin",
+        "regions": [
+          "Appalachian Mountains",
+          "White Mountains"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

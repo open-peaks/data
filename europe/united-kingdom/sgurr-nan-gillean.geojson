@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.19427,
+      57.2492
+    ]
+  },
+  "properties": {
+    "feet": 3162,
+    "meters": 964,
+    "latitude": 57.2492,
+    "longitude": -6.19427,
+    "name": "Sgurr Nan Gillean",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

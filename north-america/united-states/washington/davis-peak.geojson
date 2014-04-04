@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.202888,
+      48.729389
+    ]
+  },
+  "properties": {
+    "feet": 7051,
+    "meters": 2149,
+    "latitude": 48.729389,
+    "longitude": -121.202888,
+    "name": "Davis Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

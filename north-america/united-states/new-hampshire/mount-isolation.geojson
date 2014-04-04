@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3097,
+      44.2147
+    ]
+  },
+  "properties": {
+    "feet": 4004,
+    "meters": 1220,
+    "latitude": 44.2147,
+    "longitude": -71.3097,
+    "name": "Mount Isolation",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

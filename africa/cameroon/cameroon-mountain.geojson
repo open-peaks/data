@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.18333,
+      4.2
+    ]
+  },
+  "properties": {
+    "feet": 13354,
+    "meters": 4070,
+    "latitude": 4.2,
+    "longitude": 9.18333,
+    "name": "Cameroon Mountain",
+    "regions": [
+      "West Africa Mountains",
+      "Cameroon Mountains"
+    ],
+    "countries": [
+      "Cameroon"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

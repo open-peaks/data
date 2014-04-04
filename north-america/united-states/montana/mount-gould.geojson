@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.715105,
+      48.742437
+    ]
+  },
+  "properties": {
+    "feet": 9553,
+    "meters": 2912,
+    "latitude": 48.742437,
+    "longitude": -113.715105,
+    "name": "Mount Gould",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

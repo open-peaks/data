@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.057891,
+      44.385279
+    ]
+  },
+  "properties": {
+    "feet": 5545,
+    "meters": 1690,
+    "latitude": 44.385279,
+    "longitude": 10.057891,
+    "name": "Pumacioletto",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

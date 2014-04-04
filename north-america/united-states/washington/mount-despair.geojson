@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.376696,
+      48.737257
+    ]
+  },
+  "properties": {
+    "feet": 7292,
+    "meters": 2223,
+    "latitude": 48.737257,
+    "longitude": -121.376696,
+    "name": "Mount Despair",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

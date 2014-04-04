@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.16272,
+      48.84862
+    ]
+  },
+  "properties": {
+    "feet": 7579,
+    "meters": 2310,
+    "latitude": 48.84862,
+    "longitude": -121.16272,
+    "name": "Mount Prophet",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

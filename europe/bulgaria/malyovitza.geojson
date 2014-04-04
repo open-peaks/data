@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5678,
+      42.3697
+    ]
+  },
+  "properties": {
+    "feet": 8953,
+    "meters": 2729,
+    "latitude": 42.3697,
+    "longitude": 23.5678,
+    "name": "Malyovitza",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.975799,
+      45.934039
+    ]
+  },
+  "properties": {
+    "feet": 13238,
+    "meters": 4035,
+    "latitude": 45.934039,
+    "longitude": 6.975799,
+    "name": "Aiguille du Jardin",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

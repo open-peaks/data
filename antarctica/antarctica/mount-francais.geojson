@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.446045,
+      -64.609749
+    ]
+  },
+  "properties": {
+    "feet": 9055,
+    "meters": 2760,
+    "latitude": -64.609749,
+    "longitude": -63.446045,
+    "name": "Mount Francais",
+    "regions": [
+      "West Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica",
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

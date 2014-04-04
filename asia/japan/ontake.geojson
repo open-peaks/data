@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.483,
+      35.8833
+    ]
+  },
+  "properties": {
+    "feet": 10051,
+    "meters": 3063,
+    "latitude": 35.8833,
+    "longitude": 137.483,
+    "name": "Ontake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

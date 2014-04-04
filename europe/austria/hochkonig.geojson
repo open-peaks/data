@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.05,
+      47.4167
+    ]
+  },
+  "properties": {
+    "feet": 9649,
+    "meters": 2941,
+    "latitude": 47.4167,
+    "longitude": 13.05,
+    "name": "Hochkönig",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

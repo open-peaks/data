@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.8333,
+      38.9333
+    ]
+  },
+  "properties": {
+    "feet": 13280,
+    "meters": 4048,
+    "latitude": 38.9333,
+    "longitude": 42.8333,
+    "name": "Suphan Dagi",
+    "regions": [
+      "Anatolia",
+      "Southeast Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

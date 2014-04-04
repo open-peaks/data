@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.15,
+      -66.667
+    ]
+  },
+  "properties": {
+    "feet": 7546,
+    "meters": 2300,
+    "latitude": -66.667,
+    "longitude": 54.15,
+    "name": "Mount Elkins",
+    "regions": [
+      "East Antarctica Ranges",
+      "Wilkes Land Coast"
+    ],
+    "countries": [
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

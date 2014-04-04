@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.06108,
+      47.705776
+    ]
+  },
+  "properties": {
+    "feet": 5700,
+    "meters": 1737,
+    "latitude": 47.705776,
+    "longitude": -123.06108,
+    "name": "Mount Jupiter",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

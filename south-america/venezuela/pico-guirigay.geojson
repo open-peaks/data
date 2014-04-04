@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.556602,
+      8.948921
+    ]
+  },
+  "properties": {
+    "feet": 12697,
+    "meters": 3870,
+    "latitude": 8.948921,
+    "longitude": -70.556602,
+    "name": "Pico Guirigay",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

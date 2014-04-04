@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.9801,
+      37.2927
+    ]
+  },
+  "properties": {
+    "feet": 4069,
+    "meters": 1240,
+    "latitude": 37.2927,
+    "longitude": -80.9801,
+    "name": "Buckhorn Knob",
+    "regions": [
+      "Appalachian Mountains",
+      "Southern Appalachian Ridges"
+    ],
+    "states": [
+      "West Virginia",
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

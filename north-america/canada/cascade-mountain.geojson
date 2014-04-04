@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.562,
+      51.2278
+    ]
+  },
+  "properties": {
+    "feet": 9836,
+    "meters": 2998,
+    "latitude": 51.2278,
+    "longitude": -115.562,
+    "name": "Cascade Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

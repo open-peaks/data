@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.38333,
+      44.95
+    ]
+  },
+  "properties": {
+    "feet": 11857,
+    "meters": 3614,
+    "latitude": 44.95,
+    "longitude": 6.38333,
+    "name": "pic De Neige Cordier",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

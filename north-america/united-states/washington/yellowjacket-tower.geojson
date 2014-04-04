@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.7476,
+      47.535139
+    ]
+  },
+  "properties": {
+    "feet": 4500,
+    "meters": 1372,
+    "latitude": 47.535139,
+    "longitude": -120.7476,
+    "name": "Yellowjacket Tower",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

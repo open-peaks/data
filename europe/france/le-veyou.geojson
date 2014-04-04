@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.2,
+      44.633
+    ]
+  },
+  "properties": {
+    "feet": 5213,
+    "meters": 1589,
+    "latitude": 44.633,
+    "longitude": 5.2,
+    "name": "Le Veyou",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

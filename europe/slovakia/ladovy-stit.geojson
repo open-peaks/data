@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.183116,
+      49.198213
+    ]
+  },
+  "properties": {
+    "feet": 8619,
+    "meters": 2627,
+    "latitude": 49.198213,
+    "longitude": 20.183116,
+    "name": "Ladovy stit",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

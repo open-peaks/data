@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.233243,
+      10.770094
+    ]
+  },
+  "properties": {
+    "feet": 5039,
+    "meters": 1536,
+    "latitude": 10.770094,
+    "longitude": 123.233243,
+    "name": "Sicaba Diotay Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

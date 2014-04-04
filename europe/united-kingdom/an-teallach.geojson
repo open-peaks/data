@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.25172,
+      57.807
+    ]
+  },
+  "properties": {
+    "feet": 3484,
+    "meters": 1062,
+    "latitude": 57.807,
+    "longitude": -5.25172,
+    "name": "An Teallach",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

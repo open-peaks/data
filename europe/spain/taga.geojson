@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.209454,
+      42.281754
+    ]
+  },
+  "properties": {
+    "feet": 6693,
+    "meters": 2040,
+    "latitude": 42.281754,
+    "longitude": 2.209454,
+    "name": "Taga",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

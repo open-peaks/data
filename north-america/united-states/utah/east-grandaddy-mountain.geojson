@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.786,
+      40.5908
+    ]
+  },
+  "properties": {
+    "feet": 11635,
+    "meters": 3546,
+    "latitude": 40.5908,
+    "longitude": -110.786,
+    "name": "East Grandaddy Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

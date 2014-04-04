@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.4,
+      42.8833
+    ]
+  },
+  "properties": {
+    "feet": 14613,
+    "meters": 4454,
+    "latitude": 42.8833,
+    "longitude": 43.4,
+    "name": "Babis Mta",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia",
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

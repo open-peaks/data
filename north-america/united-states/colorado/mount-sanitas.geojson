@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.306,
+      40.036
+    ]
+  },
+  "properties": {
+    "feet": 6863,
+    "meters": 2092,
+    "latitude": 40.036,
+    "longitude": -105.306,
+    "name": "Mount Sanitas",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

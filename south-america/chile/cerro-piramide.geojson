@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8667,
+      -33.5333
+    ]
+  },
+  "properties": {
+    "feet": 18110,
+    "meters": 5520,
+    "latitude": -33.5333,
+    "longitude": -69.8667,
+    "name": "Cerro Piramide",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

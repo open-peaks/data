@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.778896,
+          41.849603
+        ]
+      },
+      "properties": {
+        "feet": 812,
+        "meters": 247,
+        "latitude": 41.849603,
+        "longitude": -71.778896,
+        "name": "Jerimoth Hill",
+        "states": [
+          "Rhode Island"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.763771,
+      48.666931
+    ]
+  },
+  "properties": {
+    "feet": 8684,
+    "meters": 2647,
+    "latitude": 48.666931,
+    "longitude": -113.763771,
+    "name": "Bearhat Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

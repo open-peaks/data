@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.802,
+      14.0399
+    ]
+  },
+  "properties": {
+    "feet": 2667,
+    "meters": 813,
+    "latitude": 14.0399,
+    "longitude": 120.802,
+    "name": "Mount Batulao",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

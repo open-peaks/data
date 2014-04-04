@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.895,
+      47.5322
+    ]
+  },
+  "properties": {
+    "feet": 7996,
+    "meters": 2437,
+    "latitude": 47.5322,
+    "longitude": -120.895,
+    "name": "Eightmile Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

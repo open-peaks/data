@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.554838,
+      43.560067
+    ]
+  },
+  "properties": {
+    "feet": 2162,
+    "meters": 659,
+    "latitude": 43.560067,
+    "longitude": -73.554838,
+    "name": "Sleeping Beauty",
+    "regions": [
+      "Appalachian Mountains",
+      "Northern Appalachian Ridges"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.417,
+      32.6167
+    ]
+  },
+  "properties": {
+    "feet": 7830,
+    "meters": 2387,
+    "latitude": 32.6167,
+    "longitude": -105.417,
+    "name": "Lost Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

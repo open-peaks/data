@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.820297,
+      41.768239
+    ]
+  },
+  "properties": {
+    "feet": 7595,
+    "meters": 2315,
+    "latitude": 41.768239,
+    "longitude": -1.820297,
+    "name": "Moncayo",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

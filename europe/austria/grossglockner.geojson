@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.7,
+      47.0667
+    ]
+  },
+  "properties": {
+    "feet": 12461,
+    "meters": 3798,
+    "latitude": 47.0667,
+    "longitude": 12.7,
+    "name": "Grossglockner",
+    "regions": [
+      "Eastern Alps",
+      "Hohe Tauern"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

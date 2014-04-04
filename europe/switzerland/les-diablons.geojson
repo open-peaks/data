@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.671316,
+      46.142212
+    ]
+  },
+  "properties": {
+    "feet": 11841,
+    "meters": 3609,
+    "latitude": 46.142212,
+    "longitude": 7.671316,
+    "name": "Les Diablons",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

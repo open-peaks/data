@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.466861,
+      47.459666
+    ]
+  },
+  "properties": {
+    "feet": 6238,
+    "meters": 1901,
+    "latitude": 47.459666,
+    "longitude": -121.466861,
+    "name": "Chair Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

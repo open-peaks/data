@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.125438,
+      33.955357
+    ]
+  },
+  "properties": {
+    "feet": 10912,
+    "meters": 3326,
+    "latitude": 33.955357,
+    "longitude": -109.125438,
+    "name": "Escudilla Mountain",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

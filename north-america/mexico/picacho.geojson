@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.3,
+      25.1667
+    ]
+  },
+  "properties": {
+    "feet": 10236,
+    "meters": 3120,
+    "latitude": 25.1667,
+    "longitude": -103.3,
+    "name": "Picacho",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Occidental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.6889,
+      46.4408
+    ]
+  },
+  "properties": {
+    "feet": 6066,
+    "meters": 1849,
+    "latitude": 46.4408,
+    "longitude": 22.6889,
+    "name": "Bihor",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

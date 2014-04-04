@@ -1,0 +1,1163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56477,
+          -39.863701
+        ]
+      },
+      "properties": {
+        "feet": 5249,
+        "meters": 1600,
+        "latitude": -39.863701,
+        "longitude": -71.56477,
+        "name": "Achen Niyeu",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.011234,
+          -32.653359
+        ]
+      },
+      "properties": {
+        "feet": 22841,
+        "meters": 6962,
+        "latitude": -32.653359,
+        "longitude": -70.011234,
+        "name": "Aconcagua",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.400903,
+          -32.973478
+        ]
+      },
+      "properties": {
+        "feet": 13780,
+        "meters": 4200,
+        "latitude": -32.973478,
+        "longitude": -69.400903,
+        "name": "Adolfo Calle",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -49.3
+        ]
+      },
+      "properties": {
+        "feet": 7661,
+        "meters": 2335,
+        "latitude": -49.3,
+        "longitude": -73.05,
+        "name": "Aguja De La S",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333,
+          -49.2833
+        ]
+      },
+      "properties": {
+        "feet": 2680,
+        "meters": 817,
+        "latitude": -49.2833,
+        "longitude": -73.0333,
+        "name": "Aguja Saint Exupery",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.977074,
+          -32.628099
+        ]
+      },
+      "properties": {
+        "feet": 19587,
+        "meters": 5970,
+        "latitude": -32.628099,
+        "longitude": -69.977074,
+        "name": "Ameghino",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.425957,
+          -32.898847
+        ]
+      },
+      "properties": {
+        "feet": 16821,
+        "meters": 5127,
+        "latitude": -32.898847,
+        "longitude": -69.425957,
+        "name": "Blanco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 17552,
+        "meters": 5350,
+        "latitude": 0.0,
+        "longitude": -70.0,
+        "name": "Cerro Alto Rio Blanco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 6250,
+        "meters": 1905,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Cerro Belgrano",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7667,
+          -28.0167
+        ]
+      },
+      "properties": {
+        "feet": 22546,
+        "meters": 6872,
+        "latitude": -28.0167,
+        "longitude": -68.7667,
+        "name": "Cerro Bonete",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.936967,
+          -31.986821
+        ]
+      },
+      "properties": {
+        "feet": 9449,
+        "meters": 2880,
+        "latitude": -31.986821,
+        "longitude": -64.936967,
+        "name": "Cerro Champaqui",
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8333,
+          -32.6667
+        ]
+      },
+      "properties": {
+        "feet": 17920,
+        "meters": 5462,
+        "latitude": -32.6667,
+        "longitude": -69.8333,
+        "name": "Cerro Cuerno",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.043375,
+          -49.271277
+        ]
+      },
+      "properties": {
+        "feet": 11073,
+        "meters": 3375,
+        "latitude": -49.271277,
+        "longitude": -73.043375,
+        "name": "Cerro Fitzroy",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0237,
+          -35.0905
+        ]
+      },
+      "properties": {
+        "feet": 14275,
+        "meters": 4351,
+        "latitude": -35.0905,
+        "longitude": -70.0237,
+        "name": "Cerro Leñas",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0833,
+          -49.2833
+        ]
+      },
+      "properties": {
+        "feet": 6407,
+        "meters": 1953,
+        "latitude": -49.2833,
+        "longitude": -73.0833,
+        "name": "Cerro Mocho",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.101684,
+          -26.936944
+        ]
+      },
+      "properties": {
+        "feet": 15663,
+        "meters": 4774,
+        "latitude": -26.936944,
+        "longitude": -68.101684,
+        "name": "Cerro Morocho",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -49.25
+        ]
+      },
+      "properties": {
+        "feet": 9849,
+        "meters": 3002,
+        "latitude": -49.25,
+        "longitude": -73.05,
+        "name": "Cerro Poincenot",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.430106,
+          -32.968581
+        ]
+      },
+      "properties": {
+        "feet": 17598,
+        "meters": 5364,
+        "latitude": -32.968581,
+        "longitude": -69.430106,
+        "name": "Cerro Rincón",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3833,
+          -32.9667
+        ]
+      },
+      "properties": {
+        "feet": 13451,
+        "meters": 4100,
+        "latitude": -32.9667,
+        "longitude": -69.3833,
+        "name": "Cerro San Bernardo",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9833,
+          -34.75
+        ]
+      },
+      "properties": {
+        "feet": 17024,
+        "meters": 5189,
+        "latitude": -34.75,
+        "longitude": -69.9833,
+        "name": "Cerro Sosneado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3833,
+          -32.9667
+        ]
+      },
+      "properties": {
+        "feet": 13710,
+        "meters": 4179,
+        "latitude": -32.9667,
+        "longitude": -69.3833,
+        "name": "Cerro Stepanek",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.119869,
+          -27.380913
+        ]
+      },
+      "properties": {
+        "feet": 12717,
+        "meters": 3876,
+        "latitude": -27.380913,
+        "longitude": -68.119869,
+        "name": "cerro Tatin",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.097363,
+          -49.293337
+        ]
+      },
+      "properties": {
+        "feet": 10280,
+        "meters": 3133,
+        "latitude": -49.293337,
+        "longitude": -73.097363,
+        "name": "Cerro Torre",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8667,
+          -41.15
+        ]
+      },
+      "properties": {
+        "feet": 11453,
+        "meters": 3491,
+        "latitude": -41.15,
+        "longitude": -71.8667,
+        "name": "Cerro Tronador",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.429817,
+          -32.970364
+        ]
+      },
+      "properties": {
+        "feet": 17060,
+        "meters": 5200,
+        "latitude": -32.970364,
+        "longitude": -69.429817,
+        "name": "Colorado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.82353,
+          -30.33021
+        ]
+      },
+      "properties": {
+        "feet": 19288,
+        "meters": 5879,
+        "latitude": -30.33021,
+        "longitude": -69.82353,
+        "name": "COMANDANTE CABOT",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7,
+          -36.9667
+        ]
+      },
+      "properties": {
+        "feet": 15,
+        "meters": 4709,
+        "latitude": -36.9667,
+        "longitude": -70.7,
+        "name": "Domuyo",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.174831,
+          -47.545107
+        ]
+      },
+      "properties": {
+        "feet": 7464,
+        "meters": 2275,
+        "latitude": -47.545107,
+        "longitude": -72.174831,
+        "name": "Dos Picos (Cerro)",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.405006,
+          -32.913619
+        ]
+      },
+      "properties": {
+        "feet": 15476,
+        "meters": 4717,
+        "latitude": -32.913619,
+        "longitude": -69.405006,
+        "name": "El Salto",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.55,
+          -24.7167
+        ]
+      },
+      "properties": {
+        "feet": 22058,
+        "meters": 6723,
+        "latitude": -24.7167,
+        "longitude": -68.55,
+        "name": "Llullaillaco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1167,
+          -31.9833
+        ]
+      },
+      "properties": {
+        "feet": 22211,
+        "meters": 6770,
+        "latitude": -31.9833,
+        "longitude": -70.1167,
+        "name": "Mercedario",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.85,
+          -27.7833
+        ]
+      },
+      "properties": {
+        "feet": 22241,
+        "meters": 6779,
+        "latitude": -27.7833,
+        "longitude": -68.85,
+        "name": "Monte Pissis",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.120809,
+          -49.297384
+        ]
+      },
+      "properties": {
+        "feet": 9177,
+        "meters": 2797,
+        "latitude": -49.297384,
+        "longitude": -73.120809,
+        "name": "Nato (Cerro)",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1667,
+          -24.3833
+        ]
+      },
+      "properties": {
+        "feet": 19521,
+        "meters": 5950,
+        "latitude": -24.3833,
+        "longitude": -66.1667,
+        "name": "Nevado De Acay",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 20505,
+        "meters": 6250,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Nevados De Famatina",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.836931,
+          -31.936922
+        ]
+      },
+      "properties": {
+        "feet": 6627,
+        "meters": 2020,
+        "latitude": -31.936922,
+        "longitude": -64.836931,
+        "name": "Pico Allignani",
+        "countries": [
+          "Argentina",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4167,
+          -33.0167
+        ]
+      },
+      "properties": {
+        "feet": 20718,
+        "meters": 6315,
+        "latitude": -33.0167,
+        "longitude": -69.4167,
+        "name": "Plata",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.43265,
+          -32.96986
+        ]
+      },
+      "properties": {
+        "feet": 17717,
+        "meters": 5400,
+        "latitude": -32.96986,
+        "longitude": -69.43265,
+        "name": "Rincón",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 20505,
+        "meters": 6250,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Sierra De Famatina",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0333,
+          -32.8
+        ]
+      },
+      "properties": {
+        "feet": 17821,
+        "meters": 5432,
+        "latitude": -32.8,
+        "longitude": -70.0333,
+        "name": "Tolosa",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7833,
+          -33.3667
+        ]
+      },
+      "properties": {
+        "feet": 21489,
+        "meters": 6550,
+        "latitude": -33.3667,
+        "longitude": -69.7833,
+        "name": "Tupungato",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.163171,
+          -26.834104
+        ]
+      },
+      "properties": {
+        "feet": 17142,
+        "meters": 5225,
+        "latitude": -26.834104,
+        "longitude": -68.163171,
+        "name": "Volcan Bertrand",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5047,
+          -39.6639
+        ]
+      },
+      "properties": {
+        "feet": 12388,
+        "meters": 3776,
+        "latitude": -39.6639,
+        "longitude": -71.5047,
+        "name": "Volcan Lanin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

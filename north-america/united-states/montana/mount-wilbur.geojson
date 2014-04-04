@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.739395,
+      48.805676
+    ]
+  },
+  "properties": {
+    "feet": 9321,
+    "meters": 2841,
+    "latitude": 48.805676,
+    "longitude": -113.739395,
+    "name": "Mount Wilbur",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

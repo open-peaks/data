@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.598981,
+      -0.171661
+    ]
+  },
+  "properties": {
+    "feet": 15413,
+    "meters": 4698,
+    "latitude": -0.171661,
+    "longitude": -78.598981,
+    "name": "Rucu Pichincha",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

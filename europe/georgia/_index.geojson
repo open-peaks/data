@@ -1,0 +1,412 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2333,
+          42.8667
+        ]
+      },
+      "properties": {
+        "feet": 14918,
+        "meters": 4547,
+        "latitude": 42.8667,
+        "longitude": 43.2333,
+        "name": "Ailama",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4,
+          42.8833
+        ]
+      },
+      "properties": {
+        "feet": 14613,
+        "meters": 4454,
+        "latitude": 42.8833,
+        "longitude": 43.4,
+        "name": "Babis Mta",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia",
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3333,
+          42.8833
+        ]
+      },
+      "properties": {
+        "feet": 14639,
+        "meters": 4462,
+        "latitude": 42.8833,
+        "longitude": 43.3333,
+        "name": "Chanchakhi",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8333,
+          43.2167
+        ]
+      },
+      "properties": {
+        "feet": 14475,
+        "meters": 4412,
+        "latitude": 43.2167,
+        "longitude": 42.8333,
+        "name": "Chatini",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7167,
+          43.2333
+        ]
+      },
+      "properties": {
+        "feet": 13274,
+        "meters": 4046,
+        "latitude": 43.2333,
+        "longitude": 41.7167,
+        "name": "Dombai-Ulgen",
+        "regions": [
+          "Caucasus Mountains",
+          "Western Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1167,
+          42.95
+        ]
+      },
+      "properties": {
+        "feet": 15945,
+        "meters": 4860,
+        "latitude": 42.95,
+        "longitude": 43.1167,
+        "name": "Gistola",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.518533,
+          42.696851
+        ]
+      },
+      "properties": {
+        "feet": 16558,
+        "meters": 5047,
+        "latitude": 42.696851,
+        "longitude": 44.518533,
+        "name": "Kazbek",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2167,
+          43.05
+        ]
+      },
+      "properties": {
+        "feet": 16877,
+        "meters": 5144,
+        "latitude": 43.05,
+        "longitude": 43.2167,
+        "name": "Koshtan-Tau",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia",
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.75,
+          42.6667
+        ]
+      },
+      "properties": {
+        "feet": 14603,
+        "meters": 4451,
+        "latitude": 42.6667,
+        "longitude": 44.75,
+        "name": "Shan",
+        "regions": [
+          "Caucasus Mountains",
+          "Eastern Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2617,
+          41.3935
+        ]
+      },
+      "properties": {
+        "feet": 9350,
+        "meters": 2850,
+        "latitude": 41.3935,
+        "longitude": 43.2617,
+        "name": "Shavi Klde",
+        "regions": [
+          "Caucasus Mountains",
+          "Lesser Caucasus"
+        ],
+        "countries": [
+          "Georgia",
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.25,
+          43.0333
+        ]
+      },
+      "properties": {
+        "feet": 14331,
+        "meters": 4368,
+        "latitude": 43.0333,
+        "longitude": 43.25,
+        "name": "Shkhelda",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4167,
+          42.6833
+        ]
+      },
+      "properties": {
+        "feet": 14652,
+        "meters": 4466,
+        "latitude": 42.6833,
+        "longitude": 44.4167,
+        "name": "Suatisi",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3167,
+          42.6833
+        ]
+      },
+      "properties": {
+        "feet": 14747,
+        "meters": 4495,
+        "latitude": 42.6833,
+        "longitude": 45.3167,
+        "name": "Tebulo",
+        "regions": [
+          "Caucasus Mountains",
+          "Eastern Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.15,
+          44.1
+        ]
+      },
+      "properties": {
+        "feet": 15922,
+        "meters": 4853,
+        "latitude": 44.1,
+        "longitude": 42.15,
+        "name": "Tetnuldi",
+        "regions": [
+          "Caucasus Mountains"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6667,
+          43.1333
+        ]
+      },
+      "properties": {
+        "feet": 15453,
+        "meters": 4710,
+        "latitude": 43.1333,
+        "longitude": 42.6667,
+        "name": "Ushba",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Georgia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

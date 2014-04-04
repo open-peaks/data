@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.877389,
+      46.958025
+    ]
+  },
+  "properties": {
+    "feet": 5939,
+    "meters": 1810,
+    "latitude": 46.958025,
+    "longitude": -121.877389,
+    "name": "Tolmie Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.93333,
+      46.1667
+    ]
+  },
+  "properties": {
+    "feet": 10686,
+    "meters": 3257,
+    "latitude": 46.1667,
+    "longitude": 6.93333,
+    "name": "Dents du Midi",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.167,
+          2.75
+        ]
+      },
+      "properties": {
+        "feet": 2707,
+        "meters": 825,
+        "latitude": 2.75,
+        "longitude": 102.167,
+        "name": "Gunung Angsi",
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.342441,
+          5.134334
+        ]
+      },
+      "properties": {
+        "feet": 7123,
+        "meters": 2171,
+        "latitude": 5.134334,
+        "longitude": 101.342441,
+        "name": "Gunung Chamah",
+        "regions": [
+          "Southeast Asia",
+          "Malay Peninsula"
+        ],
+        "countries": [
+          "Malaysia",
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.37351,
+          4.760776
+        ]
+      },
+      "properties": {
+        "feet": 7129,
+        "meters": 2173,
+        "latitude": 4.760776,
+        "longitude": 101.37351,
+        "name": "Gunung Gayong",
+        "regions": [
+          "Southeast Asia",
+          "Malay Peninsula"
+        ],
+        "countries": [
+          "Malaysia",
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3,
+          4.68333
+        ]
+      },
+      "properties": {
+        "feet": 7162,
+        "meters": 2183,
+        "latitude": 4.68333,
+        "longitude": 101.3,
+        "name": "Gunung Korbu",
+        "regions": [
+          "Malay Archipelago"
+        ],
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.667,
+          2.33333
+        ]
+      },
+      "properties": {
+        "feet": 4186,
+        "meters": 1276,
+        "latitude": 2.33333,
+        "longitude": 102.667,
+        "name": "Gunung Ledang",
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          3.25
+        ]
+      },
+      "properties": {
+        "feet": 4898,
+        "meters": 1493,
+        "latitude": 3.25,
+        "longitude": 0.0,
+        "name": "Gunung Nuang",
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.333,
+          1.7333
+        ]
+      },
+      "properties": {
+        "feet": 2658,
+        "meters": 810,
+        "latitude": 1.7333,
+        "longitude": 110.333,
+        "name": "Gunung Santubong",
+        "regions": [
+          "Malay Archipelago",
+          "Borneo"
+        ],
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.340637,
+          4.743413
+        ]
+      },
+      "properties": {
+        "feet": 7156,
+        "meters": 2181,
+        "latitude": 4.743413,
+        "longitude": 101.340637,
+        "name": "Gunung Yong Belar",
+        "regions": [
+          "Southeast Asia",
+          "Malay Peninsula"
+        ],
+        "countries": [
+          "Malaysia",
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.441402,
+          4.222048
+        ]
+      },
+      "properties": {
+        "feet": 6994,
+        "meters": 2132,
+        "latitude": 4.222048,
+        "longitude": 101.441402,
+        "name": "Mount Batu Puteh",
+        "regions": [
+          "Malay Archipelago"
+        ],
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.55,
+          6.08333
+        ]
+      },
+      "properties": {
+        "feet": 13455,
+        "meters": 4102,
+        "latitude": 6.08333,
+        "longitude": 116.55,
+        "name": "Mount Kinabalu",
+        "regions": [
+          "Malay Archipelago",
+          "Borneo"
+        ],
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.65,
+          6.21667
+        ]
+      },
+      "properties": {
+        "feet": 8461,
+        "meters": 2579,
+        "latitude": 6.21667,
+        "longitude": 116.65,
+        "name": "Tambuyukon",
+        "regions": [
+          "Malay Archipelago",
+          "Borneo"
+        ],
+        "countries": [
+          "Malaysia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

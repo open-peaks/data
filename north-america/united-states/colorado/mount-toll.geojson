@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.633,
+      40.0883
+    ]
+  },
+  "properties": {
+    "feet": 12978,
+    "meters": 3956,
+    "latitude": 40.0883,
+    "longitude": -105.633,
+    "name": "Mount Toll",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

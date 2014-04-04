@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.943,
+      38.8833
+    ]
+  },
+  "properties": {
+    "feet": 12162,
+    "meters": 3707,
+    "latitude": 38.8833,
+    "longitude": -106.943,
+    "name": "Crested Butte",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

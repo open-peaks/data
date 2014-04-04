@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6277,
+          48.0469
+        ]
+      },
+      "properties": {
+        "feet": 6629,
+        "meters": 2020,
+        "latitude": 48.0469,
+        "longitude": 24.6277,
+        "name": "Chorna Gora",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.423,
+          48.172
+        ]
+      },
+      "properties": {
+        "feet": 6627,
+        "meters": 2020,
+        "latitude": 48.172,
+        "longitude": 24.423,
+        "name": "Petros",
+        "regions": [
+          "Balkan Peninsula"
+        ],
+        "countries": [
+          "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2,
+          44.4
+        ]
+      },
+      "properties": {
+        "feet": 5069,
+        "meters": 1545,
+        "latitude": 44.4,
+        "longitude": 34.2,
+        "name": "Roman-Kosh",
+        "countries": [
+          "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

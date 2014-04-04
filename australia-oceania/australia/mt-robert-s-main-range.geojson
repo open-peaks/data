@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.472609,
+      -28.204525
+    ]
+  },
+  "properties": {
+    "feet": 4337,
+    "meters": 1322,
+    "latitude": -28.204525,
+    "longitude": 152.472609,
+    "name": "Mt Robert's (Main Range)",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

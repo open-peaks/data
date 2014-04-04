@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.4967,
+      51.3367
+    ]
+  },
+  "properties": {
+    "feet": 9239,
+    "meters": 2816,
+    "latitude": 51.3367,
+    "longitude": -117.4967,
+    "name": "Mount Tupper",
+    "regions": [
+      "Intermountain West",
+      "Columbia Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.009827,
+      48.299848
+    ]
+  },
+  "properties": {
+    "feet": 8440,
+    "meters": 2573,
+    "latitude": 48.299848,
+    "longitude": -121.009827,
+    "name": "Sinister Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

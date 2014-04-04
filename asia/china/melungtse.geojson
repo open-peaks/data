@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.4333,
+      27.9667
+    ]
+  },
+  "properties": {
+    "feet": 23555,
+    "meters": 7181,
+    "latitude": 27.9667,
+    "longitude": 86.4333,
+    "name": "Melungtse",
+    "countries": [
+      "China",
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

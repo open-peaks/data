@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.2842,
+      39.8489
+    ]
+  },
+  "properties": {
+    "feet": 10732,
+    "meters": 3271,
+    "latitude": 39.8489,
+    "longitude": 41.2842,
+    "name": "Palandoken",
+    "regions": [
+      "Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.22333,
+      42.831101
+    ]
+  },
+  "properties": {
+    "feet": 7714,
+    "meters": 2351,
+    "latitude": 42.831101,
+    "longitude": -122.22333,
+    "name": "Union Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

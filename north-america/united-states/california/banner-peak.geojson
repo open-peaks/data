@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.194,
+      37.6967
+    ]
+  },
+  "properties": {
+    "feet": 12947,
+    "meters": 3946,
+    "latitude": 37.6967,
+    "longitude": -119.194,
+    "name": "Banner Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

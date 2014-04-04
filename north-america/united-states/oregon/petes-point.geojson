@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.22045,
+      45.18905
+    ]
+  },
+  "properties": {
+    "feet": 9675,
+    "meters": 2949,
+    "latitude": 45.18905,
+    "longitude": -117.22045,
+    "name": "Petes Point",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.292,
+      50.9883
+    ]
+  },
+  "properties": {
+    "feet": 8848,
+    "meters": 2697,
+    "latitude": 50.9883,
+    "longitude": -115.292,
+    "name": "Windtower",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.65,
+      6.21667
+    ]
+  },
+  "properties": {
+    "feet": 8461,
+    "meters": 2579,
+    "latitude": 6.21667,
+    "longitude": 116.65,
+    "name": "Tambuyukon",
+    "regions": [
+      "Malay Archipelago",
+      "Borneo"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

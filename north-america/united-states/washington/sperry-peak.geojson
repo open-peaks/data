@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.502566,
+      48.015937
+    ]
+  },
+  "properties": {
+    "feet": 6120,
+    "meters": 1865,
+    "latitude": 48.015937,
+    "longitude": -121.502566,
+    "name": "Sperry Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

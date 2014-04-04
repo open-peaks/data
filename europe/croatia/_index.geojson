@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0083,
+          46.2819
+        ]
+      },
+      "properties": {
+        "feet": 2251,
+        "meters": 686,
+        "latitude": 46.2819,
+        "longitude": 16.0083,
+        "name": "Ravna gora",
+        "countries": [
+          "Croatia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.053957,
+          43.341847
+        ]
+      },
+      "properties": {
+        "feet": 5781,
+        "meters": 1762,
+        "latitude": 43.341847,
+        "longitude": 17.053957,
+        "name": "Sv. Jure",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Croatia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43,
+          43.3495
+        ]
+      },
+      "properties": {
+        "feet": 5781,
+        "meters": 1762,
+        "latitude": 43.3495,
+        "longitude": 24.43,
+        "name": "Sveti Jure",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Croatia",
+          "Croatia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.702209,
+          44.25897
+        ]
+      },
+      "properties": {
+        "feet": 3615,
+        "meters": 1120,
+        "latitude": 44.25897,
+        "longitude": 15.702209,
+        "name": "Tulove Grede",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Croatia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.627106,
+          43.283983
+        ]
+      },
+      "properties": {
+        "feet": 2552,
+        "meters": 778,
+        "latitude": 43.283983,
+        "longitude": 16.627106,
+        "name": "Vidova Gora",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Croatia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

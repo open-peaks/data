@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.969841,
+      53.160564
+    ]
+  },
+  "properties": {
+    "feet": 3491,
+    "meters": 1064,
+    "latitude": 53.160564,
+    "longitude": -3.969841,
+    "name": "Carnedd Llewelyn",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.59793,
+      43.225239
+    ]
+  },
+  "properties": {
+    "feet": 3333,
+    "meters": 1016,
+    "latitude": 43.225239,
+    "longitude": -4.59793,
+    "name": "Cueto Agero",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

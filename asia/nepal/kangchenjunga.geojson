@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.1483,
+      27.7025
+    ]
+  },
+  "properties": {
+    "feet": 28169,
+    "meters": 8586,
+    "latitude": 27.7025,
+    "longitude": 88.1483,
+    "name": "Kangchenjunga",
+    "regions": [
+      "Himalaya ",
+      "Sikkim-Eastern Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

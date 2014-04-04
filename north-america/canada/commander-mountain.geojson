@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.558,
+      50.415
+    ]
+  },
+  "properties": {
+    "feet": 11060,
+    "meters": 3371,
+    "latitude": 50.415,
+    "longitude": -116.558,
+    "name": "Commander Mountain",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

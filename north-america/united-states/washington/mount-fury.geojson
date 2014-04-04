@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.323094,
+      48.811866
+    ]
+  },
+  "properties": {
+    "feet": 8292,
+    "meters": 2527,
+    "latitude": 48.811866,
+    "longitude": -121.323094,
+    "name": "Mount Fury",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

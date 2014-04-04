@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.60874,
+      58.41355
+    ]
+  },
+  "properties": {
+    "feet": 3041,
+    "meters": 927,
+    "latitude": 58.41355,
+    "longitude": -4.60874,
+    "name": "Ben Hope",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

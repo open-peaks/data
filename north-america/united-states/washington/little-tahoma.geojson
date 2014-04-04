@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.712317,
+      46.849553
+    ]
+  },
+  "properties": {
+    "feet": 11138,
+    "meters": 3395,
+    "latitude": 46.849553,
+    "longitude": -121.712317,
+    "name": "Little Tahoma",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

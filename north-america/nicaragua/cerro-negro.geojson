@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.701944,
+      12.506111
+    ]
+  },
+  "properties": {
+    "feet": 2388,
+    "meters": 728,
+    "latitude": 12.506111,
+    "longitude": -86.701944,
+    "name": "Cerro Negro",
+    "regions": [
+      "Nicaragua - Honduras - El Salvador Ranges"
+    ],
+    "countries": [
+      "Nicaragua"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

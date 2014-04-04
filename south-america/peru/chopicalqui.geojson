@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.573905,
+      -9.08718
+    ]
+  },
+  "properties": {
+    "feet": 20846,
+    "meters": 6354,
+    "latitude": -9.08718,
+    "longitude": -77.573905,
+    "name": "Chopicalqui",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

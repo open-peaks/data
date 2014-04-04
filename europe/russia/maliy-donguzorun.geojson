@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.464546,
+      43.245219
+    ]
+  },
+  "properties": {
+    "feet": 12339,
+    "meters": 3761,
+    "latitude": 43.245219,
+    "longitude": 42.464546,
+    "name": "Maliy Donguzorun",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

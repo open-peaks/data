@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      38.0
+    ]
+  },
+  "properties": {
+    "feet": 10194,
+    "meters": 3107,
+    "latitude": 38.0,
+    "longitude": 37.0,
+    "name": "Mount Karagöl",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

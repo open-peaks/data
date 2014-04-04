@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.091556,
+      52.099256
+    ]
+  },
+  "properties": {
+    "feet": 10965,
+    "meters": 3342,
+    "latitude": 52.099256,
+    "longitude": -117.091556,
+    "name": "Mount Saskatchewan",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

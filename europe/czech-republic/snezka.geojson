@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.740061,
+      50.736292
+    ]
+  },
+  "properties": {
+    "feet": 5256,
+    "meters": 1602,
+    "latitude": 50.736292,
+    "longitude": 15.740061,
+    "name": "Snezka",
+    "countries": [
+      "Czech Republic"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

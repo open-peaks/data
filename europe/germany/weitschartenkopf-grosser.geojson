@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.78697,
+      47.631793
+    ]
+  },
+  "properties": {
+    "feet": 6491,
+    "meters": 1978,
+    "latitude": 47.631793,
+    "longitude": 12.78697,
+    "name": "Weitschartenkopf, Großer",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

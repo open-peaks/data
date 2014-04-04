@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3,
+          -0.15
+        ]
+      },
+      "properties": {
+        "feet": 17057,
+        "meters": 5199,
+        "latitude": -0.15,
+        "longitude": 37.3,
+        "name": "Mount Kenya",
+        "regions": [
+          "East Africa Mountains",
+          "East Central Kenya"
+        ],
+        "countries": [
+          "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.456944,
+          -0.915278
+        ]
+      },
+      "properties": {
+        "feet": 9111,
+        "meters": 2777,
+        "latitude": -0.915278,
+        "longitude": 36.456944,
+        "name": "Mount Longonot",
+        "countries": [
+          "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.21817,
+      10.40993
+    ]
+  },
+  "properties": {
+    "feet": 7782,
+    "meters": 2372,
+    "latitude": 10.40993,
+    "longitude": -67.21817,
+    "name": "Geremba",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

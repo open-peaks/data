@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.64141,
+      -17.02337
+    ]
+  },
+  "properties": {
+    "feet": 4265,
+    "meters": 1300,
+    "latitude": -17.02337,
+    "longitude": 145.64141,
+    "name": "Lambs Head (Kahlpahlim Rock)",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

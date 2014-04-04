@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.6806,
+      32.1044
+    ]
+  },
+  "properties": {
+    "feet": 20299,
+    "meters": 6187,
+    "latitude": 32.1044,
+    "longitude": 77.6806,
+    "name": "Mount Rubal Kang",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

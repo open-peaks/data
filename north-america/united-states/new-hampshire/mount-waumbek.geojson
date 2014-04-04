@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4175,
+      44.4328
+    ]
+  },
+  "properties": {
+    "feet": 4006,
+    "meters": 1221,
+    "latitude": 44.4328,
+    "longitude": -71.4175,
+    "name": "Mount Waumbek",
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

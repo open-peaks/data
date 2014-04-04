@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.7833,
+      28.35
+    ]
+  },
+  "properties": {
+    "feet": 26289,
+    "meters": 8013,
+    "latitude": 28.35,
+    "longitude": 85.7833,
+    "name": "Shisha Pangma",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

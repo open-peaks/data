@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.396551,
+      42.6683
+    ]
+  },
+  "properties": {
+    "feet": 10312,
+    "meters": 3143,
+    "latitude": 42.6683,
+    "longitude": 1.396551,
+    "name": "Pica d'Estats",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.660795,
+      46.880288
+    ]
+  },
+  "properties": {
+    "feet": 7288,
+    "meters": 2221,
+    "latitude": 46.880288,
+    "longitude": -121.660795,
+    "name": "Goat Island Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.447806,
+      37.600578
+    ]
+  },
+  "properties": {
+    "feet": 13828,
+    "meters": 4215,
+    "latitude": 37.600578,
+    "longitude": -105.447806,
+    "name": "Un 13,828",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

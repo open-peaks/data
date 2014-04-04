@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.725,
+      36.29
+    ]
+  },
+  "properties": {
+    "feet": 8740,
+    "meters": 2664,
+    "latitude": 36.29,
+    "longitude": 137.725,
+    "name": "Mt. Chogatake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

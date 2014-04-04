@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.782584,
+      10.543002
+    ]
+  },
+  "properties": {
+    "feet": 9071,
+    "meters": 2765,
+    "latitude": 10.543002,
+    "longitude": -66.782584,
+    "name": "Pico Naiguatá",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      82.778549,
+      29.368114
+    ]
+  },
+  "properties": {
+    "feet": 22582,
+    "meters": 6883,
+    "latitude": 29.368114,
+    "longitude": 82.778549,
+    "name": "Kanjiroba",
+    "regions": [
+      "Himalaya ",
+      "Western Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

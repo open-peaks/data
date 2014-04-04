@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.3412,
+      31.0112
+    ]
+  },
+  "properties": {
+    "feet": 20955,
+    "meters": 6387,
+    "latitude": 31.0112,
+    "longitude": 78.3412,
+    "name": "Kalanag",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

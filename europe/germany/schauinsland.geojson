@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.898698,
+      47.912718
+    ]
+  },
+  "properties": {
+    "feet": 4213,
+    "meters": 1284,
+    "latitude": 47.912718,
+    "longitude": 7.898698,
+    "name": "Schauinsland",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

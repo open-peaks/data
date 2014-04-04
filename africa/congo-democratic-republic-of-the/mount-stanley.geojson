@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.8667,
+      0.383333
+    ]
+  },
+  "properties": {
+    "feet": 16763,
+    "meters": 5109,
+    "latitude": 0.383333,
+    "longitude": 29.8667,
+    "name": "Mount Stanley",
+    "regions": [
+      "East Africa Mountains",
+      "Ruwenzori"
+    ],
+    "countries": [
+      "Congo, Democratic Republic of the"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

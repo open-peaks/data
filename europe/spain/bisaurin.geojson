@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.640469,
+      42.789858
+    ]
+  },
+  "properties": {
+    "feet": 8760,
+    "meters": 2670,
+    "latitude": 42.789858,
+    "longitude": -0.640469,
+    "name": "Bisaurin",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

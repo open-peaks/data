@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -138.682394,
+      60.71624
+    ]
+  },
+  "properties": {
+    "feet": 9908,
+    "meters": 3020,
+    "latitude": 60.71624,
+    "longitude": -138.682394,
+    "name": "Mount Maxwell",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

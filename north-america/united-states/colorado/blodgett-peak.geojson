@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.9,
+      38.9667
+    ]
+  },
+  "properties": {
+    "feet": 9423,
+    "meters": 2872,
+    "latitude": 38.9667,
+    "longitude": -104.9,
+    "name": "Blodgett Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.298,
+      45.8898
+    ]
+  },
+  "properties": {
+    "feet": 10159,
+    "meters": 3096,
+    "latitude": 45.8898,
+    "longitude": -114.298,
+    "name": "Trapper Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

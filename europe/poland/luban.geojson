@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.2025,
+      49.2917
+    ]
+  },
+  "properties": {
+    "feet": 4019,
+    "meters": 1225,
+    "latitude": 49.2917,
+    "longitude": 20.2025,
+    "name": "Lubań",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

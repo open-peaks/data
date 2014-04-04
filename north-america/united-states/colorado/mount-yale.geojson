@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.313,
+      38.8442
+    ]
+  },
+  "properties": {
+    "feet": 14196,
+    "meters": 4327,
+    "latitude": 38.8442,
+    "longitude": -106.313,
+    "name": "Mount Yale",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

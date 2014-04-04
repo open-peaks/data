@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.858493,
+      48.536159
+    ]
+  },
+  "properties": {
+    "feet": 7930,
+    "meters": 2417,
+    "latitude": 48.536159,
+    "longitude": -120.858493,
+    "name": "Meulfire",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

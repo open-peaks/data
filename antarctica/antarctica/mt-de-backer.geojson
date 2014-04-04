@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.69186,
+      -71.84597
+    ]
+  },
+  "properties": {
+    "feet": 5564,
+    "meters": 1696,
+    "latitude": -71.84597,
+    "longitude": 24.69186,
+    "name": "Mt De Backer",
+    "regions": [
+      "East Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica",
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

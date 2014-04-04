@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.27683,
+      -36.933685
+    ]
+  },
+  "properties": {
+    "feet": 6027,
+    "meters": 1837,
+    "latitude": -36.933685,
+    "longitude": 147.27683,
+    "name": "Mount Cope",
+    "regions": [
+      "Great Dividing Range",
+      "Victoria Alps"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

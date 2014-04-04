@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.971878,
+      43.377105
+    ]
+  },
+  "properties": {
+    "feet": 5500,
+    "meters": 1676,
+    "latitude": 43.377105,
+    "longitude": -117.971878,
+    "name": "Star Mountain",
+    "regions": [
+      "Intermountain West"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

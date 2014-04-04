@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.04912,
+      58.2153
+    ]
+  },
+  "properties": {
+    "feet": 2651,
+    "meters": 808,
+    "latitude": 58.2153,
+    "longitude": -5.04912,
+    "name": "Quinag",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

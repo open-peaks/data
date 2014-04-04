@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.5142,
+      37.094167
+    ]
+  },
+  "properties": {
+    "feet": 14200,
+    "meters": 4328,
+    "latitude": 37.094167,
+    "longitude": -118.5142,
+    "name": "Starlight Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

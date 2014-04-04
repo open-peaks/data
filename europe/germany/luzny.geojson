@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.506836,
+      48.939097
+    ]
+  },
+  "properties": {
+    "feet": 4505,
+    "meters": 1373,
+    "latitude": 48.939097,
+    "longitude": 13.506836,
+    "name": "Luzny",
+    "regions": [
+      "Central Europe Ranges",
+      "Bavarian Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

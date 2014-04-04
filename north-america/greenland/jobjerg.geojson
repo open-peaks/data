@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -24.5517,
+      71.5903
+    ]
+  },
+  "properties": {
+    "feet": 7644,
+    "meters": 2330,
+    "latitude": 71.5903,
+    "longitude": -24.5517,
+    "name": "Jobjerg",
+    "countries": [
+      "Greenland"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

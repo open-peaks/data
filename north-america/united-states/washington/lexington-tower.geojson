@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.657,
+      48.5142
+    ]
+  },
+  "properties": {
+    "feet": 7560,
+    "meters": 2304,
+    "latitude": 48.5142,
+    "longitude": -120.657,
+    "name": "Lexington Tower",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

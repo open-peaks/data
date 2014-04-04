@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.365814,
+      45.68707
+    ]
+  },
+  "properties": {
+    "feet": 10308,
+    "meters": 3142,
+    "latitude": 45.68707,
+    "longitude": 7.365814,
+    "name": "Becca di Nona",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

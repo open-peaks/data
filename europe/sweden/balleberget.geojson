@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 981,
+    "meters": 299,
+    "name": "Bålleberget",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

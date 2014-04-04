@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7,
+      46.0667
+    ]
+  },
+  "properties": {
+    "feet": 13848,
+    "meters": 4221,
+    "latitude": 46.0667,
+    "longitude": 7.7,
+    "name": "Zinalrothorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

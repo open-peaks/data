@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.8565,
+      44.127205
+    ]
+  },
+  "properties": {
+    "feet": 7524,
+    "meters": 2293,
+    "latitude": 44.127205,
+    "longitude": -121.8565,
+    "name": "The Husband",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

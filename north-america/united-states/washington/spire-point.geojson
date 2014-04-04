@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.0718,
+      48.3176
+    ]
+  },
+  "properties": {
+    "feet": 8264,
+    "meters": 2519,
+    "latitude": 48.3176,
+    "longitude": -121.0718,
+    "name": "Spire Point",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

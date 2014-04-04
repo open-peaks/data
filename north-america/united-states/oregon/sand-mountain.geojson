@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.928072,
+      44.384759
+    ]
+  },
+  "properties": {
+    "feet": 5459,
+    "meters": 1664,
+    "latitude": 44.384759,
+    "longitude": -121.928072,
+    "name": "Sand Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

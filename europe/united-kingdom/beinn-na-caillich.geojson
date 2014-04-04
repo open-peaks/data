@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.7,
+      57.25
+    ]
+  },
+  "properties": {
+    "feet": 2402,
+    "meters": 732,
+    "latitude": 57.25,
+    "longitude": -5.7,
+    "name": "Beinn na Caillich",
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

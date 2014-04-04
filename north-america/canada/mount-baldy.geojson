@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.049515,
+      51.012135
+    ]
+  },
+  "properties": {
+    "feet": 7192,
+    "meters": 2192,
+    "latitude": 51.012135,
+    "longitude": -115.049515,
+    "name": "Mount Baldy",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

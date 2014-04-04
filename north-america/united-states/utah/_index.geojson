@@ -1,0 +1,1133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.947878,
+          37.269331
+        ]
+      },
+      "properties": {
+        "feet": 5790,
+        "meters": 1765,
+        "latitude": 37.269331,
+        "longitude": -112.947878,
+        "name": "Angels Landing",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.903463,
+          40.699121
+        ]
+      },
+      "properties": {
+        "feet": 11943,
+        "meters": 3640,
+        "latitude": 40.699121,
+        "longitude": -110.903463,
+        "name": "Bald Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.96,
+          41.3633
+        ]
+      },
+      "properties": {
+        "feet": 9972,
+        "meters": 3040,
+        "latitude": 41.3633,
+        "longitude": -111.96,
+        "name": "Ben Lomond Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.015,
+          41.6356
+        ]
+      },
+      "properties": {
+        "feet": 11101,
+        "meters": 3384,
+        "latitude": 41.6356,
+        "longitude": -112.015,
+        "name": "Box Elder Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.88003,
+          37.215599
+        ]
+      },
+      "properties": {
+        "feet": 6680,
+        "meters": 2036,
+        "latitude": 37.215599,
+        "longitude": -112.88003,
+        "name": "Checkerboard Mesa",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.626,
+          40.4597
+        ]
+      },
+      "properties": {
+        "feet": 11031,
+        "meters": 3362,
+        "latitude": 40.4597,
+        "longitude": -112.626,
+        "name": "Deseret Peak",
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          41.95
+        ]
+      },
+      "properties": {
+        "feet": 9873,
+        "meters": 3009,
+        "latitude": 41.95,
+        "longitude": -111.65,
+        "name": "Doubletop Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.786,
+          40.5908
+        ]
+      },
+      "properties": {
+        "feet": 11635,
+        "meters": 3546,
+        "latitude": 40.5908,
+        "longitude": -110.786,
+        "name": "East Grandaddy Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9504,
+          37.221
+        ]
+      },
+      "properties": {
+        "feet": 7709,
+        "meters": 2350,
+        "latitude": 37.221,
+        "longitude": -112.9504,
+        "name": "East Temple",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.54,
+          39.6958
+        ]
+      },
+      "properties": {
+        "feet": 5653,
+        "meters": 1723,
+        "latitude": 39.6958,
+        "longitude": -109.54,
+        "name": "Elephant Butte",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.216,
+          40.9619
+        ]
+      },
+      "properties": {
+        "feet": 6596,
+        "meters": 2010,
+        "latitude": 40.9619,
+        "longitude": -112.216,
+        "name": "Frary Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.34,
+          40.8233
+        ]
+      },
+      "properties": {
+        "feet": 13442,
+        "meters": 4097,
+        "latitude": 40.8233,
+        "longitude": -110.34,
+        "name": "Gilbert Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7592,
+          40.707
+        ]
+      },
+      "properties": {
+        "feet": 8299,
+        "meters": 2530,
+        "latitude": 40.707,
+        "longitude": -111.7592,
+        "name": "Grandeur Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.941014,
+          37.260808
+        ]
+      },
+      "properties": {
+        "feet": 6744,
+        "meters": 2056,
+        "latitude": 37.260808,
+        "longitude": -112.941014,
+        "name": "Great White Throne",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.844,
+          40.7356
+        ]
+      },
+      "properties": {
+        "feet": 12479,
+        "meters": 3804,
+        "latitude": 40.7356,
+        "longitude": -110.844,
+        "name": "Hayden Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.919,
+          39.8283
+        ]
+      },
+      "properties": {
+        "feet": 12101,
+        "meters": 3688,
+        "latitude": 39.8283,
+        "longitude": -113.919,
+        "name": "Ibapah",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.367,
+          40.7833
+        ]
+      },
+      "properties": {
+        "feet": 13528,
+        "meters": 4123,
+        "latitude": 40.7833,
+        "longitude": -110.367,
+        "name": "Kings Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.755,
+          40.5267
+        ]
+      },
+      "properties": {
+        "feet": 11253,
+        "meters": 3430,
+        "latitude": 40.5267,
+        "longitude": -111.755,
+        "name": "Lone Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.371,
+          38.3692
+        ]
+      },
+      "properties": {
+        "feet": 12173,
+        "meters": 3710,
+        "latitude": 38.3692,
+        "longitude": -112.371,
+        "name": "Mount Delano",
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.607,
+          40.7569
+        ]
+      },
+      "properties": {
+        "feet": 12219,
+        "meters": 3724,
+        "latitude": 40.7569,
+        "longitude": -110.607,
+        "name": "Mount Lovenia",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.759,
+          39.8217
+        ]
+      },
+      "properties": {
+        "feet": 11928,
+        "meters": 3636,
+        "latitude": 39.8217,
+        "longitude": -111.759,
+        "name": "Mount Nebo",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.767,
+          40.65
+        ]
+      },
+      "properties": {
+        "feet": 9026,
+        "meters": 2751,
+        "latitude": 40.65,
+        "longitude": -111.767,
+        "name": "Mount Olympus",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.229,
+          38.4383
+        ]
+      },
+      "properties": {
+        "feet": 12721,
+        "meters": 3877,
+        "latitude": 38.4383,
+        "longitude": -109.229,
+        "name": "Mount Peale",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.633,
+          40.4
+        ]
+      },
+      "properties": {
+        "feet": 11749,
+        "meters": 3581,
+        "latitude": 40.4,
+        "longitude": -111.633,
+        "name": "Mount Timpanogos",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.978,
+          40.6972
+        ]
+      },
+      "properties": {
+        "feet": 11521,
+        "meters": 3511,
+        "latitude": 40.6972,
+        "longitude": -110.978,
+        "name": "Mount Watson",
+        "regions": [
+          "Rocky Mountains",
+          "Uinta Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.603,
+          40.5853
+        ]
+      },
+      "properties": {
+        "feet": 10795,
+        "meters": 3290,
+        "latitude": 40.5853,
+        "longitude": -111.603,
+        "name": "Mount Wolverine",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.667,
+          41.9
+        ]
+      },
+      "properties": {
+        "feet": 9986,
+        "meters": 3044,
+        "latitude": 41.9,
+        "longitude": -111.667,
+        "name": "Naomi Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.409,
+          39.1433
+        ]
+      },
+      "properties": {
+        "feet": 9655,
+        "meters": 2943,
+        "latitude": 39.1433,
+        "longitude": -113.409,
+        "name": "Notch Peak",
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7,
+          40.5333
+        ]
+      },
+      "properties": {
+        "feet": 11326,
+        "meters": 3452,
+        "latitude": 40.5333,
+        "longitude": -111.7,
+        "name": "Pfeifferhorn",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.625,
+          37.256944
+        ]
+      },
+      "properties": {
+        "feet": 4806,
+        "meters": 1465,
+        "latitude": 37.256944,
+        "longitude": -113.625,
+        "name": "Santa-Clara",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.685,
+          40.5983
+        ]
+      },
+      "properties": {
+        "feet": 10320,
+        "meters": 3146,
+        "latitude": 40.5983,
+        "longitude": -111.685,
+        "name": "Sundial Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.558,
+          33.9556
+        ]
+      },
+      "properties": {
+        "feet": 11275,
+        "meters": 3437,
+        "latitude": 33.9556,
+        "longitude": -109.558,
+        "name": "Sunrise Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.671055,
+          40.591656
+        ]
+      },
+      "properties": {
+        "feet": 11040,
+        "meters": 3365,
+        "latitude": 40.591656,
+        "longitude": -111.671055,
+        "name": "Superior Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.29955,
+          38.71659
+        ]
+      },
+      "properties": {
+        "feet": 6260,
+        "meters": 1908,
+        "latitude": 38.71659,
+        "longitude": -109.29955,
+        "name": "The Titan",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.979568,
+          37.18469
+        ]
+      },
+      "properties": {
+        "feet": 6545,
+        "meters": 1995,
+        "latitude": 37.18469,
+        "longitude": -112.979568,
+        "name": "The Watchman",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.72,
+          40.5939
+        ]
+      },
+      "properties": {
+        "feet": 11330,
+        "meters": 3453,
+        "latitude": 40.5939,
+        "longitude": -111.72,
+        "name": "Twin Peaks",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.020515,
+          37.210524
+        ]
+      },
+      "properties": {
+        "feet": 7810,
+        "meters": 2380,
+        "latitude": 37.210524,
+        "longitude": -113.020515,
+        "name": "West Temple",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.681,
+          40.5331
+        ]
+      },
+      "properties": {
+        "feet": 11321,
+        "meters": 3451,
+        "latitude": 40.5331,
+        "longitude": -111.681,
+        "name": "White Baldy",
+        "regions": [
+          "Rocky Mountains",
+          "Wasatch Range"
+        ],
+        "states": [
+          "Utah"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

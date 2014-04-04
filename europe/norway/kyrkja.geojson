@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2916,
+      61.5413
+    ]
+  },
+  "properties": {
+    "feet": 6667,
+    "meters": 2032,
+    "latitude": 61.5413,
+    "longitude": 8.2916,
+    "name": "Kyrkja",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

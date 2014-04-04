@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.265045,
+      42.783811
+    ]
+  },
+  "properties": {
+    "feet": 10111,
+    "meters": 3082,
+    "latitude": 42.783811,
+    "longitude": -0.265045,
+    "name": "Picos del Infierno",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

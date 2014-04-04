@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.7667,
+      -22.9333
+    ]
+  },
+  "properties": {
+    "feet": 18386,
+    "meters": 5604,
+    "latitude": -22.9333,
+    "longitude": -67.7667,
+    "name": "Cerro Toco",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

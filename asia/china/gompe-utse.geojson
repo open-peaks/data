@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.0333,
+      29.7
+    ]
+  },
+  "properties": {
+    "feet": 17191,
+    "meters": 5240,
+    "latitude": 29.7,
+    "longitude": 91.0333,
+    "name": "Gompe Utse",
+    "regions": [
+      "Central Tibetan Plateau"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.448064,
+      47.816094
+    ]
+  },
+  "properties": {
+    "feet": 6245,
+    "meters": 1903,
+    "latitude": 47.816094,
+    "longitude": -121.448064,
+    "name": "Gunn Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

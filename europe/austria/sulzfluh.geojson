@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8308,
+      47.0141
+    ]
+  },
+  "properties": {
+    "feet": 9245,
+    "meters": 2818,
+    "latitude": 47.0141,
+    "longitude": 9.8308,
+    "name": "Sulzfluh",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

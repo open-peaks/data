@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.51569,
+      46.34323
+    ]
+  },
+  "properties": {
+    "feet": 11024,
+    "meters": 3360,
+    "latitude": 46.34323,
+    "longitude": 10.51569,
+    "name": "Corno dei Tre Signori",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

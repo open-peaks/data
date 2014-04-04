@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.665087,
+      48.995396
+    ]
+  },
+  "properties": {
+    "feet": 7994,
+    "meters": 2437,
+    "latitude": 48.995396,
+    "longitude": -121.665087,
+    "name": "American Border Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

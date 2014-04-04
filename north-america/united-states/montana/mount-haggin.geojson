@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.096,
+      46.0872
+    ]
+  },
+  "properties": {
+    "feet": 10610,
+    "meters": 3234,
+    "latitude": 46.0872,
+    "longitude": -113.096,
+    "name": "Mount Haggin",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

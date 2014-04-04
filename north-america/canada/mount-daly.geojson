@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.39534,
+      51.518678
+    ]
+  },
+  "properties": {
+    "feet": 10341,
+    "meters": 3152,
+    "latitude": 51.518678,
+    "longitude": -116.39534,
+    "name": "Mount Daly",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

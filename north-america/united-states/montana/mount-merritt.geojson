@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.786,
+      48.8703
+    ]
+  },
+  "properties": {
+    "feet": 10004,
+    "meters": 3049,
+    "latitude": 48.8703,
+    "longitude": -113.786,
+    "name": "Mount Merritt",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

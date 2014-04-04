@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.22,
+      50.805
+    ]
+  },
+  "properties": {
+    "feet": 9957,
+    "meters": 3035,
+    "latitude": 50.805,
+    "longitude": -115.22,
+    "name": "Mount James Walker",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.955951,
+      48.772632
+    ]
+  },
+  "properties": {
+    "feet": 9066,
+    "meters": 2763,
+    "latitude": 48.772632,
+    "longitude": -120.955951,
+    "name": "Jack",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

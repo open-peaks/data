@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.15,
+      -43.5667
+    ]
+  },
+  "properties": {
+    "feet": 11476,
+    "meters": 3498,
+    "latitude": -43.5667,
+    "longitude": 170.15,
+    "name": "Mount Tasman",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

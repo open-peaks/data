@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.929489,
+      40.607176
+    ]
+  },
+  "properties": {
+    "feet": 12951,
+    "meters": 3947,
+    "latitude": 40.607176,
+    "longitude": -105.929489,
+    "name": "Clark Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

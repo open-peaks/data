@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4239,
+      44.5683
+    ]
+  },
+  "properties": {
+    "feet": 8340,
+    "meters": 2542,
+    "latitude": 44.5683,
+    "longitude": 6.4239,
+    "name": "Mont Guillaume",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

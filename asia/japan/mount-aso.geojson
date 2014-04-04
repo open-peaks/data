@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.1039,
+      32.8844
+    ]
+  },
+  "properties": {
+    "feet": 5223,
+    "meters": 1592,
+    "latitude": 32.8844,
+    "longitude": 131.1039,
+    "name": "Mount Aso",
+    "regions": [
+      "Japanese Archipelago",
+      "Kyushu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

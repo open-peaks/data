@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.152525,
+      45.455736
+    ]
+  },
+  "properties": {
+    "feet": 3625,
+    "meters": 1105,
+    "latitude": 45.455736,
+    "longitude": -71.152525,
+    "name": "Mont Mégantic",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

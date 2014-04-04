@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.1,
+      47.5833
+    ]
+  },
+  "properties": {
+    "feet": 7585,
+    "meters": 2312,
+    "latitude": 47.5833,
+    "longitude": 13.1,
+    "name": "Kuchler Freieck",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

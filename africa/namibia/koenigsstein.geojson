@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8441,
+    "meters": 2573,
+    "name": "Koenigsstein",
+    "regions": [
+      "Southern Africa",
+      "South Africa Plateau"
+    ],
+    "countries": [
+      "Namibia"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

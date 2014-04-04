@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.987268,
+      34.152443
+    ]
+  },
+  "properties": {
+    "feet": 13013,
+    "meters": 3966,
+    "latitude": 34.152443,
+    "longitude": 74.987268,
+    "name": "Mahadev",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

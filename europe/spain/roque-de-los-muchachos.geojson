@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.876129,
+      28.76179
+    ]
+  },
+  "properties": {
+    "feet": 7959,
+    "meters": 2426,
+    "latitude": 28.76179,
+    "longitude": -17.876129,
+    "name": "Roque de los Muchachos",
+    "regions": [
+      "Mid-Atlantic Islands",
+      "Canary Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

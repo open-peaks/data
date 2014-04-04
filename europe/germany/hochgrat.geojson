@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.078454,
+      47.496038
+    ]
+  },
+  "properties": {
+    "feet": 6010,
+    "meters": 1832,
+    "latitude": 47.496038,
+    "longitude": 10.078454,
+    "name": "Hochgrat",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

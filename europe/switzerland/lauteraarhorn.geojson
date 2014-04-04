@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.126621,
+      46.587653
+    ]
+  },
+  "properties": {
+    "feet": 13261,
+    "meters": 4042,
+    "latitude": 46.587653,
+    "longitude": 8.126621,
+    "name": "Lauteraarhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

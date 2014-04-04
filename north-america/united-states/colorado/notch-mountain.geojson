@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.46,
+      39.4775
+    ]
+  },
+  "properties": {
+    "feet": 13237,
+    "meters": 4035,
+    "latitude": 39.4775,
+    "longitude": -106.46,
+    "name": "Notch Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

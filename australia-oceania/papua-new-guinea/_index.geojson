@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.436,
+          7.03167
+        ]
+      },
+      "properties": {
+        "feet": 5105,
+        "meters": 1556,
+        "latitude": 7.03167,
+        "longitude": 145.436,
+        "name": "Aure Scarp",
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.883,
+          -6.03333
+        ]
+      },
+      "properties": {
+        "feet": 14327,
+        "meters": 4367,
+        "latitude": -6.03333,
+        "longitude": 143.883,
+        "name": "Mount Giluwe",
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.088094,
+          -6.314966
+        ]
+      },
+      "properties": {
+        "feet": 13520,
+        "meters": 4121,
+        "latitude": -6.314966,
+        "longitude": 147.088094,
+        "name": "Mount Salawaket Mount Bangeta",
+        "regions": [
+          "New Guinea",
+          "Western New Guinea Peninsula"
+        ],
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5,
+          -8.91667
+        ]
+      },
+      "properties": {
+        "feet": 13363,
+        "meters": 4073,
+        "latitude": -8.91667,
+        "longitude": 147.5,
+        "name": "Mount Victoria",
+        "regions": [
+          "New Guinea",
+          "Owen Stanley Range"
+        ],
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.029316,
+          -5.779966
+        ]
+      },
+      "properties": {
+        "feet": 14793,
+        "meters": 4509,
+        "latitude": -5.779966,
+        "longitude": 145.029316,
+        "name": "Mount Wilhelm",
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0,
+          -5.66667
+        ]
+      },
+      "properties": {
+        "feet": 12434,
+        "meters": 3790,
+        "latitude": -5.66667,
+        "longitude": 144.0,
+        "name": "Mt. Hagen",
+        "countries": [
+          "Papua New Guinea"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

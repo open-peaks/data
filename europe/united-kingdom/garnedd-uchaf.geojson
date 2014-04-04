@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.965578,
+      53.183408
+    ]
+  },
+  "properties": {
+    "feet": 3038,
+    "meters": 926,
+    "latitude": 53.183408,
+    "longitude": -3.965578,
+    "name": "Garnedd Uchaf",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

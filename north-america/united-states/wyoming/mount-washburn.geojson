@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.434,
+      44.7978
+    ]
+  },
+  "properties": {
+    "feet": 10243,
+    "meters": 3122,
+    "latitude": 44.7978,
+    "longitude": -110.434,
+    "name": "Mount Washburn",
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

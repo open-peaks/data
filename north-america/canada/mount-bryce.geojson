@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.329779,
+      52.041036
+    ]
+  },
+  "properties": {
+    "feet": 11506,
+    "meters": 3507,
+    "latitude": 52.041036,
+    "longitude": -117.329779,
+    "name": "Mount Bryce",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

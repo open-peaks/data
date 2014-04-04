@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.10339,
+      56.6681
+    ]
+  },
+  "properties": {
+    "feet": 3553,
+    "meters": 1083,
+    "latitude": 56.6681,
+    "longitude": -4.10339,
+    "name": "Schiehallion",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

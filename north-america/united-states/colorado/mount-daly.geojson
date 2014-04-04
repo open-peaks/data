@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.067,
+      39.1667
+    ]
+  },
+  "properties": {
+    "feet": 13305,
+    "meters": 4055,
+    "latitude": 39.1667,
+    "longitude": -107.067,
+    "name": "Mount Daly",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

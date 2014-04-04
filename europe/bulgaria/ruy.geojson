@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35,
+      42.5
+    ]
+  },
+  "properties": {
+    "feet": 5597,
+    "meters": 1706,
+    "latitude": 42.5,
+    "longitude": 22.35,
+    "name": "Ruy",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

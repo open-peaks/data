@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.5167,
+      31.45
+    ]
+  },
+  "properties": {
+    "feet": 21499,
+    "meters": 6553,
+    "latitude": 31.45,
+    "longitude": 78.5167,
+    "name": "Rangrik Rang",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

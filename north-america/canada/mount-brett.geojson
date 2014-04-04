@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.82,
+      51.1617
+    ]
+  },
+  "properties": {
+    "feet": 9790,
+    "meters": 2984,
+    "latitude": 51.1617,
+    "longitude": -115.82,
+    "name": "Mount Brett",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

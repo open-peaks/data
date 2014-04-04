@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.25,
+      37.4
+    ]
+  },
+  "properties": {
+    "feet": 13748,
+    "meters": 4190,
+    "latitude": 37.4,
+    "longitude": -119.25,
+    "name": "Mount Morgan (South)",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

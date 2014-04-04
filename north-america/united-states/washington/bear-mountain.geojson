@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.340861,
+      48.930648
+    ]
+  },
+  "properties": {
+    "feet": 7931,
+    "meters": 2417,
+    "latitude": 48.930648,
+    "longitude": -121.340861,
+    "name": "Bear Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

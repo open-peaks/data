@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.099966,
+      -29.347229
+    ]
+  },
+  "properties": {
+    "feet": 4803,
+    "meters": 1464,
+    "latitude": -29.347229,
+    "longitude": 152.099966,
+    "name": "Big Mount Spirabo",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

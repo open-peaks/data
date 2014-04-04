@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.091909,
+      48.581973
+    ]
+  },
+  "properties": {
+    "feet": 8508,
+    "meters": 2593,
+    "latitude": 48.581973,
+    "longitude": -121.091909,
+    "name": "Primus Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

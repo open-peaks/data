@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.8833,
+      39.3167
+    ]
+  },
+  "properties": {
+    "feet": 22447,
+    "meters": 6842,
+    "latitude": 39.3167,
+    "longitude": 72.8833,
+    "name": "Pik Marshal Zhukov",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

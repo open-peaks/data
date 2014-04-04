@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.97123,
+      34.26101
+    ]
+  },
+  "properties": {
+    "feet": 7920,
+    "meters": 2414,
+    "latitude": 34.26101,
+    "longitude": -116.97123,
+    "name": "Grays Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.438,
+      38.9453
+    ]
+  },
+  "properties": {
+    "feet": 14003,
+    "meters": 4268,
+    "latitude": 38.9453,
+    "longitude": -106.438,
+    "name": "Huron Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

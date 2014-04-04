@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.368,
+      44.231619
+    ]
+  },
+  "properties": {
+    "feet": 3882,
+    "meters": 1183,
+    "latitude": 44.231619,
+    "longitude": -103.368,
+    "name": "Piedmont Butte",
+    "regions": [
+      "North American Plains",
+      "Black Hills"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,627 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05,
+          -18.383
+        ]
+      },
+      "properties": {
+        "feet": 19856,
+        "meters": 6052,
+        "latitude": -18.383,
+        "longitude": -69.05,
+        "name": "Acotango",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.541641,
+          -15.85427
+        ]
+      },
+      "properties": {
+        "feet": 21095,
+        "meters": 6430,
+        "latitude": -15.85427,
+        "longitude": -68.541641,
+        "name": "Ancohuma",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.938149,
+          -16.450572
+        ]
+      },
+      "properties": {
+        "feet": 17139,
+        "meters": 5224,
+        "latitude": -16.450572,
+        "longitude": -67.938149,
+        "name": "Cerro Khasiri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3,
+          -16.1167
+        ]
+      },
+      "properties": {
+        "feet": 17611,
+        "meters": 5368,
+        "latitude": -16.1167,
+        "longitude": -68.3,
+        "name": "Cerro Mullu Apachita",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.272665,
+          -17.239812
+        ]
+      },
+      "properties": {
+        "feet": 14974,
+        "meters": 4564,
+        "latitude": -17.239812,
+        "longitude": -66.272665,
+        "name": "Cerro Santiago",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.266598,
+          -16.225358
+        ]
+      },
+      "properties": {
+        "feet": 15801,
+        "meters": 4816,
+        "latitude": -16.225358,
+        "longitude": -68.266598,
+        "name": "Condor Pusthaña",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.242693,
+          -16.168269
+        ]
+      },
+      "properties": {
+        "feet": 18530,
+        "meters": 5648,
+        "latitude": -16.168269,
+        "longitude": -68.242693,
+        "name": "Condoriri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.261791,
+          -16.198737
+        ]
+      },
+      "properties": {
+        "feet": 16798,
+        "meters": 5120,
+        "latitude": -16.198737,
+        "longitude": -68.261791,
+        "name": "Cuchillo Khuno",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.941159,
+          -16.431907
+        ]
+      },
+      "properties": {
+        "feet": 17785,
+        "meters": 5421,
+        "latitude": -16.431907,
+        "longitude": -67.941159,
+        "name": "Hati Khollu",
+        "regions": [
+          "Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1833,
+          -16.2667
+        ]
+      },
+      "properties": {
+        "feet": 19996,
+        "meters": 6094,
+        "latitude": -16.2667,
+        "longitude": -68.1833,
+        "name": "Huayna Potosi",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.543358,
+          -15.815997
+        ]
+      },
+      "properties": {
+        "feet": 20873,
+        "meters": 6362,
+        "latitude": -15.815997,
+        "longitude": -68.543358,
+        "name": "Illampu",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.787747,
+          -16.636932
+        ]
+      },
+      "properties": {
+        "feet": 21200,
+        "meters": 6460,
+        "latitude": -16.636932,
+        "longitude": -67.787747,
+        "name": "Illimani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.233295,
+          -16.208381
+        ]
+      },
+      "properties": {
+        "feet": 17139,
+        "meters": 5224,
+        "latitude": -16.208381,
+        "longitude": -68.233295,
+        "name": "Jallayco",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.332773,
+          -16.068961
+        ]
+      },
+      "properties": {
+        "feet": 18084,
+        "meters": 5512,
+        "latitude": -16.068961,
+        "longitude": -68.332773,
+        "name": "Jankho Huyo",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04833,
+          -16.317885
+        ]
+      },
+      "properties": {
+        "feet": 16299,
+        "meters": 4968,
+        "latitude": -16.317885,
+        "longitude": -68.04833,
+        "name": "Kolini",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.271919,
+          -16.215469
+        ]
+      },
+      "properties": {
+        "feet": 16161,
+        "meters": 4926,
+        "latitude": -16.215469,
+        "longitude": -68.271919,
+        "name": "Kollpani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.833333,
+          -16.5
+        ]
+      },
+      "properties": {
+        "feet": 19242,
+        "meters": 5865,
+        "latitude": -16.5,
+        "longitude": -67.833333,
+        "name": "Mururata",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2575,
+          -16.189753
+        ]
+      },
+      "properties": {
+        "feet": 17480,
+        "meters": 5328,
+        "latitude": -16.189753,
+        "longitude": -68.2575,
+        "name": "Pico Austria",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.883076,
+          -18.108003
+        ]
+      },
+      "properties": {
+        "feet": 21463,
+        "meters": 6542,
+        "latitude": -18.108003,
+        "longitude": -68.883076,
+        "name": "Sajama",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.940784,
+          -16.392161
+        ]
+      },
+      "properties": {
+        "feet": 18195,
+        "meters": 5546,
+        "latitude": -16.392161,
+        "longitude": -67.940784,
+        "name": "Serkhe Khollu",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia",
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.292347,
+          -16.067064
+        ]
+      },
+      "properties": {
+        "feet": 17208,
+        "meters": 5245,
+        "latitude": -16.067064,
+        "longitude": -68.292347,
+        "name": "Wila Llojeta",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.064724,
+          -16.317309
+        ]
+      },
+      "properties": {
+        "feet": 16424,
+        "meters": 5006,
+        "latitude": -16.317309,
+        "longitude": -68.064724,
+        "name": "Wila Llojo",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.079058,
+          -16.312366
+        ]
+      },
+      "properties": {
+        "feet": 17467,
+        "meters": 5324,
+        "latitude": -16.312366,
+        "longitude": -68.079058,
+        "name": "Wila Manquilisani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

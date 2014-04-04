@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.15,
+      -22.95
+    ]
+  },
+  "properties": {
+    "feet": 1296,
+    "meters": 395,
+    "latitude": -22.95,
+    "longitude": -43.15,
+    "name": "Sugar Loaf Mountain",
+    "regions": [
+      "Brazilian Highlands",
+      "Southern Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.375959,
+      -18.123309
+    ]
+  },
+  "properties": {
+    "feet": 16719,
+    "meters": 5096,
+    "latitude": -18.123309,
+    "longitude": -69.375959,
+    "name": "Guane Guane",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

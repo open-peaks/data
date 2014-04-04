@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.665272,
+      -8.89847
+    ]
+  },
+  "properties": {
+    "feet": 19816,
+    "meters": 6040,
+    "latitude": -8.89847,
+    "longitude": -77.665272,
+    "name": "Quitaraju",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

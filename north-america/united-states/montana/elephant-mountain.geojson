@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.99,
+      45.4388
+    ]
+  },
+  "properties": {
+    "feet": 10090,
+    "meters": 3075,
+    "latitude": 45.4388,
+    "longitude": -110.99,
+    "name": "Elephant Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

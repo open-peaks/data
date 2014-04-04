@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.035991,
+      48.495564
+    ]
+  },
+  "properties": {
+    "feet": 8894,
+    "meters": 2711,
+    "latitude": 48.495564,
+    "longitude": -121.035991,
+    "name": "Boston Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

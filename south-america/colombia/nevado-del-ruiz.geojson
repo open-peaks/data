@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.3667,
+      4.88333
+    ]
+  },
+  "properties": {
+    "feet": 17454,
+    "meters": 5320,
+    "latitude": 4.88333,
+    "longitude": -75.3667,
+    "name": "Nevado del Ruiz",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

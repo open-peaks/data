@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.68866,
+      52.786776
+    ]
+  },
+  "properties": {
+    "feet": 2975,
+    "meters": 907,
+    "latitude": 52.786776,
+    "longitude": -3.68866,
+    "name": "Aran Fawddwy",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

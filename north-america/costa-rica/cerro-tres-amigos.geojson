@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.793798,
+      10.317786
+    ]
+  },
+  "properties": {
+    "feet": 6043,
+    "meters": 1842,
+    "latitude": 10.317786,
+    "longitude": -84.793798,
+    "name": "Cerro Tres Amigos",
+    "regions": [
+      "Central American Ranges",
+      "Costa Rica - Panama Ranges"
+    ],
+    "countries": [
+      "Costa Rica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

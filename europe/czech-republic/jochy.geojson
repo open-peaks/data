@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0,
+      49.0
+    ]
+  },
+  "properties": {
+    "feet": 682,
+    "meters": 208,
+    "latitude": 49.0,
+    "longitude": 17.0,
+    "name": "Jochy",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

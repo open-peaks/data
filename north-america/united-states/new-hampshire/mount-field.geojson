@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.435549,
+      44.19667
+    ]
+  },
+  "properties": {
+    "feet": 4341,
+    "meters": 1323,
+    "latitude": 44.19667,
+    "longitude": -71.435549,
+    "name": "Mount Field",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

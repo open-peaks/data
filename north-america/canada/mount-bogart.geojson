@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.242,
+      50.9083
+    ]
+  },
+  "properties": {
+    "feet": 10315,
+    "meters": 3144,
+    "latitude": 50.9083,
+    "longitude": -115.242,
+    "name": "Mount Bogart",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

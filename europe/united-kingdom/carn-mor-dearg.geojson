@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.986763,
+      56.805272
+    ]
+  },
+  "properties": {
+    "feet": 4002,
+    "meters": 1220,
+    "latitude": 56.805272,
+    "longitude": -4.986763,
+    "name": "Carn Mor Dearg",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

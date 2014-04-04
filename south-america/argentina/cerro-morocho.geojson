@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.101684,
+      -26.936944
+    ]
+  },
+  "properties": {
+    "feet": 15663,
+    "meters": 4774,
+    "latitude": -26.936944,
+    "longitude": -68.101684,
+    "name": "Cerro Morocho",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "countries": [
+      "Argentina",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

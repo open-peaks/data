@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.288,
+      36.5908
+    ]
+  },
+  "properties": {
+    "feet": 14086,
+    "meters": 4293,
+    "latitude": 36.5908,
+    "longitude": -118.288,
+    "name": "Mount Russell",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.0333,
+      27.8333
+    ]
+  },
+  "properties": {
+    "feet": 24997,
+    "meters": 7619,
+    "latitude": 27.8333,
+    "longitude": 81.0333,
+    "name": "Saipal",
+    "regions": [
+      "Himalaya ",
+      "Western Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.05302,
+      53.0768
+    ]
+  },
+  "properties": {
+    "feet": 3028,
+    "meters": 923,
+    "latitude": 53.0768,
+    "longitude": -4.05302,
+    "name": "Crib Goch",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

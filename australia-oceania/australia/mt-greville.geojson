@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.502583,
+      -28.074367
+    ]
+  },
+  "properties": {
+    "feet": 2526,
+    "meters": 770,
+    "latitude": -28.074367,
+    "longitude": 152.502583,
+    "name": "Mt Greville",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

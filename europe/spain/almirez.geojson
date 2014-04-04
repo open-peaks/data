@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.912407,
+      37.087501
+    ]
+  },
+  "properties": {
+    "feet": 8261,
+    "meters": 2518,
+    "latitude": 37.087501,
+    "longitude": -2.912407,
+    "name": "Almirez",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

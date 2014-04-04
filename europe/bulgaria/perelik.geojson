@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.27,
+      41.36
+    ]
+  },
+  "properties": {
+    "feet": 7185,
+    "meters": 2190,
+    "latitude": 41.36,
+    "longitude": 24.27,
+    "name": "Perelik",
+    "regions": [
+      "Eastern Europe Ranges"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

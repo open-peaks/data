@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.968313,
+      48.317508
+    ]
+  },
+  "properties": {
+    "feet": 8115,
+    "meters": 2473,
+    "latitude": 48.317508,
+    "longitude": -120.968313,
+    "name": "Agnes Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

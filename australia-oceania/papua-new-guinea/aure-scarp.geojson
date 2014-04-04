@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.436,
+      7.03167
+    ]
+  },
+  "properties": {
+    "feet": 5105,
+    "meters": 1556,
+    "latitude": 7.03167,
+    "longitude": 145.436,
+    "name": "Aure Scarp",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

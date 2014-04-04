@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 984,
+    "meters": 300,
+    "name": "Mount Romelo",
+    "regions": [
+      "Philippines"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

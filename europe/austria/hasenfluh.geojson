@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.148583,
+      47.881192
+    ]
+  },
+  "properties": {
+    "feet": 8314,
+    "meters": 2534,
+    "latitude": 47.881192,
+    "longitude": 10.148583,
+    "name": "Hasenfluh",
+    "regions": [
+      "Eastern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

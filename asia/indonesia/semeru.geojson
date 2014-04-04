@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.922536,
+      -8.107618
+    ]
+  },
+  "properties": {
+    "feet": 12060,
+    "meters": 3676,
+    "latitude": -8.107618,
+    "longitude": 112.922536,
+    "name": "Semeru",
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

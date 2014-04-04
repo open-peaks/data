@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 4757,
+    "meters": 1450,
+    "name": "Pico Frade",
+    "regions": [
+      "Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

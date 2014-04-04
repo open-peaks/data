@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.606014,
+      9.977727
+    ]
+  },
+  "properties": {
+    "feet": 5774,
+    "meters": 1760,
+    "latitude": 9.977727,
+    "longitude": -68.606014,
+    "name": "Cerro Azul",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01123,
+          16.494032
+        ]
+      },
+      "properties": {
+        "feet": 3711,
+        "meters": 1131,
+        "latitude": 16.494032,
+        "longitude": -89.01123,
+        "name": "Doyle's Delight",
+        "regions": [
+          "Central American Ranges"
+        ],
+        "countries": [
+          "Belize"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59572,
+          17.04266
+        ]
+      },
+      "properties": {
+        "feet": 3084,
+        "meters": 940,
+        "latitude": 17.04266,
+        "longitude": -88.59572,
+        "name": "Mount Margareth",
+        "countries": [
+          "Belize"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.62,
+          16.812
+        ]
+      },
+      "properties": {
+        "feet": 3688,
+        "meters": 1124,
+        "latitude": 16.812,
+        "longitude": -88.62,
+        "name": "Victoria Peak",
+        "countries": [
+          "Belize"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

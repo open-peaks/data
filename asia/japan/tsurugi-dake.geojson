@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.62,
+      36.6204
+    ]
+  },
+  "properties": {
+    "feet": 9835,
+    "meters": 2998,
+    "latitude": 36.6204,
+    "longitude": 137.62,
+    "name": "Tsurugi Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

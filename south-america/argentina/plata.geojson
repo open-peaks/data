@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4167,
+      -33.0167
+    ]
+  },
+  "properties": {
+    "feet": 20718,
+    "meters": 6315,
+    "latitude": -33.0167,
+    "longitude": -69.4167,
+    "name": "Plata",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

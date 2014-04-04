@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.106266,
+      42.641003
+    ]
+  },
+  "properties": {
+    "feet": 420,
+    "meters": 128,
+    "latitude": 42.641003,
+    "longitude": -71.106266,
+    "name": "Holt Hill",
+    "regions": [
+      "Appalachian Mountains",
+      "New England Upland"
+    ],
+    "states": [
+      "Massachusetts"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

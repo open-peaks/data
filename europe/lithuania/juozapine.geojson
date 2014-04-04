@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.5667,
+      54.4667
+    ]
+  },
+  "properties": {
+    "feet": 963,
+    "meters": 294,
+    "latitude": 54.4667,
+    "longitude": 25.5667,
+    "name": "Juozapine",
+    "countries": [
+      "Lithuania"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

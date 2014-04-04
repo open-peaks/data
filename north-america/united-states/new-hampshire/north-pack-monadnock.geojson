@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.865633,
+      42.886195
+    ]
+  },
+  "properties": {
+    "feet": 2276,
+    "meters": 694,
+    "latitude": 42.886195,
+    "longitude": -71.865633,
+    "name": "North Pack Monadnock",
+    "regions": [
+      "Appalachian Mountains",
+      "New England Upland"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

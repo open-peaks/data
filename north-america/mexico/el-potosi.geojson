@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11975,
+    "meters": 3650,
+    "name": "El Potosi",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Oriental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

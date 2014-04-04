@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.043,
+      40.8727
+    ]
+  },
+  "properties": {
+    "feet": 10324,
+    "meters": 3147,
+    "latitude": 40.8727,
+    "longitude": -107.043,
+    "name": "Nipple Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1167,
+      47.4167
+    ]
+  },
+  "properties": {
+    "feet": 8638,
+    "meters": 2633,
+    "latitude": 47.4167,
+    "longitude": 11.1167,
+    "name": "Partenkirchener Dreitorspitze",
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

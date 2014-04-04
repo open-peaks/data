@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9167,
+      61.5185
+    ]
+  },
+  "properties": {
+    "feet": 6785,
+    "meters": 2068,
+    "latitude": 61.5185,
+    "longitude": 7.9167,
+    "name": "Fannaraki",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

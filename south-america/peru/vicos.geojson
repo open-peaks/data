@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.485844,
+      -9.29177
+    ]
+  },
+  "properties": {
+    "feet": 17438,
+    "meters": 5315,
+    "latitude": -9.29177,
+    "longitude": -77.485844,
+    "name": "Vicos",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

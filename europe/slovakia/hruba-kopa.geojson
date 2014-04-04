@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.723034,
+      49.200102
+    ]
+  },
+  "properties": {
+    "feet": 7106,
+    "meters": 2166,
+    "latitude": 49.200102,
+    "longitude": 19.723034,
+    "name": "Hruba kopa",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

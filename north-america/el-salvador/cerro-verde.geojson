@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.62356,
+      13.82732
+    ]
+  },
+  "properties": {
+    "feet": 6660,
+    "meters": 2030,
+    "latitude": 13.82732,
+    "longitude": -89.62356,
+    "name": "Cerro Verde",
+    "countries": [
+      "El Salvador"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

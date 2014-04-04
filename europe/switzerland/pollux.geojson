@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.75,
+      45.9167
+    ]
+  },
+  "properties": {
+    "feet": 13425,
+    "meters": 4092,
+    "latitude": 45.9167,
+    "longitude": 7.75,
+    "name": "Pollux",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.224,
+      36.5617
+    ]
+  },
+  "properties": {
+    "feet": 12944,
+    "meters": 3945,
+    "latitude": 36.5617,
+    "longitude": -118.224,
+    "name": "Lone Pine Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

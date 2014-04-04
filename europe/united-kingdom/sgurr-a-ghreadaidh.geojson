@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.23448,
+      57.2282
+    ]
+  },
+  "properties": {
+    "feet": 3192,
+    "meters": 973,
+    "latitude": 57.2282,
+    "longitude": -6.23448,
+    "name": "Sgurr a' Ghreadaidh",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

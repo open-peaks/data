@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.217,
+      36.8167
+    ]
+  },
+  "properties": {
+    "feet": 7100,
+    "meters": 2164,
+    "latitude": 36.8167,
+    "longitude": -110.217,
+    "name": "Agathla Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

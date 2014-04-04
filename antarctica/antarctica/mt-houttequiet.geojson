@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.69103,
+      -71.86266
+    ]
+  },
+  "properties": {
+    "feet": 5899,
+    "meters": 1798,
+    "latitude": -71.86266,
+    "longitude": 24.69103,
+    "name": "Mt Houttequiet",
+    "regions": [
+      "East Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica",
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.862,
+      35.368
+    ]
+  },
+  "properties": {
+    "feet": 5940,
+    "meters": 1811,
+    "latitude": 35.368,
+    "longitude": -82.862,
+    "name": "Shining Rock",
+    "regions": [
+      "Appalachian Mountains",
+      "Southern Appalachian Ridges"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

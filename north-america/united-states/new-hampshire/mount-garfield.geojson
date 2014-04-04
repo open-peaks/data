@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.6114,
+      44.1869
+    ]
+  },
+  "properties": {
+    "feet": 4500,
+    "meters": 1372,
+    "latitude": 44.1869,
+    "longitude": -71.6114,
+    "name": "Mount Garfield",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

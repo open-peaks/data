@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3047,
+      44.2706
+    ]
+  },
+  "properties": {
+    "feet": 6288,
+    "meters": 1917,
+    "latitude": 44.2706,
+    "longitude": -71.3047,
+    "name": "Mount Washington",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

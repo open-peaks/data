@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.866667,
+      45.915751
+    ]
+  },
+  "properties": {
+    "feet": 13671,
+    "meters": 4167,
+    "latitude": 45.915751,
+    "longitude": 7.866667,
+    "name": "Balmenhorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

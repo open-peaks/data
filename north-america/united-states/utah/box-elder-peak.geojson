@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.015,
+      41.6356
+    ]
+  },
+  "properties": {
+    "feet": 11101,
+    "meters": 3384,
+    "latitude": 41.6356,
+    "longitude": -112.015,
+    "name": "Box Elder Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

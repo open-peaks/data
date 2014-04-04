@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.65085,
+      48.149023
+    ]
+  },
+  "properties": {
+    "feet": 6916,
+    "meters": 2108,
+    "latitude": 48.149023,
+    "longitude": -109.65085,
+    "name": "Baldy Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

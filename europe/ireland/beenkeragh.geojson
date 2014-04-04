@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.746835,
+      52.007287
+    ]
+  },
+  "properties": {
+    "feet": 3314,
+    "meters": 1010,
+    "latitude": 52.007287,
+    "longitude": -9.746835,
+    "name": "Beenkeragh",
+    "countries": [
+      "Ireland",
+      "Ireland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

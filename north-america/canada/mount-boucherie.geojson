@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.581389,
+      49.853889
+    ]
+  },
+  "properties": {
+    "feet": 2487,
+    "meters": 758,
+    "latitude": 49.853889,
+    "longitude": -119.581389,
+    "name": "Mount Boucherie",
+    "regions": [
+      "Intermountain West",
+      "British Columbia Interior"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

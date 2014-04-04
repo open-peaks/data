@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.86667,
+      53.3833
+    ]
+  },
+  "properties": {
+    "feet": 2087,
+    "meters": 636,
+    "latitude": 53.3833,
+    "longitude": -1.86667,
+    "name": "Kinder Scout",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

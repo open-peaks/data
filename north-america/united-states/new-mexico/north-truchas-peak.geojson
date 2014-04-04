@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.617,
+      35.9667
+    ]
+  },
+  "properties": {
+    "feet": 13024,
+    "meters": 3970,
+    "latitude": 35.9667,
+    "longitude": -105.617,
+    "name": "North Truchas Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

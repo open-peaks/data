@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.083448,
+      -18.416397
+    ]
+  },
+  "properties": {
+    "feet": 19888,
+    "meters": 6063,
+    "latitude": -18.416397,
+    "longitude": -69.083448,
+    "name": "Guallatiri",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

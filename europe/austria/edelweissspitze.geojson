@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.82937,
+      47.118154
+    ]
+  },
+  "properties": {
+    "feet": 8453,
+    "meters": 2576,
+    "latitude": 47.118154,
+    "longitude": 12.82937,
+    "name": "Edelweißspitze",
+    "regions": [
+      "Central Europe Ranges"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

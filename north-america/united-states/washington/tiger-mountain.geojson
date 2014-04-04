@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.947045,
+      47.488526
+    ]
+  },
+  "properties": {
+    "feet": 3004,
+    "meters": 916,
+    "latitude": 47.488526,
+    "longitude": -121.947045,
+    "name": "Tiger Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

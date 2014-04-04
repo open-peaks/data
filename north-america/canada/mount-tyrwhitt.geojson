@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.015,
+      50.582
+    ]
+  },
+  "properties": {
+    "feet": 9429,
+    "meters": 2874,
+    "latitude": 50.582,
+    "longitude": -115.015,
+    "name": "Mount Tyrwhitt",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

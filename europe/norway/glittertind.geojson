@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55,
+      61.65
+    ]
+  },
+  "properties": {
+    "feet": 8084,
+    "meters": 2464,
+    "latitude": 61.65,
+    "longitude": 8.55,
+    "name": "Glittertind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

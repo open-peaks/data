@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.62571,
+      36.72783
+    ]
+  },
+  "properties": {
+    "feet": 8816,
+    "meters": 2687,
+    "latitude": 36.72783,
+    "longitude": 29.62571,
+    "name": "Eren",
+    "regions": [
+      "Anatolia",
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.45,
+      44.8667
+    ]
+  },
+  "properties": {
+    "feet": 11214,
+    "meters": 3418,
+    "latitude": 44.8667,
+    "longitude": -111.45,
+    "name": "Echo Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

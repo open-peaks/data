@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.540869,
+      -27.109524
+    ]
+  },
+  "properties": {
+    "feet": 22615,
+    "meters": 6893,
+    "latitude": -27.109524,
+    "longitude": -68.540869,
+    "name": "Ojos del Salado",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile",
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

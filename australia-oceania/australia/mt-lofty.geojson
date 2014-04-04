@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.7125,
+      -34.976048
+    ]
+  },
+  "properties": {
+    "feet": 2329,
+    "meters": 710,
+    "latitude": -34.976048,
+    "longitude": 138.7125,
+    "name": "Mt. Lofty",
+    "regions": [
+      "South Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1959,
+      40.5722
+    ]
+  },
+  "properties": {
+    "feet": 5381,
+    "meters": 1640,
+    "latitude": 40.5722,
+    "longitude": 22.1959,
+    "name": "Paiko",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Greece",
+      "Macedonia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

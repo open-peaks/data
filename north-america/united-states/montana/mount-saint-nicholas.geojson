@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.550568,
+      48.391512
+    ]
+  },
+  "properties": {
+    "feet": 9376,
+    "meters": 2858,
+    "latitude": 48.391512,
+    "longitude": -113.550568,
+    "name": "Mount Saint Nicholas",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

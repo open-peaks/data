@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.101316,
+      10.131577
+    ]
+  },
+  "properties": {
+    "feet": 9534,
+    "meters": 2906,
+    "latitude": 10.131577,
+    "longitude": -84.101316,
+    "name": "Volcan Barva",
+    "regions": [
+      "Central American Ranges",
+      "Costa Rica - Panama Ranges"
+    ],
+    "countries": [
+      "Costa Rica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

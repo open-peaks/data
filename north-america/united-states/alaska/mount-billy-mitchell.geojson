@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.275993,
+      61.203057
+    ]
+  },
+  "properties": {
+    "feet": 7217,
+    "meters": 2200,
+    "latitude": 61.203057,
+    "longitude": -145.275993,
+    "name": "Mount Billy Mitchell",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

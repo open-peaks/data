@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0857,
+      46.2663
+    ]
+  },
+  "properties": {
+    "feet": 10650,
+    "meters": 3246,
+    "latitude": 46.2663,
+    "longitude": 8.0857,
+    "name": "Wasenhorn (Terrarossa)",
+    "regions": [
+      "Southern Alps",
+      "Lepontine Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

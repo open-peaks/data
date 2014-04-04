@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.81,
+      43.6997
+    ]
+  },
+  "properties": {
+    "feet": 11508,
+    "meters": 3508,
+    "latitude": 43.6997,
+    "longitude": -113.81,
+    "name": "Smiley Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

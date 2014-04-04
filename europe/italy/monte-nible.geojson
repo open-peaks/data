@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11040,
+    "meters": 3365,
+    "name": "Monte Niblè",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

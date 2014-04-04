@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.639489,
+      47.604658
+    ]
+  },
+  "properties": {
+    "feet": 1509,
+    "meters": 460,
+    "latitude": 47.604658,
+    "longitude": 7.639489,
+    "name": "Tüllinger Berg",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

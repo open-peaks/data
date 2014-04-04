@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.417,
+      59.9
+    ]
+  },
+  "properties": {
+    "feet": 6612,
+    "meters": 2015,
+    "latitude": 59.9,
+    "longitude": -150.417,
+    "name": "Truuli Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

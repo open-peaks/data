@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.764906,
+      46.973802
+    ]
+  },
+  "properties": {
+    "feet": 11056,
+    "meters": 3370,
+    "latitude": 46.973802,
+    "longitude": 11.764906,
+    "name": "Hoher Weisszint (Punta Bianca)",
+    "regions": [
+      "Eastern Alps",
+      "Noric Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

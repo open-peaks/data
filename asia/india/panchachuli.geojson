@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.42,
+      30.22
+    ]
+  },
+  "properties": {
+    "feet": 22652,
+    "meters": 6904,
+    "latitude": 30.22,
+    "longitude": 80.42,
+    "name": "Panchachuli",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India",
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

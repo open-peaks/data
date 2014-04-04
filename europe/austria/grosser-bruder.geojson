@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.786884,
+      47.631966
+    ]
+  },
+  "properties": {
+    "feet": 6151,
+    "meters": 1864,
+    "latitude": 47.631966,
+    "longitude": 12.786884,
+    "name": "Großer Bruder",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

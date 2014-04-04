@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.9286,
+      35.2844
+    ]
+  },
+  "properties": {
+    "feet": 6824,
+    "meters": 2080,
+    "latitude": 35.2844,
+    "longitude": 23.9286,
+    "name": "Gingilos",
+    "regions": [
+      "Italian Peninsula and Islands"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

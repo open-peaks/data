@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4862,
+      39.6332
+    ]
+  },
+  "properties": {
+    "feet": 3366,
+    "meters": 1026,
+    "latitude": 39.6332,
+    "longitude": 2.4862,
+    "name": "Galatzó",
+    "regions": [
+      "Iberian Peninsula",
+      "Balearic Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

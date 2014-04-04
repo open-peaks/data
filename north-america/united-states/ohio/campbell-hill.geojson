@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.720089,
+      40.370328
+    ]
+  },
+  "properties": {
+    "feet": 1549,
+    "meters": 472,
+    "latitude": 40.370328,
+    "longitude": -83.720089,
+    "name": "Campbell Hill",
+    "states": [
+      "Ohio"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

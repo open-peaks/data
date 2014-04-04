@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 492,
+    "meters": 150,
+    "name": "Mount Mafikeng",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Ireland "
+    ],
+    "countries": [
+      "Ireland"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

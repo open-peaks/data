@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.890234,
+      46.182714
+    ]
+  },
+  "properties": {
+    "feet": 10285,
+    "meters": 3135,
+    "latitude": 46.182714,
+    "longitude": 10.890234,
+    "name": "Crozzon di Brenta",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3923,
+          13.75768
+        ]
+      },
+      "properties": {
+        "feet": 6913,
+        "meters": 2107,
+        "latitude": 13.75768,
+        "longitude": -86.3923,
+        "name": "Cerro Mogoton",
+        "regions": [
+          "Central American Ranges"
+        ],
+        "countries": [
+          "Nicaragua",
+          "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45905,
+          13.56451
+        ]
+      },
+      "properties": {
+        "feet": 3071,
+        "meters": 936,
+        "latitude": 13.56451,
+        "longitude": -86.45905,
+        "name": "Cerro Montañita de Santa Maria",
+        "countries": [
+          "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.701944,
+          12.506111
+        ]
+      },
+      "properties": {
+        "feet": 2388,
+        "meters": 728,
+        "latitude": 12.506111,
+        "longitude": -86.701944,
+        "name": "Cerro Negro",
+        "regions": [
+          "Nicaragua - Honduras - El Salvador Ranges"
+        ],
+        "countries": [
+          "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87,
+          12.6
+        ]
+      },
+      "properties": {
+        "feet": 3481,
+        "meters": 1061,
+        "latitude": 12.6,
+        "longitude": -86.87,
+        "name": "Telica",
+        "regions": [
+          "Central American Ranges"
+        ],
+        "countries": [
+          "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57,
+          12.98
+        ]
+      },
+      "properties": {
+        "feet": 2861,
+        "meters": 872,
+        "latitude": 12.98,
+        "longitude": -87.57,
+        "name": "Volcan Cosigüina",
+        "regions": [
+          "Central American Ranges"
+        ],
+        "countries": [
+          "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5011,
+          11.45042
+        ]
+      },
+      "properties": {
+        "feet": 4573,
+        "meters": 1394,
+        "latitude": 11.45042,
+        "longitude": -85.5011,
+        "name": "Volcan Maderas",
+        "countries": [
+          "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

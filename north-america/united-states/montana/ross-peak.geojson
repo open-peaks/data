@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.95622,
+      45.858509
+    ]
+  },
+  "properties": {
+    "feet": 9003,
+    "meters": 2744,
+    "latitude": 45.858509,
+    "longitude": -110.95622,
+    "name": "Ross Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

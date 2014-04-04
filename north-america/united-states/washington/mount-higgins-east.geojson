@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.762247,
+      48.31494
+    ]
+  },
+  "properties": {
+    "feet": 5142,
+    "meters": 1567,
+    "latitude": 48.31494,
+    "longitude": -121.762247,
+    "name": "Mount Higgins East",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

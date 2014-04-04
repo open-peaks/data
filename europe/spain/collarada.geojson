@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.459538,
+      42.709182
+    ]
+  },
+  "properties": {
+    "feet": 9468,
+    "meters": 2886,
+    "latitude": 42.709182,
+    "longitude": -0.459538,
+    "name": "Collarada",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

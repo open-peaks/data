@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6476,
+    "meters": 1974,
+    "name": "Olytsikas (Tomaros)",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

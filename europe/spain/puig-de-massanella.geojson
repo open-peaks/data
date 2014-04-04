@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.852154,
+      39.805635
+    ]
+  },
+  "properties": {
+    "feet": 4475,
+    "meters": 1364,
+    "latitude": 39.805635,
+    "longitude": 2.852154,
+    "name": "Puig de Massanella",
+    "regions": [
+      "Iberian Peninsula",
+      "Balearic Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

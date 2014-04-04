@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.33333,
+      47.75
+    ]
+  },
+  "properties": {
+    "feet": 4672,
+    "meters": 1424,
+    "latitude": 47.75,
+    "longitude": 7.33333,
+    "name": "Grand Ballon",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

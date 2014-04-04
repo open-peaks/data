@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.917,
+      -44.6667
+    ]
+  },
+  "properties": {
+    "feet": 6562,
+    "meters": 2000,
+    "latitude": -44.6667,
+    "longitude": 167.917,
+    "name": "Mitre Peak",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

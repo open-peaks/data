@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.3307,
+      42.386
+    ]
+  },
+  "properties": {
+    "feet": 7918,
+    "meters": 2413,
+    "latitude": 42.386,
+    "longitude": -119.3307,
+    "name": "Beatys Butte",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

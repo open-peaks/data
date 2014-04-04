@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.325624,
+      -28.235742
+    ]
+  },
+  "properties": {
+    "feet": 2425,
+    "meters": 739,
+    "latitude": -28.235742,
+    "longitude": 153.325624,
+    "name": "Mount Cougal",
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

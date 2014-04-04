@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.2558,
+      50.8848
+    ]
+  },
+  "properties": {
+    "feet": 8963,
+    "meters": 2732,
+    "latitude": 50.8848,
+    "longitude": -118.2558,
+    "name": "Mount Begbie",
+    "regions": [
+      "Intermountain West",
+      "Columbia Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

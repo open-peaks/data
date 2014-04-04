@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.351135,
+      47.664462
+    ]
+  },
+  "properties": {
+    "feet": 5645,
+    "meters": 1721,
+    "latitude": 47.664462,
+    "longitude": 13.351135,
+    "name": "Hoher Zinken, Osterhorn",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

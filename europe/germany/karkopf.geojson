@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.891083,
+      47.687117
+    ]
+  },
+  "properties": {
+    "feet": 5562,
+    "meters": 1695,
+    "latitude": 47.687117,
+    "longitude": 12.891083,
+    "name": "Karkopf",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

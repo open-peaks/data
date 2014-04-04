@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 8202,
+    "meters": 2500,
+    "name": "Santiaguito",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre del Sur"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.884008,
+      44.293945
+    ]
+  },
+  "properties": {
+    "feet": 3680,
+    "meters": 1122,
+    "latitude": 44.293945,
+    "longitude": -72.884008,
+    "name": "Mount Ethan Allen",
+    "regions": [
+      "Appalachian Mountains",
+      "Green Mountains"
+    ],
+    "states": [
+      "Vermont"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

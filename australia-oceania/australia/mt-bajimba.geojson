@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.105829,
+      -29.294232
+    ]
+  },
+  "properties": {
+    "feet": 4741,
+    "meters": 1445,
+    "latitude": -29.294232,
+    "longitude": 152.105829,
+    "name": "Mt Bajimba",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

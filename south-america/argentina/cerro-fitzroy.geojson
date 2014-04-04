@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.043375,
+      -49.271277
+    ]
+  },
+  "properties": {
+    "feet": 11073,
+    "meters": 3375,
+    "latitude": -49.271277,
+    "longitude": -73.043375,
+    "name": "Cerro Fitzroy",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

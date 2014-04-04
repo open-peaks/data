@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.526,
+      35.4017
+    ]
+  },
+  "properties": {
+    "feet": 8938,
+    "meters": 2724,
+    "latitude": 35.4017,
+    "longitude": -111.526,
+    "name": "O'Leary Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

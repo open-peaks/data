@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.8333,
+      -22.4667
+    ]
+  },
+  "properties": {
+    "feet": 9176,
+    "meters": 2797,
+    "latitude": -22.4667,
+    "longitude": -44.8333,
+    "name": "Pedra Da Mina",
+    "regions": [
+      "Brazilian Highlands",
+      "Southern Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

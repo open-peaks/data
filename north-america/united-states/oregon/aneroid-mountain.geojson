@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.17495,
+      45.20297
+    ]
+  },
+  "properties": {
+    "feet": 9702,
+    "meters": 2957,
+    "latitude": 45.20297,
+    "longitude": -117.17495,
+    "name": "Aneroid Mountain",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

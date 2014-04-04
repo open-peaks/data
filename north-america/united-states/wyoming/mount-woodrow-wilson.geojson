@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.652222,
+      43.166667
+    ]
+  },
+  "properties": {
+    "feet": 13502,
+    "meters": 4115,
+    "latitude": 43.166667,
+    "longitude": -109.652222,
+    "name": "Mount Woodrow Wilson",
+    "regions": [
+      "Rocky Mountains",
+      "Wind River Range"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

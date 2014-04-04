@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.55,
+      -24.7167
+    ]
+  },
+  "properties": {
+    "feet": 22058,
+    "meters": 6723,
+    "latitude": -24.7167,
+    "longitude": -68.55,
+    "name": "Llullaillaco",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

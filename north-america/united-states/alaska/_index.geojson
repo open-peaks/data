@@ -1,0 +1,2322 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.167,
+          56.8833
+        ]
+      },
+      "properties": {
+        "feet": 4400,
+        "meters": 1341,
+        "latitude": 56.8833,
+        "longitude": -158.167,
+        "name": "Aniakchak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Aleutian Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.726944,
+          60.743889
+        ]
+      },
+      "properties": {
+        "feet": 3698,
+        "meters": 1127,
+        "latitude": 60.743889,
+        "longitude": -148.726944,
+        "name": "Baird Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.867,
+          61.3
+        ]
+      },
+      "properties": {
+        "feet": 8005,
+        "meters": 2440,
+        "latitude": 61.3,
+        "longitude": -148.867,
+        "name": "Bashful Peak",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.285,
+          61.0022
+        ]
+      },
+      "properties": {
+        "feet": 5505,
+        "meters": 1678,
+        "latitude": 61.0022,
+        "longitude": -149.285,
+        "name": "Bird Peak",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.749,
+          61.3856
+        ]
+      },
+      "properties": {
+        "feet": 16421,
+        "meters": 5005,
+        "latitude": 61.3856,
+        "longitude": -141.749,
+        "name": "Bona",
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8306,
+          60.69
+        ]
+      },
+      "properties": {
+        "feet": 5856,
+        "meters": 1785,
+        "latitude": 60.69,
+        "longitude": -148.8306,
+        "name": "Carpathian Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.444,
+          61.5978
+        ]
+      },
+      "properties": {
+        "feet": 10190,
+        "meters": 3105,
+        "latitude": 61.5978,
+        "longitude": -143.444,
+        "name": "Castle Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.195452,
+          61.744653
+        ]
+      },
+      "properties": {
+        "feet": 4069,
+        "meters": 1248,
+        "latitude": 61.744653,
+        "longitude": -149.195452,
+        "name": "Fish",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Talkeetna Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.665,
+          61.0906
+        ]
+      },
+      "properties": {
+        "feet": 3500,
+        "meters": 1067,
+        "latitude": 61.0906,
+        "longitude": -149.665,
+        "name": "Flattop",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.173889,
+          61.659084
+        ]
+      },
+      "properties": {
+        "feet": 8107,
+        "meters": 2471,
+        "latitude": 61.659084,
+        "longitude": -154.173889,
+        "name": "Golgotha",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.311495,
+          61.760658
+        ]
+      },
+      "properties": {
+        "feet": 4811,
+        "meters": 1466,
+        "latitude": 61.760658,
+        "longitude": -149.311495,
+        "name": "Hatch",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Talkeetna Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.142303,
+          61.801688
+        ]
+      },
+      "properties": {
+        "feet": 9828,
+        "meters": 2996,
+        "latitude": 61.801688,
+        "longitude": -154.142303,
+        "name": "Hesperus",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.74317,
+          61.141229
+        ]
+      },
+      "properties": {
+        "feet": 894,
+        "meters": 272,
+        "latitude": 61.141229,
+        "longitude": -149.74317,
+        "name": "Hilltop",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.350494,
+          63.278431
+        ]
+      },
+      "properties": {
+        "feet": 8000,
+        "meters": 2438,
+        "latitude": 63.278431,
+        "longitude": -145.350494,
+        "name": "Icefall",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.55,
+          61.0
+        ]
+      },
+      "properties": {
+        "feet": 4300,
+        "meters": 1311,
+        "latitude": 61.0,
+        "longitude": -149.55,
+        "name": "Indianhouse Mountain",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.966572,
+          61.622832
+        ]
+      },
+      "properties": {
+        "feet": 3763,
+        "meters": 1147,
+        "latitude": 61.622832,
+        "longitude": -148.966572,
+        "name": "Lazy Mountain",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.905,
+          61.5881
+        ]
+      },
+      "properties": {
+        "feet": 6119,
+        "meters": 1865,
+        "latitude": 61.5881,
+        "longitude": -148.905,
+        "name": "Matanuska Peak (Byers Peak)",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0,
+          61.9
+        ]
+      },
+      "properties": {
+        "feet": 6907,
+        "meters": 2105,
+        "latitude": 61.9,
+        "longitude": -149.0,
+        "name": "Montana Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Talkeetna Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.611,
+          62.97
+        ]
+      },
+      "properties": {
+        "feet": 10335,
+        "meters": 3150,
+        "latitude": 62.97,
+        "longitude": -150.611,
+        "name": "Moose's Tooth",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.267,
+          60.1333
+        ]
+      },
+      "properties": {
+        "feet": 5265,
+        "meters": 1605,
+        "latitude": 60.1333,
+        "longitude": -149.267,
+        "name": "Mount Alice",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.055505,
+          60.958861
+        ]
+      },
+      "properties": {
+        "feet": 3939,
+        "meters": 1201,
+        "latitude": 60.958861,
+        "longitude": -149.055505,
+        "name": "Mount Alyeska",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.167,
+          61.2667
+        ]
+      },
+      "properties": {
+        "feet": 14831,
+        "meters": 4521,
+        "latitude": 61.2667,
+        "longitude": -141.167,
+        "name": "Mount Bear",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.275993,
+          61.203057
+        ]
+      },
+      "properties": {
+        "feet": 7217,
+        "meters": 2200,
+        "latitude": 61.203057,
+        "longitude": -145.275993,
+        "name": "Mount Billy Mitchell",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.433,
+          61.7317
+        ]
+      },
+      "properties": {
+        "feet": 16390,
+        "meters": 4996,
+        "latitude": 61.7317,
+        "longitude": -143.433,
+        "name": "Mount Blackburn",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.968,
+          60.1836
+        ]
+      },
+      "properties": {
+        "feet": 13766,
+        "meters": 4196,
+        "latitude": 60.1836,
+        "longitude": -139.968,
+        "name": "Mount Cook",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States",
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.237,
+          63.6375
+        ]
+      },
+      "properties": {
+        "feet": 12339,
+        "meters": 3761,
+        "latitude": 63.6375,
+        "longitude": -147.237,
+        "name": "Mount Deborah",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.637778,
+          62.1161
+        ]
+      },
+      "properties": {
+        "feet": 12010,
+        "meters": 3661,
+        "latitude": 62.1161,
+        "longitude": -144.637778,
+        "name": "Mount Drum",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6,
+          67.2667
+        ]
+      },
+      "properties": {
+        "feet": 4790,
+        "meters": 1460,
+        "latitude": 67.2667,
+        "longitude": -151.6,
+        "name": "Mount Eddy McKenney",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Brooks Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.527,
+          58.9072
+        ]
+      },
+      "properties": {
+        "feet": 15300,
+        "meters": 4663,
+        "latitude": 58.9072,
+        "longitude": -137.527,
+        "name": "Mount Fairweather",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.398,
+          62.9608
+        ]
+      },
+      "properties": {
+        "feet": 17400,
+        "meters": 5304,
+        "latitude": 62.9608,
+        "longitude": -151.398,
+        "name": "Mount Foraker",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.98,
+          61.32
+        ]
+      },
+      "properties": {
+        "feet": 10610,
+        "meters": 3234,
+        "latitude": 61.32,
+        "longitude": -147.98,
+        "name": "Mount Goode",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.716,
+          63.62
+        ]
+      },
+      "properties": {
+        "feet": 13832,
+        "meters": 4216,
+        "latitude": 63.62,
+        "longitude": -146.716,
+        "name": "Mount Hayes",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.0614,
+          60.7036
+        ]
+      },
+      "properties": {
+        "feet": 12200,
+        "meters": 3719,
+        "latitude": 60.7036,
+        "longitude": -141.0614,
+        "name": "Mount Hope",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.089,
+          62.9508
+        ]
+      },
+      "properties": {
+        "feet": 14573,
+        "meters": 4442,
+        "latitude": 62.9508,
+        "longitude": -151.089,
+        "name": "Mount Hunter",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.896,
+          62.9678
+        ]
+      },
+      "properties": {
+        "feet": 12240,
+        "meters": 3730,
+        "latitude": 62.9678,
+        "longitude": -150.896,
+        "name": "Mount Huntington",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.41481,
+          58.32554
+        ]
+      },
+      "properties": {
+        "feet": 3576,
+        "meters": 1090,
+        "latitude": 58.32554,
+        "longitude": -134.41481,
+        "name": "Mount Juneau",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.693329,
+          59.377499
+        ]
+      },
+      "properties": {
+        "feet": 5670,
+        "meters": 1728,
+        "latitude": 59.377499,
+        "longitude": -135.693329,
+        "name": "Mount Kashagnak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.952,
+          58.2794
+        ]
+      },
+      "properties": {
+        "feet": 6715,
+        "meters": 2047,
+        "latitude": 58.2794,
+        "longitude": -154.952,
+        "name": "Mount Katmai",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Aleutian Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.75,
+          61.4333
+        ]
+      },
+      "properties": {
+        "feet": 13176,
+        "meters": 4016,
+        "latitude": 61.4333,
+        "longitude": -147.75,
+        "name": "Mount Marcus Baker",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.37,
+          63.49
+        ]
+      },
+      "properties": {
+        "feet": 11400,
+        "meters": 3,
+        "latitude": 63.49,
+        "longitude": -146.37,
+        "name": "Mount McGinnis",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.004,
+          63.0694
+        ]
+      },
+      "properties": {
+        "feet": 20320,
+        "meters": 6194,
+        "latitude": 63.0694,
+        "longitude": -151.004,
+        "name": "Mount McKinley",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.117,
+          62.5833
+        ]
+      },
+      "properties": {
+        "feet": 5930,
+        "meters": 1807,
+        "latitude": 62.5833,
+        "longitude": -143.117,
+        "name": "Mount Mend Carp",
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.32611,
+          58.28611
+        ]
+      },
+      "properties": {
+        "feet": 3819,
+        "meters": 1164,
+        "latitude": 58.28611,
+        "longitude": -134.32611,
+        "name": "Mount Roberts",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.929,
+          60.2933
+        ]
+      },
+      "properties": {
+        "feet": 18008,
+        "meters": 5489,
+        "latitude": 60.2933,
+        "longitude": -140.929,
+        "name": "Mount Saint Elias",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.129,
+          62.2139
+        ]
+      },
+      "properties": {
+        "feet": 16237,
+        "meters": 4949,
+        "latitude": 62.2139,
+        "longitude": -144.129,
+        "name": "Mount Sanford",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.607,
+          63.4898
+        ]
+      },
+      "properties": {
+        "feet": 9400,
+        "meters": 2865,
+        "latitude": 63.4898,
+        "longitude": -145.607,
+        "name": "Mount Silvertip",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.412,
+          61.4086
+        ]
+      },
+      "properties": {
+        "feet": 11413,
+        "latitude": 61.4086,
+        "longitude": -152.412,
+        "name": "Mount Torbert",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.016,
+          62.0069
+        ]
+      },
+      "properties": {
+        "feet": 14163,
+        "meters": 4317,
+        "latitude": 62.0069,
+        "longitude": -144.016,
+        "name": "Mount Wrangell",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Wrangell Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.461901,
+          61.332626
+        ]
+      },
+      "properties": {
+        "feet": 3281,
+        "meters": 1000,
+        "latitude": 61.332626,
+        "longitude": -149.461901,
+        "name": "Mt Baldy",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.658,
+          61.3192
+        ]
+      },
+      "properties": {
+        "feet": 6970,
+        "meters": 2,
+        "latitude": 61.3192,
+        "longitude": -148.658,
+        "name": "Mt. Palmer",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.743056,
+          60.485278
+        ]
+      },
+      "properties": {
+        "feet": 10197,
+        "meters": 3108,
+        "latitude": 60.485278,
+        "longitude": -152.743056,
+        "name": "Mt. Redoubt",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Aleutian Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.05,
+          61.55
+        ]
+      },
+      "properties": {
+        "feet": 9072,
+        "meters": 2765,
+        "latitude": 61.55,
+        "longitude": -141.05,
+        "name": "Mt. Schou",
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.771,
+          68.5731
+        ]
+      },
+      "properties": {
+        "feet": 2126,
+        "meters": 648,
+        "latitude": 68.5731,
+        "longitude": -165.771,
+        "name": "Nasak",
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.574444,
+          61.029444
+        ]
+      },
+      "properties": {
+        "feet": 5065,
+        "meters": 1544,
+        "latitude": 61.029444,
+        "longitude": -149.574444,
+        "name": "North Suicide Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.582806,
+          61.099461
+        ]
+      },
+      "properties": {
+        "feet": 5150,
+        "meters": 1570,
+        "latitude": 61.099461,
+        "longitude": -149.582806,
+        "name": "O'malley Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.085,
+          60.1352
+        ]
+      },
+      "properties": {
+        "feet": 5257,
+        "meters": 1602,
+        "latitude": 60.1352,
+        "longitude": -149.085,
+        "name": "Paradise Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.658337,
+          61.084525
+        ]
+      },
+      "properties": {
+        "feet": 3658,
+        "meters": 1114,
+        "latitude": 61.084525,
+        "longitude": -149.658337,
+        "name": "Peak 2",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.650354,
+          61.07861
+        ]
+      },
+      "properties": {
+        "feet": 3996,
+        "meters": 1218,
+        "latitude": 61.07861,
+        "longitude": -149.650354,
+        "name": "Peak 3",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.833,
+          68.2333
+        ]
+      },
+      "properties": {
+        "feet": 7510,
+        "meters": 2289,
+        "latitude": 68.2333,
+        "longitude": -149.833,
+        "name": "Peak 7510",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Brooks Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.313416,
+          63.270094
+        ]
+      },
+      "properties": {
+        "feet": 8100,
+        "meters": 2469,
+        "latitude": 63.270094,
+        "longitude": -145.313416,
+        "name": "Peak 8100",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.194679,
+          61.269408
+        ]
+      },
+      "properties": {
+        "feet": 6925,
+        "meters": 2111,
+        "latitude": 61.269408,
+        "longitude": -149.194679,
+        "name": "Peeking Mountain",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.376984,
+          60.965443
+        ]
+      },
+      "properties": {
+        "feet": 4305,
+        "meters": 1312,
+        "latitude": 60.965443,
+        "longitude": -149.376984,
+        "name": "Penguin Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.533,
+          60.1167
+        ]
+      },
+      "properties": {
+        "feet": 5155,
+        "meters": 1571,
+        "latitude": 60.1167,
+        "longitude": -149.533,
+        "name": "Phoenix Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.033,
+          61.4756
+        ]
+      },
+      "properties": {
+        "feet": 6500,
+        "meters": 1981,
+        "latitude": 61.4756,
+        "longitude": -149.033,
+        "name": "Pioneer Peak",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.196,
+          61.1528
+        ]
+      },
+      "properties": {
+        "feet": 6614,
+        "meters": 2016,
+        "latitude": 61.1528,
+        "longitude": -149.196,
+        "name": "Polar Bear Peak",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.604049,
+          61.059095
+        ]
+      },
+      "properties": {
+        "feet": 4911,
+        "meters": 1497,
+        "latitude": 61.059095,
+        "longitude": -149.604049,
+        "name": "Ptarmigan Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.599543,
+          61.002122
+        ]
+      },
+      "properties": {
+        "feet": 3543,
+        "meters": 1080,
+        "latitude": 61.002122,
+        "longitude": -149.599543,
+        "name": "Rainbow Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.504444,
+          61.250556
+        ]
+      },
+      "properties": {
+        "feet": 3825,
+        "meters": 1166,
+        "latitude": 61.250556,
+        "longitude": -149.504444,
+        "name": "Rendezvous Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.124,
+          63.345
+        ]
+      },
+      "properties": {
+        "feet": 8828,
+        "meters": 2691,
+        "latitude": 63.345,
+        "longitude": -150.124,
+        "name": "Scott Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.667,
+          63.1
+        ]
+      },
+      "properties": {
+        "feet": 13220,
+        "meters": 4030,
+        "latitude": 63.1,
+        "longitude": -150.667,
+        "name": "Silverthrone",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.574444,
+          61.029444
+        ]
+      },
+      "properties": {
+        "feet": 5005,
+        "meters": 1526,
+        "latitude": 61.029444,
+        "longitude": -149.574444,
+        "name": "South Suicide Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.555511,
+          61.143567
+        ]
+      },
+      "properties": {
+        "feet": 5230,
+        "meters": 1594,
+        "latitude": 61.143567,
+        "longitude": -149.555511,
+        "name": "T'Kishla Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.291069,
+          58.707971
+        ]
+      },
+      "properties": {
+        "feet": 5810,
+        "meters": 1771,
+        "latitude": 58.707971,
+        "longitude": -134.291069,
+        "name": "Taku D Peak",
+        "regions": [
+          "Alaska/Yukon Ranges"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.247,
+          60.196
+        ]
+      },
+      "properties": {
+        "feet": 3972,
+        "meters": 1211,
+        "latitude": 60.196,
+        "longitude": -149.247,
+        "name": "Tiehacker Mountain",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.417,
+          59.9
+        ]
+      },
+      "properties": {
+        "feet": 6612,
+        "meters": 2015,
+        "latitude": 59.9,
+        "longitude": -150.417,
+        "name": "Truuli Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Kenai Mountains "
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.152,
+          61.4463
+        ]
+      },
+      "properties": {
+        "feet": 5401,
+        "meters": 1646,
+        "latitude": 61.4463,
+        "longitude": -149.152,
+        "name": "Twin Peaks",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.079468,
+          61.460099
+        ]
+      },
+      "properties": {
+        "feet": 12135,
+        "meters": 3699,
+        "latitude": 61.460099,
+        "longitude": -147.079468,
+        "name": "Valhalla",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Chugach Mountains"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4205,
+          63.42
+        ]
+      },
+      "properties": {
+        "feet": 9850,
+        "meters": 3002,
+        "latitude": 63.42,
+        "longitude": -145.4205,
+        "name": "White Princess",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Alaska Range"
+        ],
+        "states": [
+          "Alaska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

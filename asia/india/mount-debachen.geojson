@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.553862,
+      32.212528
+    ]
+  },
+  "properties": {
+    "feet": 20554,
+    "meters": 6265,
+    "latitude": 32.212528,
+    "longitude": 77.553862,
+    "name": "Mount Debachen",
+    "regions": [
+      "Himalaya ",
+      "Punjab Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

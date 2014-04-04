@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.624006,
+      34.227842
+    ]
+  },
+  "properties": {
+    "feet": 8693,
+    "meters": 2650,
+    "latitude": 34.227842,
+    "longitude": -117.624006,
+    "name": "Ontario Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

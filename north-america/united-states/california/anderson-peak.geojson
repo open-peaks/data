@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.894488,
+      34.124524
+    ]
+  },
+  "properties": {
+    "feet": 10840,
+    "meters": 3304,
+    "latitude": 34.124524,
+    "longitude": -116.894488,
+    "name": "Anderson Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

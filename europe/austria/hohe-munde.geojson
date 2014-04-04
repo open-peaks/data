@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.0833,
+      47.3333
+    ]
+  },
+  "properties": {
+    "feet": 8733,
+    "meters": 2662,
+    "latitude": 47.3333,
+    "longitude": 11.0833,
+    "name": "Hohe Munde",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.9833,
+      47.4167
+    ]
+  },
+  "properties": {
+    "feet": 9718,
+    "meters": 2962,
+    "latitude": 47.4167,
+    "longitude": 10.9833,
+    "name": "Zugspitze",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

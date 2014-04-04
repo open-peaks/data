@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.993,
+      50.7883
+    ]
+  },
+  "properties": {
+    "feet": 9291,
+    "meters": 2832,
+    "latitude": 50.7883,
+    "longitude": -114.993,
+    "name": "Mount Romulus",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

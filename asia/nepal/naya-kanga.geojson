@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5481,
+      28.1786
+    ]
+  },
+  "properties": {
+    "feet": 19180,
+    "meters": 5846,
+    "latitude": 28.1786,
+    "longitude": 83.5481,
+    "name": "Naya Kanga",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

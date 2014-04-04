@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.55453,
+      46.36953
+    ]
+  },
+  "properties": {
+    "feet": 11309,
+    "meters": 3447,
+    "latitude": 46.36953,
+    "longitude": 10.55453,
+    "name": "Cima Villacorna",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

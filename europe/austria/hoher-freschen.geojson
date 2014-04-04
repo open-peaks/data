@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8,
+      47.3
+    ]
+  },
+  "properties": {
+    "feet": 6575,
+    "meters": 2004,
+    "latitude": 47.3,
+    "longitude": 9.8,
+    "name": "Hoher Freschen",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

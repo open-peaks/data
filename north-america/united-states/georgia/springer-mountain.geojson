@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.1935,
+      34.6273
+    ]
+  },
+  "properties": {
+    "feet": 3782,
+    "meters": 1153,
+    "latitude": 34.6273,
+    "longitude": -84.1935,
+    "name": "Springer Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

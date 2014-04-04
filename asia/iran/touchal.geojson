@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.25,
+      35.53
+    ]
+  },
+  "properties": {
+    "feet": 13005,
+    "meters": 3964,
+    "latitude": 35.53,
+    "longitude": 51.25,
+    "name": "Touchal",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

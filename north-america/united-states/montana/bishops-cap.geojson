@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.709784,
+      48.724604
+    ]
+  },
+  "properties": {
+    "feet": 9127,
+    "meters": 2782,
+    "latitude": 48.724604,
+    "longitude": -113.709784,
+    "name": "Bishops Cap",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

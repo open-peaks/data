@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.622171,
+      47.406889
+    ]
+  },
+  "properties": {
+    "feet": 5162,
+    "meters": 1573,
+    "latitude": 47.406889,
+    "longitude": -121.622171,
+    "name": "McClellan Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

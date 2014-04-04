@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.174,
+      39.1506
+    ]
+  },
+  "properties": {
+    "feet": 13739,
+    "meters": 4188,
+    "latitude": 39.1506,
+    "longitude": -106.174,
+    "name": "Ptarmigan Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.3,
+      36.5167
+    ]
+  },
+  "properties": {
+    "feet": 14027,
+    "meters": 4275,
+    "latitude": 36.5167,
+    "longitude": -118.3,
+    "name": "Mount Langley",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

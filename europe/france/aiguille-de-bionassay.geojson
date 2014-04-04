@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.818186,
+      45.835799
+    ]
+  },
+  "properties": {
+    "feet": 13294,
+    "meters": 4052,
+    "latitude": 45.835799,
+    "longitude": 6.818186,
+    "name": "Aiguille de Bionassay",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

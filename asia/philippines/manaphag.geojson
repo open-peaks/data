@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.167515,
+      11.278824
+    ]
+  },
+  "properties": {
+    "feet": 1739,
+    "meters": 530,
+    "latitude": 11.278824,
+    "longitude": 123.167515,
+    "name": "Manaphag",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.374279,
+      48.143165
+    ]
+  },
+  "properties": {
+    "feet": 7201,
+    "meters": 2195,
+    "latitude": 48.143165,
+    "longitude": -121.374279,
+    "name": "Pugh",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

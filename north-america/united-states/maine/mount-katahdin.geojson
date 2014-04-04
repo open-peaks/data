@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.9167,
+      45.9
+    ]
+  },
+  "properties": {
+    "feet": 5268,
+    "meters": 1606,
+    "latitude": 45.9,
+    "longitude": -68.9167,
+    "name": "Mount Katahdin",
+    "regions": [
+      "Appalachian Mountains",
+      "Longfellow Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

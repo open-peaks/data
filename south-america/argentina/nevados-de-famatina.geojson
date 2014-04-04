@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8167,
+      -29.0333
+    ]
+  },
+  "properties": {
+    "feet": 20505,
+    "meters": 6250,
+    "latitude": -29.0333,
+    "longitude": -67.8167,
+    "name": "Nevados De Famatina",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

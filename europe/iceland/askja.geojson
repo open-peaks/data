@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.75,
+      65.05
+    ]
+  },
+  "properties": {
+    "feet": 4974,
+    "meters": 1516,
+    "latitude": 65.05,
+    "longitude": -16.75,
+    "name": "Askja",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Iceland"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

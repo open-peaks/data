@@ -1,0 +1,1757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.690459,
+          45.770956
+        ]
+      },
+      "properties": {
+        "feet": 7822,
+        "meters": 2384,
+        "latitude": 45.770956,
+        "longitude": 6.690459,
+        "name": "Aguille de Roselette",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.818186,
+          45.835799
+        ]
+      },
+      "properties": {
+        "feet": 13294,
+        "meters": 4052,
+        "latitude": 45.835799,
+        "longitude": 6.818186,
+        "name": "Aiguille de Bionassay",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.853219,
+          44.528313
+        ]
+      },
+      "properties": {
+        "feet": 11194,
+        "meters": 3412,
+        "latitude": 44.528313,
+        "longitude": 6.853219,
+        "name": "Aiguille de Chambeyron",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9994,
+          45.5048
+        ]
+      },
+      "properties": {
+        "feet": 12293,
+        "meters": 3747,
+        "latitude": 45.5048,
+        "longitude": 6.9994,
+        "name": "aiguille de la grande sassière",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.843109,
+          45.842434
+        ]
+      },
+      "properties": {
+        "feet": 12674,
+        "meters": 3863,
+        "latitude": 45.842434,
+        "longitude": 6.843109,
+        "name": "Aiguille du Goûter",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43333,
+          45.9833
+        ]
+      },
+      "properties": {
+        "feet": 13524,
+        "meters": 4122,
+        "latitude": 45.9833,
+        "longitude": 6.43333,
+        "name": "Aiguille Verte",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7661,
+          42.9464
+        ]
+      },
+      "properties": {
+        "feet": 6273,
+        "meters": 1912,
+        "latitude": 42.9464,
+        "longitude": 0.7661,
+        "name": "Cagire",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.46,
+          42.515
+        ]
+      },
+      "properties": {
+        "feet": 9127,
+        "meters": 2782,
+        "latitude": 42.515,
+        "longitude": 2.46,
+        "name": "Canigou",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93119,
+          42.570781
+        ]
+      },
+      "properties": {
+        "feet": 9583,
+        "meters": 2921,
+        "latitude": 42.570781,
+        "longitude": 1.93119,
+        "name": "Carlit",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.853237,
+          45.837889
+        ]
+      },
+      "properties": {
+        "feet": 14121,
+        "meters": 4304,
+        "latitude": 45.837889,
+        "longitude": 6.853237,
+        "name": "Dôme du Goûter",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955547,
+          45.932647
+        ]
+      },
+      "properties": {
+        "feet": 12316,
+        "meters": 3754,
+        "latitude": 45.932647,
+        "longitude": 6.955547,
+        "name": "Drus",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36667,
+          44.9167
+        ]
+      },
+      "properties": {
+        "feet": 13455,
+        "meters": 4101,
+        "latitude": 44.9167,
+        "longitude": 6.36667,
+        "name": "Ecrins",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33333,
+          47.75
+        ]
+      },
+      "properties": {
+        "feet": 4672,
+        "meters": 1424,
+        "latitude": 47.75,
+        "longitude": 7.33333,
+        "name": "Grand Ballon",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.897693,
+          45.853658
+        ]
+      },
+      "properties": {
+        "feet": 12592,
+        "meters": 3838,
+        "latitude": 45.853658,
+        "longitude": 6.897693,
+        "name": "Grand Capucin",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.093949,
+          45.166709
+        ]
+      },
+      "properties": {
+        "feet": 9767,
+        "meters": 2977,
+        "latitude": 45.166709,
+        "longitude": 5.093949,
+        "name": "Grand Pic de Belledonne",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.972918,
+          45.934574
+        ]
+      },
+      "properties": {
+        "feet": 13458,
+        "meters": 4102,
+        "latitude": 45.934574,
+        "longitude": 6.972918,
+        "name": "Grande Rocheuse",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7035,
+          45.3371
+        ]
+      },
+      "properties": {
+        "feet": 6299,
+        "meters": 1920,
+        "latitude": 45.3371,
+        "longitude": 5.7035,
+        "name": "Grande Sure",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98333,
+          45.8667
+        ]
+      },
+      "properties": {
+        "feet": 13806,
+        "meters": 4208,
+        "latitude": 45.8667,
+        "longitude": 6.98333,
+        "name": "Grandes Jorasses",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2,
+          44.633
+        ]
+      },
+      "properties": {
+        "feet": 5213,
+        "meters": 1589,
+        "latitude": 44.633,
+        "longitude": 5.2,
+        "name": "Le Veyou",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.989466,
+          45.930835
+        ]
+      },
+      "properties": {
+        "feet": 13123,
+        "meters": 4000,
+        "latitude": 45.930835,
+        "longitude": 6.989466,
+        "name": "Les Droites",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.869937,
+          42.817125
+        ]
+      },
+      "properties": {
+        "feet": 9449,
+        "meters": 2880,
+        "latitude": 42.817125,
+        "longitude": 0.869937,
+        "name": "Maubermé",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55,
+          44.8333
+        ]
+      },
+      "properties": {
+        "feet": 6842,
+        "meters": 2085,
+        "latitude": 44.8333,
+        "longitude": 5.55,
+        "name": "Mont Aiguille",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.864824,
+          45.832866
+        ]
+      },
+      "properties": {
+        "feet": 15771,
+        "meters": 4807,
+        "latitude": 45.832866,
+        "longitude": 6.864824,
+        "name": "Mont Blanc",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.851349,
+          46.024145
+        ]
+      },
+      "properties": {
+        "feet": 10168,
+        "meters": 3099,
+        "latitude": 46.024145,
+        "longitude": 6.851349,
+        "name": "Mont Buet",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38333,
+          44.1333
+        ]
+      },
+      "properties": {
+        "feet": 9990,
+        "meters": 3045,
+        "latitude": 44.1333,
+        "longitude": 7.38333,
+        "name": "Mont Clapier",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.044468,
+          45.922498
+        ]
+      },
+      "properties": {
+        "feet": 12543,
+        "meters": 3823,
+        "latitude": 45.922498,
+        "longitude": 7.044468,
+        "name": "Mont Dolent",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "France",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78333,
+          45.5
+        ]
+      },
+      "properties": {
+        "feet": 6184,
+        "meters": 1885,
+        "latitude": 45.5,
+        "longitude": 2.78333,
+        "name": "Mont Dore",
+        "regions": [
+          "Central Europe Ranges",
+          "Massif Central"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2226,
+          44.8415
+        ]
+      },
+      "properties": {
+        "feet": 5089,
+        "meters": 1551,
+        "latitude": 44.8415,
+        "longitude": 4.2226,
+        "name": "Mont Gerbier de Jonc",
+        "regions": [
+          "Central Europe Ranges",
+          "Massif Central"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4239,
+          44.5683
+        ]
+      },
+      "properties": {
+        "feet": 8340,
+        "meters": 2542,
+        "latitude": 44.5683,
+        "longitude": 6.4239,
+        "name": "Mont Guillaume",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88333,
+          45.85
+        ]
+      },
+      "properties": {
+        "feet": 14649,
+        "meters": 4465,
+        "latitude": 45.85,
+        "longitude": 6.88333,
+        "name": "Mont Maudit",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18333,
+          44.9
+        ]
+      },
+      "properties": {
+        "feet": 5755,
+        "meters": 1754,
+        "latitude": 44.9,
+        "longitude": 4.18333,
+        "name": "Mont Mezenc",
+        "regions": [
+          "Central Europe Ranges",
+          "Massif Central"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56667,
+          45.1167
+        ]
+      },
+      "properties": {
+        "feet": 10426,
+        "meters": 3178,
+        "latitude": 45.1167,
+        "longitude": 6.56667,
+        "name": "Mont Thabor",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05,
+          44.0333
+        ]
+      },
+      "properties": {
+        "feet": 6069,
+        "meters": 1850,
+        "latitude": 44.0333,
+        "longitude": 5.05,
+        "name": "Mont Ventoux",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41667,
+          44.95
+        ]
+      },
+      "properties": {
+        "feet": 12021,
+        "meters": 3664,
+        "latitude": 44.95,
+        "longitude": 6.41667,
+        "name": "Montagne des Agneaux",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119127,
+          45.644408
+        ]
+      },
+      "properties": {
+        "feet": 6703,
+        "meters": 2043,
+        "latitude": 45.644408,
+        "longitude": 6.119127,
+        "name": "Mount Colombier",
+        "regions": [
+          "Central Europe Ranges",
+          "North France-West Rhine Area"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.878927,
+          42.343257
+        ]
+      },
+      "properties": {
+        "feet": 8284,
+        "meters": 2525,
+        "latitude": 42.343257,
+        "longitude": 8.878927,
+        "name": "Paglia Orba",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08,
+          44.6573
+        ]
+      },
+      "properties": {
+        "feet": 10525,
+        "meters": 3208,
+        "latitude": 44.6573,
+        "longitude": 7.08,
+        "name": "Pain de Sucre",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38333,
+          44.8833
+        ]
+      },
+      "properties": {
+        "feet": 12936,
+        "meters": 3943,
+        "latitude": 44.8833,
+        "longitude": 6.38333,
+        "name": "Pelvoux",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.982431,
+          42.614381
+        ]
+      },
+      "properties": {
+        "feet": 9219,
+        "meters": 2810,
+        "latitude": 42.614381,
+        "longitude": 1.982431,
+        "name": "Peric",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9586,
+          45.9479
+        ]
+      },
+      "properties": {
+        "feet": 11522,
+        "meters": 3512,
+        "latitude": 45.9479,
+        "longitude": 6.9586,
+        "name": "Petite Aiguille verte",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24619,
+          44.640366
+        ]
+      },
+      "properties": {
+        "feet": 8264,
+        "meters": 2519,
+        "latitude": 44.640366,
+        "longitude": 6.24619,
+        "name": "Petite Autane",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.384044,
+          45.063943
+        ]
+      },
+      "properties": {
+        "feet": 9695,
+        "meters": 2955,
+        "latitude": 45.063943,
+        "longitude": 6.384044,
+        "name": "Pic Blanc du Galibier",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.721879,
+          42.944989
+        ]
+      },
+      "properties": {
+        "feet": 8215,
+        "meters": 2504,
+        "latitude": 42.944989,
+        "longitude": -0.721879,
+        "name": "Pic d'Anie",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7,
+          43.3
+        ]
+      },
+      "properties": {
+        "feet": 3442,
+        "meters": 1049,
+        "latitude": 43.3,
+        "longitude": 5.7,
+        "name": "Pic De Bertagne",
+        "regions": [
+          "Western Alps",
+          "Maritime Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91667,
+          44.6167
+        ]
+      },
+      "properties": {
+        "feet": 8884,
+        "meters": 2708,
+        "latitude": 44.6167,
+        "longitude": 5.91667,
+        "name": "Pic De Bure",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.226091,
+          42.727091
+        ]
+      },
+      "properties": {
+        "feet": 8596,
+        "meters": 2623,
+        "latitude": 42.727091,
+        "longitude": 1.226091,
+        "name": "Pic de Montarenyo",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38333,
+          44.95
+        ]
+      },
+      "properties": {
+        "feet": 11857,
+        "meters": 3614,
+        "latitude": 44.95,
+        "longitude": 6.38333,
+        "name": "pic De Neige Cordier",
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113897,
+          42.835696
+        ]
+      },
+      "properties": {
+        "feet": 10144,
+        "meters": 3092,
+        "latitude": 42.835696,
+        "longitude": 0.113897,
+        "name": "Pic de Néouvielle",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.517302,
+          42.693224
+        ]
+      },
+      "properties": {
+        "feet": 10571,
+        "meters": 3222,
+        "latitude": 42.693224,
+        "longitude": 0.517302,
+        "name": "Pic De Perdiguère",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.438423,
+          42.844569
+        ]
+      },
+      "properties": {
+        "feet": 9465,
+        "meters": 2885,
+        "latitude": 42.844569,
+        "longitude": -0.438423,
+        "name": "Pic du Midi d'Ossau",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.098834,
+          42.800974
+        ]
+      },
+      "properties": {
+        "feet": 10472,
+        "meters": 3192,
+        "latitude": 42.800974,
+        "longitude": 0.098834,
+        "name": "Pic Long",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7,
+          45.1
+        ]
+      },
+      "properties": {
+        "feet": 6086,
+        "meters": 1855,
+        "latitude": 45.1,
+        "longitude": 3.7,
+        "name": "Plomb du Cantal",
+        "regions": [
+          "Central Europe Ranges",
+          "Massif Central"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2333,
+          45.6833
+        ]
+      },
+      "properties": {
+        "feet": 7274,
+        "meters": 2217,
+        "latitude": 45.6833,
+        "longitude": 6.2333,
+        "name": "Pointe d'Arcalod",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213737,
+          41.805235
+        ]
+      },
+      "properties": {
+        "feet": 5121,
+        "meters": 1561,
+        "latitude": 41.805235,
+        "longitude": 9.213737,
+        "name": "Punta di a Vacca (Tower III)",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Tyrrhennian Islands"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.259239,
+          41.835757
+        ]
+      },
+      "properties": {
+        "feet": 3825,
+        "meters": 1166,
+        "latitude": 41.835757,
+        "longitude": 9.259239,
+        "name": "Punta di Malanda",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.255724,
+          41.831824
+        ]
+      },
+      "properties": {
+        "feet": 4186,
+        "meters": 1276,
+        "latitude": 41.831824,
+        "longitude": 9.255724,
+        "name": "Punta Lunarda",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Tyrrhennian Islands"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7195,
+          46.2559
+        ]
+      },
+      "properties": {
+        "feet": 7073,
+        "meters": 2156,
+        "latitude": 46.2559,
+        "longitude": 6.7195,
+        "name": "Roc de Tavaneuse",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36667,
+          44.95
+        ]
+      },
+      "properties": {
+        "feet": 12237,
+        "meters": 3730,
+        "latitude": 44.95,
+        "longitude": 6.36667,
+        "name": "Roche Faurio",
+        "regions": [
+          "Western Alps",
+          "Dauphine Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16667,
+          45.5
+        ]
+      },
+      "properties": {
+        "feet": 11605,
+        "meters": 3538,
+        "latitude": 45.5,
+        "longitude": 7.16667,
+        "name": "Roche Melon",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052872,
+          42.694675
+        ]
+      },
+      "properties": {
+        "feet": 10315,
+        "meters": 3144,
+        "latitude": 42.694675,
+        "longitude": -0.052872,
+        "name": "Taillon",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.255528,
+          41.826716
+        ]
+      },
+      "properties": {
+        "feet": 3363,
+        "meters": 1025,
+        "latitude": 41.826716,
+        "longitude": 9.255528,
+        "name": "Teghie Lisce",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Tyrrhennian Islands"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.869853,
+          44.537253
+        ]
+      },
+      "properties": {
+        "feet": 10338,
+        "meters": 3151,
+        "latitude": 44.537253,
+        "longitude": 6.869853,
+        "name": "Tete de la Fréma",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "France",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.724877,
+          45.734903
+        ]
+      },
+      "properties": {
+        "feet": 9042,
+        "meters": 2756,
+        "latitude": 45.734903,
+        "longitude": 6.724877,
+        "name": "Tête Nord des Fours",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03333,
+          45.4667
+        ]
+      },
+      "properties": {
+        "feet": 11817,
+        "meters": 3602,
+        "latitude": 45.4667,
+        "longitude": 7.03333,
+        "name": "Tsanteleina",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.106087,
+          42.828646
+        ]
+      },
+      "properties": {
+        "feet": 9911,
+        "meters": 3021,
+        "latitude": 42.828646,
+        "longitude": 0.106087,
+        "name": "Turon de Néouvielle",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.150805,
+          42.774109
+        ]
+      },
+      "properties": {
+        "feet": 10821,
+        "meters": 3298,
+        "latitude": 42.774109,
+        "longitude": -0.150805,
+        "name": "Vignemale",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "France",
+          "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

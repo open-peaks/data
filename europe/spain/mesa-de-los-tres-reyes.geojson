@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.724068,
+      42.922492
+    ]
+  },
+  "properties": {
+    "feet": 7985,
+    "meters": 2434,
+    "latitude": 42.922492,
+    "longitude": -0.724068,
+    "name": "Mesa De Los Tres Reyes",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

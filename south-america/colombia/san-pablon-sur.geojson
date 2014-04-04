@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 16863,
+    "meters": 5140,
+    "name": "San Pablon Sur",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

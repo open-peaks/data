@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.139153,
+      46.578982
+    ]
+  },
+  "properties": {
+    "feet": 12260,
+    "meters": 3737,
+    "latitude": 46.578982,
+    "longitude": 8.139153,
+    "name": "Klein Lauteraarhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.062,
+      50.71
+    ]
+  },
+  "properties": {
+    "feet": 9626,
+    "meters": 2934,
+    "latitude": 50.71,
+    "longitude": -115.062,
+    "name": "Mount Burney",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

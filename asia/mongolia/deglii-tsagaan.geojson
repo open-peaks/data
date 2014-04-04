@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.3188,
+      49.70688
+    ]
+  },
+  "properties": {
+    "feet": 13009,
+    "meters": 3965,
+    "latitude": 49.70688,
+    "longitude": 91.3188,
+    "name": "Deglii Tsagaan",
+    "regions": [
+      "Mongolia Ranges",
+      "Altai"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.139,
+      39.3397
+    ]
+  },
+  "properties": {
+    "feet": 14148,
+    "meters": 4312,
+    "latitude": 39.3397,
+    "longitude": -106.139,
+    "name": "Mount Democrat",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

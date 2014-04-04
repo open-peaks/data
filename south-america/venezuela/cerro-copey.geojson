@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.9114,
+      10.9958
+    ]
+  },
+  "properties": {
+    "feet": 3150,
+    "meters": 960,
+    "latitude": 10.9958,
+    "longitude": -63.9114,
+    "name": "Cerro Copey",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

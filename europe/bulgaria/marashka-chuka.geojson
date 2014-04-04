@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.0322,
+      41.3678
+    ]
+  },
+  "properties": {
+    "feet": 4639,
+    "meters": 1414,
+    "latitude": 41.3678,
+    "longitude": 24.0322,
+    "name": "Marashka Chuka",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

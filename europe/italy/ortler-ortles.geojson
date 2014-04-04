@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.54439,
+      46.50776
+    ]
+  },
+  "properties": {
+    "feet": 12812,
+    "meters": 3905,
+    "latitude": 46.50776,
+    "longitude": 10.54439,
+    "name": "Ortler (Ortles)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

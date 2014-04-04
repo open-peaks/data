@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.95,
+      46.3
+    ]
+  },
+  "properties": {
+    "feet": 8271,
+    "meters": 2521,
+    "latitude": 46.3,
+    "longitude": 10.95,
+    "name": "Presolana",
+    "regions": [
+      "Southern Alps",
+      "Orobie Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

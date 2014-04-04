@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.11333,
+      9.527623
+    ]
+  },
+  "properties": {
+    "feet": 11713,
+    "meters": 3570,
+    "latitude": 9.527623,
+    "longitude": -70.11333,
+    "name": "Pico Cendé",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

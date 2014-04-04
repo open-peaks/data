@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.4,
+      60.5667
+    ]
+  },
+  "properties": {
+    "feet": 19550,
+    "meters": 5959,
+    "latitude": 60.5667,
+    "longitude": -140.4,
+    "name": "Mount Logan",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

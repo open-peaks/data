@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.4625,
+      49.0375
+    ]
+  },
+  "properties": {
+    "feet": 7300,
+    "meters": 2225,
+    "latitude": 49.0375,
+    "longitude": -121.4625,
+    "name": "Macdonald Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

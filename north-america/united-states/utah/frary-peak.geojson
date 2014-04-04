@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.216,
+      40.9619
+    ]
+  },
+  "properties": {
+    "feet": 6596,
+    "meters": 2010,
+    "latitude": 40.9619,
+    "longitude": -112.216,
+    "name": "Frary Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

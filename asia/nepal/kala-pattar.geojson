@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.828417,
+      27.995833
+    ]
+  },
+  "properties": {
+    "feet": 18192,
+    "meters": 5545,
+    "latitude": 27.995833,
+    "longitude": 86.828417,
+    "name": "Kala Pattar",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

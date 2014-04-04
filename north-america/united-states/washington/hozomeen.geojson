@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.012087,
+      48.982245
+    ]
+  },
+  "properties": {
+    "feet": 8066,
+    "meters": 2459,
+    "latitude": 48.982245,
+    "longitude": -121.012087,
+    "name": "Hozomeen",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

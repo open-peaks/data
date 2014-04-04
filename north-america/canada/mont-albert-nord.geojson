@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.163874,
+      48.929887
+    ]
+  },
+  "properties": {
+    "feet": 3570,
+    "meters": 1088,
+    "latitude": 48.929887,
+    "longitude": -66.163874,
+    "name": "Mont Albert (nord)",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

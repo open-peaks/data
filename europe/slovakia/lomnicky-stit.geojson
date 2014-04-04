@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.0833,
+      49.15
+    ]
+  },
+  "properties": {
+    "feet": 8638,
+    "meters": 2633,
+    "latitude": 49.15,
+    "longitude": 20.0833,
+    "name": "Lomnicky Stit",
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

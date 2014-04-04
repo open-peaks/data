@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.0,
+      39.33
+    ]
+  },
+  "properties": {
+    "feet": 4373,
+    "meters": 1333,
+    "latitude": 39.33,
+    "longitude": 21.0,
+    "name": "Lapata",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

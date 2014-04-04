@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.736392,
+      46.053637
+    ]
+  },
+  "properties": {
+    "feet": 9633,
+    "meters": 2936,
+    "latitude": 46.053637,
+    "longitude": 7.736392,
+    "name": "Wisshorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.206083,
+      51.350986
+    ]
+  },
+  "properties": {
+    "feet": 11626,
+    "meters": 3544,
+    "latitude": 51.350986,
+    "longitude": -116.206083,
+    "name": "Mount Temple",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

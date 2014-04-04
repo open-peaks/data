@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11621,
+    "meters": 3542,
+    "name": "Zunil",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre del Sur"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

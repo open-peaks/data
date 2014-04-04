@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.05,
+      44.0333
+    ]
+  },
+  "properties": {
+    "feet": 6069,
+    "meters": 1850,
+    "latitude": 44.0333,
+    "longitude": 5.05,
+    "name": "Mont Ventoux",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

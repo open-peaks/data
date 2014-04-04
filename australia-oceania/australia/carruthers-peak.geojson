@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.291111,
+      -36.408611
+    ]
+  },
+  "properties": {
+    "feet": 7037,
+    "meters": 2145,
+    "latitude": -36.408611,
+    "longitude": 148.291111,
+    "name": "Carruthers Peak",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5167,
+      47.55
+    ]
+  },
+  "properties": {
+    "feet": 7372,
+    "meters": 2247,
+    "latitude": 47.55,
+    "longitude": 14.5167,
+    "name": "Sparafeld",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.866667,
+      45.916109
+    ]
+  },
+  "properties": {
+    "feet": 14180,
+    "meters": 4322,
+    "latitude": 45.916109,
+    "longitude": 7.866667,
+    "name": "Schwarzhorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.1889,
+      44.3333
+    ]
+  },
+  "properties": {
+    "feet": 520,
+    "meters": 158,
+    "latitude": 44.3333,
+    "longitude": -68.1889,
+    "name": "Beehive",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

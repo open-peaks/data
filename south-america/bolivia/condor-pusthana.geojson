@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.266598,
+      -16.225358
+    ]
+  },
+  "properties": {
+    "feet": 15801,
+    "meters": 4816,
+    "latitude": -16.225358,
+    "longitude": -68.266598,
+    "name": "Condor Pusthaña",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

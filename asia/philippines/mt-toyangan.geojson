@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.738056,
+      16.569444
+    ]
+  },
+  "properties": {
+    "feet": 7119,
+    "meters": 2170,
+    "latitude": 16.569444,
+    "longitude": 120.738056,
+    "name": "Mt. Toyangan",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

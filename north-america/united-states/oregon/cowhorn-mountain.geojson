@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.053898,
+      43.399881
+    ]
+  },
+  "properties": {
+    "feet": 7664,
+    "meters": 2336,
+    "latitude": 43.399881,
+    "longitude": -122.053898,
+    "name": "Cowhorn Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

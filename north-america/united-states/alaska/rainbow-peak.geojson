@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.599543,
+      61.002122
+    ]
+  },
+  "properties": {
+    "feet": 3543,
+    "meters": 1080,
+    "latitude": 61.002122,
+    "longitude": -149.599543,
+    "name": "Rainbow Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

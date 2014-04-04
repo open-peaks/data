@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.1667,
+      -32.5167
+    ]
+  },
+  "properties": {
+    "feet": 6650,
+    "meters": 2027,
+    "latitude": -32.5167,
+    "longitude": 19.1667,
+    "name": "Sneeuberg",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

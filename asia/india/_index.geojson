@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.651983,
+          30.28529
+        ]
+      },
+      "properties": {
+        "feet": 20312,
+        "meters": 6191,
+        "latitude": 30.28529,
+        "longitude": 80.651983,
+        "name": "Adi Kailash",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.337015,
+          34.020048
+        ]
+      },
+      "properties": {
+        "feet": 13593,
+        "meters": 4143,
+        "latitude": 34.020048,
+        "longitude": 74.337015,
+        "name": "Affarwat",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India",
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0666,
+          10.1666
+        ]
+      },
+      "properties": {
+        "feet": 8842,
+        "meters": 2695,
+        "latitude": 10.1666,
+        "longitude": 77.0666,
+        "name": "Anamudi",
+        "regions": [
+          "Indian Subcontinent",
+          "Cardamom Hills"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55,
+          31.0
+        ]
+      },
+      "properties": {
+        "feet": 20722,
+        "meters": 6316,
+        "latitude": 31.0,
+        "longitude": 78.55,
+        "name": "Banderpunch",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15,
+          30.85
+        ]
+      },
+      "properties": {
+        "feet": 22493,
+        "meters": 6856,
+        "latitude": 30.85,
+        "longitude": 79.15,
+        "name": "Bhagirathi",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.041051,
+          30.290984
+        ]
+      },
+      "properties": {
+        "feet": 20741,
+        "meters": 6322,
+        "latitude": 30.290984,
+        "longitude": 80.041051,
+        "name": "Changuch",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2833,
+          30.7333
+        ]
+      },
+      "properties": {
+        "feet": 23418,
+        "meters": 7138,
+        "latitude": 30.7333,
+        "longitude": 79.2833,
+        "name": "Chaukhamba 1",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3972,
+          32.2114
+        ]
+      },
+      "properties": {
+        "feet": 19688,
+        "meters": 6001,
+        "latitude": 32.2114,
+        "longitude": 77.3972,
+        "name": "Deo Tibba",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1833,
+          36.3333
+        ]
+      },
+      "properties": {
+        "feet": 25869,
+        "meters": 7885,
+        "latitude": 36.3333,
+        "longitude": 75.1833,
+        "name": "Distaghil Sar",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8666,
+          30.6666
+        ]
+      },
+      "properties": {
+        "feet": 23182,
+        "meters": 7066,
+        "latitude": 30.6666,
+        "longitude": 79.8666,
+        "name": "Dunagiri",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.891251,
+          33.110523
+        ]
+      },
+      "properties": {
+        "feet": 19321,
+        "meters": 5889,
+        "latitude": 33.110523,
+        "longitude": 76.891251,
+        "name": "Forgotten Peak",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.257097,
+          32.961686
+        ]
+      },
+      "properties": {
+        "feet": 17388,
+        "meters": 5300,
+        "latitude": 32.961686,
+        "longitude": 77.257097,
+        "name": "Gumburanjo",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0167,
+          33.7833
+        ]
+      },
+      "properties": {
+        "feet": 16890,
+        "meters": 5148,
+        "latitude": 33.7833,
+        "longitude": 76.0167,
+        "name": "Harmukh",
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3412,
+          31.0112
+        ]
+      },
+      "properties": {
+        "feet": 20955,
+        "meters": 6387,
+        "latitude": 31.0112,
+        "longitude": 78.3412,
+        "name": "Kalanag",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.42,
+          19.35
+        ]
+      },
+      "properties": {
+        "feet": 5400,
+        "meters": 1646,
+        "latitude": 19.35,
+        "longitude": 73.42,
+        "name": "Kalsubai",
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.593611,
+          30.920278
+        ]
+      },
+      "properties": {
+        "feet": 25447,
+        "meters": 7756,
+        "latitude": 30.920278,
+        "longitude": 79.593611,
+        "name": "Kamet",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0667,
+          30.7833
+        ]
+      },
+      "properties": {
+        "feet": 22411,
+        "meters": 6831,
+        "latitude": 30.7833,
+        "longitude": 79.0667,
+        "name": "Kedarnath Dome",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0667,
+          30.7833
+        ]
+      },
+      "properties": {
+        "feet": 22769,
+        "meters": 6940,
+        "latitude": 30.7833,
+        "longitude": 79.0667,
+        "name": "kedarnath",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.74249,
+          31.901935
+        ]
+      },
+      "properties": {
+        "feet": 22362,
+        "meters": 6816,
+        "latitude": 31.901935,
+        "longitude": 78.74249,
+        "name": "Leo Pargial",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "India",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.987268,
+          34.152443
+        ]
+      },
+      "properties": {
+        "feet": 13013,
+        "meters": 3966,
+        "latitude": 34.152443,
+        "longitude": 74.987268,
+        "name": "Mahadev",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.877472,
+          30.274486
+        ]
+      },
+      "properties": {
+        "feet": 22320,
+        "meters": 6803,
+        "latitude": 30.274486,
+        "longitude": 79.877472,
+        "name": "Maiktoli",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5775,
+          35.14083
+        ]
+      },
+      "properties": {
+        "feet": 24659,
+        "meters": 7516,
+        "latitude": 35.14083,
+        "longitude": 77.5775,
+        "name": "Mamostong Kangri - I",
+        "regions": [
+          "Indian Subcontinent"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.553862,
+          32.212528
+        ]
+      },
+      "properties": {
+        "feet": 20554,
+        "meters": 6265,
+        "latitude": 32.212528,
+        "longitude": 77.553862,
+        "name": "Mount Debachen",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6806,
+          32.1044
+        ]
+      },
+      "properties": {
+        "feet": 20299,
+        "meters": 6187,
+        "latitude": 32.1044,
+        "longitude": 77.6806,
+        "name": "Mount Rubal Kang",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.390024,
+          32.287392
+        ]
+      },
+      "properties": {
+        "feet": 15256,
+        "meters": 4650,
+        "latitude": 32.287392,
+        "longitude": 76.390024,
+        "name": "Mun Peak",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9667,
+          30.3833
+        ]
+      },
+      "properties": {
+        "feet": 25645,
+        "meters": 7817,
+        "latitude": 30.3833,
+        "longitude": 79.9667,
+        "name": "Nanda Devi",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7166,
+          30.4666
+        ]
+      },
+      "properties": {
+        "feet": 20699,
+        "meters": 6309,
+        "latitude": 30.4666,
+        "longitude": 79.7166,
+        "name": "Nanda Ghunti",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.975833,
+          30.301667
+        ]
+      },
+      "properties": {
+        "feet": 21690,
+        "meters": 6611,
+        "latitude": 30.301667,
+        "longitude": 79.975833,
+        "name": "Nandakhat",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0666,
+          30.2666
+        ]
+      },
+      "properties": {
+        "feet": 22510,
+        "meters": 6861,
+        "latitude": 30.2666,
+        "longitude": 80.0666,
+        "name": "Nandakot",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 21643,
+        "meters": 6597,
+        "latitude": 0.0,
+        "longitude": 79.4,
+        "name": "Nilkantha",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.020584,
+          33.98077
+        ]
+      },
+      "properties": {
+        "feet": 23410,
+        "meters": 7135,
+        "latitude": 33.98077,
+        "longitude": 76.020584,
+        "name": "Nun Kun",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.034704,
+          30.198803
+        ]
+      },
+      "properties": {
+        "feet": 20312,
+        "meters": 6191,
+        "latitude": 30.198803,
+        "longitude": 81.034704,
+        "name": "Om Parvat",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.42,
+          30.22
+        ]
+      },
+      "properties": {
+        "feet": 22652,
+        "meters": 6904,
+        "latitude": 30.22,
+        "longitude": 80.42,
+        "name": "Panchachuli",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95,
+          30.2833
+        ]
+      },
+      "properties": {
+        "feet": 21860,
+        "meters": 6663,
+        "latitude": 30.2833,
+        "longitude": 79.95,
+        "name": "Panwali Dwar",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5167,
+          31.45
+        ]
+      },
+      "properties": {
+        "feet": 21499,
+        "meters": 6553,
+        "latitude": 31.45,
+        "longitude": 78.5167,
+        "name": "Rangrik Rang",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.735624,
+          31.884373
+        ]
+      },
+      "properties": {
+        "feet": 22362,
+        "meters": 6816,
+        "latitude": 31.884373,
+        "longitude": 78.735624,
+        "name": "Reo pargil",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.898831,
+          30.81038
+        ]
+      },
+      "properties": {
+        "feet": 19091,
+        "meters": 5819,
+        "latitude": 30.81038,
+        "longitude": 78.898831,
+        "name": "Rudragaira",
+        "regions": [
+          "Indian Subcontinent"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.75,
+          34.8667
+        ]
+      },
+      "properties": {
+        "feet": 25170,
+        "meters": 7672,
+        "latitude": 34.8667,
+        "longitude": 77.75,
+        "name": "Sasir Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4425,
+          33.986111
+        ]
+      },
+      "properties": {
+        "feet": 20082,
+        "meters": 6121,
+        "latitude": 33.986111,
+        "longitude": 77.4425,
+        "name": "Stok Kangri",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5,
+          31.1
+        ]
+      },
+      "properties": {
+        "feet": 20512,
+        "meters": 6252,
+        "latitude": 31.1,
+        "longitude": 78.5,
+        "name": "Swargarohini",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.48861,
+          33.89333
+        ]
+      },
+      "properties": {
+        "feet": 15555,
+        "meters": 4741,
+        "latitude": 33.89333,
+        "longitude": 74.48861,
+        "name": "Tattakuti",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7833,
+          30.3167
+        ]
+      },
+      "properties": {
+        "feet": 23360,
+        "meters": 7120,
+        "latitude": 30.3167,
+        "longitude": 79.7833,
+        "name": "Trisul",
+        "regions": [
+          "Himalaya ",
+          "Garhwal Himalaya"
+        ],
+        "countries": [
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.053957,
+      43.341847
+    ]
+  },
+  "properties": {
+    "feet": 5781,
+    "meters": 1762,
+    "latitude": 43.341847,
+    "longitude": 17.053957,
+    "name": "Sv. Jure",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

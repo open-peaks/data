@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.533,
+      51.1
+    ]
+  },
+  "properties": {
+    "feet": 7448,
+    "meters": 2270,
+    "latitude": 51.1,
+    "longitude": -115.533,
+    "name": "Sulphur Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

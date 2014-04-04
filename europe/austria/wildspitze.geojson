@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8833,
+      46.8833
+    ]
+  },
+  "properties": {
+    "feet": 12375,
+    "meters": 3772,
+    "latitude": 46.8833,
+    "longitude": 10.8833,
+    "name": "Wildspitze",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

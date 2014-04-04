@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.66961,
+      57.0712
+    ]
+  },
+  "properties": {
+    "feet": 4294,
+    "meters": 1309,
+    "latitude": 57.0712,
+    "longitude": -3.66961,
+    "name": "Ben Macdui",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

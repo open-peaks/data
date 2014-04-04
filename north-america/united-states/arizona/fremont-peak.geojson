@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.66,
+      35.3231
+    ]
+  },
+  "properties": {
+    "feet": 11969,
+    "meters": 3648,
+    "latitude": 35.3231,
+    "longitude": -111.66,
+    "name": "Fremont Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

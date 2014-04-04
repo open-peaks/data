@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.283333,
+      19.416667
+    ]
+  },
+  "properties": {
+    "feet": 4091,
+    "meters": 1247,
+    "latitude": 19.416667,
+    "longitude": -155.283333,
+    "name": "Kilauea",
+    "regions": [
+      "Hawaiian Islands"
+    ],
+    "states": [
+      "Hawaii"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

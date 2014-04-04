@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.072161,
+      49.00449
+    ]
+  },
+  "properties": {
+    "feet": 7922,
+    "meters": 2415,
+    "latitude": 49.00449,
+    "longitude": -114.072161,
+    "name": "Forum Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

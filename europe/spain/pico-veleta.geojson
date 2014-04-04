@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.36628,
+      37.056547
+    ]
+  },
+  "properties": {
+    "feet": 11148,
+    "meters": 3398,
+    "latitude": 37.056547,
+    "longitude": -3.36628,
+    "name": "Pico Veleta",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

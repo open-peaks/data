@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.715,
+      44.5906
+    ]
+  },
+  "properties": {
+    "feet": 5112,
+    "meters": 1558,
+    "latitude": 44.5906,
+    "longitude": -104.715,
+    "name": "Devils Tower",
+    "regions": [
+      "North American Plains",
+      "Great Plains"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

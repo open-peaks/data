@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.45,
+      -1.5
+    ]
+  },
+  "properties": {
+    "feet": 14787,
+    "meters": 4507,
+    "latitude": -1.5,
+    "longitude": 29.45,
+    "name": "Mount Karisimbi",
+    "regions": [
+      "East Africa Mountains",
+      "Virunga Mountains"
+    ],
+    "countries": [
+      "Rwanda",
+      "Congo, Democratic Republic of the"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

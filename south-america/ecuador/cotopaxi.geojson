@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.437778,
+      -0.680556
+    ]
+  },
+  "properties": {
+    "feet": 19347,
+    "meters": 5897,
+    "latitude": -0.680556,
+    "longitude": -78.437778,
+    "name": "Cotopaxi",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

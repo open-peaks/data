@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.557163,
+      46.382914
+    ]
+  },
+  "properties": {
+    "feet": 11680,
+    "meters": 3560,
+    "latitude": 46.382914,
+    "longitude": 10.557163,
+    "name": "Cima Dosegu",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

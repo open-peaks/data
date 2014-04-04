@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.026579,
+      44.39537
+    ]
+  },
+  "properties": {
+    "feet": 5666,
+    "meters": 1727,
+    "latitude": 44.39537,
+    "longitude": 10.026579,
+    "name": "Roccabiasca",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

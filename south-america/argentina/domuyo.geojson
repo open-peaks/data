@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.7,
+      -36.9667
+    ]
+  },
+  "properties": {
+    "feet": 15,
+    "meters": 4709,
+    "latitude": -36.9667,
+    "longitude": -70.7,
+    "name": "Domuyo",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

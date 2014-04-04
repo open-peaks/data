@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.801643,
+      49.113096
+    ]
+  },
+  "properties": {
+    "feet": 4400,
+    "meters": 1341,
+    "latitude": 49.113096,
+    "longitude": -121.801643,
+    "name": "Elk Thurston Ridge",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

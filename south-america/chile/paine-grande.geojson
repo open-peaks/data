@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.9667,
+      -50.9833
+    ]
+  },
+  "properties": {
+    "feet": 10006,
+    "meters": 3050,
+    "latitude": -50.9833,
+    "longitude": -72.9667,
+    "name": "Paine Grande",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

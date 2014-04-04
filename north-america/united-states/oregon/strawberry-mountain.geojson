@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.709335,
+      44.303704
+    ]
+  },
+  "properties": {
+    "feet": 9038,
+    "meters": 2755,
+    "latitude": 44.303704,
+    "longitude": -118.709335,
+    "name": "Strawberry Mountain",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

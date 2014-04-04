@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.167,
+      0.0
+    ]
+  },
+  "properties": {
+    "feet": 18359,
+    "meters": 5596,
+    "latitude": 0.0,
+    "longitude": 100.167,
+    "name": "Yulong Xue Shan",
+    "regions": [
+      "Parallel Gorges Area"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.31218,
+      14.65202
+    ]
+  },
+  "properties": {
+    "feet": 9285,
+    "meters": 2830,
+    "latitude": 14.65202,
+    "longitude": -91.31218,
+    "name": "Pakisis",
+    "regions": [
+      "Central American Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

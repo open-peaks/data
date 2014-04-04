@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.453857,
+      32.908195
+    ]
+  },
+  "properties": {
+    "feet": 5900,
+    "meters": 1798,
+    "latitude": 32.908195,
+    "longitude": -116.453857,
+    "name": "Garnet Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.823,
+      37.8942
+    ]
+  },
+  "properties": {
+    "feet": 12716,
+    "meters": 3876,
+    "latitude": 37.8942,
+    "longitude": -107.823,
+    "name": "Gold Hill",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

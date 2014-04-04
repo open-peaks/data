@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.383196,
+      47.469501
+    ]
+  },
+  "properties": {
+    "feet": 6211,
+    "meters": 1893,
+    "latitude": 47.469501,
+    "longitude": 10.383196,
+    "name": "Breitenberg",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

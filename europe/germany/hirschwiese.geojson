@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.917519,
+      47.529836
+    ]
+  },
+  "properties": {
+    "feet": 6934,
+    "meters": 2113,
+    "latitude": 47.529836,
+    "longitude": 12.917519,
+    "name": "Hirschwiese",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

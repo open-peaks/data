@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.106266,
+          42.641003
+        ]
+      },
+      "properties": {
+        "feet": 420,
+        "meters": 128,
+        "latitude": 42.641003,
+        "longitude": -71.106266,
+        "name": "Holt Hill",
+        "regions": [
+          "Appalachian Mountains",
+          "New England Upland"
+        ],
+        "states": [
+          "Massachusetts"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1662,
+          42.6376
+        ]
+      },
+      "properties": {
+        "feet": 3491,
+        "meters": 1064,
+        "latitude": 42.6376,
+        "longitude": -73.1662,
+        "name": "Mount Greylock",
+        "states": [
+          "Massachusetts"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.887,
+          42.489
+        ]
+      },
+      "properties": {
+        "feet": 2006,
+        "meters": 611,
+        "latitude": 42.489,
+        "longitude": -71.887,
+        "name": "Wachusett Mtn.",
+        "states": [
+          "Massachusetts"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

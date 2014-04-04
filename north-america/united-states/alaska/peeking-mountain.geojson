@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.194679,
+      61.269408
+    ]
+  },
+  "properties": {
+    "feet": 6925,
+    "meters": 2111,
+    "latitude": 61.269408,
+    "longitude": -149.194679,
+    "name": "Peeking Mountain",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

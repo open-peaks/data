@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.580544,
+      47.774349
+    ]
+  },
+  "properties": {
+    "feet": 6010,
+    "meters": 1832,
+    "latitude": 47.774349,
+    "longitude": -121.580544,
+    "name": "Mount Index",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

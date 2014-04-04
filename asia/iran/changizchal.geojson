@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.115021,
+      35.785165
+    ]
+  },
+  "properties": {
+    "feet": 13287,
+    "meters": 4050,
+    "latitude": 35.785165,
+    "longitude": 52.115021,
+    "name": "Changizchal",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

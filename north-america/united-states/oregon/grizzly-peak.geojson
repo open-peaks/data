@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.616606,
+      42.269592
+    ]
+  },
+  "properties": {
+    "feet": 5920,
+    "meters": 1804,
+    "latitude": 42.269592,
+    "longitude": -122.616606,
+    "name": "Grizzly Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

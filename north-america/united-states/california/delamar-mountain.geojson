@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.945552,
+      34.290938
+    ]
+  },
+  "properties": {
+    "feet": 8398,
+    "meters": 2560,
+    "latitude": 34.290938,
+    "longitude": -116.945552,
+    "name": "Delamar Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

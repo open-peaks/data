@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.417,
+      37.0167
+    ]
+  },
+  "properties": {
+    "feet": 14058,
+    "meters": 4285,
+    "latitude": 37.0167,
+    "longitude": -118.417,
+    "name": "Split Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

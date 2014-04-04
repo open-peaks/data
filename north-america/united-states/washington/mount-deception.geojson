@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.233507,
+      47.813146
+    ]
+  },
+  "properties": {
+    "feet": 7788,
+    "meters": 2374,
+    "latitude": 47.813146,
+    "longitude": -123.233507,
+    "name": "Mount Deception",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

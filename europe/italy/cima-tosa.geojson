@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8633,
+      46.1556
+    ]
+  },
+  "properties": {
+    "feet": 10410,
+    "meters": 3173,
+    "latitude": 46.1556,
+    "longitude": 10.8633,
+    "name": "Cima Tosa",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

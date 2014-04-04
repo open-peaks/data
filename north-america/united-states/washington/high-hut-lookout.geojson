@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.02579,
+      46.69661
+    ]
+  },
+  "properties": {
+    "feet": 4743,
+    "meters": 1446,
+    "latitude": 46.69661,
+    "longitude": -122.02579,
+    "name": "High Hut Lookout",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

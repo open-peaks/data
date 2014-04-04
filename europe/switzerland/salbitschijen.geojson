@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.530831,
+      46.675888
+    ]
+  },
+  "properties": {
+    "feet": 9780,
+    "meters": 2981,
+    "latitude": 46.675888,
+    "longitude": 8.530831,
+    "name": "Salbitschijen",
+    "regions": [
+      "Northern Alps",
+      "Urner Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

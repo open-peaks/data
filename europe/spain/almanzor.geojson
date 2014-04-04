@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.329399,
+      40.258241
+    ]
+  },
+  "properties": {
+    "feet": 8504,
+    "meters": 2592,
+    "latitude": 40.258241,
+    "longitude": -5.329399,
+    "name": "Almanzor",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.758246,
+      47.793143
+    ]
+  },
+  "properties": {
+    "feet": 7076,
+    "meters": 2157,
+    "latitude": 47.793143,
+    "longitude": -123.758246,
+    "name": "Mount Tom",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

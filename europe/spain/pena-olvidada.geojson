@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.806307,
+      43.165295
+    ]
+  },
+  "properties": {
+    "feet": 7894,
+    "meters": 2406,
+    "latitude": 43.165295,
+    "longitude": -4.806307,
+    "name": "Peña Olvidada",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

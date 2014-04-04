@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.38333,
+      44.8833
+    ]
+  },
+  "properties": {
+    "feet": 12936,
+    "meters": 3943,
+    "latitude": 44.8833,
+    "longitude": 6.38333,
+    "name": "Pelvoux",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

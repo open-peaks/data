@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.117,
+      37.75
+    ]
+  },
+  "properties": {
+    "feet": 12281,
+    "meters": 3743,
+    "latitude": 37.75,
+    "longitude": -119.117,
+    "name": "Clyde Minaret",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.1014,
+      51.2847
+    ]
+  },
+  "properties": {
+    "feet": 9626,
+    "meters": 2934,
+    "latitude": 51.2847,
+    "longitude": -116.1014,
+    "name": "Mount Bell",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

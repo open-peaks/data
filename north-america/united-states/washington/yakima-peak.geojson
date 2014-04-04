@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.522651,
+      46.873512
+    ]
+  },
+  "properties": {
+    "feet": 6226,
+    "meters": 1898,
+    "latitude": 46.873512,
+    "longitude": -121.522651,
+    "name": "Yakima Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

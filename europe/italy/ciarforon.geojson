@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.247539,
+      45.493989
+    ]
+  },
+  "properties": {
+    "feet": 11942,
+    "meters": 3640,
+    "latitude": 45.493989,
+    "longitude": 7.247539,
+    "name": "Ciarforon",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

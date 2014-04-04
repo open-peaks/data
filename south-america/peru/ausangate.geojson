@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2308,
+      -13.7881
+    ]
+  },
+  "properties": {
+    "feet": 20945,
+    "meters": 6384,
+    "latitude": -13.7881,
+    "longitude": -71.2308,
+    "name": "Ausangate",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

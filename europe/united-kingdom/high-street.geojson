@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.863655,
+      54.489785
+    ]
+  },
+  "properties": {
+    "feet": 2718,
+    "meters": 828,
+    "latitude": 54.489785,
+    "longitude": -2.863655,
+    "name": "High Street",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

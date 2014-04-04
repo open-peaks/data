@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.2587,
+      44.3386
+    ]
+  },
+  "properties": {
+    "feet": 7362,
+    "meters": 2244,
+    "latitude": 44.3386,
+    "longitude": -119.2587,
+    "name": "Fields Peak",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

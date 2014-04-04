@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.390024,
+      32.287392
+    ]
+  },
+  "properties": {
+    "feet": 15256,
+    "meters": 4650,
+    "latitude": 32.287392,
+    "longitude": 76.390024,
+    "name": "Mun Peak",
+    "regions": [
+      "Himalaya ",
+      "Punjab Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

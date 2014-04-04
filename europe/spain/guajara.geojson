@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.61154,
+      28.21661
+    ]
+  },
+  "properties": {
+    "feet": 8907,
+    "meters": 2715,
+    "latitude": 28.21661,
+    "longitude": -16.61154,
+    "name": "Guajara",
+    "regions": [
+      "Mid-Atlantic Islands",
+      "Canary Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

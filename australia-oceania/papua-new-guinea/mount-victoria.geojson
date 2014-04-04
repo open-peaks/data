@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.5,
+      -8.91667
+    ]
+  },
+  "properties": {
+    "feet": 13363,
+    "meters": 4073,
+    "latitude": -8.91667,
+    "longitude": 147.5,
+    "name": "Mount Victoria",
+    "regions": [
+      "New Guinea",
+      "Owen Stanley Range"
+    ],
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

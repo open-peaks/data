@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.499462,
+      37.730607
+    ]
+  },
+  "properties": {
+    "feet": 12175,
+    "meters": 3711,
+    "latitude": 37.730607,
+    "longitude": 46.499462,
+    "name": "Sahand",
+    "regions": [
+      "Iranian Plateau",
+      "Northwest Iran Ranges"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.90347,
+      46.404233
+    ]
+  },
+  "properties": {
+    "feet": 12306,
+    "meters": 3751,
+    "latitude": 46.404233,
+    "longitude": 9.90347,
+    "name": "Morteratsch",
+    "regions": [
+      "Southern Alps",
+      "Bernina Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

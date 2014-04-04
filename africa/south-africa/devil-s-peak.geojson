@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4167,
+      -33.9167
+    ]
+  },
+  "properties": {
+    "feet": 3281,
+    "meters": 1000,
+    "latitude": -33.9167,
+    "longitude": 18.4167,
+    "name": "Devil's Peak",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

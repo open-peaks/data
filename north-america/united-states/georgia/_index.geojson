@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9369,
+          34.7398
+        ]
+      },
+      "properties": {
+        "feet": 4461,
+        "meters": 1360,
+        "latitude": 34.7398,
+        "longitude": -83.9369,
+        "name": "Blood Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8099,
+          34.8723
+        ]
+      },
+      "properties": {
+        "feet": 4784,
+        "meters": 1458,
+        "latitude": 34.8723,
+        "longitude": -83.8099,
+        "name": "Brasstown Bald",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9168,
+          34.3747
+        ]
+      },
+      "properties": {
+        "feet": 2800,
+        "meters": 853,
+        "latitude": 34.3747,
+        "longitude": -84.9168,
+        "name": "Collins mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3077,
+          34.5066
+        ]
+      },
+      "properties": {
+        "feet": 3226,
+        "meters": 983,
+        "latitude": 34.5066,
+        "longitude": -84.3077,
+        "name": "Sassafras Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1935,
+          34.6273
+        ]
+      },
+      "properties": {
+        "feet": 3782,
+        "meters": 1153,
+        "latitude": 34.6273,
+        "longitude": -84.1935,
+        "name": "Springer Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6838,
+          34.8012
+        ]
+      },
+      "properties": {
+        "feet": 4430,
+        "meters": 1350,
+        "latitude": 34.8012,
+        "longitude": -83.6838,
+        "name": "Tray Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Georgia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

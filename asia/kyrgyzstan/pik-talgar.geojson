@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.3,
+      43.1
+    ]
+  },
+  "properties": {
+    "feet": 16470,
+    "meters": 5020,
+    "latitude": 43.1,
+    "longitude": 77.3,
+    "name": "Pik Talgar",
+    "regions": [
+      "Tien Shan"
+    ],
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

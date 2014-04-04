@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.0,
+      37.6894
+    ]
+  },
+  "properties": {
+    "feet": 13143,
+    "meters": 4006,
+    "latitude": 37.6894,
+    "longitude": -119.0,
+    "name": "Mount Ritter",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

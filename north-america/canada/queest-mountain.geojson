@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.871,
+      50.9869
+    ]
+  },
+  "properties": {
+    "feet": 6847,
+    "meters": 2087,
+    "latitude": 50.9869,
+    "longitude": -118.871,
+    "name": "Queest Mountain",
+    "regions": [
+      "Intermountain West",
+      "British Columbia Interior"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

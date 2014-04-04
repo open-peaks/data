@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.533,
+      40.128
+    ]
+  },
+  "properties": {
+    "feet": 10848,
+    "meters": 3306,
+    "latitude": 40.128,
+    "longitude": -107.533,
+    "name": "Sleepy Cat Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Flat Tops Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

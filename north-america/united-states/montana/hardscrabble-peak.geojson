@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.982007,
+      45.914334
+    ]
+  },
+  "properties": {
+    "feet": 9575,
+    "meters": 2918,
+    "latitude": 45.914334,
+    "longitude": -110.982007,
+    "name": "Hardscrabble Peak",
+    "regions": [
+      "Intermountain West"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

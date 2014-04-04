@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3333,
+      47.45
+    ]
+  },
+  "properties": {
+    "feet": 8123,
+    "meters": 2476,
+    "latitude": 47.45,
+    "longitude": 11.3333,
+    "name": "Woerner",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

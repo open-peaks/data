@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9026,
+      44.3658
+    ]
+  },
+  "properties": {
+    "feet": 4810,
+    "meters": 1466,
+    "latitude": 44.3658,
+    "longitude": -73.9026,
+    "name": "Whiteface Mountain",
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

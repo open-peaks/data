@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.968,
+      45.896
+    ]
+  },
+  "properties": {
+    "feet": 9665,
+    "meters": 2946,
+    "latitude": 45.896,
+    "longitude": -110.968,
+    "name": "Sacagewea Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.313416,
+      63.270094
+    ]
+  },
+  "properties": {
+    "feet": 8100,
+    "meters": 2469,
+    "latitude": 63.270094,
+    "longitude": -145.313416,
+    "name": "Peak 8100",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.597307,
+      46.120782
+    ]
+  },
+  "properties": {
+    "feet": 10860,
+    "meters": 3310,
+    "latitude": 46.120782,
+    "longitude": 7.597307,
+    "name": "Garde de Bordon",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

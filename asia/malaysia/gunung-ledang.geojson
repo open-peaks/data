@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.667,
+      2.33333
+    ]
+  },
+  "properties": {
+    "feet": 4186,
+    "meters": 1276,
+    "latitude": 2.33333,
+    "longitude": 102.667,
+    "name": "Gunung Ledang",
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.936096,
+      54.467444
+    ]
+  },
+  "properties": {
+    "feet": 2541,
+    "meters": 774,
+    "latitude": 54.467444,
+    "longitude": -2.936096,
+    "name": "Red Screes",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

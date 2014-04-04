@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.925625,
+      39.842846
+    ]
+  },
+  "properties": {
+    "feet": 3622,
+    "meters": 1104,
+    "latitude": 39.842846,
+    "longitude": 2.925625,
+    "name": "Puig de Tomir",
+    "regions": [
+      "Iberian Peninsula",
+      "Balearic Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

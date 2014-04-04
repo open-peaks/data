@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.340637,
+      4.743413
+    ]
+  },
+  "properties": {
+    "feet": 7156,
+    "meters": 2181,
+    "latitude": 4.743413,
+    "longitude": 101.340637,
+    "name": "Gunung Yong Belar",
+    "regions": [
+      "Southeast Asia",
+      "Malay Peninsula"
+    ],
+    "countries": [
+      "Malaysia",
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

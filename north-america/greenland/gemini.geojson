@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -22.159424,
+      70.877091
+    ]
+  },
+  "properties": {
+    "feet": 3609,
+    "meters": 1100,
+    "latitude": 70.877091,
+    "longitude": -22.159424,
+    "name": "Gemini",
+    "regions": [
+      "North American Arctic Islands",
+      "Greenland"
+    ],
+    "countries": [
+      "Greenland",
+      "Greenland"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

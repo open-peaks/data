@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.4667
+    ]
+  },
+  "properties": {
+    "feet": 9795,
+    "meters": 2986,
+    "latitude": 38.4667,
+    "longitude": -119.8,
+    "name": "Hiram Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

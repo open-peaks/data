@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.786438,
+      48.621052
+    ]
+  },
+  "properties": {
+    "feet": 7562,
+    "meters": 2306,
+    "latitude": 48.621052,
+    "longitude": -120.786438,
+    "name": "Methow Pinnacles",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

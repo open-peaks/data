@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.681,
+      40.5331
+    ]
+  },
+  "properties": {
+    "feet": 11321,
+    "meters": 3451,
+    "latitude": 40.5331,
+    "longitude": -111.681,
+    "name": "White Baldy",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

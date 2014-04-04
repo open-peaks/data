@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.158422,
+      41.766991
+    ]
+  },
+  "properties": {
+    "feet": 4058,
+    "meters": 1237,
+    "latitude": 41.766991,
+    "longitude": -8.158422,
+    "name": "Pé de Cabril",
+    "regions": [
+      "Iberian Peninsula",
+      "Portugal-Galicia"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

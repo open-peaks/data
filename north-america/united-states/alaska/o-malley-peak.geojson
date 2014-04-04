@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.582806,
+      61.099461
+    ]
+  },
+  "properties": {
+    "feet": 5150,
+    "meters": 1570,
+    "latitude": 61.099461,
+    "longitude": -149.582806,
+    "name": "O'malley Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

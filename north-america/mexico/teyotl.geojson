@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.64006,
+      19.198594
+    ]
+  },
+  "properties": {
+    "feet": 15289,
+    "meters": 4660,
+    "latitude": 19.198594,
+    "longitude": -98.64006,
+    "name": "Téyotl",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

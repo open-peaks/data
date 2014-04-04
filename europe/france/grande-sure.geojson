@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.7035,
+      45.3371
+    ]
+  },
+  "properties": {
+    "feet": 6299,
+    "meters": 1920,
+    "latitude": 45.3371,
+    "longitude": 5.7035,
+    "name": "Grande Sure",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

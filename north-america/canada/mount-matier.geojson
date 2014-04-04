@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.433,
+      50.3167
+    ]
+  },
+  "properties": {
+    "feet": 9130,
+    "meters": 2783,
+    "latitude": 50.3167,
+    "longitude": -122.433,
+    "name": "Mount Matier",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

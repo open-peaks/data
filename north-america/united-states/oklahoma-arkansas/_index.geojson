@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.368,
+          34.712
+        ]
+      },
+      "properties": {
+        "feet": 2600,
+        "meters": 792,
+        "latitude": 34.712,
+        "longitude": -94.368,
+        "name": "Black Fork Mountain",
+        "states": [
+          "Oklahoma, Arkansas"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

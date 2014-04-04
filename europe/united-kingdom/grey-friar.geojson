@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.138653,
+      54.394505
+    ]
+  },
+  "properties": {
+    "feet": 2536,
+    "meters": 773,
+    "latitude": 54.394505,
+    "longitude": -3.138653,
+    "name": "Grey Friar",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

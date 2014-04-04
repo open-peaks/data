@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.522,
+      37.0939
+    ]
+  },
+  "properties": {
+    "feet": 14242,
+    "meters": 4341,
+    "latitude": 37.0939,
+    "longitude": -118.522,
+    "name": "North Palisade",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

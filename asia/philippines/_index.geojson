@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.98,
+          8.77
+        ]
+      },
+      "properties": {
+        "feet": 8038,
+        "meters": 2450,
+        "latitude": 8.77,
+        "longitude": 124.98,
+        "name": "Balatukan",
+        "regions": [
+          "Philippines",
+          "Minidnao"
+        ],
+        "countries": [
+          "Philippines",
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.136972,
+          9.712413
+        ]
+      },
+      "properties": {
+        "feet": 1673,
+        "meters": 510,
+        "latitude": 9.712413,
+        "longitude": 124.136972,
+        "name": "Bilar Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.201807,
+          10.764448
+        ]
+      },
+      "properties": {
+        "feet": 4423,
+        "meters": 1348,
+        "latitude": 10.764448,
+        "longitude": 123.201807,
+        "name": "Calaptan Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.224037,
+          10.814867
+        ]
+      },
+      "properties": {
+        "feet": 3757,
+        "meters": 1145,
+        "latitude": 10.814867,
+        "longitude": 123.224037,
+        "name": "Dalayapan Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.221768,
+          10.782744
+        ]
+      },
+      "properties": {
+        "feet": 4839,
+        "meters": 1475,
+        "latitude": 10.782744,
+        "longitude": 123.221768,
+        "name": "Dinamlagan Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.209567,
+          10.778463
+        ]
+      },
+      "properties": {
+        "feet": 4298,
+        "meters": 1310,
+        "latitude": 10.778463,
+        "longitude": 123.209567,
+        "name": "Gawahon Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.706349,
+          11.042576
+        ]
+      },
+      "properties": {
+        "feet": 755,
+        "meters": 230,
+        "latitude": 11.042576,
+        "longitude": 122.706349,
+        "name": "Hamugnaw Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.235533,
+          10.83254
+        ]
+      },
+      "properties": {
+        "feet": 3442,
+        "meters": 1049,
+        "latitude": 10.83254,
+        "longitude": 123.235533,
+        "name": "Lantawan Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.162132,
+          11.389083
+        ]
+      },
+      "properties": {
+        "feet": 6946,
+        "meters": 2117,
+        "latitude": 11.389083,
+        "longitude": 122.162132,
+        "name": "Madja-as Mountain",
+        "regions": [
+          "Philippines",
+          "Visayas"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.160007,
+          10.672145
+        ]
+      },
+      "properties": {
+        "feet": 4633,
+        "meters": 1412,
+        "latitude": 10.672145,
+        "longitude": 123.160007,
+        "name": "Makawili Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.167515,
+          11.278824
+        ]
+      },
+      "properties": {
+        "feet": 1739,
+        "meters": 530,
+        "latitude": 11.278824,
+        "longitude": 123.167515,
+        "name": "Manaphag",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.195799,
+          10.637351
+        ]
+      },
+      "properties": {
+        "feet": 6145,
+        "meters": 1873,
+        "latitude": 10.637351,
+        "longitude": 123.195799,
+        "name": "Marapara Daku Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17914,
+          10.6655
+        ]
+      },
+      "properties": {
+        "feet": 5522,
+        "meters": 1683,
+        "latitude": 10.6655,
+        "longitude": 123.17914,
+        "name": "Marapara Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17859,
+          10.660758
+        ]
+      },
+      "properties": {
+        "feet": 4888,
+        "meters": 1490,
+        "latitude": 10.660758,
+        "longitude": 123.17859,
+        "name": "Marapara South Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1758,
+          10.663331
+        ]
+      },
+      "properties": {
+        "feet": 5135,
+        "meters": 1565,
+        "latitude": 10.663331,
+        "longitude": 123.1758,
+        "name": "Marapara West Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.686,
+          13.2552
+        ]
+      },
+      "properties": {
+        "feet": 8077,
+        "meters": 2463,
+        "latitude": 13.2552,
+        "longitude": 123.686,
+        "name": "Mayon Volcano",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.370665,
+          11.103097
+        ]
+      },
+      "properties": {
+        "feet": 2526,
+        "meters": 770,
+        "latitude": 11.103097,
+        "longitude": 122.370665,
+        "name": "Mount Agdalusan",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.276,
+          7.00833
+        ]
+      },
+      "properties": {
+        "feet": 10331,
+        "meters": 3148,
+        "latitude": 7.00833,
+        "longitude": 125.276,
+        "name": "Mount Apo",
+        "regions": [
+          "Philippines",
+          "Minidnao"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.235,
+          11.1406
+        ]
+      },
+      "properties": {
+        "feet": 7,
+        "meters": 2,
+        "latitude": 11.1406,
+        "longitude": 122.235,
+        "name": "Mount Baloy",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.178,
+          13.6882
+        ]
+      },
+      "properties": {
+        "feet": 2723,
+        "meters": 830,
+        "latitude": 13.6882,
+        "longitude": 121.178,
+        "name": "Mount Banoi",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.802,
+          14.0399
+        ]
+      },
+      "properties": {
+        "feet": 2667,
+        "meters": 813,
+        "latitude": 14.0399,
+        "longitude": 120.802,
+        "name": "Mount Batulao",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.148764,
+          9.338494
+        ]
+      },
+      "properties": {
+        "feet": 5866,
+        "meters": 1788,
+        "latitude": 9.338494,
+        "longitude": 123.148764,
+        "name": "Mount Guinsayawan",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.995,
+          13.2625
+        ]
+      },
+      "properties": {
+        "feet": 8484,
+        "meters": 2586,
+        "latitude": 13.2625,
+        "longitude": 120.995,
+        "name": "Mount Halcon",
+        "regions": [
+          "Philippines",
+          "Visayas"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.345,
+          14.1465
+        ]
+      },
+      "properties": {
+        "feet": 2251,
+        "meters": 686,
+        "latitude": 14.1465,
+        "longitude": 121.345,
+        "name": "Mount Kalisungan",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.178,
+          11.3963
+        ]
+      },
+      "properties": {
+        "feet": 6,
+        "meters": 2,
+        "latitude": 11.3963,
+        "longitude": 122.178,
+        "name": "Mount Madias",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2361,
+          10.636969
+        ]
+      },
+      "properties": {
+        "feet": 6181,
+        "meters": 1884,
+        "latitude": 10.636969,
+        "longitude": 123.2361,
+        "name": "Mount Mandalagan",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6,
+          13.32
+        ]
+      },
+      "properties": {
+        "feet": 4357,
+        "meters": 1328,
+        "latitude": 13.32,
+        "longitude": 123.6,
+        "name": "Mount Masaraga",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.208,
+          11.268
+        ]
+      },
+      "properties": {
+        "feet": 7,
+        "meters": 2,
+        "latitude": 11.268,
+        "longitude": 122.208,
+        "name": "Mount Nangtud",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.349,
+          15.1422
+        ]
+      },
+      "properties": {
+        "feet": 4875,
+        "meters": 1486,
+        "latitude": 15.1422,
+        "longitude": 120.349,
+        "name": "Mount Pinatubo",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.839,
+          16.51
+        ]
+      },
+      "properties": {
+        "feet": 9586,
+        "meters": 2922,
+        "latitude": 16.51,
+        "longitude": 120.839,
+        "name": "Mount Pulag",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.364,
+          14.3871
+        ]
+      },
+      "properties": {
+        "feet": 2579,
+        "meters": 786,
+        "latitude": 14.3871,
+        "longitude": 121.364,
+        "name": "Mount Sembrano",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76,
+          14.1078
+        ]
+      },
+      "properties": {
+        "feet": 2310,
+        "meters": 704,
+        "latitude": 14.1078,
+        "longitude": 120.76,
+        "name": "Mount Talamitan",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17625,
+          9.242761
+        ]
+      },
+      "properties": {
+        "feet": 6243,
+        "meters": 1903,
+        "latitude": 9.242761,
+        "longitude": 123.17625,
+        "name": "Mount Talinis",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.451,
+          13.4511
+        ]
+      },
+      "properties": {
+        "feet": 3750,
+        "meters": 1143,
+        "latitude": 13.4511,
+        "longitude": 123.451,
+        "name": "Mt. Asog",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.483333,
+          14.066667
+        ]
+      },
+      "properties": {
+        "feet": 6562,
+        "meters": 2000,
+        "latitude": 14.066667,
+        "longitude": 121.483333,
+        "name": "Mt. Banahaw",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.95,
+          10.98
+        ]
+      },
+      "properties": {
+        "feet": 8,
+        "meters": 2450,
+        "latitude": 10.98,
+        "longitude": 123.95,
+        "name": "Mt. Canlaon",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.568,
+          12.4134
+        ]
+      },
+      "properties": {
+        "feet": 6380,
+        "meters": 2058,
+        "latitude": 12.4134,
+        "longitude": 122.568,
+        "name": "Mt. Guiting-guiting",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.383,
+          13.6667
+        ]
+      },
+      "properties": {
+        "feet": 6450,
+        "meters": 1966,
+        "latitude": 13.6667,
+        "longitude": 123.383,
+        "name": "Mt. Isarog",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6,
+          13.4667
+        ]
+      },
+      "properties": {
+        "feet": 5079,
+        "meters": 1548,
+        "latitude": 13.4667,
+        "longitude": 123.6,
+        "name": "Mt. Malinao",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.738056,
+          16.569444
+        ]
+      },
+      "properties": {
+        "feet": 7119,
+        "meters": 2170,
+        "latitude": 16.569444,
+        "longitude": 120.738056,
+        "name": "Mt. Toyangan",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.801,
+          16.318
+        ]
+      },
+      "properties": {
+        "feet": 7054,
+        "meters": 2150,
+        "latitude": 16.318,
+        "longitude": 120.801,
+        "name": "Mt. Ugo",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65,
+          14.2167
+        ]
+      },
+      "properties": {
+        "feet": 2178,
+        "meters": 664,
+        "latitude": 14.2167,
+        "longitude": 120.65,
+        "name": "Pico de Loro",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines",
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.24073,
+          10.799443
+        ]
+      },
+      "properties": {
+        "feet": 4524,
+        "meters": 1379,
+        "latitude": 10.799443,
+        "longitude": 123.24073,
+        "name": "Sicaba Dacu Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.233243,
+          10.770094
+        ]
+      },
+      "properties": {
+        "feet": 5039,
+        "meters": 1536,
+        "latitude": 10.770094,
+        "longitude": 123.233243,
+        "name": "Sicaba Diotay Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.492,
+          14.5058
+        ]
+      },
+      "properties": {
+        "feet": 4226,
+        "meters": 1288,
+        "latitude": 14.5058,
+        "longitude": 120.492,
+        "name": "Tarak Ridge",
+        "regions": [
+          "Philippines",
+          "Luzon"
+        ],
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.220046,
+          10.742988
+        ]
+      },
+      "properties": {
+        "feet": 3888,
+        "meters": 1185,
+        "latitude": 10.742988,
+        "longitude": 123.220046,
+        "name": "Tingtingon Daku Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.229659,
+          10.741807
+        ]
+      },
+      "properties": {
+        "feet": 4035,
+        "meters": 1230,
+        "latitude": 10.741807,
+        "longitude": 123.229659,
+        "name": "Tingtingon Diotay Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.190134,
+          9.256968
+        ]
+      },
+      "properties": {
+        "feet": 5577,
+        "meters": 1700,
+        "latitude": 9.256968,
+        "longitude": 123.190134,
+        "name": "Yagumyum Peak",
+        "countries": [
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

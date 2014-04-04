@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.972047,
+      48.207001
+    ]
+  },
+  "properties": {
+    "feet": 7870,
+    "meters": 2399,
+    "latitude": 48.207001,
+    "longitude": -120.972047,
+    "name": "Plummer Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

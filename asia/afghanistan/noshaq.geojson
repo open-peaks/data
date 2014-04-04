@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.9,
+      36.4333
+    ]
+  },
+  "properties": {
+    "feet": 24581,
+    "meters": 7492,
+    "latitude": 36.4333,
+    "longitude": 71.9,
+    "name": "Noshaq",
+    "regions": [
+      "Central Asia Ranges",
+      "Hindu Kush "
+    ],
+    "countries": [
+      "Afghanistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

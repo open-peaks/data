@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.702108,
+      42.240655
+    ]
+  },
+  "properties": {
+    "feet": 8186,
+    "meters": 2495,
+    "latitude": 42.240655,
+    "longitude": 1.702108,
+    "name": "Pedraforca",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

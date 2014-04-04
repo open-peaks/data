@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.564168,
+      45.689439
+    ]
+  },
+  "properties": {
+    "feet": 9862,
+    "meters": 3006,
+    "latitude": 45.689439,
+    "longitude": 7.564168,
+    "name": "Avic",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.826292,
+      8.84262
+    ]
+  },
+  "properties": {
+    "feet": 13510,
+    "meters": 4118,
+    "latitude": 8.84262,
+    "longitude": -70.826292,
+    "name": "Collado del Cóndor",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

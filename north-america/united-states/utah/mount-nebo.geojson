@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.759,
+      39.8217
+    ]
+  },
+  "properties": {
+    "feet": 11928,
+    "meters": 3636,
+    "latitude": 39.8217,
+    "longitude": -111.759,
+    "name": "Mount Nebo",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

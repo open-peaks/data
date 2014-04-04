@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.0,
+      0.0
+    ]
+  },
+  "properties": {
+    "feet": 7169,
+    "meters": 2185,
+    "latitude": 0.0,
+    "longitude": -108.0,
+    "name": "El Gigante",
+    "regions": [
+      "Mexican Ranges"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

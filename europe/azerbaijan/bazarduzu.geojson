@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.857778,
+      41.220556
+    ]
+  },
+  "properties": {
+    "feet": 14652,
+    "meters": 4466,
+    "latitude": 41.220556,
+    "longitude": 47.857778,
+    "name": "Bazarduzu",
+    "regions": [
+      "Caucasus Mountains",
+      "Eastern Caucasus"
+    ],
+    "countries": [
+      "Azerbaijan",
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

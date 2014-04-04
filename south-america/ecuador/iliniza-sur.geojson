@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.713611,
+      -0.659444
+    ]
+  },
+  "properties": {
+    "feet": 17218,
+    "meters": 5248,
+    "latitude": -0.659444,
+    "longitude": -78.713611,
+    "name": "Iliniza Sur",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

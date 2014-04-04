@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.5333
+    ]
+  },
+  "properties": {
+    "feet": 9160,
+    "meters": 2792,
+    "latitude": 38.5333,
+    "longitude": -119.8,
+    "name": "Ebbetts Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

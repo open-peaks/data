@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.458,
+      43.8803
+    ]
+  },
+  "properties": {
+    "feet": 5275,
+    "meters": 1608,
+    "latitude": 43.8803,
+    "longitude": -103.458,
+    "name": "Mount Rushmore",
+    "regions": [
+      "North American Plains",
+      "Black Hills"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

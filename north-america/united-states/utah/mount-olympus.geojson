@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.767,
+      40.65
+    ]
+  },
+  "properties": {
+    "feet": 9026,
+    "meters": 2751,
+    "latitude": 40.65,
+    "longitude": -111.767,
+    "name": "Mount Olympus",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.140998,
+      47.653147
+    ]
+  },
+  "properties": {
+    "feet": 6866,
+    "meters": 2092,
+    "latitude": 47.653147,
+    "longitude": -123.140998,
+    "name": "The Brothers",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

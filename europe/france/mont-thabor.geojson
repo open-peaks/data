@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.56667,
+      45.1167
+    ]
+  },
+  "properties": {
+    "feet": 10426,
+    "meters": 3178,
+    "latitude": 45.1167,
+    "longitude": 6.56667,
+    "name": "Mont Thabor",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

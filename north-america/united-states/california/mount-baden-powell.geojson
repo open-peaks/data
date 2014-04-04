@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.76464,
+      34.35853
+    ]
+  },
+  "properties": {
+    "feet": 9399,
+    "meters": 2865,
+    "latitude": 34.35853,
+    "longitude": -117.76464,
+    "name": "Mount Baden-Powell",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

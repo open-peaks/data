@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.706349,
+      11.042576
+    ]
+  },
+  "properties": {
+    "feet": 755,
+    "meters": 230,
+    "latitude": 11.042576,
+    "longitude": 122.706349,
+    "name": "Hamugnaw Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

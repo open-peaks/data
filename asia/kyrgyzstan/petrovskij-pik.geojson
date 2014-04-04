@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 15420,
+    "meters": 4700,
+    "name": "Petrovskij Pik",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

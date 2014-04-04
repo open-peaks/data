@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.9167,
+      53.5
+    ]
+  },
+  "properties": {
+    "feet": 1024,
+    "meters": 312,
+    "latitude": 53.5,
+    "longitude": 19.9167,
+    "name": "Dylewska",
+    "countries": [
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

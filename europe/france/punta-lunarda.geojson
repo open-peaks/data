@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.255724,
+      41.831824
+    ]
+  },
+  "properties": {
+    "feet": 4186,
+    "meters": 1276,
+    "latitude": 41.831824,
+    "longitude": 9.255724,
+    "name": "Punta Lunarda",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Tyrrhennian Islands"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

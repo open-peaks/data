@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.7592,
+      40.707
+    ]
+  },
+  "properties": {
+    "feet": 8299,
+    "meters": 2530,
+    "latitude": 40.707,
+    "longitude": -111.7592,
+    "name": "Grandeur Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

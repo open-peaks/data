@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.297,
+      38.9039
+    ]
+  },
+  "properties": {
+    "feet": 14073,
+    "meters": 4290,
+    "latitude": 38.9039,
+    "longitude": -106.297,
+    "name": "Mount Columbia",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

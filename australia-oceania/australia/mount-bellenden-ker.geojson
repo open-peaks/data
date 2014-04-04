@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.853889,
+      -17.264167
+    ]
+  },
+  "properties": {
+    "feet": 5226,
+    "meters": 1593,
+    "latitude": -17.264167,
+    "longitude": 145.853889,
+    "name": "Mount Bellenden Ker",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia",
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

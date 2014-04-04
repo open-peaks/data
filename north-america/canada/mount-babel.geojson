@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.1633,
+      51.305556
+    ]
+  },
+  "properties": {
+    "feet": 10174,
+    "meters": 3101,
+    "latitude": 51.305556,
+    "longitude": -116.1633,
+    "name": "Mount Babel",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

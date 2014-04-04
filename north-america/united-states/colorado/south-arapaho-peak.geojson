@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.650024,
+      40.01999
+    ]
+  },
+  "properties": {
+    "feet": 13397,
+    "meters": 4083,
+    "latitude": 40.01999,
+    "longitude": -105.650024,
+    "name": "South Arapaho Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

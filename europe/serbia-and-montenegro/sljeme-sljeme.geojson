@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.07205,
+      43.11558
+    ]
+  },
+  "properties": {
+    "feet": 8054,
+    "meters": 2455,
+    "latitude": 43.11558,
+    "longitude": 19.07205,
+    "name": "Sljeme (Šljeme)",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

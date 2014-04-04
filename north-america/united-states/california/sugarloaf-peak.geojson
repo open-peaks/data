@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.634,
+      34.2417
+    ]
+  },
+  "properties": {
+    "feet": 6924,
+    "meters": 2110,
+    "latitude": 34.2417,
+    "longitude": -117.634,
+    "name": "Sugarloaf Peak",
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

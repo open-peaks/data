@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.350088,
+      48.110784
+    ]
+  },
+  "properties": {
+    "feet": 5770,
+    "meters": 1759,
+    "latitude": 48.110784,
+    "longitude": -121.350088,
+    "name": "Spring Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

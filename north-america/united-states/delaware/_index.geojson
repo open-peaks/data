@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.520592,
+          39.836476
+        ]
+      },
+      "properties": {
+        "feet": 442,
+        "meters": 135,
+        "latitude": 39.836476,
+        "longitude": -75.520592,
+        "name": "Ebright Azimuth",
+        "states": [
+          "Delaware"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

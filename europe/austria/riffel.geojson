@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5,
+      47.55
+    ]
+  },
+  "properties": {
+    "feet": 6909,
+    "meters": 2106,
+    "latitude": 47.55,
+    "longitude": 14.5,
+    "name": "Riffel",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

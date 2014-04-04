@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.25,
+      -37.85
+    ]
+  },
+  "properties": {
+    "feet": 5138,
+    "meters": 1566,
+    "latitude": -37.85,
+    "longitude": 146.25,
+    "name": "Mount Baw Baw",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

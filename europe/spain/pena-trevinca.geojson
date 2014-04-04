@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.481934,
+      42.242
+    ]
+  },
+  "properties": {
+    "feet": 6978,
+    "meters": 2127,
+    "latitude": 42.242,
+    "longitude": -6.481934,
+    "name": "Peña Trevinca",
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.74162,
+      42.4596
+    ]
+  },
+  "properties": {
+    "feet": 8017,
+    "meters": 2444,
+    "latitude": 42.4596,
+    "longitude": -119.74162,
+    "name": "Warner Peak",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.191,
+      27.3394
+    ]
+  },
+  "properties": {
+    "feet": 17703,
+    "meters": 5396,
+    "latitude": 27.3394,
+    "longitude": 100.191,
+    "name": "Haba Xue Shan",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "China",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

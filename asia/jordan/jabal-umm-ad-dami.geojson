@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.429167,
+      29.308333
+    ]
+  },
+  "properties": {
+    "feet": 6083,
+    "meters": 1854,
+    "latitude": 29.308333,
+    "longitude": 35.429167,
+    "name": "Jabal Umm ad Dami",
+    "regions": [
+      "Arabian Peninsula"
+    ],
+    "countries": [
+      "Jordan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.712,
+      34.2883
+    ]
+  },
+  "properties": {
+    "feet": 8006,
+    "meters": 2440,
+    "latitude": 34.2883,
+    "longitude": -117.712,
+    "name": "Iron Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

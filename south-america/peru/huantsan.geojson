@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.3,
+      -9.53333
+    ]
+  },
+  "properties": {
+    "feet": 20981,
+    "meters": 6395,
+    "latitude": -9.53333,
+    "longitude": -77.3,
+    "name": "Huantsan",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

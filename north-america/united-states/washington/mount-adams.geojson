@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.489,
+      46.2028
+    ]
+  },
+  "properties": {
+    "feet": 12276,
+    "meters": 3741,
+    "latitude": 46.2028,
+    "longitude": -121.489,
+    "name": "Mount Adams",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

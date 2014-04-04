@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0667,
+          -1.28333
+        ]
+      },
+      "properties": {
+        "feet": 11565,
+        "meters": 3525,
+        "latitude": -1.28333,
+        "longitude": 30.0667,
+        "name": "Gahinga",
+        "regions": [
+          "East Africa Mountains",
+          "Virunga Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.45,
+          -1.5
+        ]
+      },
+      "properties": {
+        "feet": 14787,
+        "meters": 4507,
+        "latitude": -1.5,
+        "longitude": 29.45,
+        "name": "Mount Karisimbi",
+        "regions": [
+          "East Africa Mountains",
+          "Virunga Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6167,
+          -1.33333
+        ]
+      },
+      "properties": {
+        "feet": 13540,
+        "meters": 4127,
+        "latitude": -1.33333,
+        "longitude": 29.6167,
+        "name": "Muhabura",
+        "regions": [
+          "East Africa Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

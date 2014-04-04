@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.93119,
+      42.570781
+    ]
+  },
+  "properties": {
+    "feet": 9583,
+    "meters": 2921,
+    "latitude": 42.570781,
+    "longitude": 1.93119,
+    "name": "Carlit",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

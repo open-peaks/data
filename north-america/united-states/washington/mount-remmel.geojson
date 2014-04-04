@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.196867,
+      48.92343
+    ]
+  },
+  "properties": {
+    "feet": 8685,
+    "meters": 2647,
+    "latitude": 48.92343,
+    "longitude": -120.196867,
+    "name": "Mount Remmel",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

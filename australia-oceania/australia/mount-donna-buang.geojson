@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.681458,
+      -37.701207
+    ]
+  },
+  "properties": {
+    "feet": 4101,
+    "meters": 1250,
+    "latitude": -37.701207,
+    "longitude": 145.681458,
+    "name": "Mount Donna Buang",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2,
+      39.5333
+    ]
+  },
+  "properties": {
+    "feet": 7969,
+    "meters": 2429,
+    "latitude": 39.5333,
+    "longitude": 21.2,
+    "name": "Kakarditsa",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

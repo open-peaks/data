@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.615,
+      40.2547
+    ]
+  },
+  "properties": {
+    "feet": 14258,
+    "meters": 4346,
+    "latitude": 40.2547,
+    "longitude": -105.615,
+    "name": "Longs Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

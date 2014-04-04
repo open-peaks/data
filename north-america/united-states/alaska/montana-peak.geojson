@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.0,
+      61.9
+    ]
+  },
+  "properties": {
+    "feet": 6907,
+    "meters": 2105,
+    "latitude": 61.9,
+    "longitude": -149.0,
+    "name": "Montana Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Talkeetna Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

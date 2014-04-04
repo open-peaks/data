@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.267,
+      -36.45
+    ]
+  },
+  "properties": {
+    "feet": 7310,
+    "meters": 2228,
+    "latitude": -36.45,
+    "longitude": 148.267,
+    "name": "Mount Kosciusko",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

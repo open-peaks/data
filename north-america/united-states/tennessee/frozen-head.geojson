@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.4583,
+      36.1225
+    ]
+  },
+  "properties": {
+    "feet": 3324,
+    "meters": 1013,
+    "latitude": 36.1225,
+    "longitude": -84.4583,
+    "name": "Frozen Head",
+    "states": [
+      "Tennessee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

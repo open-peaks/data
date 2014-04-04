@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.234,
+      25.6327
+    ]
+  },
+  "properties": {
+    "feet": 5971,
+    "meters": 1820,
+    "latitude": 25.6327,
+    "longitude": -100.234,
+    "name": "Cerro De La Silla",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Oriental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

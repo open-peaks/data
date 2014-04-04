@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.825233,
+      48.564482
+    ]
+  },
+  "properties": {
+    "feet": 7965,
+    "meters": 2428,
+    "latitude": 48.564482,
+    "longitude": -120.825233,
+    "name": "Graybeard Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

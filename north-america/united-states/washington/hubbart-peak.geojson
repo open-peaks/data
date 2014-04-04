@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.40502,
+      47.930463
+    ]
+  },
+  "properties": {
+    "feet": 5936,
+    "meters": 1809,
+    "latitude": 47.930463,
+    "longitude": -121.40502,
+    "name": "Hubbart Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

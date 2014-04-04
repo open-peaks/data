@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4833,
+      -54.75
+    ]
+  },
+  "properties": {
+    "feet": 8163,
+    "meters": 2488,
+    "latitude": -54.75,
+    "longitude": -69.4833,
+    "name": "Monte Darwin",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

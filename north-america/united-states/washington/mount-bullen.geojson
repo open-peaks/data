@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.698732,
+      48.195502
+    ]
+  },
+  "properties": {
+    "feet": 5974,
+    "meters": 1821,
+    "latitude": 48.195502,
+    "longitude": -121.698732,
+    "name": "Mount Bullen",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

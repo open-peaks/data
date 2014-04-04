@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.247,
+      60.196
+    ]
+  },
+  "properties": {
+    "feet": 3972,
+    "meters": 1211,
+    "latitude": 60.196,
+    "longitude": -149.247,
+    "name": "Tiehacker Mountain",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

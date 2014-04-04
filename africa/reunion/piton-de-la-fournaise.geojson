@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.7167,
+      -21.2333
+    ]
+  },
+  "properties": {
+    "feet": 8631,
+    "meters": 2631,
+    "latitude": -21.2333,
+    "longitude": 55.7167,
+    "name": "Piton de la Fournaise",
+    "regions": [
+      "Indian Ocean Islands",
+      "Reunion Island"
+    ],
+    "countries": [
+      "Reunion"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

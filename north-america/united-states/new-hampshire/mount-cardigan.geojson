@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.914101,
+      43.649553
+    ]
+  },
+  "properties": {
+    "feet": 3155,
+    "meters": 962,
+    "latitude": 43.649553,
+    "longitude": -71.914101,
+    "name": "Mount Cardigan",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

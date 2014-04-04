@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.533,
+      33.7103
+    ]
+  },
+  "properties": {
+    "feet": 5687,
+    "meters": 1733,
+    "latitude": 33.7103,
+    "longitude": -117.533,
+    "name": "Santiago",
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

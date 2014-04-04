@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.6167,
+      38.5333
+    ]
+  },
+  "properties": {
+    "feet": 8062,
+    "meters": 2457,
+    "latitude": 38.5333,
+    "longitude": 22.6167,
+    "name": "Parnassus",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

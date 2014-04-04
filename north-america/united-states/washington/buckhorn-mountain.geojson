@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.121762,
+      47.825574
+    ]
+  },
+  "properties": {
+    "feet": 6988,
+    "meters": 2130,
+    "latitude": 47.825574,
+    "longitude": -123.121762,
+    "name": "Buckhorn Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

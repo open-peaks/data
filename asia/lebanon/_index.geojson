@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8572,
+          33.4106
+        ]
+      },
+      "properties": {
+        "feet": 9232,
+        "meters": 2814,
+        "latitude": 33.4106,
+        "longitude": 35.8572,
+        "name": "Mount Hermon",
+        "countries": [
+          "Lebanon"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1,
+          34.2333
+        ]
+      },
+      "properties": {
+        "feet": 10115,
+        "meters": 3083,
+        "latitude": 34.2333,
+        "longitude": 36.1,
+        "name": "Qornet As Sawda",
+        "regions": [
+          "Levant Ranges",
+          "Lebanon Mountains"
+        ],
+        "countries": [
+          "Lebanon"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

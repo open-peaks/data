@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.0628,
+      37.8197
+    ]
+  },
+  "properties": {
+    "feet": 4063,
+    "meters": 1238,
+    "latitude": 37.8197,
+    "longitude": -79.0628,
+    "name": "The Priest",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

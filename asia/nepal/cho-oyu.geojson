@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.6608,
+      28.094092
+    ]
+  },
+  "properties": {
+    "feet": 26906,
+    "meters": 8201,
+    "latitude": 28.094092,
+    "longitude": 86.6608,
+    "name": "Cho Oyu",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.04227,
+      44.383054
+    ]
+  },
+  "properties": {
+    "feet": 6027,
+    "meters": 1837,
+    "latitude": 44.383054,
+    "longitude": 10.04227,
+    "name": "Monte Matto",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

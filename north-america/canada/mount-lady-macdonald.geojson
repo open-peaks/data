@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.317,
+      51.1167
+    ]
+  },
+  "properties": {
+    "feet": 8546,
+    "meters": 2605,
+    "latitude": 51.1167,
+    "longitude": -115.317,
+    "name": "Mount Lady MacDonald",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

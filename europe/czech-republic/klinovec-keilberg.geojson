@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.9678,
+      50.3964
+    ]
+  },
+  "properties": {
+    "feet": 4081,
+    "meters": 1244,
+    "latitude": 50.3964,
+    "longitude": 12.9678,
+    "name": "Klinovec (Keilberg)",
+    "regions": [
+      "Central Europe Ranges",
+      "Erzgebirge"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

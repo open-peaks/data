@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.42089,
+      56.8795
+    ]
+  },
+  "properties": {
+    "feet": 3061,
+    "meters": 933,
+    "latitude": 56.8795,
+    "longitude": -3.42089,
+    "name": "The Cairnwell",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

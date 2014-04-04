@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.595,
+      37.6272
+    ]
+  },
+  "properties": {
+    "feet": 14059,
+    "meters": 4285,
+    "latitude": 37.6272,
+    "longitude": -107.595,
+    "name": "Sunlight Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

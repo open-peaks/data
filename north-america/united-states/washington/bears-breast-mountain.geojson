@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.225,
+      47.5401
+    ]
+  },
+  "properties": {
+    "feet": 7197,
+    "meters": 2194,
+    "latitude": 47.5401,
+    "longitude": -121.225,
+    "name": "Bears Breast Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

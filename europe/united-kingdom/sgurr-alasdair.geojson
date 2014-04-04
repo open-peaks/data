@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.22393,
+      57.2068
+    ]
+  },
+  "properties": {
+    "feet": 3254,
+    "meters": 992,
+    "latitude": 57.2068,
+    "longitude": -6.22393,
+    "name": "Sgurr Alasdair",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

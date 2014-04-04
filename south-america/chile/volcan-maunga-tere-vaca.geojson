@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.373054,
+      -27.080541
+    ]
+  },
+  "properties": {
+    "feet": 1677,
+    "meters": 511,
+    "latitude": -27.080541,
+    "longitude": -109.373054,
+    "name": "Volcan Maunga Tere Vaca",
+    "regions": [
+      "Coastal South America",
+      "Chilean Coastal Islands"
+    ],
+    "countries": [
+      "Chile",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

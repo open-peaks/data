@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.6647,
+      28.2639
+    ]
+  },
+  "properties": {
+    "feet": 10285,
+    "meters": 3135,
+    "latitude": 28.2639,
+    "longitude": -16.6647,
+    "name": "Pico Viejo",
+    "regions": [
+      "Mid-Atlantic Islands",
+      "Canary Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

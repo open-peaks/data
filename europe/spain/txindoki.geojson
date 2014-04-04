@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.072639,
+      43.026235
+    ]
+  },
+  "properties": {
+    "feet": 4400,
+    "meters": 1346,
+    "latitude": 43.026235,
+    "longitude": -2.072639,
+    "name": "Txindoki",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

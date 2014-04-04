@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.86557,
+      43.268706
+    ]
+  },
+  "properties": {
+    "feet": 4265,
+    "meters": 1300,
+    "latitude": 43.268706,
+    "longitude": -4.86557,
+    "name": "Montecaoru",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

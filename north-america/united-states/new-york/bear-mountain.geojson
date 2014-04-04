@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.0067,
+      41.3128
+    ]
+  },
+  "properties": {
+    "feet": 1200,
+    "meters": 366,
+    "latitude": 41.3128,
+    "longitude": -74.0067,
+    "name": "Bear Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Catskill Mountains"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

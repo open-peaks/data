@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.358237,
+      9.989899
+    ]
+  },
+  "properties": {
+    "feet": 4685,
+    "meters": 1428,
+    "latitude": 9.989899,
+    "longitude": -66.358237,
+    "name": "Topo La Bandera",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

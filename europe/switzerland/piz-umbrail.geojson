@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4174,
+      46.55101
+    ]
+  },
+  "properties": {
+    "feet": 9944,
+    "meters": 3031,
+    "latitude": 46.55101,
+    "longitude": 10.4174,
+    "name": "Piz Umbrail",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

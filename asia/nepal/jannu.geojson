@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.0458,
+      27.6828
+    ]
+  },
+  "properties": {
+    "feet": 25295,
+    "meters": 7710,
+    "latitude": 27.6828,
+    "longitude": 88.0458,
+    "name": "Jannu",
+    "regions": [
+      "Himalaya ",
+      "Sikkim-Eastern Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

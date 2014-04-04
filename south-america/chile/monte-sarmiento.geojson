@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.8333,
+      -54.45
+    ]
+  },
+  "properties": {
+    "feet": 7546,
+    "meters": 2300,
+    "latitude": -54.45,
+    "longitude": -70.8333,
+    "name": "Monte Sarmiento",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

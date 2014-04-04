@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.873771,
+      47.508331
+    ]
+  },
+  "properties": {
+    "feet": 7550,
+    "meters": 2301,
+    "latitude": 47.508331,
+    "longitude": -120.873771,
+    "name": "Axis Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

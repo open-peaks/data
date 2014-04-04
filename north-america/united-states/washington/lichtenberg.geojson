@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.09,
+      47.7881
+    ]
+  },
+  "properties": {
+    "feet": 5844,
+    "meters": 1781,
+    "latitude": 47.7881,
+    "longitude": -121.09,
+    "name": "Lichtenberg",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

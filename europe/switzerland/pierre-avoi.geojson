@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.20042,
+      46.11802
+    ]
+  },
+  "properties": {
+    "feet": 8114,
+    "meters": 2473,
+    "latitude": 46.11802,
+    "longitude": 7.20042,
+    "name": "Pierre Avoi",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.6167,
+      28.25
+    ]
+  },
+  "properties": {
+    "feet": 18110,
+    "meters": 5520,
+    "latitude": 28.25,
+    "longitude": 85.6167,
+    "name": "Yala Peak",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

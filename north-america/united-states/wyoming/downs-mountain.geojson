@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.402,
+      43.1836
+    ]
+  },
+  "properties": {
+    "feet": 13349,
+    "meters": 4069,
+    "latitude": 43.1836,
+    "longitude": -109.402,
+    "name": "Downs Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Wind River Range"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

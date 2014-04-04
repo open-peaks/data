@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.400903,
+      -32.973478
+    ]
+  },
+  "properties": {
+    "feet": 13780,
+    "meters": 4200,
+    "latitude": -32.973478,
+    "longitude": -69.400903,
+    "name": "Adolfo Calle",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

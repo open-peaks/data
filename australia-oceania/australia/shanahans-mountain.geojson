@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.02255,
+      -35.82917
+    ]
+  },
+  "properties": {
+    "feet": 4629,
+    "meters": 1411,
+    "latitude": -35.82917,
+    "longitude": 149.02255,
+    "name": "Shanahans Mountain",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

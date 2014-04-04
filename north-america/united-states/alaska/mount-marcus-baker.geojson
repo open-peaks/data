@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.75,
+      61.4333
+    ]
+  },
+  "properties": {
+    "feet": 13176,
+    "meters": 4016,
+    "latitude": 61.4333,
+    "longitude": -147.75,
+    "name": "Mount Marcus Baker",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

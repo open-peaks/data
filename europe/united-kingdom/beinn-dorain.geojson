@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.72301,
+      56.5043
+    ]
+  },
+  "properties": {
+    "feet": 3530,
+    "meters": 1076,
+    "latitude": 56.5043,
+    "longitude": -4.72301,
+    "name": "Beinn Dorain",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

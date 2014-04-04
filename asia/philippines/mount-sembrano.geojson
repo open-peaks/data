@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.364,
+      14.3871
+    ]
+  },
+  "properties": {
+    "feet": 2579,
+    "meters": 786,
+    "latitude": 14.3871,
+    "longitude": 121.364,
+    "name": "Mount Sembrano",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

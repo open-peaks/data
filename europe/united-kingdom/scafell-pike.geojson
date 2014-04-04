@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.21154,
+      54.4542
+    ]
+  },
+  "properties": {
+    "feet": 3209,
+    "meters": 978,
+    "latitude": 54.4542,
+    "longitude": -3.21154,
+    "name": "Scafell Pike",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

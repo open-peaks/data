@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.7667,
+      -28.0167
+    ]
+  },
+  "properties": {
+    "feet": 22546,
+    "meters": 6872,
+    "latitude": -28.0167,
+    "longitude": -68.7667,
+    "name": "Cerro Bonete",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

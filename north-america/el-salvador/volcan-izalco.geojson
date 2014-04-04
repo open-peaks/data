@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.6326,
+      13.81341
+    ]
+  },
+  "properties": {
+    "feet": 6463,
+    "meters": 1970,
+    "latitude": 13.81341,
+    "longitude": -89.6326,
+    "name": "Volcan Izalco",
+    "countries": [
+      "El Salvador"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

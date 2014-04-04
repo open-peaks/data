@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.920093,
+      44.157609
+    ]
+  },
+  "properties": {
+    "feet": 4163,
+    "meters": 1269,
+    "latitude": 44.157609,
+    "longitude": -73.920093,
+    "name": "Phelps",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

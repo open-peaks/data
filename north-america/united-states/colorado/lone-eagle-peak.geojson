@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.66,
+      40.0714
+    ]
+  },
+  "properties": {
+    "feet": 11920,
+    "meters": 3633,
+    "latitude": 40.0714,
+    "longitude": -105.66,
+    "name": "Lone Eagle Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

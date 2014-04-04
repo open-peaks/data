@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5167,
+      47.5333
+    ]
+  },
+  "properties": {
+    "feet": 7205,
+    "meters": 2196,
+    "latitude": 47.5333,
+    "longitude": 14.5167,
+    "name": "Admonter Kalbling",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.878927,
+      42.343257
+    ]
+  },
+  "properties": {
+    "feet": 8284,
+    "meters": 2525,
+    "latitude": 42.343257,
+    "longitude": 8.878927,
+    "name": "Paglia Orba",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.024393,
+      -16.232454
+    ]
+  },
+  "properties": {
+    "feet": 4432,
+    "meters": 1351,
+    "latitude": -16.232454,
+    "longitude": 145.024393,
+    "name": "Mt Windsor",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

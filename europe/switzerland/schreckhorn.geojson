@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.118124,
+      46.589924
+    ]
+  },
+  "properties": {
+    "feet": 13379,
+    "meters": 4078,
+    "latitude": 46.589924,
+    "longitude": 8.118124,
+    "name": "Schreckhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

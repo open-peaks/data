@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.454072,
+      46.512068
+    ]
+  },
+  "properties": {
+    "feet": 7930,
+    "meters": 2417,
+    "latitude": 46.512068,
+    "longitude": -121.454072,
+    "name": "Old Snowy",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

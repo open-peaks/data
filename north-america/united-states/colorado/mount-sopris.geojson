@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.171,
+      39.26
+    ]
+  },
+  "properties": {
+    "feet": 12953,
+    "meters": 3948,
+    "latitude": 39.26,
+    "longitude": -107.171,
+    "name": "Mount Sopris",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.828,
+      34.1006
+    ]
+  },
+  "properties": {
+    "feet": 11499,
+    "meters": 3505,
+    "latitude": 34.1006,
+    "longitude": -116.828,
+    "name": "San Gorgonio",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

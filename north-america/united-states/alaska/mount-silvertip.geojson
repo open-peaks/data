@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.607,
+      63.4898
+    ]
+  },
+  "properties": {
+    "feet": 9400,
+    "meters": 2865,
+    "latitude": 63.4898,
+    "longitude": -145.607,
+    "name": "Mount Silvertip",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

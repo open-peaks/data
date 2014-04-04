@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.855249,
+      28.027554
+    ]
+  },
+  "properties": {
+    "feet": 22027,
+    "meters": 6714,
+    "latitude": 28.027554,
+    "longitude": 86.855249,
+    "name": "Lingtren",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

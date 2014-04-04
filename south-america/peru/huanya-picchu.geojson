@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.5333,
+      -13.15
+    ]
+  },
+  "properties": {
+    "feet": 9100,
+    "meters": 2774,
+    "latitude": -13.15,
+    "longitude": -72.5333,
+    "name": "Huanya Picchu",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

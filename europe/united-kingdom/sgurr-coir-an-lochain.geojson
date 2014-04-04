@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.21663,
+      57.2121
+    ]
+  },
+  "properties": {
+    "feet": 2391,
+    "meters": 729,
+    "latitude": 57.2121,
+    "longitude": -6.21663,
+    "name": "Sgurr Coir' an Lochain",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

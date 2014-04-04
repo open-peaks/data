@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.098,
+      38.9061
+    ]
+  },
+  "properties": {
+    "feet": 9735,
+    "meters": 2967,
+    "latitude": 38.9061,
+    "longitude": -120.098,
+    "name": "Mount Tallac",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

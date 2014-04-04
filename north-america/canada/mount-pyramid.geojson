@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.148346,
+      52.951327
+    ]
+  },
+  "properties": {
+    "feet": 9678,
+    "meters": 2950,
+    "latitude": 52.951327,
+    "longitude": -118.148346,
+    "name": "Mount Pyramid",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

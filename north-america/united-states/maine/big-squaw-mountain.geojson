@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.741898,
+      45.496722
+    ]
+  },
+  "properties": {
+    "feet": 3196,
+    "meters": 974,
+    "latitude": 45.496722,
+    "longitude": -69.741898,
+    "name": "Big Squaw Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Longfellow Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

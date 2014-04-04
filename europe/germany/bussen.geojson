@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.556518,
+      48.16328
+    ]
+  },
+  "properties": {
+    "feet": 2516,
+    "meters": 767,
+    "latitude": 48.16328,
+    "longitude": 9.556518,
+    "name": "Bussen",
+    "regions": [
+      "Central Europe Ranges",
+      "Swabian Alb"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

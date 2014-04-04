@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.3682,
+      56.87239
+    ]
+  },
+  "properties": {
+    "feet": 3504,
+    "meters": 1068,
+    "latitude": 56.87239,
+    "longitude": -3.3682,
+    "name": "Glas Maol",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

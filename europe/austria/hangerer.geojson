@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.018085,
+      46.835301
+    ]
+  },
+  "properties": {
+    "feet": 9908,
+    "meters": 3020,
+    "latitude": 46.835301,
+    "longitude": 11.018085,
+    "name": "Hangerer",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

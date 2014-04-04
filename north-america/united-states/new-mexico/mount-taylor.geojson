@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.608528,
+      35.238694
+    ]
+  },
+  "properties": {
+    "feet": 11301,
+    "meters": 3445,
+    "latitude": 35.238694,
+    "longitude": -107.608528,
+    "name": "Mount Taylor",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.271088,
+      62.322192
+    ]
+  },
+  "properties": {
+    "feet": 2105,
+    "meters": 642,
+    "latitude": 62.322192,
+    "longitude": 9.271088,
+    "name": "Rasletind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

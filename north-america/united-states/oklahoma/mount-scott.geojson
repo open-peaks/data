@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.532,
+      34.7445
+    ]
+  },
+  "properties": {
+    "feet": 2464,
+    "meters": 751,
+    "latitude": 34.7445,
+    "longitude": -98.532,
+    "name": "Mount Scott",
+    "regions": [
+      "North American Plains",
+      "Great Plains"
+    ],
+    "states": [
+      "Oklahoma"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

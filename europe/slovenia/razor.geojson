@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.789215,
+      46.413719
+    ]
+  },
+  "properties": {
+    "feet": 8533,
+    "meters": 2601,
+    "latitude": 46.413719,
+    "longitude": 13.789215,
+    "name": "Razor",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

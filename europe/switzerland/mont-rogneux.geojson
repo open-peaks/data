@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.231493,
+      46.009243
+    ]
+  },
+  "properties": {
+    "feet": 10118,
+    "meters": 3084,
+    "latitude": 46.009243,
+    "longitude": 7.231493,
+    "name": "Mont Rogneux",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

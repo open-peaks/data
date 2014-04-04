@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.555,
+      37.9761
+    ]
+  },
+  "properties": {
+    "feet": 14064,
+    "meters": 4287,
+    "latitude": 37.9761,
+    "longitude": -105.555,
+    "name": "Humboldt Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

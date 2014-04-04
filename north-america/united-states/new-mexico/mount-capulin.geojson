@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.967811,
+      36.783941
+    ]
+  },
+  "properties": {
+    "feet": 8182,
+    "meters": 2494,
+    "latitude": 36.783941,
+    "longitude": -103.967811,
+    "name": "Mount Capulin",
+    "regions": [
+      "North American Plains",
+      "Great Plains"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

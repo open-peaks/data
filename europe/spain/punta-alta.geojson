@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.87925,
+      42.58595
+    ]
+  },
+  "properties": {
+    "feet": 9080,
+    "meters": 3014,
+    "latitude": 42.58595,
+    "longitude": 0.87925,
+    "name": "Punta Alta",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

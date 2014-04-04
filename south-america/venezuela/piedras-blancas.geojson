@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.951638,
+      8.858698
+    ]
+  },
+  "properties": {
+    "feet": 15577,
+    "meters": 4748,
+    "latitude": 8.858698,
+    "longitude": -70.951638,
+    "name": "Piedras Blancas",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

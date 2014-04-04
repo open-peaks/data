@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.470637,
+      47.990783
+    ]
+  },
+  "properties": {
+    "feet": 6610,
+    "meters": 2015,
+    "latitude": 47.990783,
+    "longitude": -121.470637,
+    "name": "Del Campo",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

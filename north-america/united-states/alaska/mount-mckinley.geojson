@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.004,
+      63.0694
+    ]
+  },
+  "properties": {
+    "feet": 20320,
+    "meters": 6194,
+    "latitude": 63.0694,
+    "longitude": -151.004,
+    "name": "Mount McKinley",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9667,
+      28.05
+    ]
+  },
+  "properties": {
+    "feet": 23710,
+    "meters": 7227,
+    "latitude": 28.05,
+    "longitude": 86.9667,
+    "name": "Khartaphu",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

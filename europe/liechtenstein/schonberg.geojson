@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.592944,
+      47.130361
+    ]
+  },
+  "properties": {
+    "feet": 6903,
+    "meters": 2104,
+    "latitude": 47.130361,
+    "longitude": 9.592944,
+    "name": "Schönberg",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Liechtenstein"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

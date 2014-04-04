@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.598,
+      37.7964
+    ]
+  },
+  "properties": {
+    "feet": 13416,
+    "meters": 4089,
+    "latitude": 37.7964,
+    "longitude": -107.598,
+    "name": "Little Giant Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

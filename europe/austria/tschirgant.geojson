@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.796041,
+      47.241716
+    ]
+  },
+  "properties": {
+    "feet": 7776,
+    "meters": 2370,
+    "latitude": 47.241716,
+    "longitude": 10.796041,
+    "name": "Tschirgant",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

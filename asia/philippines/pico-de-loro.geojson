@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.65,
+      14.2167
+    ]
+  },
+  "properties": {
+    "feet": 2178,
+    "meters": 664,
+    "latitude": 14.2167,
+    "longitude": 120.65,
+    "name": "Pico de Loro",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines",
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

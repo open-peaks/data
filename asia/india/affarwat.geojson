@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.337015,
+      34.020048
+    ]
+  },
+  "properties": {
+    "feet": 13593,
+    "meters": 4143,
+    "latitude": 34.020048,
+    "longitude": 74.337015,
+    "name": "Affarwat",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "India",
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

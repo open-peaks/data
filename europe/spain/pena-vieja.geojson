@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.806384,
+      43.173079
+    ]
+  },
+  "properties": {
+    "feet": 8573,
+    "meters": 2613,
+    "latitude": 43.173079,
+    "longitude": -4.806384,
+    "name": "Peña Vieja",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

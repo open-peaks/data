@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.6333,
+      19.0333
+    ]
+  },
+  "properties": {
+    "feet": 17887,
+    "meters": 5452,
+    "latitude": 19.0333,
+    "longitude": -98.6333,
+    "name": "Popocatepetl",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

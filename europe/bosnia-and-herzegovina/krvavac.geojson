@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4,
+      43.85
+    ]
+  },
+  "properties": {
+    "feet": 6765,
+    "meters": 2062,
+    "latitude": 43.85,
+    "longitude": 18.4,
+    "name": "Krvavac",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

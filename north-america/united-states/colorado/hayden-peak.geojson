@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.85,
+      39.05
+    ]
+  },
+  "properties": {
+    "feet": 13561,
+    "meters": 4133,
+    "latitude": 39.05,
+    "longitude": -106.85,
+    "name": "Hayden Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.154785,
+      40.830956
+    ]
+  },
+  "properties": {
+    "feet": 12933,
+    "meters": 3942,
+    "latitude": 40.830956,
+    "longitude": 41.154785,
+    "name": "Kackar",
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

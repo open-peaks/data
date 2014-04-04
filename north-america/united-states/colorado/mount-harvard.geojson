@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.32,
+      38.9244
+    ]
+  },
+  "properties": {
+    "feet": 14420,
+    "meters": 4390,
+    "latitude": 38.9244,
+    "longitude": -106.32,
+    "name": "Mount Harvard",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

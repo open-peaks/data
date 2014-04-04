@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.3,
+      4.68333
+    ]
+  },
+  "properties": {
+    "feet": 7162,
+    "meters": 2183,
+    "latitude": 4.68333,
+    "longitude": 101.3,
+    "name": "Gunung Korbu",
+    "regions": [
+      "Malay Archipelago"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

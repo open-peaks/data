@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.475167,
+      46.498998
+    ]
+  },
+  "properties": {
+    "feet": 11375,
+    "meters": 3467,
+    "latitude": 46.498998,
+    "longitude": 10.475167,
+    "name": "Geisterspitze (Punta degli Spiriti)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

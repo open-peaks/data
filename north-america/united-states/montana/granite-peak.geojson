@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.8,
+      45.1667
+    ]
+  },
+  "properties": {
+    "feet": 12799,
+    "meters": 3901,
+    "latitude": 45.1667,
+    "longitude": -109.8,
+    "name": "Granite Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Absaroka Range"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

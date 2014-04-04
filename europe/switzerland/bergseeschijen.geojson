@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.484082,
+      46.658601
+    ]
+  },
+  "properties": {
+    "feet": 9236,
+    "meters": 2815,
+    "latitude": 46.658601,
+    "longitude": 8.484082,
+    "name": "Bergseeschijen",
+    "regions": [
+      "Northern Alps",
+      "Urner Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

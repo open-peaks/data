@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.066,
+      39.1189
+    ]
+  },
+  "properties": {
+    "feet": 14092,
+    "meters": 4290,
+    "latitude": 39.1189,
+    "longitude": -107.066,
+    "name": "Snowmass Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

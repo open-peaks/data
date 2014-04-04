@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.745725,
+      48.380654
+    ]
+  },
+  "properties": {
+    "feet": 5083,
+    "meters": 1549,
+    "latitude": 48.380654,
+    "longitude": -121.745725,
+    "name": "Finney Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

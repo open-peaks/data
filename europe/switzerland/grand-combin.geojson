@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3,
+      45.95
+    ]
+  },
+  "properties": {
+    "feet": 14154,
+    "meters": 4314,
+    "latitude": 45.95,
+    "longitude": 7.3,
+    "name": "Grand Combin",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

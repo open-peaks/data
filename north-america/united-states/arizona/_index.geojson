@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.677,
+          35.3258
+        ]
+      },
+      "properties": {
+        "feet": 12356,
+        "meters": 3766,
+        "latitude": 35.3258,
+        "longitude": -111.677,
+        "name": "Agassiz Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.217,
+          36.8167
+        ]
+      },
+      "properties": {
+        "feet": 7100,
+        "meters": 2164,
+        "latitude": 36.8167,
+        "longitude": -110.217,
+        "name": "Agathla Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595,
+          31.7711
+        ]
+      },
+      "properties": {
+        "feet": 7730,
+        "meters": 2356,
+        "latitude": 31.7711,
+        "longitude": -111.595,
+        "name": "Baboquivari Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.646,
+          35.33
+        ]
+      },
+      "properties": {
+        "feet": 11460,
+        "meters": 3493,
+        "latitude": 35.33,
+        "longitude": -111.646,
+        "name": "Doyle Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.305,
+          33.4033
+        ]
+      },
+      "properties": {
+        "feet": 3300,
+        "meters": 1006,
+        "latitude": 33.4033,
+        "longitude": -113.305,
+        "name": "Eagletail Peak",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.125438,
+          33.955357
+        ]
+      },
+      "properties": {
+        "feet": 10912,
+        "meters": 3326,
+        "latitude": 33.955357,
+        "longitude": -109.125438,
+        "name": "Escudilla Mountain",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.083,
+          34.1167
+        ]
+      },
+      "properties": {
+        "feet": 7657,
+        "meters": 2334,
+        "latitude": 34.1167,
+        "longitude": -111.083,
+        "name": "Four Peaks",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66,
+          35.3231
+        ]
+      },
+      "properties": {
+        "feet": 11969,
+        "meters": 3648,
+        "latitude": 35.3231,
+        "longitude": -111.66,
+        "name": "Fremont Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.683,
+          35.3333
+        ]
+      },
+      "properties": {
+        "feet": 12633,
+        "meters": 3851,
+        "latitude": 35.3333,
+        "longitude": -111.683,
+        "name": "Humphreys Peak ",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85,
+          35.4081
+        ]
+      },
+      "properties": {
+        "feet": 10418,
+        "meters": 3175,
+        "latitude": 35.4081,
+        "longitude": -111.85,
+        "name": "Kendrick Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.562659,
+          33.906005
+        ]
+      },
+      "properties": {
+        "feet": 11403,
+        "meters": 3476,
+        "latitude": 33.906005,
+        "longitude": -109.562659,
+        "name": "Mount Baldy",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.715,
+          32.4155
+        ]
+      },
+      "properties": {
+        "feet": 8550,
+        "meters": 2606,
+        "latitude": 32.4155,
+        "longitude": -110.715,
+        "name": "Mount Bigelow",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.867,
+          32.7
+        ]
+      },
+      "properties": {
+        "feet": 10720,
+        "meters": 3267,
+        "latitude": 32.7,
+        "longitude": -109.867,
+        "name": "Mount Graham",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.783,
+          32.4333
+        ]
+      },
+      "properties": {
+        "feet": 9157,
+        "meters": 2791,
+        "latitude": 32.4333,
+        "longitude": -110.783,
+        "name": "Mount Lemmon",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75,
+          31.3333
+        ]
+      },
+      "properties": {
+        "feet": 7221,
+        "meters": 2201,
+        "latitude": 31.3333,
+        "longitude": -110.75,
+        "name": "Mount Washington",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.833,
+          31.6833
+        ]
+      },
+      "properties": {
+        "feet": 9453,
+        "meters": 2881,
+        "latitude": 31.6833,
+        "longitude": -110.833,
+        "name": "Mount Wrightson",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.526,
+          35.4017
+        ]
+      },
+      "properties": {
+        "feet": 8938,
+        "meters": 2724,
+        "latitude": 35.4017,
+        "longitude": -111.526,
+        "name": "O'Leary Peak",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.75,
+          32.5
+        ]
+      },
+      "properties": {
+        "feet": 2830,
+        "meters": 863,
+        "latitude": 32.5,
+        "longitude": -111.75,
+        "name": "Red Mountain",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.37,
+          33.4331
+        ]
+      },
+      "properties": {
+        "feet": 4553,
+        "meters": 1388,
+        "latitude": 33.4331,
+        "longitude": -111.37,
+        "name": "Weaver's Needle",
+        "states": [
+          "Arizona"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

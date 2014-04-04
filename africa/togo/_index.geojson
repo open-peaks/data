@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75,
+          6.866666
+        ]
+      },
+      "properties": {
+        "feet": 3235,
+        "meters": 986,
+        "latitude": 6.866666,
+        "longitude": -0.75,
+        "name": "Mont Agou",
+        "regions": [
+          "West Africa Mountains"
+        ],
+        "countries": [
+          "Togo"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.733,
+      35.3667
+    ]
+  },
+  "properties": {
+    "feet": 12389,
+    "meters": 3776,
+    "latitude": 35.3667,
+    "longitude": 138.733,
+    "name": "Fuji-san",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

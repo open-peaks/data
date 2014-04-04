@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.29,
+      50.8567
+    ]
+  },
+  "properties": {
+    "feet": 10226,
+    "meters": 3117,
+    "latitude": 50.8567,
+    "longitude": -115.29,
+    "name": "The Tower",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

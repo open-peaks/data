@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.072962,
+      38.856574
+    ]
+  },
+  "properties": {
+    "feet": 8895,
+    "meters": 2711,
+    "latitude": 38.856574,
+    "longitude": -120.072962,
+    "name": "Echo Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

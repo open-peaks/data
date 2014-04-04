@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.626,
+      35.872
+    ]
+  },
+  "properties": {
+    "feet": 8527,
+    "meters": 2599,
+    "latitude": 35.872,
+    "longitude": 138.626,
+    "name": "Kinpu-San",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

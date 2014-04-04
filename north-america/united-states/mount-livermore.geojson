@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.174,
+      30.6357
+    ]
+  },
+  "properties": {
+    "feet": 8378,
+    "meters": 2554,
+    "latitude": 30.6357,
+    "longitude": -104.174,
+    "name": "Mount Livermore",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

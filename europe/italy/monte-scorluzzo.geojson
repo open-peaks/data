@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.44238,
+      46.52178
+    ]
+  },
+  "properties": {
+    "feet": 10154,
+    "meters": 3095,
+    "latitude": 46.52178,
+    "longitude": 10.44238,
+    "name": "Monte Scorluzzo",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

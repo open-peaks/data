@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.585,
+      37.9667
+    ]
+  },
+  "properties": {
+    "feet": 14294,
+    "meters": 4357,
+    "latitude": 37.9667,
+    "longitude": -105.585,
+    "name": "Crestone Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

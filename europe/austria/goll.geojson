@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.066864,
+      47.594183
+    ]
+  },
+  "properties": {
+    "feet": 8277,
+    "meters": 2523,
+    "latitude": 47.594183,
+    "longitude": 13.066864,
+    "name": "Göll",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

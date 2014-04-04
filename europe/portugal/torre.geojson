@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.61301,
+      40.321813
+    ]
+  },
+  "properties": {
+    "feet": 6539,
+    "meters": 1993,
+    "latitude": 40.321813,
+    "longitude": -7.61301,
+    "name": "Torre",
+    "regions": [
+      "Iberian Peninsula",
+      "Portugal-Galicia"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

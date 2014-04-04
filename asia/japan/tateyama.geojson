@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.619,
+      36.5759
+    ]
+  },
+  "properties": {
+    "feet": 9892,
+    "meters": 3015,
+    "latitude": 36.5759,
+    "longitude": 137.619,
+    "name": "Tateyama",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

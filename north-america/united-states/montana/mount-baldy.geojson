@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.943346,
+      45.766408
+    ]
+  },
+  "properties": {
+    "feet": 8914,
+    "meters": 2717,
+    "latitude": 45.766408,
+    "longitude": -110.943346,
+    "name": "Mount Baldy",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

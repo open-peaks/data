@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.807413,
+      -39.830884
+    ]
+  },
+  "properties": {
+    "feet": 6201,
+    "meters": 1890,
+    "latitude": -39.830884,
+    "longitude": -71.807413,
+    "name": "Cerro Dollfus",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.726944,
+      60.743889
+    ]
+  },
+  "properties": {
+    "feet": 3698,
+    "meters": 1127,
+    "latitude": 60.743889,
+    "longitude": -148.726944,
+    "name": "Baird Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

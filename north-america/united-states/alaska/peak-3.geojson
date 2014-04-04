@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.650354,
+      61.07861
+    ]
+  },
+  "properties": {
+    "feet": 3996,
+    "meters": 1218,
+    "latitude": 61.07861,
+    "longitude": -149.650354,
+    "name": "Peak 3",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

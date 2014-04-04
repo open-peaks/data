@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.398,
+      62.9608
+    ]
+  },
+  "properties": {
+    "feet": 17400,
+    "meters": 5304,
+    "latitude": 62.9608,
+    "longitude": -151.398,
+    "name": "Mount Foraker",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

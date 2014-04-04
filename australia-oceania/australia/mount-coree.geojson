@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.81063,
+      -35.306414
+    ]
+  },
+  "properties": {
+    "feet": 4659,
+    "meters": 1420,
+    "latitude": -35.306414,
+    "longitude": 148.81063,
+    "name": "Mount Coree",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

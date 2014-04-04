@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.127384,
+      47.772849
+    ]
+  },
+  "properties": {
+    "feet": 7743,
+    "meters": 2360,
+    "latitude": 47.772849,
+    "longitude": -123.127384,
+    "name": "Mount Constance",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

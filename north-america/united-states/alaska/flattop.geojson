@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.665,
+      61.0906
+    ]
+  },
+  "properties": {
+    "feet": 3500,
+    "meters": 1067,
+    "latitude": 61.0906,
+    "longitude": -149.665,
+    "name": "Flattop",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

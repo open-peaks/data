@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.01655,
+      48.911444
+    ]
+  },
+  "properties": {
+    "feet": 6102,
+    "meters": 1860,
+    "latitude": 48.911444,
+    "longitude": -121.01655,
+    "name": "Desolation Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

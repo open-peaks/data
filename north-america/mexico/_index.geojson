@@ -1,0 +1,432 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.508333,
+          21.125
+        ]
+      },
+      "properties": {
+        "feet": 7480,
+        "meters": 2280,
+        "latitude": 21.125,
+        "longitude": -104.508333,
+        "name": "Ceboruco",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.234,
+          25.6327
+        ]
+      },
+      "properties": {
+        "feet": 5971,
+        "meters": 1820,
+        "latitude": 25.6327,
+        "longitude": -100.234,
+        "name": "Cerro De La Silla",
+        "regions": [
+          "Mexican Ranges",
+          "Sierra Madre Oriental"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.417,
+          25.5667
+        ]
+      },
+      "properties": {
+        "feet": 7218,
+        "meters": 2200,
+        "latitude": 25.5667,
+        "longitude": -100.417,
+        "name": "Copete De Las Aguilas",
+        "regions": [
+          "Mexican Ranges",
+          "Sierra Madre Oriental"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 7169,
+        "meters": 2185,
+        "latitude": 0.0,
+        "longitude": -108.0,
+        "name": "El Gigante",
+        "regions": [
+          "Mexican Ranges"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.935,
+          24.518
+        ]
+      },
+      "properties": {
+        "feet": 10696,
+        "meters": 3260,
+        "latitude": 24.518,
+        "longitude": -99.935,
+        "name": "Infiernillo",
+        "regions": [
+          "Mexican Ranges",
+          "Sierra Madre Oriental"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6333,
+          19.1833
+        ]
+      },
+      "properties": {
+        "feet": 17342,
+        "meters": 5286,
+        "latitude": 19.1833,
+        "longitude": -98.6333,
+        "name": "Iztaccihuatl",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.633,
+          19.55
+        ]
+      },
+      "properties": {
+        "feet": 14600,
+        "meters": 4450,
+        "latitude": 19.55,
+        "longitude": -103.633,
+        "name": "Nevado de Colima",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3,
+          25.1667
+        ]
+      },
+      "properties": {
+        "feet": 10236,
+        "meters": 3120,
+        "latitude": 25.1667,
+        "longitude": -103.3,
+        "name": "Picacho",
+        "regions": [
+          "Mexican Ranges",
+          "Sierra Madre Occidental"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0,
+          26.25
+        ]
+      },
+      "properties": {
+        "feet": 4987,
+        "meters": 1520,
+        "latitude": 26.25,
+        "longitude": -100.0,
+        "name": "Pico De La Yerbabuena",
+        "regions": [
+          "Mexican Ranges",
+          "Sierra Madre Oriental"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2667,
+          19.0167
+        ]
+      },
+      "properties": {
+        "feet": 18405,
+        "meters": 5610,
+        "latitude": 19.0167,
+        "longitude": -97.2667,
+        "name": "Pico de Orizaba",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.41,
+          25.65
+        ]
+      },
+      "properties": {
+        "feet": 6562,
+        "meters": 2000,
+        "latitude": 25.65,
+        "longitude": -100.41,
+        "name": "Pico Perico",
+        "regions": [
+          "Mexican Ranges"
+        ],
+        "countries": [
+          "Mexico",
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6333,
+          19.0333
+        ]
+      },
+      "properties": {
+        "feet": 17887,
+        "meters": 5452,
+        "latitude": 19.0333,
+        "longitude": -98.6333,
+        "name": "Popocatepetl",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.65,
+          19.1833
+        ]
+      },
+      "properties": {
+        "feet": 13389,
+        "meters": 4081,
+        "latitude": 19.1833,
+        "longitude": -98.65,
+        "name": "Telepon",
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.84243,
+          20.78821
+        ]
+      },
+      "properties": {
+        "feet": 9580,
+        "meters": 2920,
+        "latitude": 20.78821,
+        "longitude": -103.84243,
+        "name": "Tequila Volcano",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.64006,
+          19.198594
+        ]
+      },
+      "properties": {
+        "feet": 15289,
+        "meters": 4660,
+        "latitude": 19.198594,
+        "longitude": -98.64006,
+        "name": "Téyotl",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.71229,
+          19.412781
+        ]
+      },
+      "properties": {
+        "feet": 13615,
+        "meters": 4151,
+        "latitude": 19.412781,
+        "longitude": -98.71229,
+        "name": "Tlalocatepetl",
+        "regions": [
+          "Mexican Ranges",
+          "Cordillera Neovolcanica"
+        ],
+        "countries": [
+          "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

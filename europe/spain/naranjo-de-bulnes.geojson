@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.832096,
+      43.180271
+    ]
+  },
+  "properties": {
+    "feet": 8264,
+    "meters": 2519,
+    "latitude": 43.180271,
+    "longitude": -4.832096,
+    "name": "Naranjo de Bulnes",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

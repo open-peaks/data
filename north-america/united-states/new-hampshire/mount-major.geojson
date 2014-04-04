@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.287279,
+      43.51339
+    ]
+  },
+  "properties": {
+    "feet": 1786,
+    "meters": 544,
+    "latitude": 43.51339,
+    "longitude": -71.287279,
+    "name": "Mount Major",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.753063,
+      46.757857
+    ]
+  },
+  "properties": {
+    "feet": 6012,
+    "meters": 1832,
+    "latitude": 46.757857,
+    "longitude": -121.753063,
+    "name": "Lane Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

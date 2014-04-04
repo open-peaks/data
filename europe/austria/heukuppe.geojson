@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.688777,
+      47.689081
+    ]
+  },
+  "properties": {
+    "feet": 6585,
+    "meters": 2007,
+    "latitude": 47.689081,
+    "longitude": 15.688777,
+    "name": "Heukuppe",
+    "regions": [
+      "Eastern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

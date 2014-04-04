@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5,
+      47.55
+    ]
+  },
+  "properties": {
+    "feet": 6598,
+    "meters": 2011,
+    "latitude": 47.55,
+    "longitude": 14.5,
+    "name": "Kreuzkogel",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

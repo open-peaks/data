@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.434921,
+      52.203872
+    ]
+  },
+  "properties": {
+    "feet": 11675,
+    "meters": 3549,
+    "latitude": 52.203872,
+    "longitude": -117.434921,
+    "name": "South Twin",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

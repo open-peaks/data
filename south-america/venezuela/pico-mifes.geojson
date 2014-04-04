@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.806198,
+      8.759418
+    ]
+  },
+  "properties": {
+    "feet": 15121,
+    "meters": 4609,
+    "latitude": 8.759418,
+    "longitude": -70.806198,
+    "name": "Pico Mifés",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

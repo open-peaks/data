@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.801,
+      16.318
+    ]
+  },
+  "properties": {
+    "feet": 7054,
+    "meters": 2150,
+    "latitude": 16.318,
+    "longitude": 120.801,
+    "name": "Mt. Ugo",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

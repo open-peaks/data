@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.1363,
+      44.24288
+    ]
+  },
+  "properties": {
+    "feet": 7811,
+    "meters": 2381,
+    "latitude": 44.24288,
+    "longitude": -118.1363,
+    "name": "Ironside Mountain",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

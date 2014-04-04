@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.558,
+      33.9556
+    ]
+  },
+  "properties": {
+    "feet": 11275,
+    "meters": 3437,
+    "latitude": 33.9556,
+    "longitude": -109.558,
+    "name": "Sunrise Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

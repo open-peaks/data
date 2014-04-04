@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.507921,
+      47.38853
+    ]
+  },
+  "properties": {
+    "feet": 8472,
+    "meters": 2582,
+    "latitude": 47.38853,
+    "longitude": 11.507921,
+    "name": "Laliderer Spitze",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

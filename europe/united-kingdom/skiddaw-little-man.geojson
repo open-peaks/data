@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.13876,
+      54.63906
+    ]
+  },
+  "properties": {
+    "feet": 2837,
+    "meters": 865,
+    "latitude": 54.63906,
+    "longitude": -3.13876,
+    "name": "Skiddaw Little Man",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

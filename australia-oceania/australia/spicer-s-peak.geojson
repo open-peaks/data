@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.394074,
+      -28.099107
+    ]
+  },
+  "properties": {
+    "feet": 3953,
+    "meters": 1205,
+    "latitude": -28.099107,
+    "longitude": 152.394074,
+    "name": "Spicer's Peak",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

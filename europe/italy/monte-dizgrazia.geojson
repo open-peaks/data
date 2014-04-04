@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.75,
+      46.2667
+    ]
+  },
+  "properties": {
+    "feet": 12067,
+    "meters": 3678,
+    "latitude": 46.2667,
+    "longitude": 9.75,
+    "name": "Monte Dizgrazia",
+    "regions": [
+      "Southern Alps",
+      "Lepontine Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

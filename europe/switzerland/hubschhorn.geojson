@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0575,
+      46.237386
+    ]
+  },
+  "properties": {
+    "feet": 10472,
+    "meters": 3192,
+    "latitude": 46.237386,
+    "longitude": 8.0575,
+    "name": "Hübschhorn",
+    "regions": [
+      "Southern Alps",
+      "Lepontine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.126963,
+      28.391551
+    ]
+  },
+  "properties": {
+    "feet": 24373,
+    "meters": 7429,
+    "latitude": 28.391551,
+    "longitude": 85.126963,
+    "name": "Ganesh Himal",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

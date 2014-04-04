@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.0,
+      26.25
+    ]
+  },
+  "properties": {
+    "feet": 4987,
+    "meters": 1520,
+    "latitude": 26.25,
+    "longitude": -100.0,
+    "name": "Pico De La Yerbabuena",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Oriental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.833424,
+      47.82301
+    ]
+  },
+  "properties": {
+    "feet": 4639,
+    "meters": 1414,
+    "latitude": 47.82301,
+    "longitude": 7.833424,
+    "name": "Belchen",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

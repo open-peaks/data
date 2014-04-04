@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.8606,
+      44.2186
+    ]
+  },
+  "properties": {
+    "feet": 4098,
+    "meters": 1249,
+    "latitude": 44.2186,
+    "longitude": -73.8606,
+    "name": "Cascade",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

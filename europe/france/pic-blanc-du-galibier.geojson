@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.384044,
+      45.063943
+    ]
+  },
+  "properties": {
+    "feet": 9695,
+    "meters": 2955,
+    "latitude": 45.063943,
+    "longitude": 6.384044,
+    "name": "Pic Blanc du Galibier",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

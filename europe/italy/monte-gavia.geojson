@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.471399,
+      46.352761
+    ]
+  },
+  "properties": {
+    "feet": 10574,
+    "meters": 3223,
+    "latitude": 46.352761,
+    "longitude": 10.471399,
+    "name": "Monte Gavia",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

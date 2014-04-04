@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.66,
+      39.6172
+    ]
+  },
+  "properties": {
+    "feet": 13602,
+    "meters": 4146,
+    "latitude": 39.6172,
+    "longitude": -105.66,
+    "name": "Gray Wolf Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

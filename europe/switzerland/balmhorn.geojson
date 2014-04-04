@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.69361,
+      46.3917
+    ]
+  },
+  "properties": {
+    "feet": 12133,
+    "meters": 3698,
+    "latitude": 46.3917,
+    "longitude": 7.69361,
+    "name": "balmhorn",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.817,
+      32.7833
+    ]
+  },
+  "properties": {
+    "feet": 9255,
+    "meters": 2821,
+    "latitude": 32.7833,
+    "longitude": -105.817,
+    "name": "Sacramento Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

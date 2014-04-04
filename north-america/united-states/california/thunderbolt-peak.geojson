@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.517,
+      37.0981
+    ]
+  },
+  "properties": {
+    "feet": 14000,
+    "meters": 4267,
+    "latitude": 37.0981,
+    "longitude": -118.517,
+    "name": "Thunderbolt Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

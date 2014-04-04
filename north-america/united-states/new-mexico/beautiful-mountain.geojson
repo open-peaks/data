@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.0,
+      36.4714
+    ]
+  },
+  "properties": {
+    "feet": 9388,
+    "meters": 2861,
+    "latitude": 36.4714,
+    "longitude": -109.0,
+    "name": "Beautiful Mountain",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

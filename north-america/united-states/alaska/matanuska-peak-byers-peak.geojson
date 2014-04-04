@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.905,
+      61.5881
+    ]
+  },
+  "properties": {
+    "feet": 6119,
+    "meters": 1865,
+    "latitude": 61.5881,
+    "longitude": -148.905,
+    "name": "Matanuska Peak (Byers Peak)",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

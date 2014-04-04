@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.9667,
+      30.3833
+    ]
+  },
+  "properties": {
+    "feet": 25645,
+    "meters": 7817,
+    "latitude": 30.3833,
+    "longitude": 79.9667,
+    "name": "Nanda Devi",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

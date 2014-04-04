@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.65,
+          40.1833
+        ]
+      },
+      "properties": {
+        "feet": 6122,
+        "meters": 1866,
+        "latitude": 40.1833,
+        "longitude": 21.65,
+        "name": "Bourinos",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.84,
+          37.91
+        ]
+      },
+      "properties": {
+        "feet": 7297,
+        "meters": 2224,
+        "latitude": 37.91,
+        "longitude": 21.84,
+        "name": "Erymanthos",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0833,
+          41.3167
+        ]
+      },
+      "properties": {
+        "feet": 7323,
+        "meters": 2232,
+        "latitude": 41.3167,
+        "longitude": 24.0833,
+        "name": "Falakro",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9286,
+          35.2844
+        ]
+      },
+      "properties": {
+        "feet": 6824,
+        "meters": 2080,
+        "latitude": 35.2844,
+        "longitude": 23.9286,
+        "name": "Gingilos",
+        "regions": [
+          "Italian Peninsula and Islands"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2,
+          39.5333
+        ]
+      },
+      "properties": {
+        "feet": 7969,
+        "meters": 2429,
+        "latitude": 39.5333,
+        "longitude": 21.2,
+        "name": "Kakarditsa",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5833,
+          39.3167
+        ]
+      },
+      "properties": {
+        "feet": 7165,
+        "meters": 2184,
+        "latitude": 39.3167,
+        "longitude": 21.5833,
+        "name": "Karava",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1466,
+          39.4307
+        ]
+      },
+      "properties": {
+        "feet": 7851,
+        "meters": 2393,
+        "latitude": 39.4307,
+        "longitude": 21.1466,
+        "name": "Katafidhi",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5333,
+          39.5333
+        ]
+      },
+      "properties": {
+        "feet": 6237,
+        "meters": 1901,
+        "latitude": 39.5333,
+        "longitude": 21.5333,
+        "name": "Koziakas",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          39.33
+        ]
+      },
+      "properties": {
+        "feet": 4373,
+        "meters": 1333,
+        "latitude": 39.33,
+        "longitude": 21.0,
+        "name": "Lapata",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4333,
+          39.4833
+        ]
+      },
+      "properties": {
+        "feet": 6778,
+        "meters": 2066,
+        "latitude": 39.4833,
+        "longitude": 21.4333,
+        "name": "Loupata",
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35,
+          40.0833
+        ]
+      },
+      "properties": {
+        "feet": 9570,
+        "meters": 2917,
+        "latitude": 40.0833,
+        "longitude": 22.35,
+        "name": "Mount Olympus",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35,
+          40.083333
+        ]
+      },
+      "properties": {
+        "feet": 9577,
+        "meters": 2919,
+        "latitude": 40.083333,
+        "longitude": 22.35,
+        "name": "Myticas",
+        "regions": [
+          "Balkan Peninsula"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7,
+          39.0167
+        ]
+      },
+      "properties": {
+        "feet": 5656,
+        "meters": 1724,
+        "latitude": 39.0167,
+        "longitude": 22.7,
+        "name": "Othrys",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1959,
+          40.5722
+        ]
+      },
+      "properties": {
+        "feet": 5381,
+        "meters": 1640,
+        "latitude": 40.5722,
+        "longitude": 22.1959,
+        "name": "Paiko",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Greece",
+          "Macedonia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6167,
+          38.5333
+        ]
+      },
+      "properties": {
+        "feet": 8062,
+        "meters": 2457,
+        "latitude": 38.5333,
+        "longitude": 22.6167,
+        "name": "Parnassus",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1167,
+          40.2
+        ]
+      },
+      "properties": {
+        "feet": 7185,
+        "meters": 2190,
+        "latitude": 40.2,
+        "longitude": 22.1167,
+        "name": "Pieria Ori",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1167,
+          41.1
+        ]
+      },
+      "properties": {
+        "feet": 7067,
+        "meters": 2154,
+        "latitude": 41.1,
+        "longitude": 22.1167,
+        "name": "Pinovo",
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          35.2167
+        ]
+      },
+      "properties": {
+        "feet": 8058,
+        "meters": 2456,
+        "latitude": 35.2167,
+        "longitude": 24.75,
+        "name": "Psiloreitis",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7,
+          39.15
+        ]
+      },
+      "properties": {
+        "feet": 6699,
+        "meters": 2042,
+        "latitude": 39.15,
+        "longitude": 21.7,
+        "name": "Svoni",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

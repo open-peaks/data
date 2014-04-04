@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63333,
+          35.2167
+        ]
+      },
+      "properties": {
+        "feet": 5066,
+        "meters": 1544,
+        "latitude": 35.2167,
+        "longitude": 8.63333,
+        "name": "Jebel Chaambi",
+        "regions": [
+          "Atlas Mountains"
+        ],
+        "countries": [
+          "Tunisia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

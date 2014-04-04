@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.5,
+      55.55
+    ]
+  },
+  "properties": {
+    "feet": 2454,
+    "meters": 748,
+    "latitude": 55.55,
+    "longitude": -3.5,
+    "name": "Culter Fell",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

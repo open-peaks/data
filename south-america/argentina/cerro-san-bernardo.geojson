@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.3833,
+      -32.9667
+    ]
+  },
+  "properties": {
+    "feet": 13451,
+    "meters": 4100,
+    "latitude": -32.9667,
+    "longitude": -69.3833,
+    "name": "Cerro San Bernardo",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

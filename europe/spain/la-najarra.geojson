@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.8871,
+      40.786261
+    ]
+  },
+  "properties": {
+    "feet": 6906,
+    "meters": 2105,
+    "latitude": 40.786261,
+    "longitude": -3.8871,
+    "name": "La Najarra",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

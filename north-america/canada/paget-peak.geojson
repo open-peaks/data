@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.365128,
+      51.45882
+    ]
+  },
+  "properties": {
+    "feet": 8399,
+    "meters": 2560,
+    "latitude": 51.45882,
+    "longitude": -116.365128,
+    "name": "Paget Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.168707,
+      44.144884
+    ]
+  },
+  "properties": {
+    "feet": 5843,
+    "meters": 1781,
+    "latitude": 44.144884,
+    "longitude": 10.168707,
+    "name": "Pizzo d'Uccello",
+    "regions": [
+      "Italian Peninsula and Islands"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

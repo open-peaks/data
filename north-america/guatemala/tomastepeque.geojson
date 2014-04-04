@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.35,
+      14.63333
+    ]
+  },
+  "properties": {
+    "feet": 7054,
+    "meters": 2150,
+    "latitude": 14.63333,
+    "longitude": -90.35,
+    "name": "Tomastepeque",
+    "regions": [
+      "Central American Ranges",
+      "Guatemala Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

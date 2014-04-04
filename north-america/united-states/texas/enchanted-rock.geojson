@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.8189,
+      30.5066
+    ]
+  },
+  "properties": {
+    "feet": 1825,
+    "meters": 556,
+    "latitude": 30.5066,
+    "longitude": -98.8189,
+    "name": "Enchanted Rock",
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

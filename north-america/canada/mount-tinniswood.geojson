@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.833,
+      50.3
+    ]
+  },
+  "properties": {
+    "feet": 8800,
+    "meters": 2682,
+    "latitude": 50.3,
+    "longitude": -123.833,
+    "name": "Mount Tinniswood",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

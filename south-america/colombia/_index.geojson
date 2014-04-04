@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "feet": 18865,
+        "meters": 5750,
+        "latitude": 3.0,
+        "longitude": -76.0,
+        "name": "Nevado de Huila",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15,
+          6.5
+        ]
+      },
+      "properties": {
+        "feet": 16670,
+        "meters": 5081,
+        "latitude": 6.5,
+        "longitude": -72.15,
+        "name": "Nevado del Cocuy",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3667,
+          4.88333
+        ]
+      },
+      "properties": {
+        "feet": 17454,
+        "meters": 5320,
+        "latitude": 4.88333,
+        "longitude": -75.3667,
+        "name": "Nevado del Ruiz",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33,
+          4.67
+        ]
+      },
+      "properties": {
+        "feet": 17109,
+        "meters": 5215,
+        "latitude": 4.67,
+        "longitude": -75.33,
+        "name": "Nevado del Tolima",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.686762,
+          10.838575
+        ]
+      },
+      "properties": {
+        "feet": 18947,
+        "meters": 5775,
+        "latitude": 10.838575,
+        "longitude": -73.686762,
+        "name": "Pico Cristobal Colon",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.695857,
+          3.343909
+        ]
+      },
+      "properties": {
+        "feet": 13468,
+        "meters": 4105,
+        "latitude": 3.343909,
+        "longitude": -76.695857,
+        "name": "Pico Pance",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3167,
+          6.5
+        ]
+      },
+      "properties": {
+        "feet": 17487,
+        "meters": 5330,
+        "latitude": 6.5,
+        "longitude": -72.3167,
+        "name": "Ritak' Uwa Blanco (Ritacuba Blanco)",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37,
+          4.82
+        ]
+      },
+      "properties": {
+        "feet": 17093,
+        "meters": 5210,
+        "latitude": 4.82,
+        "longitude": -75.37,
+        "name": "Santa Isabel",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

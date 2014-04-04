@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.2,
+      39.216667
+    ]
+  },
+  "properties": {
+    "feet": 16634,
+    "meters": 5070,
+    "latitude": 39.216667,
+    "longitude": 68.2,
+    "name": "Zamok",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

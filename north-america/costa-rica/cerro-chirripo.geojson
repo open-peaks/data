@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.483,
+      9.4833
+    ]
+  },
+  "properties": {
+    "feet": 12533,
+    "meters": 3820,
+    "latitude": 9.4833,
+    "longitude": -83.483,
+    "name": "Cerro Chirripo",
+    "regions": [
+      "Central American Ranges",
+      "Costa Rica - Panama Ranges"
+    ],
+    "countries": [
+      "Costa Rica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

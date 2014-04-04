@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 9455,
+    "meters": 2882,
+    "name": "Bezymianny",
+    "regions": [
+      "Zagros Mountains",
+      "South Central Zagros"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.43265,
+      -32.96986
+    ]
+  },
+  "properties": {
+    "feet": 17717,
+    "meters": 5400,
+    "latitude": -32.96986,
+    "longitude": -69.43265,
+    "name": "Rincón",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

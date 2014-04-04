@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.37448,
+      48.8575
+    ]
+  },
+  "properties": {
+    "feet": 7574,
+    "meters": 2309,
+    "latitude": 48.8575,
+    "longitude": -121.37448,
+    "name": "Whatcom Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

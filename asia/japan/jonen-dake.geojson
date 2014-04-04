@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.728,
+      36.3266
+    ]
+  },
+  "properties": {
+    "feet": 9373,
+    "meters": 2857,
+    "latitude": 36.3266,
+    "longitude": 137.728,
+    "name": "Jonen Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

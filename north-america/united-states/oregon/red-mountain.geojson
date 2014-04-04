@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.245,
+      45.0646
+    ]
+  },
+  "properties": {
+    "feet": 9560,
+    "meters": 2914,
+    "latitude": 45.0646,
+    "longitude": -117.245,
+    "name": "Red Mountain",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

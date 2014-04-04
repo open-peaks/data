@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.995855,
+      46.699082
+    ]
+  },
+  "properties": {
+    "feet": 10948,
+    "meters": 3337,
+    "latitude": 46.699082,
+    "longitude": 10.995855,
+    "name": "Roteck (Monte Rosso)",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

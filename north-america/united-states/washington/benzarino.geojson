@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.817466,
+      48.489705
+    ]
+  },
+  "properties": {
+    "feet": 7720,
+    "meters": 2353,
+    "latitude": 48.489705,
+    "longitude": -120.817466,
+    "name": "Benzarino",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

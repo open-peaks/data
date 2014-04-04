@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.995456,
+      44.400971
+    ]
+  },
+  "properties": {
+    "feet": 6007,
+    "meters": 1831,
+    "latitude": 44.400971,
+    "longitude": 9.995456,
+    "name": "Orsaro",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

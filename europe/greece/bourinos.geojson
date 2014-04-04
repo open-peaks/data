@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.65,
+      40.1833
+    ]
+  },
+  "properties": {
+    "feet": 6122,
+    "meters": 1866,
+    "latitude": 40.1833,
+    "longitude": 21.65,
+    "name": "Bourinos",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

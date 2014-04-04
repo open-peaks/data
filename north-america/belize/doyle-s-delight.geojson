@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.01123,
+      16.494032
+    ]
+  },
+  "properties": {
+    "feet": 3711,
+    "meters": 1131,
+    "latitude": 16.494032,
+    "longitude": -89.01123,
+    "name": "Doyle's Delight",
+    "regions": [
+      "Central American Ranges"
+    ],
+    "countries": [
+      "Belize"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

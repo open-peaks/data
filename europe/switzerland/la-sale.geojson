@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37221,
+      46.02313
+    ]
+  },
+  "properties": {
+    "feet": 11962,
+    "meters": 3646,
+    "latitude": 46.02313,
+    "longitude": 7.37221,
+    "name": "La Sale",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

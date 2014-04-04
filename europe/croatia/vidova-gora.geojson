@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.627106,
+      43.283983
+    ]
+  },
+  "properties": {
+    "feet": 2552,
+    "meters": 778,
+    "latitude": 43.283983,
+    "longitude": 16.627106,
+    "name": "Vidova Gora",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

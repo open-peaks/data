@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.223421,
+      51.399152
+    ]
+  },
+  "properties": {
+    "feet": 9003,
+    "meters": 2744,
+    "latitude": 51.399152,
+    "longitude": -116.223421,
+    "name": "Fairview Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

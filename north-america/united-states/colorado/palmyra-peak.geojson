@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.829,
+      37.8836
+    ]
+  },
+  "properties": {
+    "feet": 13319,
+    "meters": 4060,
+    "latitude": 37.8836,
+    "longitude": -107.829,
+    "name": "Palmyra Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.979568,
+      37.18469
+    ]
+  },
+  "properties": {
+    "feet": 6545,
+    "meters": 1995,
+    "latitude": 37.18469,
+    "longitude": -112.979568,
+    "name": "The Watchman",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

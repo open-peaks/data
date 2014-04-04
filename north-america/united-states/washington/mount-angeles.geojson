@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.467317,
+      47.995292
+    ]
+  },
+  "properties": {
+    "feet": 6454,
+    "meters": 1967,
+    "latitude": 47.995292,
+    "longitude": -123.467317,
+    "name": "Mount Angeles",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

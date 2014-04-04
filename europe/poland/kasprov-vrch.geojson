@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.981556,
+      49.232003
+    ]
+  },
+  "properties": {
+    "feet": 6519,
+    "meters": 1987,
+    "latitude": 49.232003,
+    "longitude": 19.981556,
+    "name": "Kasprov vrch",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

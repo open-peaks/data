@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.787439,
+      5.164506
+    ]
+  },
+  "properties": {
+    "feet": 9219,
+    "meters": 2810,
+    "latitude": 5.164506,
+    "longitude": -60.787439,
+    "name": "Tepuy Roraima",
+    "regions": [
+      "Guiana Highlands",
+      "La Gran Sabana"
+    ],
+    "countries": [
+      "Venezuela",
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

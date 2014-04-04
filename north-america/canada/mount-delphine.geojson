@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.453,
+      50.465
+    ]
+  },
+  "properties": {
+    "feet": 11175,
+    "meters": 3406,
+    "latitude": 50.465,
+    "longitude": -116.453,
+    "name": "Mount Delphine",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.730865,
+      45.307734
+    ]
+  },
+  "properties": {
+    "feet": 7136,
+    "meters": 2175,
+    "latitude": 45.307734,
+    "longitude": -117.730865,
+    "name": "Mount Fanny",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

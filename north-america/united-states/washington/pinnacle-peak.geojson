@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.732593,
+      46.757974
+    ]
+  },
+  "properties": {
+    "feet": 6562,
+    "meters": 2000,
+    "latitude": 46.757974,
+    "longitude": -121.732593,
+    "name": "Pinnacle Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

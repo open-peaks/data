@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5,
+      28.7
+    ]
+  },
+  "properties": {
+    "feet": 26794,
+    "meters": 8167,
+    "latitude": 28.7,
+    "longitude": 83.5,
+    "name": "Dhaulagiri",
+    "regions": [
+      "Himalaya ",
+      "Western Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.312,
+      38.9861
+    ]
+  },
+  "properties": {
+    "feet": 13063,
+    "meters": 3982,
+    "latitude": 38.9861,
+    "longitude": -114.312,
+    "name": "Wheeler Peak",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Nevada"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3864,
+      46.36159
+    ]
+  },
+  "properties": {
+    "feet": 9872,
+    "meters": 3009,
+    "latitude": 46.36159,
+    "longitude": 8.3864,
+    "name": "Monte Giove",
+    "regions": [
+      "Southern Alps",
+      "Lepontine Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

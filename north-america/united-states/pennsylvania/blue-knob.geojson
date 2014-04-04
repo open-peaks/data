@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.5619,
+      40.2883
+    ]
+  },
+  "properties": {
+    "feet": 3136,
+    "meters": 956,
+    "latitude": 40.2883,
+    "longitude": -78.5619,
+    "name": "Blue Knob",
+    "regions": [
+      "Appalachian Mountains",
+      "Allegheny Mountains"
+    ],
+    "states": [
+      "Pennsylvania"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.6,
+      58.8833
+    ]
+  },
+  "properties": {
+    "feet": 5420,
+    "meters": 1652,
+    "latitude": 58.8833,
+    "longitude": -63.6,
+    "name": "Mount Caubvik",
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -139.683333,
+      60.333333
+    ]
+  },
+  "properties": {
+    "feet": 15777,
+    "meters": 4809,
+    "latitude": 60.333333,
+    "longitude": -139.683333,
+    "name": "Mount Vancouver",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

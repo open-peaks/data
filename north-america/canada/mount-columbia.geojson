@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.436209,
+      52.14879
+    ]
+  },
+  "properties": {
+    "feet": 12294,
+    "meters": 3747,
+    "latitude": 52.14879,
+    "longitude": -117.436209,
+    "name": "Mount Columbia",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

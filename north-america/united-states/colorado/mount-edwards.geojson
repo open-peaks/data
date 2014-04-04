@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.793889,
+      39.636389
+    ]
+  },
+  "properties": {
+    "feet": 13838,
+    "meters": 4217,
+    "latitude": 39.636389,
+    "longitude": -105.793889,
+    "name": "Mount Edwards",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

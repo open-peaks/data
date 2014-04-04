@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.25,
+      43.0333
+    ]
+  },
+  "properties": {
+    "feet": 14331,
+    "meters": 4368,
+    "latitude": 43.0333,
+    "longitude": 43.25,
+    "name": "Shkhelda",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

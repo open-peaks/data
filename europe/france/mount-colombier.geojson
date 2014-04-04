@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.119127,
+      45.644408
+    ]
+  },
+  "properties": {
+    "feet": 6703,
+    "meters": 2043,
+    "latitude": 45.644408,
+    "longitude": 6.119127,
+    "name": "Mount Colombier",
+    "regions": [
+      "Central Europe Ranges",
+      "North France-West Rhine Area"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

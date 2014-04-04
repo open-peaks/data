@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -158.167,
+      56.8833
+    ]
+  },
+  "properties": {
+    "feet": 4400,
+    "meters": 1341,
+    "latitude": 56.8833,
+    "longitude": -158.167,
+    "name": "Aniakchak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Aleutian Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

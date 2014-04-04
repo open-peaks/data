@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 3284,
+    "meters": 1001,
+    "name": "Cahir",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Ireland "
+    ],
+    "countries": [
+      "Ireland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

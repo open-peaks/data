@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.828528,
+      -42.269116
+    ]
+  },
+  "properties": {
+    "feet": 4734,
+    "meters": 1443,
+    "latitude": -42.269116,
+    "longitude": 145.828528,
+    "name": "Frenchman's Cap",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

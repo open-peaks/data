@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.015506,
+      42.568854
+    ]
+  },
+  "properties": {
+    "feet": 9012,
+    "meters": 2747,
+    "latitude": 42.568854,
+    "longitude": 1.015506,
+    "name": "Els Encantats",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

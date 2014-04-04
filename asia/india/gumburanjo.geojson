@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.257097,
+      32.961686
+    ]
+  },
+  "properties": {
+    "feet": 17388,
+    "meters": 5300,
+    "latitude": 32.961686,
+    "longitude": 77.257097,
+    "name": "Gumburanjo",
+    "regions": [
+      "Himalaya ",
+      "Punjab Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

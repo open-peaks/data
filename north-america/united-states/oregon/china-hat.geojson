@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.0339,
+      43.68068
+    ]
+  },
+  "properties": {
+    "feet": 6573,
+    "meters": 2003,
+    "latitude": 43.68068,
+    "longitude": -121.0339,
+    "name": "China Hat",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

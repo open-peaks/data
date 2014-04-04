@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.745917,
+      46.125944
+    ]
+  },
+  "properties": {
+    "feet": 12575,
+    "meters": 3833,
+    "latitude": 46.125944,
+    "longitude": 7.745917,
+    "name": "Brunegghorn",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

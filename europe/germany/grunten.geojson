@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.319595,
+      47.556604
+    ]
+  },
+  "properties": {
+    "feet": 5702,
+    "meters": 1738,
+    "latitude": 47.556604,
+    "longitude": 10.319595,
+    "name": "Grünten",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

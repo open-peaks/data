@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.43,
+      43.3495
+    ]
+  },
+  "properties": {
+    "feet": 5781,
+    "meters": 1762,
+    "latitude": 43.3495,
+    "longitude": 24.43,
+    "name": "Sveti Jure",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Croatia",
+      "Croatia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

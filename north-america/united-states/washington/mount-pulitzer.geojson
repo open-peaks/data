@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.574176,
+      47.835571
+    ]
+  },
+  "properties": {
+    "feet": 6283,
+    "meters": 1915,
+    "latitude": 47.835571,
+    "longitude": -123.574176,
+    "name": "Mount Pulitzer",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

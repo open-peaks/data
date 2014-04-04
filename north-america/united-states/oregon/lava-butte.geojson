@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.356033,
+      43.917857
+    ]
+  },
+  "properties": {
+    "feet": 5020,
+    "meters": 1530,
+    "latitude": 43.917857,
+    "longitude": -121.356033,
+    "name": "Lava Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

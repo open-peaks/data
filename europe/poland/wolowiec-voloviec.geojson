@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.780556,
+      49.213889
+    ]
+  },
+  "properties": {
+    "feet": 6772,
+    "meters": 2064,
+    "latitude": 49.213889,
+    "longitude": 19.780556,
+    "name": "Wolowiec (Voloviec)",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

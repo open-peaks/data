@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2631,
+      -26.9186
+    ]
+  },
+  "properties": {
+    "feet": 19744,
+    "meters": 6018,
+    "latitude": -26.9186,
+    "longitude": -68.2631,
+    "name": "Cerro San Francisco",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "countries": [
+      "Chile",
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

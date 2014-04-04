@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.809,
+      35.7822
+    ]
+  },
+  "properties": {
+    "feet": 9616,
+    "meters": 2931,
+    "latitude": 35.7822,
+    "longitude": 137.809,
+    "name": "Houkendake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

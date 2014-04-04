@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.45916,
+      46.53974
+    ]
+  },
+  "properties": {
+    "feet": 9928,
+    "meters": 3026,
+    "latitude": 46.53974,
+    "longitude": 10.45916,
+    "name": "Roetlspitz (Rötlspitz; Punta Rosa)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

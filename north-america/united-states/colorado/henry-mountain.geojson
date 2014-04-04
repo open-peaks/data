@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.617,
+      38.6833
+    ]
+  },
+  "properties": {
+    "feet": 13254,
+    "meters": 4040,
+    "latitude": 38.6833,
+    "longitude": -106.617,
+    "name": "Henry Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

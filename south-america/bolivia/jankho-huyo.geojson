@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.332773,
+      -16.068961
+    ]
+  },
+  "properties": {
+    "feet": 18084,
+    "meters": 5512,
+    "latitude": -16.068961,
+    "longitude": -68.332773,
+    "name": "Jankho Huyo",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

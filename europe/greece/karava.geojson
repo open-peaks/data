@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.5833,
+      39.3167
+    ]
+  },
+  "properties": {
+    "feet": 7165,
+    "meters": 2184,
+    "latitude": 39.3167,
+    "longitude": 21.5833,
+    "name": "Karava",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

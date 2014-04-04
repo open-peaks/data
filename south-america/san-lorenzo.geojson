@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.306667,
+      -47.591667
+    ]
+  },
+  "properties": {
+    "feet": 12159,
+    "meters": 3706,
+    "latitude": -47.591667,
+    "longitude": -72.306667,
+    "name": "San Lorenzo",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

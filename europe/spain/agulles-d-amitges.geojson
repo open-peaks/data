@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.98,
+      42.62
+    ]
+  },
+  "properties": {
+    "feet": 8743,
+    "meters": 2665,
+    "latitude": 42.62,
+    "longitude": 0.98,
+    "name": "Agulles d'Amitges",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

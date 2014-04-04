@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.345135,
+      43.409939
+    ]
+  },
+  "properties": {
+    "feet": 1604,
+    "meters": 489,
+    "latitude": 43.409939,
+    "longitude": -3.345135,
+    "name": "Candina",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

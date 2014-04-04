@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53,
+          8.8
+        ]
+      },
+      "properties": {
+        "feet": 11398,
+        "meters": 3474,
+        "latitude": 8.8,
+        "longitude": -82.53,
+        "name": "Volcan Baru",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Panama"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

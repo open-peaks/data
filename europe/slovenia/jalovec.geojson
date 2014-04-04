@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.6333,
+      46.2934
+    ]
+  },
+  "properties": {
+    "feet": 8678,
+    "meters": 2645,
+    "latitude": 46.2934,
+    "longitude": 19.6333,
+    "name": "Jalovec",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

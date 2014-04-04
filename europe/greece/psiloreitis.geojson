@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.75,
+      35.2167
+    ]
+  },
+  "properties": {
+    "feet": 8058,
+    "meters": 2456,
+    "latitude": 35.2167,
+    "longitude": 24.75,
+    "name": "Psiloreitis",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

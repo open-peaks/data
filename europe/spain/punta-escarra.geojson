@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.439539,
+      42.733648
+    ]
+  },
+  "properties": {
+    "feet": 8957,
+    "meters": 2730,
+    "latitude": 42.733648,
+    "longitude": -0.439539,
+    "name": "Punta Escarra",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

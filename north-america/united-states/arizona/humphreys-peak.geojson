@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.683,
+      35.3333
+    ]
+  },
+  "properties": {
+    "feet": 12633,
+    "meters": 3851,
+    "latitude": 35.3333,
+    "longitude": -111.683,
+    "name": "Humphreys Peak ",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

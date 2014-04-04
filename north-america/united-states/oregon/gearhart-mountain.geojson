@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86222,
+      42.51278
+    ]
+  },
+  "properties": {
+    "feet": 8364,
+    "meters": 2549,
+    "latitude": 42.51278,
+    "longitude": -120.86222,
+    "name": "Gearhart Mountain",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

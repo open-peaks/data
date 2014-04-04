@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.304,
+      29.2458
+    ]
+  },
+  "properties": {
+    "feet": 7825,
+    "meters": 2385,
+    "latitude": 29.2458,
+    "longitude": -103.304,
+    "name": "Emory Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

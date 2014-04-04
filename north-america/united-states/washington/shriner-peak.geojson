@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.530547,
+      46.813571
+    ]
+  },
+  "properties": {
+    "feet": 5834,
+    "meters": 1768,
+    "latitude": 46.813571,
+    "longitude": -121.530547,
+    "name": "Shriner Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

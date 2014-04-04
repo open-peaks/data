@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.361332,
+      47.961537
+    ]
+  },
+  "properties": {
+    "feet": 7172,
+    "meters": 2186,
+    "latitude": 47.961537,
+    "longitude": -121.361332,
+    "name": "Columbia Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.525452,
+      45.051453
+    ]
+  },
+  "properties": {
+    "feet": 12204,
+    "meters": 3720,
+    "latitude": 45.051453,
+    "longitude": -109.525452,
+    "name": "Mount Rearguard",
+    "regions": [
+      "Rocky Mountains",
+      "Absaroka Range"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

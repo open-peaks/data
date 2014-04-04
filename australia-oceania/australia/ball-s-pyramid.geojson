@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      159.251,
+      -31.7558
+    ]
+  },
+  "properties": {
+    "feet": 1843,
+    "meters": 562,
+    "latitude": -31.7558,
+    "longitude": 159.251,
+    "name": "Ball's Pyramid",
+    "regions": [
+      "New Zealand",
+      "Outlying Islands"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

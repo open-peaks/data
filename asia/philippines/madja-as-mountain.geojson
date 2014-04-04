@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.162132,
+      11.389083
+    ]
+  },
+  "properties": {
+    "feet": 6946,
+    "meters": 2117,
+    "latitude": 11.389083,
+    "longitude": 122.162132,
+    "name": "Madja-as Mountain",
+    "regions": [
+      "Philippines",
+      "Visayas"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

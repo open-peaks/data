@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.183,
+      -4.08333
+    ]
+  },
+  "properties": {
+    "feet": 16023,
+    "meters": 4884,
+    "latitude": -4.08333,
+    "longitude": 137.183,
+    "name": "Puncak Jaya",
+    "regions": [
+      "Maoke Range"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

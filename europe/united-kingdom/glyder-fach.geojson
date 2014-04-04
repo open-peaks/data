@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.003315,
+      53.105877
+    ]
+  },
+  "properties": {
+    "feet": 3248,
+    "meters": 990,
+    "latitude": 53.105877,
+    "longitude": -4.003315,
+    "name": "Glyder Fach",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

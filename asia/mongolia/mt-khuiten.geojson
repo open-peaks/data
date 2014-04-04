@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.35,
+      49.6167
+    ]
+  },
+  "properties": {
+    "feet": 14350,
+    "meters": 4374,
+    "latitude": 49.6167,
+    "longitude": 106.35,
+    "name": "Mt Khuiten",
+    "regions": [
+      "Tien Shan"
+    ],
+    "countries": [
+      "Mongolia",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

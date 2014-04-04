@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.529444,
+      49.573333
+    ]
+  },
+  "properties": {
+    "feet": 5659,
+    "meters": 1725,
+    "latitude": 49.573333,
+    "longitude": 19.529444,
+    "name": "Babia Góra",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

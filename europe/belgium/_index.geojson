@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96667,
+          50.9667
+        ]
+      },
+      "properties": {
+        "feet": 164,
+        "meters": 50,
+        "latitude": 50.9667,
+        "longitude": 4.96667,
+        "name": "Scherpenheuvel",
+        "countries": [
+          "Belgium"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

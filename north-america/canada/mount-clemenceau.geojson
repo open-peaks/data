@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.958488,
+      52.248193
+    ]
+  },
+  "properties": {
+    "feet": 12001,
+    "meters": 3658,
+    "latitude": 52.248193,
+    "longitude": -117.958488,
+    "name": "Mount Clemenceau",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

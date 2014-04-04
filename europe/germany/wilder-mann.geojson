@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.280328,
+      47.288137
+    ]
+  },
+  "properties": {
+    "feet": 8455,
+    "meters": 2577,
+    "latitude": 47.288137,
+    "longitude": 10.280328,
+    "name": "Wilder Mann",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

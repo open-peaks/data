@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.517,
+      37.0833
+    ]
+  },
+  "properties": {
+    "feet": 14200,
+    "meters": 4328,
+    "latitude": 37.0833,
+    "longitude": -118.517,
+    "name": "Polemonium Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 17962,
+    "meters": 5475,
+    "name": "Ebener Grat",
+    "regions": [
+      "Central Asia Ranges",
+      "Aral-East Caspian Area"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

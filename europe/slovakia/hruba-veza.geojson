@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.130244,
+      49.181384
+    ]
+  },
+  "properties": {
+    "feet": 6844,
+    "meters": 2086,
+    "latitude": 49.181384,
+    "longitude": 20.130244,
+    "name": "Hruba veza",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

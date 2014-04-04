@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.135174,
+      50.850391
+    ]
+  },
+  "properties": {
+    "feet": 8700,
+    "meters": 2652,
+    "latitude": 50.850391,
+    "longitude": -115.135174,
+    "name": "The Wedge",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

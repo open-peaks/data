@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.239,
+      38.656
+    ]
+  },
+  "properties": {
+    "feet": 14269,
+    "meters": 4349,
+    "latitude": 38.656,
+    "longitude": -106.239,
+    "name": "Mount Antero",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

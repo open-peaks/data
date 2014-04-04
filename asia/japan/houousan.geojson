@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.304996,
+      35.702962
+    ]
+  },
+  "properties": {
+    "feet": 9318,
+    "meters": 2840,
+    "latitude": 35.702962,
+    "longitude": 138.304996,
+    "name": "Houousan",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

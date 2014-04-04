@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.598297,
+      48.442241
+    ]
+  },
+  "properties": {
+    "feet": 7816,
+    "meters": 2382,
+    "latitude": 48.442241,
+    "longitude": -120.598297,
+    "name": "Crescent Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

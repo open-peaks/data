@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4333,
+      40.8167
+    ]
+  },
+  "properties": {
+    "feet": 4202,
+    "meters": 1281,
+    "latitude": 40.8167,
+    "longitude": 14.4333,
+    "name": "Vesuvius",
+    "regions": [
+      "Italian Peninsula and Islands"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

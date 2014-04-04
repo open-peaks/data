@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.716,
+      36.3996
+    ]
+  },
+  "properties": {
+    "feet": 9065,
+    "meters": 2763,
+    "latitude": 36.3996,
+    "longitude": 137.716,
+    "name": "Tsubakuro Dake (Mt. Tsubakuro)",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

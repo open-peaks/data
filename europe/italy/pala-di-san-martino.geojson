@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.8478,
+      46.2541
+    ]
+  },
+  "properties": {
+    "feet": 9800,
+    "meters": 2987,
+    "latitude": 46.2541,
+    "longitude": 11.8478,
+    "name": "Pala di San Martino",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

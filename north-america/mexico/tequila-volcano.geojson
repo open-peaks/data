@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.84243,
+      20.78821
+    ]
+  },
+  "properties": {
+    "feet": 9580,
+    "meters": 2920,
+    "latitude": 20.78821,
+    "longitude": -103.84243,
+    "name": "Tequila Volcano",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.347302,
+      10.387474
+    ]
+  },
+  "properties": {
+    "feet": 7680,
+    "meters": 2341,
+    "latitude": 10.387474,
+    "longitude": -67.347302,
+    "name": "Peñón de San Carlos",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

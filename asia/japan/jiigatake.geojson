@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.75,
+      36.5874
+    ]
+  },
+  "properties": {
+    "feet": 8760,
+    "meters": 2670,
+    "latitude": 36.5874,
+    "longitude": 137.75,
+    "name": "Jiigatake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

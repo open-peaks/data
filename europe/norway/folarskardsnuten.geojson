@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.782249,
+      60.608806
+    ]
+  },
+  "properties": {
+    "feet": 6539,
+    "meters": 1933,
+    "latitude": 60.608806,
+    "longitude": 7.782249,
+    "name": "Folarskardsnuten",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

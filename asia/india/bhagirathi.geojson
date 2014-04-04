@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.15,
+      30.85
+    ]
+  },
+  "properties": {
+    "feet": 22493,
+    "meters": 6856,
+    "latitude": 30.85,
+    "longitude": 79.15,
+    "name": "Bhagirathi",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

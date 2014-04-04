@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.655417,
+      48.512909
+    ]
+  },
+  "properties": {
+    "feet": 7760,
+    "meters": 2365,
+    "latitude": 48.512909,
+    "longitude": -120.655417,
+    "name": "North Early Winters Spire",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

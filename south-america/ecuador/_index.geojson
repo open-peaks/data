@@ -1,0 +1,412 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.141,
+          -0.481
+        ]
+      },
+      "properties": {
+        "feet": 18,
+        "meters": 5,
+        "latitude": -0.481,
+        "longitude": -78.141,
+        "name": "Antisana",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.989197,
+          0.025105
+        ]
+      },
+      "properties": {
+        "feet": 18996,
+        "meters": 5790,
+        "latitude": 0.025105,
+        "longitude": -77.989197,
+        "name": "Cayambe",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.817034,
+          -1.469175
+        ]
+      },
+      "properties": {
+        "feet": 20565,
+        "meters": 6268,
+        "latitude": -1.469175,
+        "longitude": -78.817034,
+        "name": "Chimborazo",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.659706,
+          -0.531199
+        ]
+      },
+      "properties": {
+        "feet": 15715,
+        "meters": 4790,
+        "latitude": -0.531199,
+        "longitude": -78.659706,
+        "name": "Corazón",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.437778,
+          -0.680556
+        ]
+      },
+      "properties": {
+        "feet": 19347,
+        "meters": 5897,
+        "latitude": -0.680556,
+        "longitude": -78.437778,
+        "name": "Cotopaxi",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.293853,
+          0.13351
+        ]
+      },
+      "properties": {
+        "feet": 13986,
+        "meters": 4263,
+        "latitude": 0.13351,
+        "longitude": -78.293853,
+        "name": "Fuya Fuya",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.598766,
+          -0.177068
+        ]
+      },
+      "properties": {
+        "feet": 15695,
+        "meters": 4784,
+        "latitude": -0.177068,
+        "longitude": -78.598766,
+        "name": "Guagua Pichincha",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.713611,
+          -0.659444
+        ]
+      },
+      "properties": {
+        "feet": 17218,
+        "meters": 5248,
+        "latitude": -0.659444,
+        "longitude": -78.713611,
+        "name": "Iliniza Sur",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.180465,
+          0.261636
+        ]
+      },
+      "properties": {
+        "feet": 15026,
+        "meters": 4580,
+        "latitude": 0.261636,
+        "longitude": -78.180465,
+        "name": "Imbabura Norte",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.598981,
+          -0.171661
+        ]
+      },
+      "properties": {
+        "feet": 15413,
+        "meters": 4698,
+        "latitude": -0.171661,
+        "longitude": -78.598981,
+        "name": "Rucu Pichincha",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.341274,
+          -2.004853
+        ]
+      },
+      "properties": {
+        "feet": 17159,
+        "meters": 5230,
+        "latitude": -2.004853,
+        "longitude": -78.341274,
+        "name": "Sangay",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.367882,
+          -0.538494
+        ]
+      },
+      "properties": {
+        "feet": 16053,
+        "meters": 4893,
+        "latitude": -0.538494,
+        "longitude": -78.367882,
+        "name": "Sincholagua",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador",
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1368,
+          0.364733
+        ]
+      },
+      "properties": {
+        "feet": 12313,
+        "meters": 3753,
+        "latitude": 0.364733,
+        "longitude": -78.1368,
+        "name": "Sucre",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.442,
+          1.467
+        ]
+      },
+      "properties": {
+        "feet": 16479,
+        "meters": 5023,
+        "latitude": 1.467,
+        "longitude": -78.442,
+        "name": "Tungurahua",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador",
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.329817,
+          0.482866
+        ]
+      },
+      "properties": {
+        "feet": 14879,
+        "meters": 4535,
+        "latitude": 0.482866,
+        "longitude": -78.329817,
+        "name": "Yanaurco de Piñan",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

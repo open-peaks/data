@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.333354,
+      10.403683
+    ]
+  },
+  "properties": {
+    "feet": 7776,
+    "meters": 2370,
+    "latitude": 10.403683,
+    "longitude": -67.333354,
+    "name": "Cumbre de Buena Vista",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

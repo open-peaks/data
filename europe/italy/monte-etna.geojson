@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0,
+      37.75
+    ]
+  },
+  "properties": {
+    "feet": 10902,
+    "meters": 3323,
+    "latitude": 37.75,
+    "longitude": 15.0,
+    "name": "Monte Etna",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Sicily"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

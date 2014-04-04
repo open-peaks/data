@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.525,
+      37.1033
+    ]
+  },
+  "properties": {
+    "feet": 13775,
+    "meters": 4199,
+    "latitude": 37.1033,
+    "longitude": -118.525,
+    "name": "Mount Winchell",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

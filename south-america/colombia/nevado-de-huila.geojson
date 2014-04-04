@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.0,
+      3.0
+    ]
+  },
+  "properties": {
+    "feet": 18865,
+    "meters": 5750,
+    "latitude": 3.0,
+    "longitude": -76.0,
+    "name": "Nevado de Huila",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

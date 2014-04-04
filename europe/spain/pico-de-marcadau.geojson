@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.218353,
+      42.799179
+    ]
+  },
+  "properties": {
+    "feet": 9068,
+    "meters": 2764,
+    "latitude": 42.799179,
+    "longitude": -0.218353,
+    "name": "Pico De Marcadau",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

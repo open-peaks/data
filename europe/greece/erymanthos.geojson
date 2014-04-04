@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.84,
+      37.91
+    ]
+  },
+  "properties": {
+    "feet": 7297,
+    "meters": 2224,
+    "latitude": 37.91,
+    "longitude": 21.84,
+    "name": "Erymanthos",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

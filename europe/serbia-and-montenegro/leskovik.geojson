@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.5031,
+      43.3432
+    ]
+  },
+  "properties": {
+    "feet": 3852,
+    "meters": 1174,
+    "latitude": 43.3432,
+    "longitude": 21.5031,
+    "name": "Leskovik",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

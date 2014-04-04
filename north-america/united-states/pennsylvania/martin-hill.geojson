@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.5592,
+      39.8479
+    ]
+  },
+  "properties": {
+    "feet": 2775,
+    "meters": 846,
+    "latitude": 39.8479,
+    "longitude": -78.5592,
+    "name": "Martin Hill",
+    "regions": [
+      "Appalachian Mountains",
+      "Central Appalachian Ridges"
+    ],
+    "states": [
+      "Pennsylvania"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

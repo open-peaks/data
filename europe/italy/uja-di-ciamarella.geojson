@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1667,
+      45.5
+    ]
+  },
+  "properties": {
+    "feet": 12060,
+    "meters": 3676,
+    "latitude": 45.5,
+    "longitude": 7.1667,
+    "name": "Uja di Ciamarella",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

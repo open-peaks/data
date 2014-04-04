@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.971694,
+      46.719711
+    ]
+  },
+  "properties": {
+    "feet": 10886,
+    "meters": 3318,
+    "latitude": 46.719711,
+    "longitude": 10.971694,
+    "name": "Texelspitze (Cima Tessa)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

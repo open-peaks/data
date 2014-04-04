@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.002,
+      45.444
+    ]
+  },
+  "properties": {
+    "feet": 10031,
+    "meters": 3057,
+    "latitude": 45.444,
+    "longitude": -111.002,
+    "name": "Alex Lowe Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.345327,
+      -46.594908
+    ]
+  },
+  "properties": {
+    "feet": 13313,
+    "meters": 4058,
+    "latitude": -46.594908,
+    "longitude": -73.345327,
+    "name": "Cerro San Valentin",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

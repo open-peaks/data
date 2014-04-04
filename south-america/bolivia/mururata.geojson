@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.833333,
+      -16.5
+    ]
+  },
+  "properties": {
+    "feet": 19242,
+    "meters": 5865,
+    "latitude": -16.5,
+    "longitude": -67.833333,
+    "name": "Mururata",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

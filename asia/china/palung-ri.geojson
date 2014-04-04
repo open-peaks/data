@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.6333,
+      28.1167
+    ]
+  },
+  "properties": {
+    "feet": 23008,
+    "meters": 7013,
+    "latitude": 28.1167,
+    "longitude": 86.6333,
+    "name": "Palung Ri",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

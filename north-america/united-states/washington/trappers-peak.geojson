@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.322794,
+      48.688411
+    ]
+  },
+  "properties": {
+    "feet": 5966,
+    "meters": 1818,
+    "latitude": 48.688411,
+    "longitude": -121.322794,
+    "name": "Trappers Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

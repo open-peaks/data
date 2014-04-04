@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.805624,
+      34.341133
+    ]
+  },
+  "properties": {
+    "feet": 8850,
+    "meters": 2697,
+    "latitude": 34.341133,
+    "longitude": -117.805624,
+    "name": "Mount Hawkins",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

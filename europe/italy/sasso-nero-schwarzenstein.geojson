@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.874082,
+      47.01053
+    ]
+  },
+  "properties": {
+    "feet": 11053,
+    "meters": 3369,
+    "latitude": 47.01053,
+    "longitude": 11.874082,
+    "name": "Sasso Nero (Schwarzenstein)",
+    "regions": [
+      "Eastern Alps",
+      "Noric Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

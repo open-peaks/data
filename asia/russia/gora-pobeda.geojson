@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.033,
+      65.1833
+    ]
+  },
+  "properties": {
+    "feet": 9852,
+    "meters": 3003,
+    "latitude": 65.1833,
+    "longitude": 146.033,
+    "name": "Gora Pobeda",
+    "regions": [
+      "Siberia",
+      "Cherskiy Range"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

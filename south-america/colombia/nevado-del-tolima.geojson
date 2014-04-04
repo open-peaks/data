@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.33,
+      4.67
+    ]
+  },
+  "properties": {
+    "feet": 17109,
+    "meters": 5215,
+    "latitude": 4.67,
+    "longitude": -75.33,
+    "name": "Nevado del Tolima",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

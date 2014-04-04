@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2,
+      11.9167
+    ]
+  },
+  "properties": {
+    "feet": 4750,
+    "latitude": 11.9167,
+    "longitude": 18.2,
+    "name": "Mount Guera",
+    "regions": [
+      "Sahara Desert Ranges"
+    ],
+    "countries": [
+      "Chad"
+    ],
+    "continent": "Africa",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6667,
+      46.25
+    ]
+  },
+  "properties": {
+    "feet": 10669,
+    "meters": 3252,
+    "latitude": 46.25,
+    "longitude": 10.6667,
+    "name": "Scarpaco",
+    "regions": [
+      "Southern Alps",
+      "Brenta-Adamello-Garda Group"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

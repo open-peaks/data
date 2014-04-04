@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4,
+      13.25
+    ]
+  },
+  "properties": {
+    "feet": 14928,
+    "meters": 4550,
+    "latitude": 13.25,
+    "longitude": 38.4,
+    "name": "Ras Dashen",
+    "regions": [
+      "Ethiopian Highlands"
+    ],
+    "countries": [
+      "Ethiopia"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

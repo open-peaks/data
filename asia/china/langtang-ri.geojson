@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.683611,
+      28.381389
+    ]
+  },
+  "properties": {
+    "feet": 23638,
+    "meters": 7205,
+    "latitude": 28.381389,
+    "longitude": 85.683611,
+    "name": "Langtang Ri",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China",
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

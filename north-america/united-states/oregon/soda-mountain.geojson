@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.479062,
+      42.064683
+    ]
+  },
+  "properties": {
+    "feet": 6091,
+    "meters": 1857,
+    "latitude": 42.064683,
+    "longitude": -122.479062,
+    "name": "Soda Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

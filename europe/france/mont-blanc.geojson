@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.864824,
+      45.832866
+    ]
+  },
+  "properties": {
+    "feet": 15771,
+    "meters": 4807,
+    "latitude": 45.832866,
+    "longitude": 6.864824,
+    "name": "Mont Blanc",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.478165,
+      47.623289
+    ]
+  },
+  "properties": {
+    "feet": 6649,
+    "meters": 2027,
+    "latitude": 47.623289,
+    "longitude": 13.478165,
+    "name": "Gamsfeld",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

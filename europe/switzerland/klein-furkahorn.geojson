@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.41051,
+      46.58007
+    ]
+  },
+  "properties": {
+    "feet": 9928,
+    "meters": 3026,
+    "latitude": 46.58007,
+    "longitude": 8.41051,
+    "name": "Klein Furkahorn",
+    "regions": [
+      "Southern Alps",
+      "Lepontine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.576652,
+      -9.027054
+    ]
+  },
+  "properties": {
+    "feet": 17913,
+    "meters": 5460,
+    "latitude": -9.027054,
+    "longitude": -77.576652,
+    "name": "Yanapaccha",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.095145,
+      63.042414
+    ]
+  },
+  "properties": {
+    "feet": 4006,
+    "meters": 1221,
+    "latitude": 63.042414,
+    "longitude": 13.095145,
+    "name": "Santa",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

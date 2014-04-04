@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.56475,
+      47.170287
+    ]
+  },
+  "properties": {
+    "feet": 6906,
+    "meters": 2105,
+    "latitude": 47.170287,
+    "longitude": 9.56475,
+    "name": "Garsellikopf",
+    "regions": [
+      "Eastern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

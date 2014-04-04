@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.4833,
+      38.7333
+    ]
+  },
+  "properties": {
+    "feet": 2560,
+    "meters": 780,
+    "latitude": 38.7333,
+    "longitude": -78.4833,
+    "name": "Kennedy Peak",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9,
+      46.3667
+    ]
+  },
+  "properties": {
+    "feet": 13284,
+    "meters": 4049,
+    "latitude": 46.3667,
+    "longitude": 9.9,
+    "name": "Bernina",
+    "regions": [
+      "Southern Alps",
+      "Rhaetian Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

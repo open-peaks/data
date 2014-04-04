@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.9333,
+      47.6333
+    ]
+  },
+  "properties": {
+    "feet": 5922,
+    "meters": 1805,
+    "latitude": 47.6333,
+    "longitude": 11.9333,
+    "name": "Ruchenkoepfe",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

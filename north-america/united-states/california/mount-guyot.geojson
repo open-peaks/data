@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.362,
+      36.5089
+    ]
+  },
+  "properties": {
+    "feet": 12300,
+    "meters": 3749,
+    "latitude": 36.5089,
+    "longitude": -118.362,
+    "name": "Mount Guyot ",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

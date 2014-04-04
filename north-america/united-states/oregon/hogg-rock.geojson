@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.877044,
+      44.422064
+    ]
+  },
+  "properties": {
+    "feet": 5080,
+    "meters": 1548,
+    "latitude": 44.422064,
+    "longitude": -121.877044,
+    "name": "Hogg Rock",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

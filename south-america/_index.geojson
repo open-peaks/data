@@ -1,0 +1,5486 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56477,
+          -39.863701
+        ]
+      },
+      "properties": {
+        "feet": 5249,
+        "meters": 1600,
+        "latitude": -39.863701,
+        "longitude": -71.56477,
+        "name": "Achen Niyeu",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.011234,
+          -32.653359
+        ]
+      },
+      "properties": {
+        "feet": 22841,
+        "meters": 6962,
+        "latitude": -32.653359,
+        "longitude": -70.011234,
+        "name": "Aconcagua",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.400903,
+          -32.973478
+        ]
+      },
+      "properties": {
+        "feet": 13780,
+        "meters": 4200,
+        "latitude": -32.973478,
+        "longitude": -69.400903,
+        "name": "Adolfo Calle",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -49.3
+        ]
+      },
+      "properties": {
+        "feet": 7661,
+        "meters": 2335,
+        "latitude": -49.3,
+        "longitude": -73.05,
+        "name": "Aguja De La S",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333,
+          -49.2833
+        ]
+      },
+      "properties": {
+        "feet": 2680,
+        "meters": 817,
+        "latitude": -49.2833,
+        "longitude": -73.0333,
+        "name": "Aguja Saint Exupery",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.977074,
+          -32.628099
+        ]
+      },
+      "properties": {
+        "feet": 19587,
+        "meters": 5970,
+        "latitude": -32.628099,
+        "longitude": -69.977074,
+        "name": "Ameghino",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.425957,
+          -32.898847
+        ]
+      },
+      "properties": {
+        "feet": 16821,
+        "meters": 5127,
+        "latitude": -32.898847,
+        "longitude": -69.425957,
+        "name": "Blanco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 17552,
+        "meters": 5350,
+        "latitude": 0.0,
+        "longitude": -70.0,
+        "name": "Cerro Alto Rio Blanco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 6250,
+        "meters": 1905,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Cerro Belgrano",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7667,
+          -28.0167
+        ]
+      },
+      "properties": {
+        "feet": 22546,
+        "meters": 6872,
+        "latitude": -28.0167,
+        "longitude": -68.7667,
+        "name": "Cerro Bonete",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.936967,
+          -31.986821
+        ]
+      },
+      "properties": {
+        "feet": 9449,
+        "meters": 2880,
+        "latitude": -31.986821,
+        "longitude": -64.936967,
+        "name": "Cerro Champaqui",
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8333,
+          -32.6667
+        ]
+      },
+      "properties": {
+        "feet": 17920,
+        "meters": 5462,
+        "latitude": -32.6667,
+        "longitude": -69.8333,
+        "name": "Cerro Cuerno",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.043375,
+          -49.271277
+        ]
+      },
+      "properties": {
+        "feet": 11073,
+        "meters": 3375,
+        "latitude": -49.271277,
+        "longitude": -73.043375,
+        "name": "Cerro Fitzroy",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0237,
+          -35.0905
+        ]
+      },
+      "properties": {
+        "feet": 14275,
+        "meters": 4351,
+        "latitude": -35.0905,
+        "longitude": -70.0237,
+        "name": "Cerro Leñas",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0833,
+          -49.2833
+        ]
+      },
+      "properties": {
+        "feet": 6407,
+        "meters": 1953,
+        "latitude": -49.2833,
+        "longitude": -73.0833,
+        "name": "Cerro Mocho",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.101684,
+          -26.936944
+        ]
+      },
+      "properties": {
+        "feet": 15663,
+        "meters": 4774,
+        "latitude": -26.936944,
+        "longitude": -68.101684,
+        "name": "Cerro Morocho",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -49.25
+        ]
+      },
+      "properties": {
+        "feet": 9849,
+        "meters": 3002,
+        "latitude": -49.25,
+        "longitude": -73.05,
+        "name": "Cerro Poincenot",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.430106,
+          -32.968581
+        ]
+      },
+      "properties": {
+        "feet": 17598,
+        "meters": 5364,
+        "latitude": -32.968581,
+        "longitude": -69.430106,
+        "name": "Cerro Rincón",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3833,
+          -32.9667
+        ]
+      },
+      "properties": {
+        "feet": 13451,
+        "meters": 4100,
+        "latitude": -32.9667,
+        "longitude": -69.3833,
+        "name": "Cerro San Bernardo",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9833,
+          -34.75
+        ]
+      },
+      "properties": {
+        "feet": 17024,
+        "meters": 5189,
+        "latitude": -34.75,
+        "longitude": -69.9833,
+        "name": "Cerro Sosneado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3833,
+          -32.9667
+        ]
+      },
+      "properties": {
+        "feet": 13710,
+        "meters": 4179,
+        "latitude": -32.9667,
+        "longitude": -69.3833,
+        "name": "Cerro Stepanek",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.119869,
+          -27.380913
+        ]
+      },
+      "properties": {
+        "feet": 12717,
+        "meters": 3876,
+        "latitude": -27.380913,
+        "longitude": -68.119869,
+        "name": "cerro Tatin",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.097363,
+          -49.293337
+        ]
+      },
+      "properties": {
+        "feet": 10280,
+        "meters": 3133,
+        "latitude": -49.293337,
+        "longitude": -73.097363,
+        "name": "Cerro Torre",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8667,
+          -41.15
+        ]
+      },
+      "properties": {
+        "feet": 11453,
+        "meters": 3491,
+        "latitude": -41.15,
+        "longitude": -71.8667,
+        "name": "Cerro Tronador",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.429817,
+          -32.970364
+        ]
+      },
+      "properties": {
+        "feet": 17060,
+        "meters": 5200,
+        "latitude": -32.970364,
+        "longitude": -69.429817,
+        "name": "Colorado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.82353,
+          -30.33021
+        ]
+      },
+      "properties": {
+        "feet": 19288,
+        "meters": 5879,
+        "latitude": -30.33021,
+        "longitude": -69.82353,
+        "name": "COMANDANTE CABOT",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7,
+          -36.9667
+        ]
+      },
+      "properties": {
+        "feet": 15,
+        "meters": 4709,
+        "latitude": -36.9667,
+        "longitude": -70.7,
+        "name": "Domuyo",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.174831,
+          -47.545107
+        ]
+      },
+      "properties": {
+        "feet": 7464,
+        "meters": 2275,
+        "latitude": -47.545107,
+        "longitude": -72.174831,
+        "name": "Dos Picos (Cerro)",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.405006,
+          -32.913619
+        ]
+      },
+      "properties": {
+        "feet": 15476,
+        "meters": 4717,
+        "latitude": -32.913619,
+        "longitude": -69.405006,
+        "name": "El Salto",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.55,
+          -24.7167
+        ]
+      },
+      "properties": {
+        "feet": 22058,
+        "meters": 6723,
+        "latitude": -24.7167,
+        "longitude": -68.55,
+        "name": "Llullaillaco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1167,
+          -31.9833
+        ]
+      },
+      "properties": {
+        "feet": 22211,
+        "meters": 6770,
+        "latitude": -31.9833,
+        "longitude": -70.1167,
+        "name": "Mercedario",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.85,
+          -27.7833
+        ]
+      },
+      "properties": {
+        "feet": 22241,
+        "meters": 6779,
+        "latitude": -27.7833,
+        "longitude": -68.85,
+        "name": "Monte Pissis",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.120809,
+          -49.297384
+        ]
+      },
+      "properties": {
+        "feet": 9177,
+        "meters": 2797,
+        "latitude": -49.297384,
+        "longitude": -73.120809,
+        "name": "Nato (Cerro)",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1667,
+          -24.3833
+        ]
+      },
+      "properties": {
+        "feet": 19521,
+        "meters": 5950,
+        "latitude": -24.3833,
+        "longitude": -66.1667,
+        "name": "Nevado De Acay",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 20505,
+        "meters": 6250,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Nevados De Famatina",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.836931,
+          -31.936922
+        ]
+      },
+      "properties": {
+        "feet": 6627,
+        "meters": 2020,
+        "latitude": -31.936922,
+        "longitude": -64.836931,
+        "name": "Pico Allignani",
+        "countries": [
+          "Argentina",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4167,
+          -33.0167
+        ]
+      },
+      "properties": {
+        "feet": 20718,
+        "meters": 6315,
+        "latitude": -33.0167,
+        "longitude": -69.4167,
+        "name": "Plata",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.43265,
+          -32.96986
+        ]
+      },
+      "properties": {
+        "feet": 17717,
+        "meters": 5400,
+        "latitude": -32.96986,
+        "longitude": -69.43265,
+        "name": "Rincón",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8167,
+          -29.0333
+        ]
+      },
+      "properties": {
+        "feet": 20505,
+        "meters": 6250,
+        "latitude": -29.0333,
+        "longitude": -67.8167,
+        "name": "Sierra De Famatina",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0333,
+          -32.8
+        ]
+      },
+      "properties": {
+        "feet": 17821,
+        "meters": 5432,
+        "latitude": -32.8,
+        "longitude": -70.0333,
+        "name": "Tolosa",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7833,
+          -33.3667
+        ]
+      },
+      "properties": {
+        "feet": 21489,
+        "meters": 6550,
+        "latitude": -33.3667,
+        "longitude": -69.7833,
+        "name": "Tupungato",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.163171,
+          -26.834104
+        ]
+      },
+      "properties": {
+        "feet": 17142,
+        "meters": 5225,
+        "latitude": -26.834104,
+        "longitude": -68.163171,
+        "name": "Volcan Bertrand",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5047,
+          -39.6639
+        ]
+      },
+      "properties": {
+        "feet": 12388,
+        "meters": 3776,
+        "latitude": -39.6639,
+        "longitude": -71.5047,
+        "name": "Volcan Lanin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Argentina",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05,
+          -18.383
+        ]
+      },
+      "properties": {
+        "feet": 19856,
+        "meters": 6052,
+        "latitude": -18.383,
+        "longitude": -69.05,
+        "name": "Acotango",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.541641,
+          -15.85427
+        ]
+      },
+      "properties": {
+        "feet": 21095,
+        "meters": 6430,
+        "latitude": -15.85427,
+        "longitude": -68.541641,
+        "name": "Ancohuma",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.938149,
+          -16.450572
+        ]
+      },
+      "properties": {
+        "feet": 17139,
+        "meters": 5224,
+        "latitude": -16.450572,
+        "longitude": -67.938149,
+        "name": "Cerro Khasiri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3,
+          -16.1167
+        ]
+      },
+      "properties": {
+        "feet": 17611,
+        "meters": 5368,
+        "latitude": -16.1167,
+        "longitude": -68.3,
+        "name": "Cerro Mullu Apachita",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.272665,
+          -17.239812
+        ]
+      },
+      "properties": {
+        "feet": 14974,
+        "meters": 4564,
+        "latitude": -17.239812,
+        "longitude": -66.272665,
+        "name": "Cerro Santiago",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.266598,
+          -16.225358
+        ]
+      },
+      "properties": {
+        "feet": 15801,
+        "meters": 4816,
+        "latitude": -16.225358,
+        "longitude": -68.266598,
+        "name": "Condor Pusthaña",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.242693,
+          -16.168269
+        ]
+      },
+      "properties": {
+        "feet": 18530,
+        "meters": 5648,
+        "latitude": -16.168269,
+        "longitude": -68.242693,
+        "name": "Condoriri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.261791,
+          -16.198737
+        ]
+      },
+      "properties": {
+        "feet": 16798,
+        "meters": 5120,
+        "latitude": -16.198737,
+        "longitude": -68.261791,
+        "name": "Cuchillo Khuno",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.941159,
+          -16.431907
+        ]
+      },
+      "properties": {
+        "feet": 17785,
+        "meters": 5421,
+        "latitude": -16.431907,
+        "longitude": -67.941159,
+        "name": "Hati Khollu",
+        "regions": [
+          "Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1833,
+          -16.2667
+        ]
+      },
+      "properties": {
+        "feet": 19996,
+        "meters": 6094,
+        "latitude": -16.2667,
+        "longitude": -68.1833,
+        "name": "Huayna Potosi",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.543358,
+          -15.815997
+        ]
+      },
+      "properties": {
+        "feet": 20873,
+        "meters": 6362,
+        "latitude": -15.815997,
+        "longitude": -68.543358,
+        "name": "Illampu",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.787747,
+          -16.636932
+        ]
+      },
+      "properties": {
+        "feet": 21200,
+        "meters": 6460,
+        "latitude": -16.636932,
+        "longitude": -67.787747,
+        "name": "Illimani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.233295,
+          -16.208381
+        ]
+      },
+      "properties": {
+        "feet": 17139,
+        "meters": 5224,
+        "latitude": -16.208381,
+        "longitude": -68.233295,
+        "name": "Jallayco",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.332773,
+          -16.068961
+        ]
+      },
+      "properties": {
+        "feet": 18084,
+        "meters": 5512,
+        "latitude": -16.068961,
+        "longitude": -68.332773,
+        "name": "Jankho Huyo",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04833,
+          -16.317885
+        ]
+      },
+      "properties": {
+        "feet": 16299,
+        "meters": 4968,
+        "latitude": -16.317885,
+        "longitude": -68.04833,
+        "name": "Kolini",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.271919,
+          -16.215469
+        ]
+      },
+      "properties": {
+        "feet": 16161,
+        "meters": 4926,
+        "latitude": -16.215469,
+        "longitude": -68.271919,
+        "name": "Kollpani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.833333,
+          -16.5
+        ]
+      },
+      "properties": {
+        "feet": 19242,
+        "meters": 5865,
+        "latitude": -16.5,
+        "longitude": -67.833333,
+        "name": "Mururata",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2575,
+          -16.189753
+        ]
+      },
+      "properties": {
+        "feet": 17480,
+        "meters": 5328,
+        "latitude": -16.189753,
+        "longitude": -68.2575,
+        "name": "Pico Austria",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.883076,
+          -18.108003
+        ]
+      },
+      "properties": {
+        "feet": 21463,
+        "meters": 6542,
+        "latitude": -18.108003,
+        "longitude": -68.883076,
+        "name": "Sajama",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.940784,
+          -16.392161
+        ]
+      },
+      "properties": {
+        "feet": 18195,
+        "meters": 5546,
+        "latitude": -16.392161,
+        "longitude": -67.940784,
+        "name": "Serkhe Khollu",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia",
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.292347,
+          -16.067064
+        ]
+      },
+      "properties": {
+        "feet": 17208,
+        "meters": 5245,
+        "latitude": -16.067064,
+        "longitude": -68.292347,
+        "name": "Wila Llojeta",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.064724,
+          -16.317309
+        ]
+      },
+      "properties": {
+        "feet": 16424,
+        "meters": 5006,
+        "latitude": -16.317309,
+        "longitude": -68.064724,
+        "name": "Wila Llojo",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.079058,
+          -16.312366
+        ]
+      },
+      "properties": {
+        "feet": 17467,
+        "meters": 5324,
+        "latitude": -16.312366,
+        "longitude": -68.079058,
+        "name": "Wila Manquilisani",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2836,
+          -22.9889
+        ]
+      },
+      "properties": {
+        "feet": 2274,
+        "meters": 693,
+        "latitude": -22.9889,
+        "longitude": -43.2836,
+        "name": "Bonita Rock (Pedra Bonita)",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8333,
+          -22.4667
+        ]
+      },
+      "properties": {
+        "feet": 9176,
+        "meters": 2797,
+        "latitude": -22.4667,
+        "longitude": -44.8333,
+        "name": "Pedra Da Mina",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.775397,
+          -22.337126
+        ]
+      },
+      "properties": {
+        "feet": 5249,
+        "meters": 1600,
+        "latitude": -22.337126,
+        "longitude": -44.775397,
+        "name": "Pedra do Picú",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.669938,
+          -22.399721
+        ]
+      },
+      "properties": {
+        "feet": 8301,
+        "meters": 2530,
+        "latitude": -22.399721,
+        "longitude": -44.669938,
+        "name": "Prateleiras",
+        "regions": [
+          "Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.15,
+          -22.95
+        ]
+      },
+      "properties": {
+        "feet": 1296,
+        "meters": 395,
+        "latitude": -22.95,
+        "longitude": -43.15,
+        "name": "Sugar Loaf Mountain",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8,
+          -22.4
+        ]
+      },
+      "properties": {
+        "feet": 8743,
+        "meters": 2665,
+        "latitude": -22.4,
+        "longitude": -44.8,
+        "name": "Tres Estados",
+        "regions": [
+          "Brazilian Highlands",
+          "Southern Brazilian Highlands"
+        ],
+        "countries": [
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4667,
+          -21.2167
+        ]
+      },
+      "properties": {
+        "feet": 20262,
+        "meters": 6176,
+        "latitude": -21.2167,
+        "longitude": -68.4667,
+        "name": "Aucanquilcha",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.910126,
+          -29.928755
+        ]
+      },
+      "properties": {
+        "feet": 20200,
+        "meters": 6160,
+        "latitude": -29.928755,
+        "longitude": -69.910126,
+        "name": "Cerro de las Tortolas",
+        "regions": [
+          "Andes"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.807413,
+          -39.830884
+        ]
+      },
+      "properties": {
+        "feet": 6201,
+        "meters": 1890,
+        "latitude": -39.830884,
+        "longitude": -71.807413,
+        "name": "Cerro Dollfus",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8667,
+          -33.5333
+        ]
+      },
+      "properties": {
+        "feet": 18110,
+        "meters": 5520,
+        "latitude": -33.5333,
+        "longitude": -69.8667,
+        "name": "Cerro Piramide",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2631,
+          -26.9186
+        ]
+      },
+      "properties": {
+        "feet": 19744,
+        "meters": 6018,
+        "latitude": -26.9186,
+        "longitude": -68.2631,
+        "name": "Cerro San Francisco",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.345327,
+          -46.594908
+        ]
+      },
+      "properties": {
+        "feet": 13313,
+        "meters": 4058,
+        "latitude": -46.594908,
+        "longitude": -73.345327,
+        "name": "Cerro San Valentin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.932604,
+          -30.143686
+        ]
+      },
+      "properties": {
+        "feet": 18163,
+        "meters": 5536,
+        "latitude": -30.143686,
+        "longitude": -69.932604,
+        "name": "Cerro Tapado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7667,
+          -22.9333
+        ]
+      },
+      "properties": {
+        "feet": 18386,
+        "meters": 5604,
+        "latitude": -22.9333,
+        "longitude": -67.7667,
+        "name": "Cerro Toco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.70196,
+          -23.580665
+        ]
+      },
+      "properties": {
+        "feet": 18956,
+        "meters": 5778,
+        "latitude": -23.580665,
+        "longitude": -67.70196,
+        "name": "Chilques",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.483889,
+          -27.0575
+        ]
+      },
+      "properties": {
+        "feet": 21286,
+        "meters": 6488,
+        "latitude": -27.0575,
+        "longitude": -68.483889,
+        "name": "El Muerto",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2333,
+          -33.2667
+        ]
+      },
+      "properties": {
+        "feet": 17815,
+        "meters": 5430,
+        "latitude": -33.2667,
+        "longitude": -70.2333,
+        "name": "El Plomo",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.083448,
+          -18.416397
+        ]
+      },
+      "properties": {
+        "feet": 19888,
+        "meters": 6063,
+        "latitude": -18.416397,
+        "longitude": -69.083448,
+        "name": "Guallatiri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.375959,
+          -18.123309
+        ]
+      },
+      "properties": {
+        "feet": 16719,
+        "meters": 5096,
+        "latitude": -18.123309,
+        "longitude": -69.375959,
+        "name": "Guane Guane",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5667,
+          -23.3667
+        ]
+      },
+      "properties": {
+        "feet": 18507,
+        "meters": 5641,
+        "latitude": -23.3667,
+        "longitude": -68.5667,
+        "name": "Lascar",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4833,
+          -54.75
+        ]
+      },
+      "properties": {
+        "feet": 8163,
+        "meters": 2488,
+        "latitude": -54.75,
+        "longitude": -69.4833,
+        "name": "Monte Darwin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8333,
+          -54.45
+        ]
+      },
+      "properties": {
+        "feet": 7546,
+        "meters": 2300,
+        "latitude": -54.45,
+        "longitude": -70.8333,
+        "name": "Monte Sarmiento",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8333,
+          -18.0
+        ]
+      },
+      "properties": {
+        "feet": 20807,
+        "meters": 6342,
+        "latitude": -18.0,
+        "longitude": -68.8333,
+        "name": "Nevado Parinacota",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile",
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.540869,
+          -27.109524
+        ]
+      },
+      "properties": {
+        "feet": 22615,
+        "meters": 6893,
+        "latitude": -27.109524,
+        "longitude": -68.540869,
+        "name": "Ojos del Salado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9667,
+          -50.9833
+        ]
+      },
+      "properties": {
+        "feet": 10006,
+        "meters": 3050,
+        "latitude": -50.9833,
+        "longitude": -72.9667,
+        "name": "Paine Grande",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.435539,
+          -27.186257
+        ]
+      },
+      "properties": {
+        "feet": 1063,
+        "meters": 324,
+        "latitude": -27.186257,
+        "longitude": -109.435539,
+        "name": "Ranu Kau",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Islands"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.391094,
+          -21.887784
+        ]
+      },
+      "properties": {
+        "feet": 20161,
+        "meters": 6145,
+        "latitude": -21.887784,
+        "longitude": -68.391094,
+        "name": "San Pedro",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.589462,
+          -18.181409
+        ]
+      },
+      "properties": {
+        "feet": 19226,
+        "meters": 5860,
+        "latitude": -18.181409,
+        "longitude": -69.589462,
+        "name": "Taapaca",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8,
+          -38.2833
+        ]
+      },
+      "properties": {
+        "feet": 9206,
+        "meters": 2806,
+        "latitude": -38.2833,
+        "longitude": -71.8,
+        "name": "Tolhuaca",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95,
+          -50.9
+        ]
+      },
+      "properties": {
+        "feet": 8071,
+        "meters": 2460,
+        "latitude": -50.9,
+        "longitude": -72.95,
+        "name": "Torre Central",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9667,
+          -50.9833
+        ]
+      },
+      "properties": {
+        "feet": 8204,
+        "meters": 2501,
+        "latitude": -50.9833,
+        "longitude": -72.9667,
+        "name": "Torre Sur",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.373054,
+          -27.080541
+        ]
+      },
+      "properties": {
+        "feet": 1677,
+        "meters": 511,
+        "latitude": -27.080541,
+        "longitude": -109.373054,
+        "name": "Volcan Maunga Tere Vaca",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Islands"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.283447,
+          -27.124245
+        ]
+      },
+      "properties": {
+        "feet": 820,
+        "meters": 250,
+        "latitude": -27.124245,
+        "longitude": -109.283447,
+        "name": "Volcan Ranu Raraku",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Range"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          3.0
+        ]
+      },
+      "properties": {
+        "feet": 18865,
+        "meters": 5750,
+        "latitude": 3.0,
+        "longitude": -76.0,
+        "name": "Nevado de Huila",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15,
+          6.5
+        ]
+      },
+      "properties": {
+        "feet": 16670,
+        "meters": 5081,
+        "latitude": 6.5,
+        "longitude": -72.15,
+        "name": "Nevado del Cocuy",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3667,
+          4.88333
+        ]
+      },
+      "properties": {
+        "feet": 17454,
+        "meters": 5320,
+        "latitude": 4.88333,
+        "longitude": -75.3667,
+        "name": "Nevado del Ruiz",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33,
+          4.67
+        ]
+      },
+      "properties": {
+        "feet": 17109,
+        "meters": 5215,
+        "latitude": 4.67,
+        "longitude": -75.33,
+        "name": "Nevado del Tolima",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.686762,
+          10.838575
+        ]
+      },
+      "properties": {
+        "feet": 18947,
+        "meters": 5775,
+        "latitude": 10.838575,
+        "longitude": -73.686762,
+        "name": "Pico Cristobal Colon",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.695857,
+          3.343909
+        ]
+      },
+      "properties": {
+        "feet": 13468,
+        "meters": 4105,
+        "latitude": 3.343909,
+        "longitude": -76.695857,
+        "name": "Pico Pance",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3167,
+          6.5
+        ]
+      },
+      "properties": {
+        "feet": 17487,
+        "meters": 5330,
+        "latitude": 6.5,
+        "longitude": -72.3167,
+        "name": "Ritak' Uwa Blanco (Ritacuba Blanco)",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37,
+          4.82
+        ]
+      },
+      "properties": {
+        "feet": 17093,
+        "meters": 5210,
+        "latitude": 4.82,
+        "longitude": -75.37,
+        "name": "Santa Isabel",
+        "regions": [
+          "Andes",
+          "Colombian Andes"
+        ],
+        "countries": [
+          "Colombia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.141,
+          -0.481
+        ]
+      },
+      "properties": {
+        "feet": 18,
+        "meters": 5,
+        "latitude": -0.481,
+        "longitude": -78.141,
+        "name": "Antisana",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.989197,
+          0.025105
+        ]
+      },
+      "properties": {
+        "feet": 18996,
+        "meters": 5790,
+        "latitude": 0.025105,
+        "longitude": -77.989197,
+        "name": "Cayambe",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.817034,
+          -1.469175
+        ]
+      },
+      "properties": {
+        "feet": 20565,
+        "meters": 6268,
+        "latitude": -1.469175,
+        "longitude": -78.817034,
+        "name": "Chimborazo",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.659706,
+          -0.531199
+        ]
+      },
+      "properties": {
+        "feet": 15715,
+        "meters": 4790,
+        "latitude": -0.531199,
+        "longitude": -78.659706,
+        "name": "Corazón",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.437778,
+          -0.680556
+        ]
+      },
+      "properties": {
+        "feet": 19347,
+        "meters": 5897,
+        "latitude": -0.680556,
+        "longitude": -78.437778,
+        "name": "Cotopaxi",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.293853,
+          0.13351
+        ]
+      },
+      "properties": {
+        "feet": 13986,
+        "meters": 4263,
+        "latitude": 0.13351,
+        "longitude": -78.293853,
+        "name": "Fuya Fuya",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.598766,
+          -0.177068
+        ]
+      },
+      "properties": {
+        "feet": 15695,
+        "meters": 4784,
+        "latitude": -0.177068,
+        "longitude": -78.598766,
+        "name": "Guagua Pichincha",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.713611,
+          -0.659444
+        ]
+      },
+      "properties": {
+        "feet": 17218,
+        "meters": 5248,
+        "latitude": -0.659444,
+        "longitude": -78.713611,
+        "name": "Iliniza Sur",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.180465,
+          0.261636
+        ]
+      },
+      "properties": {
+        "feet": 15026,
+        "meters": 4580,
+        "latitude": 0.261636,
+        "longitude": -78.180465,
+        "name": "Imbabura Norte",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.598981,
+          -0.171661
+        ]
+      },
+      "properties": {
+        "feet": 15413,
+        "meters": 4698,
+        "latitude": -0.171661,
+        "longitude": -78.598981,
+        "name": "Rucu Pichincha",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.341274,
+          -2.004853
+        ]
+      },
+      "properties": {
+        "feet": 17159,
+        "meters": 5230,
+        "latitude": -2.004853,
+        "longitude": -78.341274,
+        "name": "Sangay",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.367882,
+          -0.538494
+        ]
+      },
+      "properties": {
+        "feet": 16053,
+        "meters": 4893,
+        "latitude": -0.538494,
+        "longitude": -78.367882,
+        "name": "Sincholagua",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador",
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1368,
+          0.364733
+        ]
+      },
+      "properties": {
+        "feet": 12313,
+        "meters": 3753,
+        "latitude": 0.364733,
+        "longitude": -78.1368,
+        "name": "Sucre",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.442,
+          1.467
+        ]
+      },
+      "properties": {
+        "feet": 16479,
+        "meters": 5023,
+        "latitude": 1.467,
+        "longitude": -78.442,
+        "name": "Tungurahua",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador",
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.329817,
+          0.482866
+        ]
+      },
+      "properties": {
+        "feet": 14879,
+        "meters": 4535,
+        "latitude": 0.482866,
+        "longitude": -78.329817,
+        "name": "Yanaurco de Piñan",
+        "regions": [
+          "Andes",
+          "Ecuador Andes"
+        ],
+        "countries": [
+          "Ecuador"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.63,
+          6.083
+        ]
+      },
+      "properties": {
+        "feet": 1378,
+        "meters": 420,
+        "latitude": 6.083,
+        "longitude": -60.63,
+        "name": "Ayangaik",
+        "regions": [
+          "Guiana Highlands",
+          "Eastern Guiana Highlands"
+        ],
+        "countries": [
+          "Guyana"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8833,
+          -22.8333
+        ]
+      },
+      "properties": {
+        "feet": 19455,
+        "meters": 5930,
+        "latitude": -22.8333,
+        "longitude": -67.8833,
+        "name": "Licancabur",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.654371,
+          -8.878203
+        ]
+      },
+      "properties": {
+        "feet": 19511,
+        "meters": 5947,
+        "latitude": -8.878203,
+        "longitude": -77.654371,
+        "name": "Alpamayo",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53125,
+          -14.604847
+        ]
+      },
+      "properties": {
+        "feet": 20630,
+        "meters": 6288,
+        "latitude": -14.604847,
+        "longitude": -74.53125,
+        "name": "Ampato",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2308,
+          -13.7881
+        ]
+      },
+      "properties": {
+        "feet": 20945,
+        "meters": 6384,
+        "latitude": -13.7881,
+        "longitude": -71.2308,
+        "name": "Ausangate",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.838,
+          -14.868
+        ]
+      },
+      "properties": {
+        "feet": 6791,
+        "meters": 2070,
+        "latitude": -14.868,
+        "longitude": -74.838,
+        "name": "Cerro Blanco (Sand Dune)",
+        "regions": [
+          "Coastal South America"
+        ],
+        "countries": [
+          "Peru",
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53,
+          -16.191
+        ]
+      },
+      "properties": {
+        "feet": 19872,
+        "meters": 6057,
+        "latitude": -16.191,
+        "longitude": -71.53,
+        "name": "Chachani",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.573905,
+          -9.08718
+        ]
+      },
+      "properties": {
+        "feet": 20846,
+        "meters": 6354,
+        "latitude": -9.08718,
+        "longitude": -77.573905,
+        "name": "Chopicalqui",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.481638,
+          -9.26729
+        ]
+      },
+      "properties": {
+        "feet": 20253,
+        "meters": 6173,
+        "latitude": -9.26729,
+        "longitude": -77.481638,
+        "name": "Copa Norte",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6572,
+          -15.5203
+        ]
+      },
+      "properties": {
+        "feet": 21079,
+        "meters": 6425,
+        "latitude": -15.5203,
+        "longitude": -72.6572,
+        "name": "Coropuna",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4,
+          -16.3
+        ]
+      },
+      "properties": {
+        "feet": 19101,
+        "meters": 5822,
+        "latitude": -16.3,
+        "longitude": -71.4,
+        "name": "El Misti",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.669477,
+          -9.035816
+        ]
+      },
+      "properties": {
+        "feet": 20210,
+        "meters": 6160,
+        "latitude": -9.035816,
+        "longitude": -77.669477,
+        "name": "Huandoy Sur",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.663341,
+          -9.027636
+        ]
+      },
+      "properties": {
+        "feet": 20981,
+        "meters": 6395,
+        "latitude": -9.027636,
+        "longitude": -77.663341,
+        "name": "Huandoy",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          -9.53333
+        ]
+      },
+      "properties": {
+        "feet": 20981,
+        "meters": 6395,
+        "latitude": -9.53333,
+        "longitude": -77.3,
+        "name": "Huantsan",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5333,
+          -13.15
+        ]
+      },
+      "properties": {
+        "feet": 9100,
+        "meters": 2774,
+        "latitude": -13.15,
+        "longitude": -72.5333,
+        "name": "Huanya Picchu",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.604246,
+          -9.121504
+        ]
+      },
+      "properties": {
+        "feet": 22204,
+        "meters": 6768,
+        "latitude": -9.121504,
+        "longitude": -77.604246,
+        "name": "Huascaran",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4319,
+          -10.3297
+        ]
+      },
+      "properties": {
+        "feet": 20099,
+        "meters": 6126,
+        "latitude": -10.3297,
+        "longitude": -76.4319,
+        "name": "Jirishanca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.384992,
+          -9.377226
+        ]
+      },
+      "properties": {
+        "feet": 17388,
+        "meters": 5300,
+        "latitude": -9.377226,
+        "longitude": -77.384992,
+        "name": "Milpocraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8936,
+          -15.41
+        ]
+      },
+      "properties": {
+        "feet": 19990,
+        "meters": 6093,
+        "latitude": -15.41,
+        "longitude": -72.8936,
+        "name": "Nevado Solimana",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3847,
+          -13.1772
+        ]
+      },
+      "properties": {
+        "feet": 19100,
+        "meters": 5822,
+        "latitude": -13.1772,
+        "longitude": -72.3847,
+        "name": "Nevado Veronica",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.050668,
+          -11.96649
+        ]
+      },
+      "properties": {
+        "feet": 18865,
+        "meters": 5750,
+        "latitude": -11.96649,
+        "longitude": -76.050668,
+        "name": "Pariacaca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2533,
+          -16.4414
+        ]
+      },
+      "properties": {
+        "feet": 18583,
+        "meters": 5664,
+        "latitude": -16.4414,
+        "longitude": -71.2533,
+        "name": "Picchu Picchu",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.008099,
+          -13.177526
+        ]
+      },
+      "properties": {
+        "feet": 19915,
+        "meters": 6070,
+        "latitude": -13.177526,
+        "longitude": -73.008099,
+        "name": "Pumasillo",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.665272,
+          -8.89847
+        ]
+      },
+      "properties": {
+        "feet": 19816,
+        "meters": 6040,
+        "latitude": -8.89847,
+        "longitude": -77.665272,
+        "name": "Quitaraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4,
+          -9.41667
+        ]
+      },
+      "properties": {
+        "feet": 20216,
+        "meters": 6162,
+        "latitude": -9.41667,
+        "longitude": -77.4,
+        "name": "Ranrapalca",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545214,
+          -13.333085
+        ]
+      },
+      "properties": {
+        "feet": 20574,
+        "meters": 6271,
+        "latitude": -13.333085,
+        "longitude": -72.545214,
+        "name": "Salcantay",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8833,
+          -10.2833
+        ]
+      },
+      "properties": {
+        "feet": 2115,
+        "meters": 6344,
+        "latitude": -10.2833,
+        "longitude": -76.8833,
+        "name": "Siula Grande",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5333,
+          -9.51667
+        ]
+      },
+      "properties": {
+        "feet": 18654,
+        "meters": 5686,
+        "latitude": -9.51667,
+        "longitude": -77.5333,
+        "name": "Vallunaraju",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.485844,
+          -9.29177
+        ]
+      },
+      "properties": {
+        "feet": 17438,
+        "meters": 5315,
+        "latitude": -9.29177,
+        "longitude": -77.485844,
+        "name": "Vicos",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.576652,
+          -9.027054
+        ]
+      },
+      "properties": {
+        "feet": 17913,
+        "meters": 5460,
+        "latitude": -9.027054,
+        "longitude": -77.576652,
+        "name": "Yanapaccha",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          -10.2667
+        ]
+      },
+      "properties": {
+        "feet": 21765,
+        "meters": 6634,
+        "latitude": -10.2667,
+        "longitude": -76.9,
+        "name": "Yerupaja",
+        "regions": [
+          "Andes",
+          "Peruvian Andes"
+        ],
+        "countries": [
+          "Peru"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.306667,
+          -47.591667
+        ]
+      },
+      "properties": {
+        "feet": 12159,
+        "meters": 3706,
+        "latitude": -47.591667,
+        "longitude": -72.306667,
+        "name": "San Lorenzo",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.250008,
+          10.717791
+        ]
+      },
+      "properties": {
+        "feet": 3084,
+        "meters": 940,
+        "latitude": 10.717791,
+        "longitude": -61.250008,
+        "name": "El Cerro del Aripo",
+        "regions": [
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.416667,
+          10.733333
+        ]
+      },
+      "properties": {
+        "feet": 3072,
+        "meters": 936,
+        "latitude": 10.733333,
+        "longitude": -61.416667,
+        "name": "El Tucuche",
+        "regions": [
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6308,
+          11.2769
+        ]
+      },
+      "properties": {
+        "feet": 1890,
+        "meters": 576,
+        "latitude": 11.2769,
+        "longitude": -60.6308,
+        "name": "Main Ridge",
+        "regions": [
+          "The Caribbean",
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.207441,
+          10.423394
+        ]
+      },
+      "properties": {
+        "feet": 7694,
+        "meters": 2345,
+        "latitude": 10.423394,
+        "longitude": -67.207441,
+        "name": "Alto de Lagunazo",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.105136,
+          10.458272
+        ]
+      },
+      "properties": {
+        "feet": 7238,
+        "meters": 2206,
+        "latitude": 10.458272,
+        "longitude": -67.105136,
+        "name": "Alto de Pozo Negro",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0011,
+          8.54583
+        ]
+      },
+      "properties": {
+        "feet": 16043,
+        "meters": 4890,
+        "latitude": 8.54583,
+        "longitude": -71.0011,
+        "name": "Bonpland",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.001079,
+          8.602607
+        ]
+      },
+      "properties": {
+        "feet": 14678,
+        "meters": 4474,
+        "latitude": 8.602607,
+        "longitude": -71.001079,
+        "name": "Cardenillo",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.606014,
+          9.977727
+        ]
+      },
+      "properties": {
+        "feet": 5774,
+        "meters": 1760,
+        "latitude": 9.977727,
+        "longitude": -68.606014,
+        "name": "Cerro Azul",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9114,
+          10.9958
+        ]
+      },
+      "properties": {
+        "feet": 3150,
+        "meters": 960,
+        "latitude": 10.9958,
+        "longitude": -63.9114,
+        "name": "Cerro Copey",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.631018,
+          10.322604
+        ]
+      },
+      "properties": {
+        "feet": 6778,
+        "meters": 2066,
+        "latitude": 10.322604,
+        "longitude": -70.631018,
+        "name": "Cerro El Cerrón",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.429734,
+          9.954395
+        ]
+      },
+      "properties": {
+        "feet": 2969,
+        "meters": 905,
+        "latitude": 9.954395,
+        "longitude": -66.429734,
+        "name": "Cerro El Onoto",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.515578,
+          9.870691
+        ]
+      },
+      "properties": {
+        "feet": 6332,
+        "meters": 1930,
+        "latitude": 9.870691,
+        "longitude": -67.515578,
+        "name": "Cerro Platillón",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.951453,
+          11.818419
+        ]
+      },
+      "properties": {
+        "feet": 2625,
+        "meters": 830,
+        "latitude": 11.818419,
+        "longitude": -69.951453,
+        "name": "Cerro Santa Ana",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.394672,
+          9.974472
+        ]
+      },
+      "properties": {
+        "feet": 4134,
+        "meters": 1260,
+        "latitude": 9.974472,
+        "longitude": -66.394672,
+        "name": "Cerro Santa Inés",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.80012,
+          10.404248
+        ]
+      },
+      "properties": {
+        "feet": 6381,
+        "meters": 1945,
+        "latitude": 10.404248,
+        "longitude": -68.80012,
+        "name": "Cerro Tigre",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.958411,
+          10.08384
+        ]
+      },
+      "properties": {
+        "feet": 8514,
+        "meters": 2595,
+        "latitude": 10.08384,
+        "longitude": -63.958411,
+        "name": "Cerro Tristeza",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.826292,
+          8.84262
+        ]
+      },
+      "properties": {
+        "feet": 13510,
+        "meters": 4118,
+        "latitude": 8.84262,
+        "longitude": -70.826292,
+        "name": "Collado del Cóndor",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.333354,
+          10.403683
+        ]
+      },
+      "properties": {
+        "feet": 7776,
+        "meters": 2370,
+        "latitude": 10.403683,
+        "longitude": -67.333354,
+        "name": "Cumbre de Buena Vista",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9344,
+          9.99444
+        ]
+      },
+      "properties": {
+        "feet": 5676,
+        "meters": 1730,
+        "latitude": 9.99444,
+        "longitude": -66.9344,
+        "name": "Curucutí",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.915,
+          8.84778
+        ]
+      },
+      "properties": {
+        "feet": 15256,
+        "meters": 4650,
+        "latitude": 8.84778,
+        "longitude": -70.915,
+        "name": "El Buitre",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.101069,
+          8.510912
+        ]
+      },
+      "properties": {
+        "feet": 4780,
+        "meters": 1457,
+        "latitude": 8.510912,
+        "longitude": -71.101069,
+        "name": "El León",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.922426,
+          8.072147
+        ]
+      },
+      "properties": {
+        "feet": 12835,
+        "meters": 3912,
+        "latitude": 8.072147,
+        "longitude": -71.922426,
+        "name": "El Púlpito",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0889,
+          8.53167
+        ]
+      },
+      "properties": {
+        "feet": 15515,
+        "meters": 4729,
+        "latitude": 8.53167,
+        "longitude": -71.0889,
+        "name": "El Toro",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.21817,
+          10.40993
+        ]
+      },
+      "properties": {
+        "feet": 7782,
+        "meters": 2372,
+        "latitude": 10.40993,
+        "longitude": -67.21817,
+        "name": "Geremba",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.693588,
+          8.780582
+        ]
+      },
+      "properties": {
+        "feet": 12765,
+        "meters": 3891,
+        "latitude": 8.780582,
+        "longitude": -70.693588,
+        "name": "Granate",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          8.55
+        ]
+      },
+      "properties": {
+        "feet": 16214,
+        "meters": 4942,
+        "latitude": 8.55,
+        "longitude": -71.0,
+        "name": "Humboldt",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.802489,
+          8.756357
+        ]
+      },
+      "properties": {
+        "feet": 15322,
+        "meters": 4670,
+        "latitude": 8.756357,
+        "longitude": -70.802489,
+        "name": "Mucuñuque",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.001034,
+          8.810355
+        ]
+      },
+      "properties": {
+        "feet": 15233,
+        "meters": 4643,
+        "latitude": 8.810355,
+        "longitude": -71.001034,
+        "name": "Pan de Azúcar",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.347302,
+          10.387474
+        ]
+      },
+      "properties": {
+        "feet": 7680,
+        "meters": 2341,
+        "latitude": 10.387474,
+        "longitude": -67.347302,
+        "name": "Peñón de San Carlos",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.907768,
+          10.560764
+        ]
+      },
+      "properties": {
+        "feet": 6348,
+        "meters": 1935,
+        "latitude": 10.560764,
+        "longitude": -66.907768,
+        "name": "Picacho de Galipán",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0425,
+          8.54361
+        ]
+      },
+      "properties": {
+        "feet": 16332,
+        "meters": 4978,
+        "latitude": 8.54361,
+        "longitude": -71.0425,
+        "name": "Pico Bolivar",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.937737,
+          10.3625
+        ]
+      },
+      "properties": {
+        "feet": 6542,
+        "meters": 2004,
+        "latitude": 10.3625,
+        "longitude": -67.937737,
+        "name": "Pico Caobal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11333,
+          9.527623
+        ]
+      },
+      "properties": {
+        "feet": 11713,
+        "meters": 3570,
+        "latitude": 9.527623,
+        "longitude": -70.11333,
+        "name": "Pico Cendé",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.309142,
+          10.412169
+        ]
+      },
+      "properties": {
+        "feet": 7969,
+        "meters": 2429,
+        "latitude": 10.412169,
+        "longitude": -67.309142,
+        "name": "Pico Codazzi",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.389101,
+          10.394227
+        ]
+      },
+      "properties": {
+        "feet": 7841,
+        "meters": 2390,
+        "latitude": 10.394227,
+        "longitude": -67.389101,
+        "name": "Pico Cogollal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.800619,
+          8.850556
+        ]
+      },
+      "properties": {
+        "feet": 13780,
+        "meters": 4200,
+        "latitude": 8.850556,
+        "longitude": -70.800619,
+        "name": "Pico El Gavilán",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.556602,
+          8.948921
+        ]
+      },
+      "properties": {
+        "feet": 12697,
+        "meters": 3870,
+        "latitude": 8.948921,
+        "longitude": -70.556602,
+        "name": "Pico Guirigay",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.429276,
+          10.376304
+        ]
+      },
+      "properties": {
+        "feet": 7995,
+        "meters": 2447,
+        "latitude": 10.376304,
+        "longitude": -67.429276,
+        "name": "Pico La Ceniza",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.806198,
+          8.759418
+        ]
+      },
+      "properties": {
+        "feet": 15121,
+        "meters": 4609,
+        "latitude": 8.759418,
+        "longitude": -70.806198,
+        "name": "Pico Mifés",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.782584,
+          10.543002
+        ]
+      },
+      "properties": {
+        "feet": 9071,
+        "meters": 2765,
+        "latitude": 10.543002,
+        "longitude": -66.782584,
+        "name": "Pico Naiguatá",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.853085,
+          10.541188
+        ]
+      },
+      "properties": {
+        "feet": 14600,
+        "meters": 4460,
+        "latitude": 10.541188,
+        "longitude": -66.853085,
+        "name": "Pico Occidental",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.839361,
+          10.537602
+        ]
+      },
+      "properties": {
+        "feet": 8661,
+        "meters": 2640,
+        "latitude": 10.537602,
+        "longitude": -66.839361,
+        "name": "Pico Oriental",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.006553,
+          0.804812
+        ]
+      },
+      "properties": {
+        "feet": 9754,
+        "meters": 2973,
+        "latitude": 0.804812,
+        "longitude": -66.006553,
+        "name": "Pico Phelps",
+        "regions": [
+          "Guiana Highlands",
+          "Western Guiana Highlands"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.903316,
+          8.607319
+        ]
+      },
+      "properties": {
+        "feet": 14173,
+        "meters": 4320,
+        "latitude": 8.607319,
+        "longitude": -70.903316,
+        "name": "Pico Santo Cristo",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.951638,
+          8.858698
+        ]
+      },
+      "properties": {
+        "feet": 15577,
+        "meters": 4748,
+        "latitude": 8.858698,
+        "longitude": -70.951638,
+        "name": "Piedras Blancas",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.787439,
+          5.164506
+        ]
+      },
+      "properties": {
+        "feet": 9219,
+        "meters": 2810,
+        "latitude": 5.164506,
+        "longitude": -60.787439,
+        "name": "Tepuy Roraima",
+        "regions": [
+          "Guiana Highlands",
+          "La Gran Sabana"
+        ],
+        "countries": [
+          "Venezuela",
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.493131,
+          9.118029
+        ]
+      },
+      "properties": {
+        "feet": 13143,
+        "meters": 4006,
+        "latitude": 9.118029,
+        "longitude": -70.493131,
+        "name": "Teta de Niquitao",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.358237,
+          9.989899
+        ]
+      },
+      "properties": {
+        "feet": 4685,
+        "meters": 1428,
+        "latitude": 9.989899,
+        "longitude": -66.358237,
+        "name": "Topo La Bandera",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.616056,
+          9.959974
+        ]
+      },
+      "properties": {
+        "feet": 5577,
+        "meters": 1700,
+        "latitude": 9.959974,
+        "longitude": -68.616056,
+        "name": "Topo Yagrumal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

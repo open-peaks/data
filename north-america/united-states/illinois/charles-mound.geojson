@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.239765,
+      42.504146
+    ]
+  },
+  "properties": {
+    "feet": 1235,
+    "meters": 376,
+    "latitude": 42.504146,
+    "longitude": -90.239765,
+    "name": "Charles Mound",
+    "states": [
+      "Illinois"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

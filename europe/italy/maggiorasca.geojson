@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.33,
+      44.33
+    ]
+  },
+  "properties": {
+    "feet": 5915,
+    "meters": 1803,
+    "latitude": 44.33,
+    "longitude": 9.33,
+    "name": "Maggiorasca",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

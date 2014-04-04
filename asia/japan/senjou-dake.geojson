@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.184,
+      35.7195
+    ]
+  },
+  "properties": {
+    "feet": 9951,
+    "meters": 3033,
+    "latitude": 35.7195,
+    "longitude": 138.184,
+    "name": "Senjou Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.620019,
+      33.164486
+    ]
+  },
+  "properties": {
+    "feet": 5000,
+    "meters": 1524,
+    "latitude": 33.164486,
+    "longitude": -116.620019,
+    "name": "Volcan Mountain",
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

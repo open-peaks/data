@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.22016,
+      43.25902
+    ]
+  },
+  "properties": {
+    "feet": 2884,
+    "meters": 879,
+    "latitude": 43.25902,
+    "longitude": -3.22016,
+    "name": "Kolitza",
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

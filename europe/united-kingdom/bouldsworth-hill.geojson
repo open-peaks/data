@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.108688,
+      53.817274
+    ]
+  },
+  "properties": {
+    "feet": 1700,
+    "meters": 518,
+    "latitude": 53.817274,
+    "longitude": -2.108688,
+    "name": "Bouldsworth Hill",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Pennine Chain"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.339,
+      50.7222
+    ]
+  },
+  "properties": {
+    "feet": 11191,
+    "meters": 3411,
+    "latitude": 50.7222,
+    "longitude": -115.339,
+    "name": "Mount Sir Douglas",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.592042,
+      45.706046
+    ]
+  },
+  "properties": {
+    "feet": 2284,
+    "meters": 696,
+    "latitude": 45.706046,
+    "longitude": -100.592042,
+    "name": "Rattlesnake Butte",
+    "regions": [
+      "North American Plains",
+      "Black Hills"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

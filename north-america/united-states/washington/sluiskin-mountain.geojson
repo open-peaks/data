@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.737828,
+      46.945868
+    ]
+  },
+  "properties": {
+    "feet": 7026,
+    "meters": 2142,
+    "latitude": 46.945868,
+    "longitude": -121.737828,
+    "name": "Sluiskin Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

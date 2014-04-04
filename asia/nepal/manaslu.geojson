@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.559536,
+      28.549959
+    ]
+  },
+  "properties": {
+    "feet": 26758,
+    "meters": 8156,
+    "latitude": 28.549959,
+    "longitude": 84.559536,
+    "name": "Manaslu",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

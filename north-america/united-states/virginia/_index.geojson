@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5,
+          37.5167
+        ]
+      },
+      "properties": {
+        "feet": 4225,
+        "meters": 1288,
+        "latitude": 37.5167,
+        "longitude": -79.5,
+        "name": "Apple Orchard Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4833,
+          38.7333
+        ]
+      },
+      "properties": {
+        "feet": 2560,
+        "meters": 780,
+        "latitude": 38.7333,
+        "longitude": -78.4833,
+        "name": "Kennedy Peak",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5447,
+          36.6597
+        ]
+      },
+      "properties": {
+        "feet": 5729,
+        "meters": 1746,
+        "latitude": 36.6597,
+        "longitude": -81.5447,
+        "name": "Mount Rogers",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3144,
+          38.5517
+        ]
+      },
+      "properties": {
+        "feet": 3291,
+        "meters": 1003,
+        "latitude": 38.5517,
+        "longitude": -78.3144,
+        "name": "Old Rag Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0628,
+          37.8197
+        ]
+      },
+      "properties": {
+        "feet": 4063,
+        "meters": 1238,
+        "latitude": 37.8197,
+        "longitude": -79.0628,
+        "name": "The Priest",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

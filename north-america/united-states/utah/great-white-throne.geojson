@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.941014,
+      37.260808
+    ]
+  },
+  "properties": {
+    "feet": 6744,
+    "meters": 2056,
+    "latitude": 37.260808,
+    "longitude": -112.941014,
+    "name": "Great White Throne",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

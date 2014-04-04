@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.75,
+          65.05
+        ]
+      },
+      "properties": {
+        "feet": 4974,
+        "meters": 1516,
+        "latitude": 65.05,
+        "longitude": -16.75,
+        "name": "Askja",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Iceland"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0667,
+          64.0333
+        ]
+      },
+      "properties": {
+        "feet": 5029,
+        "meters": 1533,
+        "latitude": 64.0333,
+        "longitude": -16.0667,
+        "name": "Esjufjöll",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Iceland"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6,
+          63.633
+        ]
+      },
+      "properties": {
+        "feet": 1666,
+        "meters": 508,
+        "latitude": 63.633,
+        "longitude": -19.6,
+        "name": "Eyjafjallajökull",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.65,
+          64.0167
+        ]
+      },
+      "properties": {
+        "feet": 4892,
+        "meters": 1491,
+        "latitude": 64.0167,
+        "longitude": -19.65,
+        "name": "Hekla",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Iceland"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34,
+          65.18
+        ]
+      },
+      "properties": {
+        "feet": 5518,
+        "meters": 1682,
+        "latitude": 65.18,
+        "longitude": 16.34,
+        "name": "Herðubreið",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6833,
+          64.0167
+        ]
+      },
+      "properties": {
+        "feet": 6952,
+        "meters": 2119,
+        "latitude": 64.0167,
+        "longitude": -16.6833,
+        "name": "Hvannadalshnukur",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Iceland"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.6833,
+          64.2833
+        ]
+      },
+      "properties": {
+        "feet": 4380,
+        "meters": 1335,
+        "latitude": 64.2833,
+        "longitude": -17.6833,
+        "name": "Palsfjall",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Iceland"
+        ],
+        "countries": [
+          "Iceland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

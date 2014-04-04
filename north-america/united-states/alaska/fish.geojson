@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.195452,
+      61.744653
+    ]
+  },
+  "properties": {
+    "feet": 4069,
+    "meters": 1248,
+    "latitude": 61.744653,
+    "longitude": -149.195452,
+    "name": "Fish",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Talkeetna Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

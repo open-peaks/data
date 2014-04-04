@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -146.37,
+      63.49
+    ]
+  },
+  "properties": {
+    "feet": 11400,
+    "meters": 3,
+    "latitude": 63.49,
+    "longitude": -146.37,
+    "name": "Mount McGinnis",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

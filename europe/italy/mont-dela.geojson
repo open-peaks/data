@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.528806,
+      45.624018
+    ]
+  },
+  "properties": {
+    "feet": 10299,
+    "meters": 3139,
+    "latitude": 45.624018,
+    "longitude": 7.528806,
+    "name": "Mont Delà",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

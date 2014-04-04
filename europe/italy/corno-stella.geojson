@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.174068,
+      44.263903
+    ]
+  },
+  "properties": {
+    "feet": 10007,
+    "meters": 3050,
+    "latitude": 44.263903,
+    "longitude": 7.174068,
+    "name": "Corno Stella",
+    "regions": [
+      "Western Alps",
+      "Maritime Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

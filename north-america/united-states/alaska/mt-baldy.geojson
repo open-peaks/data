@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.461901,
+      61.332626
+    ]
+  },
+  "properties": {
+    "feet": 3281,
+    "meters": 1000,
+    "latitude": 61.332626,
+    "longitude": -149.461901,
+    "name": "Mt Baldy",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.512582,
+      44.222971
+    ]
+  },
+  "properties": {
+    "feet": 4055,
+    "meters": 1236,
+    "latitude": 44.222971,
+    "longitude": -71.512582,
+    "name": "Mt Hale",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

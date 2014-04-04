@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.875867,
+      43.157741
+    ]
+  },
+  "properties": {
+    "feet": 8031,
+    "meters": 2448,
+    "latitude": 43.157741,
+    "longitude": -4.875867,
+    "name": "Torre del Friero",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

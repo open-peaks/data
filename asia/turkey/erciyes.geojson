@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.4667,
+      38.5333
+    ]
+  },
+  "properties": {
+    "feet": 12851,
+    "meters": 3917,
+    "latitude": 38.5333,
+    "longitude": 35.4667,
+    "name": "Erciyes",
+    "regions": [
+      "Anatolia",
+      "Central Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

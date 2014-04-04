@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.736477,
+      48.70416
+    ]
+  },
+  "properties": {
+    "feet": 8180,
+    "meters": 2493,
+    "latitude": 48.70416,
+    "longitude": -113.736477,
+    "name": "Mount Oberlin",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.1761,
+      39.7861
+    ]
+  },
+  "properties": {
+    "feet": 3213,
+    "meters": 979,
+    "latitude": 39.7861,
+    "longitude": -79.1761,
+    "name": "Mount Davis",
+    "regions": [
+      "Appalachian Mountains",
+      "Allegheny Mountains"
+    ],
+    "states": [
+      "Pennsylvania"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

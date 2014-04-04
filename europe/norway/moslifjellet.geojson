@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.15303,
+      59.003003
+    ]
+  },
+  "properties": {
+    "feet": 2356,
+    "meters": 718,
+    "latitude": 59.003003,
+    "longitude": 6.15303,
+    "name": "Moslifjellet",
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

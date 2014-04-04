@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.690459,
+      45.770956
+    ]
+  },
+  "properties": {
+    "feet": 7822,
+    "meters": 2384,
+    "latitude": 45.770956,
+    "longitude": 6.690459,
+    "name": "Aguille de Roselette",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

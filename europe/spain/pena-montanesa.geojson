@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.1985,
+      42.49
+    ]
+  },
+  "properties": {
+    "feet": 7516,
+    "meters": 2291,
+    "latitude": 42.49,
+    "longitude": 0.1985,
+    "name": "Peña Montañesa",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

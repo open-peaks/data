@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.858037,
+      44.127367
+    ]
+  },
+  "properties": {
+    "feet": 4738,
+    "meters": 1444,
+    "latitude": 44.127367,
+    "longitude": -73.858037,
+    "name": "Gothics",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

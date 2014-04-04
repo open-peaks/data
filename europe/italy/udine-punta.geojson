@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.073245,
+      44.69584
+    ]
+  },
+  "properties": {
+    "feet": 9915,
+    "meters": 3022,
+    "latitude": 44.69584,
+    "longitude": 7.073245,
+    "name": "Udine (Punta)",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

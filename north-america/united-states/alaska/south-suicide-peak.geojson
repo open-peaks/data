@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.574444,
+      61.029444
+    ]
+  },
+  "properties": {
+    "feet": 5005,
+    "meters": 1526,
+    "latitude": 61.029444,
+    "longitude": -149.574444,
+    "name": "South Suicide Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

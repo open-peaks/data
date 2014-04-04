@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.5089,
+      45.1561
+    ]
+  },
+  "properties": {
+    "feet": 8656,
+    "meters": 2638,
+    "latitude": 45.1561,
+    "longitude": -117.5089,
+    "name": "China Cap",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

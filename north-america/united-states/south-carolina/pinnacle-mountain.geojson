@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.741685,
+      35.034038
+    ]
+  },
+  "properties": {
+    "feet": 3415,
+    "meters": 1041,
+    "latitude": 35.034038,
+    "longitude": -82.741685,
+    "name": "Pinnacle Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Southern Appalachian Ridges"
+    ],
+    "states": [
+      "South Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

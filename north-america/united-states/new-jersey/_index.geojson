@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.661562,
+          41.320948
+        ]
+      },
+      "properties": {
+        "feet": 1803,
+        "meters": 550,
+        "latitude": 41.320948,
+        "longitude": -74.661562,
+        "name": "High Point",
+        "states": [
+          "New Jersey"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

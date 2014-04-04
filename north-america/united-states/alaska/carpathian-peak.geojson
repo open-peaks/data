@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.8306,
+      60.69
+    ]
+  },
+  "properties": {
+    "feet": 5856,
+    "meters": 1785,
+    "latitude": 60.69,
+    "longitude": -148.8306,
+    "name": "Carpathian Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

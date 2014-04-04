@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.95,
+      47.13
+    ]
+  },
+  "properties": {
+    "feet": 7575,
+    "meters": 2309,
+    "latitude": 47.13,
+    "longitude": 10.95,
+    "name": "Narrenkogel",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.269093,
+      42.326236
+    ]
+  },
+  "properties": {
+    "feet": 7211,
+    "meters": 2198,
+    "latitude": 42.326236,
+    "longitude": -121.269093,
+    "name": "Yainax Butte",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

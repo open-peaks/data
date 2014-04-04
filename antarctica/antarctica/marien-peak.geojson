@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.57225,
+      -71.87742
+    ]
+  },
+  "properties": {
+    "feet": 6010,
+    "meters": 1832,
+    "latitude": -71.87742,
+    "longitude": 24.57225,
+    "name": "Mariën Peak",
+    "regions": [
+      "East Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica",
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

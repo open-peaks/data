@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.698326,
+      -28.280914
+    ]
+  },
+  "properties": {
+    "feet": 4442,
+    "meters": 1354,
+    "latitude": -28.280914,
+    "longitude": 152.698326,
+    "name": "Mount Barney",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

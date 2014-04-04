@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.033333,
+      49.231944
+    ]
+  },
+  "properties": {
+    "feet": 7287,
+    "meters": 2221,
+    "latitude": 49.231944,
+    "longitude": 20.033333,
+    "name": "Granaty",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

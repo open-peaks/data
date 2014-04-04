@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.488036,
+      42.807692
+    ]
+  },
+  "properties": {
+    "feet": 7222,
+    "meters": 2201,
+    "latitude": 42.807692,
+    "longitude": -112.488036,
+    "name": "Kinport Peak",
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

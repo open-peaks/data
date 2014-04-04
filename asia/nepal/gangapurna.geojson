@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.963475,
+      28.605339
+    ]
+  },
+  "properties": {
+    "feet": 24754,
+    "meters": 7545,
+    "latitude": 28.605339,
+    "longitude": 83.963475,
+    "name": "Gangapurna",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

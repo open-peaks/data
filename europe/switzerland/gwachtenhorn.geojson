@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.092632,
+      46.60346
+    ]
+  },
+  "properties": {
+    "feet": 10381,
+    "meters": 3164,
+    "latitude": 46.60346,
+    "longitude": 8.092632,
+    "name": "Gwächtenhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

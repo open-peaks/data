@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1167,
+      40.2
+    ]
+  },
+  "properties": {
+    "feet": 7185,
+    "meters": 2190,
+    "latitude": 40.2,
+    "longitude": 22.1167,
+    "name": "Pieria Ori",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

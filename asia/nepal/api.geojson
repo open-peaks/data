@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.9333,
+      30.0
+    ]
+  },
+  "properties": {
+    "feet": 23399,
+    "meters": 7132,
+    "latitude": 30.0,
+    "longitude": 80.9333,
+    "name": "Api",
+    "regions": [
+      "Himalaya ",
+      "Western Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

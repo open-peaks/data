@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.53,
+      -16.191
+    ]
+  },
+  "properties": {
+    "feet": 19872,
+    "meters": 6057,
+    "latitude": -16.191,
+    "longitude": -71.53,
+    "name": "Chachani",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.897222,
+      49.241667
+    ]
+  },
+  "properties": {
+    "feet": 6962,
+    "meters": 2122,
+    "latitude": 49.241667,
+    "longitude": 19.897222,
+    "name": "Krzesanica",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

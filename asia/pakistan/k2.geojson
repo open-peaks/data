@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.5133,
+      35.8825
+    ]
+  },
+  "properties": {
+    "feet": 28253,
+    "meters": 8612,
+    "latitude": 35.8825,
+    "longitude": 76.5133,
+    "name": "K2",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

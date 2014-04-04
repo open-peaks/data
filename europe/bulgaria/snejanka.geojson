@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.677696,
+      41.636999
+    ]
+  },
+  "properties": {
+    "feet": 6332,
+    "meters": 1930,
+    "latitude": 41.636999,
+    "longitude": 24.677696,
+    "name": "Snejanka",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria",
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

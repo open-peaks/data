@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.208057,
+      51.393958
+    ]
+  },
+  "properties": {
+    "feet": 7995,
+    "meters": 2437,
+    "latitude": 51.393958,
+    "longitude": -116.208057,
+    "name": "Saddle Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.604246,
+      -9.121504
+    ]
+  },
+  "properties": {
+    "feet": 22204,
+    "meters": 6768,
+    "latitude": -9.121504,
+    "longitude": -77.604246,
+    "name": "Huascaran",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

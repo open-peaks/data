@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.6833,
+      64.2833
+    ]
+  },
+  "properties": {
+    "feet": 4380,
+    "meters": 1335,
+    "latitude": 64.2833,
+    "longitude": -17.6833,
+    "name": "Palsfjall",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Iceland"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.143,
+      39.6167
+    ]
+  },
+  "properties": {
+    "feet": 12777,
+    "meters": 3894,
+    "latitude": 39.6167,
+    "longitude": -106.143,
+    "name": "Buffalo Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

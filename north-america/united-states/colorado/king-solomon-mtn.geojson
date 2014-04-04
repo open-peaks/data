@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.593,
+      37.8078
+    ]
+  },
+  "properties": {
+    "feet": 13220,
+    "meters": 4030,
+    "latitude": 37.8078,
+    "longitude": -107.593,
+    "name": "King Solomon Mtn",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

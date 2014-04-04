@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.491461,
+      46.430168
+    ]
+  },
+  "properties": {
+    "feet": 8747,
+    "meters": 2666,
+    "latitude": 46.430168,
+    "longitude": 13.491461,
+    "name": "Jof Fuart",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

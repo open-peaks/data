@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.800619,
+      8.850556
+    ]
+  },
+  "properties": {
+    "feet": 13780,
+    "meters": 4200,
+    "latitude": 8.850556,
+    "longitude": -70.800619,
+    "name": "Pico El Gavilán",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

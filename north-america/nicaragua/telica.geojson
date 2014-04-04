@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.87,
+      12.6
+    ]
+  },
+  "properties": {
+    "feet": 3481,
+    "meters": 1061,
+    "latitude": 12.6,
+    "longitude": -86.87,
+    "name": "Telica",
+    "regions": [
+      "Central American Ranges"
+    ],
+    "countries": [
+      "Nicaragua"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

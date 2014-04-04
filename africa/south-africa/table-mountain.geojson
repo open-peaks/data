@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4167,
+      -33.95
+    ]
+  },
+  "properties": {
+    "feet": 3566,
+    "meters": 1087,
+    "latitude": -33.95,
+    "longitude": 18.4167,
+    "name": "Table Mountain",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

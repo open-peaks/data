@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.98,
+      -6.78
+    ]
+  },
+  "properties": {
+    "feet": 9705,
+    "meters": 2958,
+    "latitude": -6.78,
+    "longitude": 106.98,
+    "name": "Mount Gede",
+    "countries": [
+      "Indonesia",
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

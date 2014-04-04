@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.73478,
+      43.190112
+    ]
+  },
+  "properties": {
+    "feet": 8009,
+    "meters": 2441,
+    "latitude": 43.190112,
+    "longitude": -4.73478,
+    "name": "Morra de Lechugales",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

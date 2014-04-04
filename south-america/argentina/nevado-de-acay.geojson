@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.1667,
+      -24.3833
+    ]
+  },
+  "properties": {
+    "feet": 19521,
+    "meters": 5950,
+    "latitude": -24.3833,
+    "longitude": -66.1667,
+    "name": "Nevado De Acay",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

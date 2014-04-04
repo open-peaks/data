@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.112668,
+      55.033889
+    ]
+  },
+  "properties": {
+    "feet": 751,
+    "meters": 229,
+    "latitude": 55.033889,
+    "longitude": -8.112668,
+    "name": "Mount Errigal",
+    "countries": [
+      "Ireland"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

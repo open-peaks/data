@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.795041,
+      37.455841
+    ]
+  },
+  "properties": {
+    "feet": 11870,
+    "meters": 3618,
+    "latitude": 37.455841,
+    "longitude": -106.795041,
+    "name": "Alberta Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

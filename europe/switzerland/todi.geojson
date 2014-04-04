@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9,
+      46.8
+    ]
+  },
+  "properties": {
+    "feet": 11857,
+    "meters": 3614,
+    "latitude": 46.8,
+    "longitude": 8.9,
+    "name": "Tödi",
+    "regions": [
+      "Northern Alps",
+      "Glarus Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

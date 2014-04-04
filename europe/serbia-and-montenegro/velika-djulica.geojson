@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2657,
+      43.2331
+    ]
+  },
+  "properties": {
+    "feet": 4895,
+    "meters": 1492,
+    "latitude": 43.2331,
+    "longitude": 21.2657,
+    "name": "Velika Djulica",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

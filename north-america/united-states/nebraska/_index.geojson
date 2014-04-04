@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.031264,
+          41.007235
+        ]
+      },
+      "properties": {
+        "feet": 5426,
+        "meters": 1654,
+        "latitude": 41.007235,
+        "longitude": -104.031264,
+        "name": "Panorama Point",
+        "states": [
+          "Nebraska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.035,
+          41.0225
+        ]
+      },
+      "properties": {
+        "feet": 5242,
+        "meters": 1598,
+        "latitude": 41.0225,
+        "longitude": 104.035,
+        "name": "Panorma Point",
+        "states": [
+          "Nebraska"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

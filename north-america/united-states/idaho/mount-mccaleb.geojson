@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.583,
+      44.25
+    ]
+  },
+  "properties": {
+    "feet": 11682,
+    "meters": 3561,
+    "latitude": 44.25,
+    "longitude": -113.583,
+    "name": "Mount Mccaleb",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

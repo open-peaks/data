@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.839361,
+      10.537602
+    ]
+  },
+  "properties": {
+    "feet": 8661,
+    "meters": 2640,
+    "latitude": 10.537602,
+    "longitude": -66.839361,
+    "name": "Pico Oriental",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.814532,
+      48.776895
+    ]
+  },
+  "properties": {
+    "feet": 10778,
+    "meters": 3284,
+    "latitude": 48.776895,
+    "longitude": -121.814532,
+    "name": "Mount Baker",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

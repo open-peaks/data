@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.569317,
+      47.754444
+    ]
+  },
+  "properties": {
+    "feet": 5584,
+    "meters": 1702,
+    "latitude": 47.754444,
+    "longitude": 13.569317,
+    "name": "Leonsberg",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

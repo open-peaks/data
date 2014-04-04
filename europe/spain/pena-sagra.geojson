@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.475994,
+      43.152238
+    ]
+  },
+  "properties": {
+    "feet": 6719,
+    "meters": 2048,
+    "latitude": 43.152238,
+    "longitude": -4.475994,
+    "name": "Peña Sagra",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

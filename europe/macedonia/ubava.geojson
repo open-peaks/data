@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2132,
+      41.4543
+    ]
+  },
+  "properties": {
+    "feet": 7726,
+    "meters": 2355,
+    "latitude": 41.4543,
+    "longitude": 21.2132,
+    "name": "Ubava",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Macedonia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

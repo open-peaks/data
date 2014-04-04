@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.340169,
+      46.929901
+    ]
+  },
+  "properties": {
+    "feet": 6227,
+    "meters": 1898,
+    "latitude": 46.929901,
+    "longitude": 8.340169,
+    "name": "Stanserhorn",
+    "regions": [
+      "Northern Alps",
+      "Urner Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

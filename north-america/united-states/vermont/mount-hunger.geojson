@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.638251,
+      44.418735
+    ]
+  },
+  "properties": {
+    "feet": 3540,
+    "meters": 1079,
+    "latitude": 44.418735,
+    "longitude": -72.638251,
+    "name": "Mount Hunger",
+    "regions": [
+      "Appalachian Mountains",
+      "Green Mountains"
+    ],
+    "states": [
+      "Vermont"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

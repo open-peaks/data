@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.775036,
+      46.75277
+    ]
+  },
+  "properties": {
+    "feet": 6000,
+    "meters": 1829,
+    "latitude": 46.75277,
+    "longitude": -121.775036,
+    "name": "Chutla Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

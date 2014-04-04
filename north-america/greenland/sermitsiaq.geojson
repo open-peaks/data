@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -51.5,
+      64.3
+    ]
+  },
+  "properties": {
+    "feet": 3970,
+    "meters": 1210,
+    "latitude": 64.3,
+    "longitude": -51.5,
+    "name": "Sermitsiaq",
+    "regions": [
+      "North American Arctic Islands",
+      "Greenland"
+    ],
+    "countries": [
+      "Greenland"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.6505,
+      46.4716
+    ]
+  },
+  "properties": {
+    "feet": 9780,
+    "meters": 2981,
+    "latitude": 46.4716,
+    "longitude": 11.6505,
+    "name": "Catinaccio",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

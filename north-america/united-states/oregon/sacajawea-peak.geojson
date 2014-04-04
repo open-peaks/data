@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.292926,
+      45.245026
+    ]
+  },
+  "properties": {
+    "feet": 9838,
+    "meters": 2999,
+    "latitude": 45.245026,
+    "longitude": -117.292926,
+    "name": "Sacajawea Peak",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

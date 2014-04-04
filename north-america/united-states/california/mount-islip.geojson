@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.839956,
+      34.344995
+    ]
+  },
+  "properties": {
+    "feet": 8250,
+    "meters": 2515,
+    "latitude": 34.344995,
+    "longitude": -117.839956,
+    "name": "Mount Islip",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.931287,
+      38.448185
+    ]
+  },
+  "properties": {
+    "feet": 4842,
+    "meters": 1476,
+    "latitude": 38.448185,
+    "longitude": -79.931287,
+    "name": "Bald Knob",
+    "regions": [
+      "Appalachian Mountains",
+      "Allegheny Mountains"
+    ],
+    "states": [
+      "West Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

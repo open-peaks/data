@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.2,
+      -32.4167
+    ]
+  },
+  "properties": {
+    "feet": 6460,
+    "meters": 1969,
+    "latitude": -32.4167,
+    "longitude": 19.2,
+    "name": "Tafelberg",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

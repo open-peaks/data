@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.009708,
+      47.872432
+    ]
+  },
+  "properties": {
+    "feet": 3327,
+    "meters": 1014,
+    "latitude": 47.872432,
+    "longitude": 20.009708,
+    "name": "Kékestetõ",
+    "countries": [
+      "Hungary"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

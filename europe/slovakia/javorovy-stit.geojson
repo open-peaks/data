@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.168495,
+      49.187538
+    ]
+  },
+  "properties": {
+    "feet": 7930,
+    "meters": 2417,
+    "latitude": 49.187538,
+    "longitude": 20.168495,
+    "name": "Javorovy Stit",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

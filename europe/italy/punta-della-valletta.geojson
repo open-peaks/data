@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.339335,
+      45.658282
+    ]
+  },
+  "properties": {
+    "feet": 10138,
+    "meters": 3090,
+    "latitude": 45.658282,
+    "longitude": 7.339335,
+    "name": "Punta della Valletta",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

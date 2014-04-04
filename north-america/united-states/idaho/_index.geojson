@@ -1,0 +1,412 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.783,
+          44.1333
+        ]
+      },
+      "properties": {
+        "feet": 12662,
+        "meters": 3859,
+        "latitude": 44.1333,
+        "longitude": -113.783,
+        "name": "Borah Peak (Mount Borah)",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.938,
+          44.8814
+        ]
+      },
+      "properties": {
+        "feet": 8377,
+        "meters": 2553,
+        "latitude": 44.8814,
+        "longitude": -115.938,
+        "name": "Boulder Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.13,
+          45.01
+        ]
+      },
+      "properties": {
+        "feet": 8000,
+        "meters": 2438,
+        "latitude": 45.01,
+        "longitude": -116.13,
+        "name": "Brundage Mountain",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7,
+          48.6167
+        ]
+      },
+      "properties": {
+        "feet": 7124,
+        "meters": 2171,
+        "latitude": 48.6167,
+        "longitude": -116.7,
+        "name": "Chimney Rock",
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.363031,
+          42.848803
+        ]
+      },
+      "properties": {
+        "feet": 6791,
+        "meters": 2070,
+        "latitude": 42.848803,
+        "longitude": -112.363031,
+        "name": "Chinese Peak",
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.13,
+          43.7492
+        ]
+      },
+      "properties": {
+        "feet": 12009,
+        "meters": 3660,
+        "latitude": 43.7492,
+        "longitude": -114.13,
+        "name": "Hyndman Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.488036,
+          42.807692
+        ]
+      },
+      "properties": {
+        "feet": 7222,
+        "meters": 2201,
+        "latitude": 42.807692,
+        "longitude": -112.488036,
+        "name": "Kinport Peak",
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.975,
+          44.1011
+        ]
+      },
+      "properties": {
+        "feet": 10229,
+        "meters": 3118,
+        "latitude": 44.1011,
+        "longitude": -114.975,
+        "name": "Mount Heyburn",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.583,
+          44.25
+        ]
+      },
+      "properties": {
+        "feet": 11682,
+        "meters": 3561,
+        "latitude": 44.25,
+        "longitude": -113.583,
+        "name": "Mount Mccaleb",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.06,
+          44.16
+        ]
+      },
+      "properties": {
+        "feet": 10190,
+        "meters": 3106,
+        "latitude": 44.16,
+        "longitude": -115.06,
+        "name": "Mount Regan",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.652,
+          43.7619
+        ]
+      },
+      "properties": {
+        "feet": 10336,
+        "meters": 3150,
+        "latitude": 43.7619,
+        "longitude": -114.652,
+        "name": "Norton Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.175,
+          43.4802
+        ]
+      },
+      "properties": {
+        "feet": 10458,
+        "meters": 3188,
+        "latitude": 43.4802,
+        "longitude": -114.175,
+        "name": "Rock Roll Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.81,
+          43.6997
+        ]
+      },
+      "properties": {
+        "feet": 11508,
+        "meters": 3508,
+        "latitude": 43.6997,
+        "longitude": -113.81,
+        "name": "Smiley Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.05,
+          44.0833
+        ]
+      },
+      "properties": {
+        "feet": 10250,
+        "meters": 3124,
+        "latitude": 44.0833,
+        "longitude": -115.05,
+        "name": "Warbonnet Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Idaho-Bitterroot Rockies"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

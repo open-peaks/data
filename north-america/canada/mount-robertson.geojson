@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.321,
+      50.7264
+    ]
+  },
+  "properties": {
+    "feet": 10423,
+    "meters": 3177,
+    "latitude": 50.7264,
+    "longitude": -115.321,
+    "name": "Mount Robertson",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

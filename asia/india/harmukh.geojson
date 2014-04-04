@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.0167,
+      33.7833
+    ]
+  },
+  "properties": {
+    "feet": 16890,
+    "meters": 5148,
+    "latitude": 33.7833,
+    "longitude": 76.0167,
+    "name": "Harmukh",
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

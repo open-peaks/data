@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.98,
+      61.32
+    ]
+  },
+  "properties": {
+    "feet": 10610,
+    "meters": 3234,
+    "latitude": 61.32,
+    "longitude": -147.98,
+    "name": "Mount Goode",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

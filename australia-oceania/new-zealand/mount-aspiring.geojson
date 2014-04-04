@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.733,
+      -44.3833
+    ]
+  },
+  "properties": {
+    "feet": 9931,
+    "meters": 3027,
+    "latitude": -44.3833,
+    "longitude": 168.733,
+    "name": "Mount Aspiring",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

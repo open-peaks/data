@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.171947,
+      47.562656
+    ]
+  },
+  "properties": {
+    "feet": 7899,
+    "meters": 2408,
+    "latitude": 47.562656,
+    "longitude": -121.171947,
+    "name": "Mount Daniel",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

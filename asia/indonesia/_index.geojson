@@ -1,0 +1,315 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5,
+          -8.35
+        ]
+      },
+      "properties": {
+        "feet": 10000,
+        "meters": 3048,
+        "latitude": -8.35,
+        "longitude": 115.5,
+        "name": "Gunung Agung",
+        "regions": [
+          "Malay Archipelago",
+          "Nusa Tengarra"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4,
+          -6.91667
+        ]
+      },
+      "properties": {
+        "feet": 10072,
+        "meters": 3070,
+        "latitude": -6.91667,
+        "longitude": 108.4,
+        "name": "Gunung Ciremai",
+        "regions": [
+          "Southeast Asia",
+          "Malay Peninsula"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.433,
+          -7.55
+        ]
+      },
+      "properties": {
+        "feet": 9550,
+        "meters": 2911,
+        "latitude": -7.55,
+        "longitude": 110.433,
+        "name": "Gunung Merapi",
+        "regions": [
+          "Malay Archipelago",
+          "Java "
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.467,
+          -8.43333
+        ]
+      },
+      "properties": {
+        "feet": 12224,
+        "meters": 3726,
+        "latitude": -8.43333,
+        "longitude": 116.467,
+        "name": "Gunung Rinjani",
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4,
+          3.16667
+        ]
+      },
+      "properties": {
+        "feet": 8041,
+        "meters": 2451,
+        "latitude": 3.16667,
+        "longitude": 98.4,
+        "name": "Gunung Sinabung",
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.98,
+          -6.78
+        ]
+      },
+      "properties": {
+        "feet": 9705,
+        "meters": 2958,
+        "latitude": -6.78,
+        "longitude": 106.98,
+        "name": "Mount Gede",
+        "countries": [
+          "Indonesia",
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.267,
+          -1.7
+        ]
+      },
+      "properties": {
+        "feet": 12467,
+        "meters": 3800,
+        "latitude": -1.7,
+        "longitude": 101.267,
+        "name": "Mount Kerinchi",
+        "regions": [
+          "Malay Archipelago",
+          "Sumatra"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.458554,
+          -8.410225
+        ]
+      },
+      "properties": {
+        "feet": 12224,
+        "meters": 3726,
+        "latitude": -8.410225,
+        "longitude": 116.458554,
+        "name": "Mount Rinjani - Lombok",
+        "regions": [
+          "Malay Archipelago",
+          "Nusa Tengarra"
+        ],
+        "countries": [
+          "Indonesia",
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.467,
+          -8.41667
+        ]
+      },
+      "properties": {
+        "feet": 12,
+        "meters": 4,
+        "latitude": -8.41667,
+        "longitude": 116.467,
+        "name": "Mount Rinjani",
+        "regions": [
+          "Southeast Asia",
+          "Central Southeast Asia"
+        ],
+        "countries": [
+          "Indonesia",
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.214444,
+          -7.241389
+        ]
+      },
+      "properties": {
+        "feet": 11247,
+        "meters": 3428,
+        "latitude": -7.241389,
+        "longitude": 109.214444,
+        "name": "Mount Slamet",
+        "regions": [
+          "Malay Archipelago",
+          "Java "
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.734,
+          -6.71542
+        ]
+      },
+      "properties": {
+        "feet": 7254,
+        "meters": 2211,
+        "latitude": -6.71542,
+        "longitude": 106.734,
+        "name": "SALAK I",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.922536,
+          -8.107618
+        ]
+      },
+      "properties": {
+        "feet": 12060,
+        "meters": 3676,
+        "latitude": -8.107618,
+        "longitude": 112.922536,
+        "name": "Semeru",
+        "countries": [
+          "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

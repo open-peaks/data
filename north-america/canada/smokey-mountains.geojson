@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.9333,
+      53.9667
+    ]
+  },
+  "properties": {
+    "feet": 2750,
+    "meters": 838,
+    "latitude": 53.9667,
+    "longitude": -66.9333,
+    "name": "Smokey Mountains",
+    "regions": [
+      "North American Plains",
+      "Canadian Shield"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

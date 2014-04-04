@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.067322,
+      43.175428
+    ]
+  },
+  "properties": {
+    "feet": 4209,
+    "meters": 1283,
+    "latitude": 43.175428,
+    "longitude": -5.067322,
+    "name": "Frailon",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

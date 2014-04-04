@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.572,
+      46.3444
+    ]
+  },
+  "properties": {
+    "feet": 9324,
+    "meters": 2842,
+    "latitude": 46.3444,
+    "longitude": 11.572,
+    "name": "Cimon del Latemar",
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

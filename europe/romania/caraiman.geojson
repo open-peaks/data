@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.493603,
+      45.416407
+    ]
+  },
+  "properties": {
+    "feet": 7822,
+    "meters": 2384,
+    "latitude": 45.416407,
+    "longitude": 25.493603,
+    "name": "Caraiman",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania",
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.721979,
+      48.559
+    ]
+  },
+  "properties": {
+    "feet": 7340,
+    "meters": 2237,
+    "latitude": 48.559,
+    "longitude": -120.721979,
+    "name": "Cumulus Mtn.",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

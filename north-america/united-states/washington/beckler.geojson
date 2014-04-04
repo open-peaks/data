@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.281595,
+      47.7356
+    ]
+  },
+  "properties": {
+    "feet": 5062,
+    "meters": 1543,
+    "latitude": 47.7356,
+    "longitude": -121.281595,
+    "name": "Beckler",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

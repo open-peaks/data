@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.109861,
+      43.241045
+    ]
+  },
+  "properties": {
+    "feet": 6417,
+    "meters": 1956,
+    "latitude": 43.241045,
+    "longitude": -122.109861,
+    "name": "Cinnamon Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

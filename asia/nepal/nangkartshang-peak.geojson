@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.8337,
+      27.904
+    ]
+  },
+  "properties": {
+    "feet": 16676,
+    "meters": 5083,
+    "latitude": 27.904,
+    "longitude": -86.8337,
+    "name": "Nangkartshang Peak",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

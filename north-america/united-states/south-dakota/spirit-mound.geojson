@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.959212,
+      42.87444
+    ]
+  },
+  "properties": {
+    "feet": 1279,
+    "meters": 390,
+    "latitude": 42.87444,
+    "longitude": -96.959212,
+    "name": "Spirit Mound",
+    "regions": [
+      "North American Plains"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

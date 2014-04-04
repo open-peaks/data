@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.21927,
+      54.4821
+    ]
+  },
+  "properties": {
+    "feet": 2949,
+    "meters": 899,
+    "latitude": 54.4821,
+    "longitude": -3.21927,
+    "name": "Great Gable",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

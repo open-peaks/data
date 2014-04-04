@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.528,
+      -24.7233
+    ]
+  },
+  "properties": {
+    "feet": 4406,
+    "meters": 1343,
+    "latitude": -24.7233,
+    "longitude": 28.528,
+    "name": "Kranskop",
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

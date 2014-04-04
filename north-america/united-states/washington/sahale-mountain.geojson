@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.038566,
+      48.491184
+    ]
+  },
+  "properties": {
+    "feet": 8680,
+    "meters": 2586,
+    "latitude": 48.491184,
+    "longitude": -121.038566,
+    "name": "Sahale Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

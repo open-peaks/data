@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.1667,
+      14.8
+    ]
+  },
+  "properties": {
+    "feet": 4583,
+    "meters": 1397,
+    "latitude": 14.8,
+    "longitude": -61.1667,
+    "name": "Mont Pelee",
+    "regions": [
+      "The Caribbean"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

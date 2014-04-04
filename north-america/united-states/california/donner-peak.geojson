@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.311,
+      39.3089
+    ]
+  },
+  "properties": {
+    "feet": 8019,
+    "meters": 2444,
+    "latitude": 39.3089,
+    "longitude": -120.311,
+    "name": "Donner Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

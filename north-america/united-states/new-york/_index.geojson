@@ -1,0 +1,684 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9869,
+          44.1436
+        ]
+      },
+      "properties": {
+        "feet": 5114,
+        "meters": 1559,
+        "latitude": 44.1436,
+        "longitude": -73.9869,
+        "name": "Algonquin Peak",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0067,
+          41.3128
+        ]
+      },
+      "properties": {
+        "feet": 1200,
+        "meters": 366,
+        "latitude": 41.3128,
+        "longitude": -74.0067,
+        "name": "Bear Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Catskill Mountains"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.870611,
+          44.182635
+        ]
+      },
+      "properties": {
+        "feet": 4239,
+        "meters": 1292,
+        "latitude": 44.182635,
+        "longitude": -73.870611,
+        "name": "Big slide",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8606,
+          44.2186
+        ]
+      },
+      "properties": {
+        "feet": 4098,
+        "meters": 1249,
+        "latitude": 44.2186,
+        "longitude": -73.8606,
+        "name": "Cascade",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2108,
+          43.6928
+        ]
+      },
+      "properties": {
+        "feet": 2721,
+        "meters": 829,
+        "latitude": 43.6928,
+        "longitude": -74.2108,
+        "name": "Chimney Mountain",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9603,
+          44.1269
+        ]
+      },
+      "properties": {
+        "feet": 4714,
+        "meters": 1437,
+        "latitude": 44.1269,
+        "longitude": -73.9603,
+        "name": "Colden",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962407,
+          43.544847
+        ]
+      },
+      "properties": {
+        "feet": 3254,
+        "meters": 992,
+        "latitude": 43.544847,
+        "longitude": -73.962407,
+        "name": "Crane Mountain",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.786626,
+          44.082992
+        ]
+      },
+      "properties": {
+        "feet": 4856,
+        "meters": 1480,
+        "latitude": 44.082992,
+        "longitude": -73.786626,
+        "name": "Dix",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.721094,
+          44.162566
+        ]
+      },
+      "properties": {
+        "feet": 4629,
+        "meters": 1411,
+        "latitude": 44.162566,
+        "longitude": -73.721094,
+        "name": "Giant",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.858037,
+          44.127367
+        ]
+      },
+      "properties": {
+        "feet": 4738,
+        "meters": 1444,
+        "latitude": 44.127367,
+        "longitude": -73.858037,
+        "name": "Gothics",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9008,
+          44.1056
+        ]
+      },
+      "properties": {
+        "feet": 4960,
+        "meters": 1512,
+        "latitude": 44.1056,
+        "longitude": -73.9008,
+        "name": "Haystack",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7,
+          44.2
+        ]
+      },
+      "properties": {
+        "feet": 3694,
+        "meters": 1126,
+        "latitude": 44.2,
+        "longitude": -73.7,
+        "name": "Hurricane Mt",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.832585,
+          44.148406
+        ]
+      },
+      "properties": {
+        "feet": 4177,
+        "meters": 1273,
+        "latitude": 44.148406,
+        "longitude": -73.832585,
+        "name": "Lower Wolfjaw Mtn",
+        "regions": [
+          "Appalachian Mountains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9239,
+          44.1125
+        ]
+      },
+      "properties": {
+        "feet": 5344,
+        "meters": 1629,
+        "latitude": 44.1125,
+        "longitude": -73.9239,
+        "name": "Mount Marcy",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.683,
+          39.0833
+        ]
+      },
+      "properties": {
+        "feet": 12811,
+        "meters": 3905,
+        "latitude": 39.0833,
+        "longitude": -106.683,
+        "name": "New York Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Elk Range Area"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.920093,
+          44.157609
+        ]
+      },
+      "properties": {
+        "feet": 4163,
+        "meters": 1269,
+        "latitude": 44.157609,
+        "longitude": -73.920093,
+        "name": "Phelps",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.554838,
+          43.560067
+        ]
+      },
+      "properties": {
+        "feet": 2162,
+        "meters": 659,
+        "latitude": 43.560067,
+        "longitude": -73.554838,
+        "name": "Sleeping Beauty",
+        "regions": [
+          "Appalachian Mountains",
+          "Northern Appalachian Ridges"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.386389,
+          41.998611
+        ]
+      },
+      "properties": {
+        "feet": 4180,
+        "meters": 1274,
+        "latitude": 41.998611,
+        "longitude": -74.386389,
+        "name": "Slide Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Catskill Mountains"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044333,
+          44.180419
+        ]
+      },
+      "properties": {
+        "feet": 4167,
+        "meters": 1270,
+        "latitude": 44.180419,
+        "longitude": -74.044333,
+        "name": "Street mountain",
+        "regions": [
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.759941,
+          44.150593
+        ]
+      },
+      "properties": {
+        "feet": 4180,
+        "meters": 1274,
+        "latitude": 44.150593,
+        "longitude": -73.759941,
+        "name": "Upper Wolf Jaw",
+        "regions": [
+          "Appalachian Mountains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0369,
+          44.1378
+        ]
+      },
+      "properties": {
+        "feet": 3727,
+        "meters": 1136,
+        "latitude": 44.1378,
+        "longitude": -74.0369,
+        "name": "Wallface Mountain",
+        "regions": [
+          "North American Plains",
+          "Adirondacks"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9026,
+          44.3658
+        ]
+      },
+      "properties": {
+        "feet": 4810,
+        "meters": 1466,
+        "latitude": 44.3658,
+        "longitude": -73.9026,
+        "name": "Whiteface Mountain",
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979616,
+          44.151697
+        ]
+      },
+      "properties": {
+        "feet": 4580,
+        "meters": 1396,
+        "latitude": 44.151697,
+        "longitude": -73.979616,
+        "name": "Wright Peak",
+        "regions": [
+          "Appalachian Mountains",
+          "Northern Appalachian Ridges"
+        ],
+        "states": [
+          "New York"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

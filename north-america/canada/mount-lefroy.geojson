@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.278439,
+      51.36176
+    ]
+  },
+  "properties": {
+    "feet": 11220,
+    "meters": 3420,
+    "latitude": 51.36176,
+    "longitude": -116.278439,
+    "name": "Mount Lefroy",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

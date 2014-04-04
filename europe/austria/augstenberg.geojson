@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2,
+      46.8667
+    ]
+  },
+  "properties": {
+    "feet": 10590,
+    "meters": 3228,
+    "latitude": 46.8667,
+    "longitude": 10.2,
+    "name": "Augstenberg",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

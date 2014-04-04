@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.2617,
+      41.3935
+    ]
+  },
+  "properties": {
+    "feet": 9350,
+    "meters": 2850,
+    "latitude": 41.3935,
+    "longitude": 43.2617,
+    "name": "Shavi Klde",
+    "regions": [
+      "Caucasus Mountains",
+      "Lesser Caucasus"
+    ],
+    "countries": [
+      "Georgia",
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

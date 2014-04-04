@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.043,
+      49.9753
+    ]
+  },
+  "properties": {
+    "feet": 7608,
+    "meters": 2319,
+    "latitude": 49.9753,
+    "longitude": -123.043,
+    "name": "Black Tusk",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

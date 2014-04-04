@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.521881,
+      -53.098147
+    ]
+  },
+  "properties": {
+    "feet": 9006,
+    "meters": 2745,
+    "latitude": -53.098147,
+    "longitude": 73.521881,
+    "name": "Mawson Peak",
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

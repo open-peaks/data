@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.19,
+      37.38
+    ]
+  },
+  "properties": {
+    "feet": 9865,
+    "meters": 3007,
+    "latitude": 37.38,
+    "longitude": 31.19,
+    "name": "Dipoyraz",
+    "regions": [
+      "Anatolia",
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

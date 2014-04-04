@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.403005,
+      46.704874
+    ]
+  },
+  "properties": {
+    "feet": 10515,
+    "meters": 3205,
+    "latitude": 46.704874,
+    "longitude": 10.403005,
+    "name": "Sesvenna (Piz)",
+    "regions": [
+      "Southern Alps",
+      "Rhaetian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

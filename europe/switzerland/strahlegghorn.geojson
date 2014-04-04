@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.118124,
+      46.575265
+    ]
+  },
+  "properties": {
+    "feet": 11355,
+    "meters": 3461,
+    "latitude": 46.575265,
+    "longitude": 8.118124,
+    "name": "Strahlegghorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

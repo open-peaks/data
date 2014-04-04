@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.869853,
+      44.537253
+    ]
+  },
+  "properties": {
+    "feet": 10338,
+    "meters": 3151,
+    "latitude": 44.537253,
+    "longitude": 6.869853,
+    "name": "Tete de la Fréma",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

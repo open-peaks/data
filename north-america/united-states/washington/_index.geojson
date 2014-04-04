@@ -1,0 +1,8556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.968313,
+          48.317508
+        ]
+      },
+      "properties": {
+        "feet": 8115,
+        "meters": 2473,
+        "latitude": 48.317508,
+        "longitude": -120.968313,
+        "name": "Agnes Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.665087,
+          48.995396
+        ]
+      },
+      "properties": {
+        "feet": 7994,
+        "meters": 2437,
+        "latitude": 48.995396,
+        "longitude": -121.665087,
+        "name": "American Border Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.632257,
+          46.920021
+        ]
+      },
+      "properties": {
+        "feet": 7017,
+        "meters": 2139,
+        "latitude": 46.920021,
+        "longitude": -121.632257,
+        "name": "Antler Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.861411,
+          47.470255
+        ]
+      },
+      "properties": {
+        "feet": 8453,
+        "meters": 2576,
+        "latitude": 47.470255,
+        "longitude": -120.861411,
+        "name": "Argonaut Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.873771,
+          47.508331
+        ]
+      },
+      "properties": {
+        "feet": 7550,
+        "meters": 2301,
+        "latitude": 47.508331,
+        "longitude": -120.873771,
+        "name": "Axis Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.271682,
+          47.616926
+        ]
+      },
+      "properties": {
+        "feet": 6241,
+        "meters": 1902,
+        "latitude": 47.616926,
+        "longitude": -121.271682,
+        "name": "Bald Eagle",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.538,
+          47.4155
+        ]
+      },
+      "properties": {
+        "feet": 5240,
+        "meters": 1597,
+        "latitude": 47.4155,
+        "longitude": -121.538,
+        "name": "Bandera Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.340861,
+          48.930648
+        ]
+      },
+      "properties": {
+        "feet": 7931,
+        "meters": 2417,
+        "latitude": 48.930648,
+        "longitude": -121.340861,
+        "name": "Bear Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.225,
+          47.5401
+        ]
+      },
+      "properties": {
+        "feet": 7197,
+        "meters": 2194,
+        "latitude": 47.5401,
+        "longitude": -121.225,
+        "name": "Bears Breast Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.281595,
+          47.7356
+        ]
+      },
+      "properties": {
+        "feet": 5062,
+        "meters": 1543,
+        "latitude": 47.7356,
+        "longitude": -121.281595,
+        "name": "Beckler",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.354122,
+          48.06876
+        ]
+      },
+      "properties": {
+        "feet": 6554,
+        "meters": 1998,
+        "latitude": 48.06876,
+        "longitude": -121.354122,
+        "name": "Bedal Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.924153,
+          48.663105
+        ]
+      },
+      "properties": {
+        "feet": 7416,
+        "meters": 2260,
+        "latitude": 48.663105,
+        "longitude": -120.924153,
+        "name": "Beebe",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.817466,
+          48.489705
+        ]
+      },
+      "properties": {
+        "feet": 7720,
+        "meters": 2353,
+        "latitude": 48.489705,
+        "longitude": -120.817466,
+        "name": "Benzarino",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29344,
+          48.604595
+        ]
+      },
+      "properties": {
+        "feet": 7055,
+        "meters": 2150,
+        "latitude": 48.604595,
+        "longitude": -121.29344,
+        "name": "Big Devil Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.832272,
+          47.662324
+        ]
+      },
+      "properties": {
+        "feet": 7763,
+        "meters": 2366,
+        "latitude": 47.662324,
+        "longitude": -120.832272,
+        "name": "Big Jim",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.839782,
+          47.63535
+        ]
+      },
+      "properties": {
+        "feet": 7763,
+        "meters": 2366,
+        "latitude": 47.63535,
+        "longitude": -120.839782,
+        "name": "Big Lou",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.273973,
+          46.76567
+        ]
+      },
+      "properties": {
+        "feet": 7585,
+        "meters": 2312,
+        "latitude": 46.76567,
+        "longitude": -121.273973,
+        "name": "Bismarck Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.815835,
+          48.523597
+        ]
+      },
+      "properties": {
+        "feet": 8970,
+        "meters": 2734,
+        "latitude": 48.523597,
+        "longitude": -120.815835,
+        "name": "Black Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.610498,
+          48.034708
+        ]
+      },
+      "properties": {
+        "feet": 4485,
+        "meters": 1367,
+        "latitude": 48.034708,
+        "longitude": -121.610498,
+        "name": "Blackjack Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657177,
+          48.506739
+        ]
+      },
+      "properties": {
+        "feet": 7808,
+        "meters": 2380,
+        "latitude": 48.506739,
+        "longitude": -120.657177,
+        "name": "Blue Lake Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.259563,
+          47.954841
+        ]
+      },
+      "properties": {
+        "feet": 6007,
+        "meters": 1831,
+        "latitude": 47.954841,
+        "longitude": -123.259563,
+        "name": "Blue Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.866303,
+          48.238251
+        ]
+      },
+      "properties": {
+        "feet": 9511,
+        "meters": 2899,
+        "latitude": 48.238251,
+        "longitude": -120.866303,
+        "name": "Bonanza Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.035991,
+          48.495564
+        ]
+      },
+      "properties": {
+        "feet": 8894,
+        "meters": 2711,
+        "latitude": 48.495564,
+        "longitude": -121.035991,
+        "name": "Boston Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.460853,
+          47.451279
+        ]
+      },
+      "properties": {
+        "feet": 5801,
+        "meters": 1768,
+        "latitude": 47.451279,
+        "longitude": -121.460853,
+        "name": "Bryant Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.121762,
+          47.825574
+        ]
+      },
+      "properties": {
+        "feet": 6988,
+        "meters": 2130,
+        "latitude": 47.825574,
+        "longitude": -123.121762,
+        "name": "Buckhorn Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.99789,
+          48.495128
+        ]
+      },
+      "properties": {
+        "feet": 9112,
+        "meters": 2777,
+        "latitude": 48.495128,
+        "longitude": -120.99789,
+        "name": "Buckner Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.126057,
+          48.907834
+        ]
+      },
+      "properties": {
+        "feet": 7489,
+        "meters": 2283,
+        "latitude": 48.907834,
+        "longitude": -120.126057,
+        "name": "Cal Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.917881,
+          47.657138
+        ]
+      },
+      "properties": {
+        "feet": 7616,
+        "meters": 2321,
+        "latitude": 47.657138,
+        "longitude": -120.917881,
+        "name": "Cape Horn",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.803,
+          48.0881
+        ]
+      },
+      "properties": {
+        "feet": 7085,
+        "meters": 2160,
+        "latitude": 48.0881,
+        "longitude": -120.803,
+        "name": "Carne Mtn",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.080108,
+          48.463417
+        ]
+      },
+      "properties": {
+        "feet": 7428,
+        "meters": 2264,
+        "latitude": 48.463417,
+        "longitude": -121.080108,
+        "name": "Cascade Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.847335,
+          47.558631
+        ]
+      },
+      "properties": {
+        "feet": 8501,
+        "meters": 2591,
+        "latitude": 47.558631,
+        "longitude": -120.847335,
+        "name": "Cashmere Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657434,
+          48.615832
+        ]
+      },
+      "properties": {
+        "feet": 7789,
+        "meters": 2374,
+        "latitude": 48.615832,
+        "longitude": -120.657434,
+        "name": "Catleap",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.466861,
+          47.459666
+        ]
+      },
+      "properties": {
+        "feet": 6238,
+        "meters": 1901,
+        "latitude": 47.459666,
+        "longitude": -121.466861,
+        "name": "Chair Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.310949,
+          47.475419
+        ]
+      },
+      "properties": {
+        "feet": 7000,
+        "meters": 2134,
+        "latitude": 47.475419,
+        "longitude": -121.310949,
+        "name": "Chikamin Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.775036,
+          46.75277
+        ]
+      },
+      "properties": {
+        "feet": 6000,
+        "meters": 1829,
+        "latitude": 46.75277,
+        "longitude": -121.775036,
+        "name": "Chutla Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.846434,
+          47.47829
+        ]
+      },
+      "properties": {
+        "feet": 8705,
+        "meters": 2653,
+        "latitude": 47.47829,
+        "longitude": -120.846434,
+        "name": "Colchuck Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15378,
+          48.897847
+        ]
+      },
+      "properties": {
+        "feet": 7621,
+        "meters": 2323,
+        "latitude": 48.897847,
+        "longitude": -120.15378,
+        "name": "Coleman Ridge Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.121821,
+          48.661603
+        ]
+      },
+      "properties": {
+        "feet": 7771,
+        "meters": 2369,
+        "latitude": 48.661603,
+        "longitude": -121.121821,
+        "name": "Colonial Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.361332,
+          47.961537
+        ]
+      },
+      "properties": {
+        "feet": 7172,
+        "meters": 2186,
+        "latitude": 47.961537,
+        "longitude": -121.361332,
+        "name": "Columbia Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657,
+          48.5144
+        ]
+      },
+      "properties": {
+        "feet": 7560,
+        "meters": 2304,
+        "latitude": 48.5144,
+        "longitude": -120.657,
+        "name": "Concord Tower",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.788369,
+          48.504493
+        ]
+      },
+      "properties": {
+        "feet": 8080,
+        "meters": 2463,
+        "latitude": 48.504493,
+        "longitude": -120.788369,
+        "name": "Corteo Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.443459,
+          48.260741
+        ]
+      },
+      "properties": {
+        "feet": 8392,
+        "meters": 2558,
+        "latitude": 48.260741,
+        "longitude": -120.443459,
+        "name": "Courtney Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.609468,
+          46.848921
+        ]
+      },
+      "properties": {
+        "feet": 7605,
+        "meters": 2318,
+        "latitude": 46.848921,
+        "longitude": -121.609468,
+        "name": "Cowlitz Chimneys",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.920205,
+          48.739352
+        ]
+      },
+      "properties": {
+        "feet": 8128,
+        "meters": 2477,
+        "latitude": 48.739352,
+        "longitude": -120.920205,
+        "name": "Crater Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.598297,
+          48.442241
+        ]
+      },
+      "properties": {
+        "feet": 7816,
+        "meters": 2382,
+        "latitude": 48.442241,
+        "longitude": -120.598297,
+        "name": "Crescent Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.341419,
+          48.826588
+        ]
+      },
+      "properties": {
+        "feet": 8124,
+        "meters": 2476,
+        "latitude": 48.826588,
+        "longitude": -121.341419,
+        "name": "Crooked Thumb",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.721979,
+          48.559
+        ]
+      },
+      "properties": {
+        "feet": 7340,
+        "meters": 2237,
+        "latitude": 48.559,
+        "longitude": -120.721979,
+        "name": "Cumulus Mtn.",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.70344,
+          48.526496
+        ]
+      },
+      "properties": {
+        "feet": 8050,
+        "meters": 2454,
+        "latitude": 48.526496,
+        "longitude": -120.70344,
+        "name": "Cutthroat Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.202888,
+          48.729389
+        ]
+      },
+      "properties": {
+        "feet": 7051,
+        "meters": 2149,
+        "latitude": 48.729389,
+        "longitude": -121.202888,
+        "name": "Davis Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.610713,
+          46.918497
+        ]
+      },
+      "properties": {
+        "feet": 7006,
+        "meters": 2135,
+        "latitude": 46.918497,
+        "longitude": -121.610713,
+        "name": "Dege Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.470637,
+          47.990783
+        ]
+      },
+      "properties": {
+        "feet": 6610,
+        "meters": 2015,
+        "latitude": 47.990783,
+        "longitude": -121.470637,
+        "name": "Del Campo",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.444073,
+          47.439119
+        ]
+      },
+      "properties": {
+        "feet": 5522,
+        "meters": 1683,
+        "latitude": 47.439119,
+        "longitude": -121.444073,
+        "name": "Denny Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.01655,
+          48.911444
+        ]
+      },
+      "properties": {
+        "feet": 6102,
+        "meters": 1860,
+        "latitude": 48.911444,
+        "longitude": -121.01655,
+        "name": "Desolation Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.470809,
+          48.068788
+        ]
+      },
+      "properties": {
+        "feet": 5723,
+        "meters": 1744,
+        "latitude": 48.068788,
+        "longitude": -121.470809,
+        "name": "Dickerman",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.031772,
+          48.301791
+        ]
+      },
+      "properties": {
+        "feet": 8920,
+        "meters": 2719,
+        "latitude": 48.301791,
+        "longitude": -121.031772,
+        "name": "Dome Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1386,
+          48.5498
+        ]
+      },
+      "properties": {
+        "feet": 8440,
+        "meters": 2573,
+        "latitude": 48.5498,
+        "longitude": -121.1386,
+        "name": "Dorado Needle",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.992281,
+          47.700608
+        ]
+      },
+      "properties": {
+        "feet": 6172,
+        "meters": 1881,
+        "latitude": 47.700608,
+        "longitude": -120.992281,
+        "name": "Doughgob",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.184478,
+          48.27174
+        ]
+      },
+      "properties": {
+        "feet": 5924,
+        "meters": 1806,
+        "latitude": 48.27174,
+        "longitude": -121.184478,
+        "name": "Downey Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.832958,
+          47.478986
+        ]
+      },
+      "properties": {
+        "feet": 8840,
+        "meters": 2694,
+        "latitude": 47.478986,
+        "longitude": -120.832958,
+        "name": "Dragontail Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.779199,
+          46.755652
+        ]
+      },
+      "properties": {
+        "feet": 5958,
+        "meters": 1816,
+        "latitude": 46.755652,
+        "longitude": -121.779199,
+        "name": "Eagle Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.895,
+          47.5322
+        ]
+      },
+      "properties": {
+        "feet": 7996,
+        "meters": 2437,
+        "latitude": 47.5322,
+        "longitude": -120.895,
+        "name": "Eightmile Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.134283,
+          48.537626
+        ]
+      },
+      "properties": {
+        "feet": 8868,
+        "meters": 2703,
+        "latitude": 48.537626,
+        "longitude": -121.134283,
+        "name": "Eldorado Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.802789,
+          47.48905
+        ]
+      },
+      "properties": {
+        "feet": 8250,
+        "meters": 2515,
+        "latitude": 47.48905,
+        "longitude": -120.802789,
+        "name": "Enchantment Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.790056,
+          48.934877
+        ]
+      },
+      "properties": {
+        "feet": 5613,
+        "meters": 1710,
+        "latitude": 48.934877,
+        "longitude": -121.790056,
+        "name": "Excelsior Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.745725,
+          48.380654
+        ]
+      },
+      "properties": {
+        "feet": 5083,
+        "meters": 1549,
+        "latitude": 48.380654,
+        "longitude": -121.745725,
+        "name": "Finney Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.058478,
+          48.511601
+        ]
+      },
+      "properties": {
+        "feet": 8815,
+        "meters": 2687,
+        "latitude": 48.511601,
+        "longitude": -121.058478,
+        "name": "Forbidden Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.933466,
+          48.159587
+        ]
+      },
+      "properties": {
+        "feet": 8760,
+        "meters": 2670,
+        "latitude": 48.159587,
+        "longitude": -120.933466,
+        "name": "Fortress Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.434346,
+          47.538201
+        ]
+      },
+      "properties": {
+        "feet": 5283,
+        "meters": 1610,
+        "latitude": 47.538201,
+        "longitude": -121.434346,
+        "name": "Galleon Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.82662,
+          48.429115
+        ]
+      },
+      "properties": {
+        "feet": 4974,
+        "meters": 1516,
+        "latitude": 48.429115,
+        "longitude": -121.82662,
+        "name": "Gee Point",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.708246,
+          48.562494
+        ]
+      },
+      "properties": {
+        "feet": 7552,
+        "meters": 2302,
+        "latitude": 48.562494,
+        "longitude": -120.708246,
+        "name": "Gentle Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.580959,
+          48.480944
+        ]
+      },
+      "properties": {
+        "feet": 8023,
+        "meters": 2445,
+        "latitude": 48.480944,
+        "longitude": -120.580959,
+        "name": "Gilbert Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.113992,
+          48.111227
+        ]
+      },
+      "properties": {
+        "feet": 10541,
+        "meters": 3213,
+        "latitude": 48.111227,
+        "longitude": -121.113992,
+        "name": "Glacier Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.660795,
+          46.880288
+        ]
+      },
+      "properties": {
+        "feet": 7288,
+        "meters": 2221,
+        "latitude": 46.880288,
+        "longitude": -121.660795,
+        "name": "Goat Island Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.407,
+          46.4885
+        ]
+      },
+      "properties": {
+        "feet": 8184,
+        "meters": 2494,
+        "latitude": 46.4885,
+        "longitude": -121.407,
+        "name": "Goat Rocks",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.732052,
+          48.603469
+        ]
+      },
+      "properties": {
+        "feet": 8366,
+        "meters": 2550,
+        "latitude": 48.603469,
+        "longitude": -120.732052,
+        "name": "Golden Horn",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.910943,
+          48.482908
+        ]
+      },
+      "properties": {
+        "feet": 9206,
+        "meters": 2804,
+        "latitude": 48.482908,
+        "longitude": -120.910943,
+        "name": "Goode Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.476774,
+          47.98366
+        ]
+      },
+      "properties": {
+        "feet": 6213,
+        "meters": 1894,
+        "latitude": 47.98366,
+        "longitude": -121.476774,
+        "name": "Gothic Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.865445,
+          48.614271
+        ]
+      },
+      "properties": {
+        "feet": 6882,
+        "meters": 2098,
+        "latitude": 48.614271,
+        "longitude": -120.865445,
+        "name": "Grabinet",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.481205,
+          47.417334
+        ]
+      },
+      "properties": {
+        "feet": 5629,
+        "meters": 1716,
+        "latitude": 47.417334,
+        "longitude": -121.481205,
+        "name": "Granite Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.825233,
+          48.564482
+        ]
+      },
+      "properties": {
+        "feet": 7965,
+        "meters": 2428,
+        "latitude": 48.564482,
+        "longitude": -120.825233,
+        "name": "Graybeard Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.238937,
+          48.291645
+        ]
+      },
+      "properties": {
+        "feet": 6500,
+        "meters": 1981,
+        "latitude": 48.291645,
+        "longitude": -121.238937,
+        "name": "Green Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.979957,
+          46.655328
+        ]
+      },
+      "properties": {
+        "feet": 5283,
+        "meters": 1610,
+        "latitude": 46.655328,
+        "longitude": -121.979957,
+        "name": "Griffin Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.913339,
+          47.636651
+        ]
+      },
+      "properties": {
+        "feet": 7533,
+        "meters": 2296,
+        "latitude": 47.636651,
+        "longitude": -120.913339,
+        "name": "Grindstone Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.448064,
+          47.816094
+        ]
+      },
+      "properties": {
+        "feet": 6245,
+        "meters": 1903,
+        "latitude": 47.816094,
+        "longitude": -121.448064,
+        "name": "Gunn Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.408796,
+          47.442021
+        ]
+      },
+      "properties": {
+        "feet": 5168,
+        "meters": 1575,
+        "latitude": 47.442021,
+        "longitude": -121.408796,
+        "name": "Guye Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.232758,
+          46.818505
+        ]
+      },
+      "properties": {
+        "feet": 7146,
+        "meters": 2178,
+        "latitude": 46.818505,
+        "longitude": -121.232758,
+        "name": "Half Nelson",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.534367,
+          48.892148
+        ]
+      },
+      "properties": {
+        "feet": 6187,
+        "meters": 1886,
+        "latitude": 48.892148,
+        "longitude": -121.534367,
+        "name": "Hannegan Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1978,
+          48.5006
+        ]
+      },
+      "properties": {
+        "feet": 7088,
+        "meters": 2160,
+        "latitude": 48.5006,
+        "longitude": -121.1978,
+        "name": "Hidden Lake Peaks",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02579,
+          46.69661
+        ]
+      },
+      "properties": {
+        "feet": 4743,
+        "meters": 1446,
+        "latitude": 46.69661,
+        "longitude": -122.02579,
+        "name": "High Hut Lookout",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.656,
+          48.5374
+        ]
+      },
+      "properties": {
+        "feet": 7560,
+        "meters": 2304,
+        "latitude": 48.5374,
+        "longitude": -120.656,
+        "name": "Hinkhouse Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7301,
+          48.6171
+        ]
+      },
+      "properties": {
+        "feet": 8020,
+        "meters": 2444,
+        "latitude": 48.6171,
+        "longitude": -120.7301,
+        "name": "Holliway Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.012087,
+          48.982245
+        ]
+      },
+      "properties": {
+        "feet": 8066,
+        "meters": 2459,
+        "latitude": 48.982245,
+        "longitude": -121.012087,
+        "name": "Hozomeen",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.40502,
+          47.930463
+        ]
+      },
+      "properties": {
+        "feet": 5936,
+        "meters": 1809,
+        "latitude": 47.930463,
+        "longitude": -121.40502,
+        "name": "Hubbart Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79555,
+          48.112143
+        ]
+      },
+      "properties": {
+        "feet": 8112,
+        "meters": 2473,
+        "latitude": 48.112143,
+        "longitude": -120.79555,
+        "name": "Ice Box",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.528144,
+          48.836532
+        ]
+      },
+      "properties": {
+        "feet": 7073,
+        "meters": 2156,
+        "latitude": 48.836532,
+        "longitude": -121.528144,
+        "name": "Icy Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.858793,
+          48.535619
+        ]
+      },
+      "properties": {
+        "feet": 7945,
+        "meters": 2422,
+        "latitude": 48.535619,
+        "longitude": -120.858793,
+        "name": "Indecision",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.946169,
+          47.472518
+        ]
+      },
+      "properties": {
+        "feet": 7662,
+        "meters": 2335,
+        "latitude": 47.472518,
+        "longitude": -120.946169,
+        "name": "Ingalls Peak, South Ridge",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.955951,
+          48.772632
+        ]
+      },
+      "properties": {
+        "feet": 9066,
+        "meters": 2763,
+        "latitude": 48.772632,
+        "longitude": -120.955951,
+        "name": "Jack",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.092057,
+          48.464847
+        ]
+      },
+      "properties": {
+        "feet": 8200,
+        "meters": 2499,
+        "latitude": 48.464847,
+        "longitude": -121.092057,
+        "name": "Johannesburg Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.599469,
+          48.195645
+        ]
+      },
+      "properties": {
+        "feet": 5840,
+        "meters": 1780,
+        "latitude": 48.195645,
+        "longitude": -121.599469,
+        "name": "Jumbo Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.478062,
+          47.462509
+        ]
+      },
+      "properties": {
+        "feet": 6259,
+        "meters": 1908,
+        "latitude": 47.462509,
+        "longitude": -121.478062,
+        "name": "Kaleetan Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.083,
+          48.8436
+        ]
+      },
+      "properties": {
+        "feet": 7556,
+        "meters": 2303,
+        "latitude": 48.8436,
+        "longitude": -120.083,
+        "name": "Kay Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.384807,
+          47.443037
+        ]
+      },
+      "properties": {
+        "feet": 5784,
+        "meters": 1763,
+        "latitude": 47.443037,
+        "longitude": -121.384807,
+        "name": "Kendall Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.104283,
+          48.554293
+        ]
+      },
+      "properties": {
+        "feet": 8485,
+        "meters": 2586,
+        "latitude": 48.554293,
+        "longitude": -121.104283,
+        "name": "Klawatti Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.333737,
+          47.964813
+        ]
+      },
+      "properties": {
+        "feet": 7280,
+        "meters": 2219,
+        "latitude": 47.964813,
+        "longitude": -121.333737,
+        "name": "Kyes Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.04322,
+          47.852841
+        ]
+      },
+      "properties": {
+        "feet": 6380,
+        "meters": 1945,
+        "latitude": 47.852841,
+        "longitude": -121.04322,
+        "name": "Labyrinth Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.932994,
+          47.665619
+        ]
+      },
+      "properties": {
+        "feet": 7708,
+        "meters": 2349,
+        "latitude": 47.665619,
+        "longitude": -120.932994,
+        "name": "Ladies Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.753063,
+          46.757857
+        ]
+      },
+      "properties": {
+        "feet": 6012,
+        "meters": 1832,
+        "latitude": 46.757857,
+        "longitude": -121.753063,
+        "name": "Lane Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657,
+          48.5142
+        ]
+      },
+      "properties": {
+        "feet": 7560,
+        "meters": 2304,
+        "latitude": 48.5142,
+        "longitude": -120.657,
+        "name": "Lexington Tower",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.658164,
+          48.515496
+        ]
+      },
+      "properties": {
+        "feet": 7720,
+        "meters": 2353,
+        "latitude": 48.515496,
+        "longitude": -120.658164,
+        "name": "Liberty Bell Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09,
+          47.7881
+        ]
+      },
+      "properties": {
+        "feet": 5844,
+        "meters": 1781,
+        "latitude": 47.7881,
+        "longitude": -121.09,
+        "name": "Lichtenberg",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.858635,
+          48.768325
+        ]
+      },
+      "properties": {
+        "feet": 9080,
+        "meters": 2768,
+        "latitude": 48.768325,
+        "longitude": -121.858635,
+        "name": "Lincoln Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.814,
+          47.4682
+        ]
+      },
+      "properties": {
+        "feet": 8440,
+        "meters": 2573,
+        "latitude": 47.4682,
+        "longitude": -120.814,
+        "name": "Little Annapurna",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.712317,
+          46.849553
+        ]
+      },
+      "properties": {
+        "feet": 11138,
+        "meters": 3395,
+        "latitude": 46.849553,
+        "longitude": -121.712317,
+        "name": "Little Tahoma",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.272025,
+          48.830713
+        ]
+      },
+      "properties": {
+        "feet": 8311,
+        "meters": 2533,
+        "latitude": 48.830713,
+        "longitude": -121.272025,
+        "name": "Luna Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0415,
+          48.44596
+        ]
+      },
+      "properties": {
+        "feet": 7610,
+        "meters": 2320,
+        "latitude": 48.44596,
+        "longitude": -121.0415,
+        "name": "Magic Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63942,
+          47.462465
+        ]
+      },
+      "properties": {
+        "feet": 4841,
+        "meters": 1476,
+        "latitude": 47.462465,
+        "longitude": -121.63942,
+        "name": "Mailbox Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.112208,
+          48.63583
+        ]
+      },
+      "properties": {
+        "feet": 7614,
+        "meters": 2321,
+        "latitude": 48.63583,
+        "longitude": -121.112208,
+        "name": "Mantis Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.567369,
+          48.056484
+        ]
+      },
+      "properties": {
+        "feet": 5110,
+        "meters": 1558,
+        "latitude": 48.056484,
+        "longitude": -121.567369,
+        "name": "Marble Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.608138,
+          46.937927
+        ]
+      },
+      "properties": {
+        "feet": 6962,
+        "meters": 2122,
+        "latitude": 46.937927,
+        "longitude": -121.608138,
+        "name": "Marcus Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.387108,
+          47.854293
+        ]
+      },
+      "properties": {
+        "feet": 6784,
+        "meters": 2068,
+        "latitude": 47.854293,
+        "longitude": -123.387108,
+        "name": "McCartney Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.622171,
+          47.406889
+        ]
+      },
+      "properties": {
+        "feet": 5162,
+        "meters": 1573,
+        "latitude": 47.406889,
+        "longitude": -121.622171,
+        "name": "McClellan Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.798197,
+          48.408238
+        ]
+      },
+      "properties": {
+        "feet": 8136,
+        "meters": 2480,
+        "latitude": 48.408238,
+        "longitude": -120.798197,
+        "name": "McGregor Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.886002,
+          48.630016
+        ]
+      },
+      "properties": {
+        "feet": 6570,
+        "meters": 2003,
+        "latitude": 48.630016,
+        "longitude": -120.886002,
+        "name": "Meebe",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4318,
+          47.8013
+        ]
+      },
+      "properties": {
+        "feet": 6113,
+        "meters": 1863,
+        "latitude": 47.8013,
+        "longitude": -121.4318,
+        "name": "Merchant Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.880508,
+          48.578453
+        ]
+      },
+      "properties": {
+        "feet": 8795,
+        "meters": 2681,
+        "latitude": 48.578453,
+        "longitude": -120.880508,
+        "name": "Mesahchie Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.786438,
+          48.621052
+        ]
+      },
+      "properties": {
+        "feet": 7562,
+        "meters": 2306,
+        "latitude": 48.621052,
+        "longitude": -120.786438,
+        "name": "Methow Pinnacles",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.858493,
+          48.536159
+        ]
+      },
+      "properties": {
+        "feet": 7930,
+        "meters": 2417,
+        "latitude": 48.536159,
+        "longitude": -120.858493,
+        "name": "Meulfire",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.469092,
+          47.926638
+        ]
+      },
+      "properties": {
+        "feet": 5255,
+        "meters": 1602,
+        "latitude": 47.926638,
+        "longitude": -121.469092,
+        "name": "Mineral Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.060195,
+          48.45414
+        ]
+      },
+      "properties": {
+        "feet": 7231,
+        "meters": 2204,
+        "latitude": 48.45414,
+        "longitude": -121.060195,
+        "name": "Mix-up Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3418,
+          47.9713
+        ]
+      },
+      "properties": {
+        "feet": 7136,
+        "meters": 2175,
+        "latitude": 47.9713,
+        "longitude": -121.3418,
+        "name": "Monte Cristo Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.641955,
+          47.547306
+        ]
+      },
+      "properties": {
+        "feet": 4965,
+        "meters": 1513,
+        "latitude": 47.547306,
+        "longitude": -121.641955,
+        "name": "Moolock",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.615,
+          48.4436
+        ]
+      },
+      "properties": {
+        "feet": 7905,
+        "meters": 2409,
+        "latitude": 48.4436,
+        "longitude": -120.615,
+        "name": "Mother Lode",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.489,
+          46.2028
+        ]
+      },
+      "properties": {
+        "feet": 12276,
+        "meters": 3741,
+        "latitude": 46.2028,
+        "longitude": -121.489,
+        "name": "Mount Adams",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.256,
+          46.795
+        ]
+      },
+      "properties": {
+        "feet": 7766,
+        "meters": 2367,
+        "latitude": 46.795,
+        "longitude": -121.256,
+        "name": "Mount Aix",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.331562,
+          47.721201
+        ]
+      },
+      "properties": {
+        "feet": 7321,
+        "meters": 2231,
+        "latitude": 47.721201,
+        "longitude": -123.331562,
+        "name": "Mount Anderson",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.467317,
+          47.995292
+        ]
+      },
+      "properties": {
+        "feet": 6454,
+        "meters": 1967,
+        "latitude": 47.995292,
+        "longitude": -123.467317,
+        "name": "Mount Angeles",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.814532,
+          48.776895
+        ]
+      },
+      "properties": {
+        "feet": 10778,
+        "meters": 3284,
+        "latitude": 48.776895,
+        "longitude": -121.814532,
+        "name": "Mount Baker",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.435919,
+          47.779309
+        ]
+      },
+      "properties": {
+        "feet": 6125,
+        "meters": 1867,
+        "latitude": 47.779309,
+        "longitude": -121.435919,
+        "name": "Mount Baring",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.940646,
+          46.784223
+        ]
+      },
+      "properties": {
+        "feet": 5475,
+        "meters": 1669,
+        "latitude": 46.784223,
+        "longitude": -121.940646,
+        "name": "Mount Beljica",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.482482,
+          48.754123
+        ]
+      },
+      "properties": {
+        "feet": 7680,
+        "meters": 2341,
+        "latitude": 48.754123,
+        "longitude": -121.482482,
+        "name": "Mount Blum",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.210211,
+          47.619558
+        ]
+      },
+      "properties": {
+        "feet": 5960,
+        "meters": 1817,
+        "latitude": 47.619558,
+        "longitude": -123.210211,
+        "name": "Mount Bretherton",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.206408,
+          48.351629
+        ]
+      },
+      "properties": {
+        "feet": 7320,
+        "meters": 2231,
+        "latitude": 48.351629,
+        "longitude": -121.206408,
+        "name": "Mount Buckindy",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.698732,
+          48.195502
+        ]
+      },
+      "properties": {
+        "feet": 5974,
+        "meters": 1821,
+        "latitude": 48.195502,
+        "longitude": -121.698732,
+        "name": "Mount Bullen",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.649192,
+          47.894248
+        ]
+      },
+      "properties": {
+        "feet": 6995,
+        "meters": 2132,
+        "latitude": 47.894248,
+        "longitude": -123.649192,
+        "name": "Mount Carrie",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.342354,
+          48.835683
+        ]
+      },
+      "properties": {
+        "feet": 8207,
+        "meters": 2501,
+        "latitude": 48.835683,
+        "longitude": -121.342354,
+        "name": "Mount Challenger",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.424589,
+          47.680963
+        ]
+      },
+      "properties": {
+        "feet": 5301,
+        "meters": 1616,
+        "latitude": 47.680963,
+        "longitude": -121.424589,
+        "name": "Mount Cleveland",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.127384,
+          47.772849
+        ]
+      },
+      "properties": {
+        "feet": 7743,
+        "meters": 2360,
+        "latitude": 47.772849,
+        "longitude": -123.127384,
+        "name": "Mount Constance",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.171947,
+          47.562656
+        ]
+      },
+      "properties": {
+        "feet": 7899,
+        "meters": 2408,
+        "latitude": 47.562656,
+        "longitude": -121.171947,
+        "name": "Mount Daniel",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.233507,
+          47.813146
+        ]
+      },
+      "properties": {
+        "feet": 7788,
+        "meters": 2374,
+        "latitude": 47.813146,
+        "longitude": -123.233507,
+        "name": "Mount Deception",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.294427,
+          48.771493
+        ]
+      },
+      "properties": {
+        "feet": 8020,
+        "meters": 2444,
+        "latitude": 48.771493,
+        "longitude": -121.294427,
+        "name": "Mount Degenhardt",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.376696,
+          48.737257
+        ]
+      },
+      "properties": {
+        "feet": 7292,
+        "meters": 2223,
+        "latitude": 48.737257,
+        "longitude": -121.376696,
+        "name": "Mount Despair",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.260636,
+          47.521664
+        ]
+      },
+      "properties": {
+        "feet": 5944,
+        "meters": 1812,
+        "latitude": 47.521664,
+        "longitude": -123.260636,
+        "name": "Mount Ellinor",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.807509,
+          48.162536
+        ]
+      },
+      "properties": {
+        "feet": 9249,
+        "meters": 2819,
+        "latitude": 48.162536,
+        "longitude": -120.807509,
+        "name": "Mount Fernow",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.067,
+          48.4162
+        ]
+      },
+      "properties": {
+        "feet": 8325,
+        "meters": 2537,
+        "latitude": 48.4162,
+        "longitude": -121.067,
+        "name": "Mount Formidable",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.673026,
+          46.925443
+        ]
+      },
+      "properties": {
+        "feet": 7317,
+        "meters": 2230,
+        "latitude": 46.925443,
+        "longitude": -121.673026,
+        "name": "Mount Fremont",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.323094,
+          48.811866
+        ]
+      },
+      "properties": {
+        "feet": 8292,
+        "meters": 2527,
+        "latitude": 48.811866,
+        "longitude": -121.323094,
+        "name": "Mount Fury",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49334,
+          47.552867
+        ]
+      },
+      "properties": {
+        "feet": 5519,
+        "meters": 1682,
+        "latitude": 47.552867,
+        "longitude": -121.49334,
+        "name": "Mount Garfield",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.755324,
+          48.581888
+        ]
+      },
+      "properties": {
+        "feet": 8080,
+        "meters": 2463,
+        "latitude": 48.581888,
+        "longitude": -120.755324,
+        "name": "Mount Hardy",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.762247,
+          48.31494
+        ]
+      },
+      "properties": {
+        "feet": 5142,
+        "meters": 1567,
+        "latitude": 48.31494,
+        "longitude": -121.762247,
+        "name": "Mount Higgins East",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.212029,
+          47.5681
+        ]
+      },
+      "properties": {
+        "feet": 7492,
+        "meters": 2284,
+        "latitude": 47.5681,
+        "longitude": -121.212029,
+        "name": "Mount Hinman",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.580544,
+          47.774349
+        ]
+      },
+      "properties": {
+        "feet": 6010,
+        "meters": 1832,
+        "latitude": 47.774349,
+        "longitude": -121.580544,
+        "name": "Mount Index",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.06108,
+          47.705776
+        ]
+      },
+      "properties": {
+        "feet": 5700,
+        "meters": 1737,
+        "latitude": 47.705776,
+        "longitude": -123.06108,
+        "name": "Mount Jupiter",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.648195,
+          48.979016
+        ]
+      },
+      "properties": {
+        "feet": 7861,
+        "meters": 2398,
+        "latitude": 48.979016,
+        "longitude": -121.648195,
+        "name": "Mount Larrabee",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.214889,
+          47.639803
+        ]
+      },
+      "properties": {
+        "feet": 5995,
+        "meters": 1827,
+        "latitude": 47.639803,
+        "longitude": -123.214889,
+        "name": "Mount Lena",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.952056,
+          48.536796
+        ]
+      },
+      "properties": {
+        "feet": 9087,
+        "meters": 2770,
+        "latitude": 48.536796,
+        "longitude": -120.952056,
+        "name": "Mount Logan",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.803988,
+          48.137351
+        ]
+      },
+      "properties": {
+        "feet": 9082,
+        "meters": 2768,
+        "latitude": 48.137351,
+        "longitude": -120.803988,
+        "name": "Mount Maude",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.221283,
+          47.795646
+        ]
+      },
+      "properties": {
+        "feet": 7639,
+        "meters": 2326,
+        "latitude": 47.795646,
+        "longitude": -123.221283,
+        "name": "Mount Mystery",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.710861,
+          47.801251
+        ]
+      },
+      "properties": {
+        "feet": 7965,
+        "meters": 2427,
+        "latitude": 47.801251,
+        "longitude": -123.710861,
+        "name": "Mount Olympus",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.256087,
+          47.551912
+        ]
+      },
+      "properties": {
+        "feet": 6154,
+        "meters": 1876,
+        "latitude": 47.551912,
+        "longitude": -123.256087,
+        "name": "Mount Pershing",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.612,
+          47.7904
+        ]
+      },
+      "properties": {
+        "feet": 5464,
+        "meters": 1665,
+        "latitude": 47.7904,
+        "longitude": -121.612,
+        "name": "Mount Persis",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.797,
+          48.0579
+        ]
+      },
+      "properties": {
+        "feet": 5340,
+        "meters": 1628,
+        "latitude": 48.0579,
+        "longitude": -121.797,
+        "name": "Mount Pilchuck",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.16272,
+          48.84862
+        ]
+      },
+      "properties": {
+        "feet": 7579,
+        "meters": 2310,
+        "latitude": 48.84862,
+        "longitude": -121.16272,
+        "name": "Mount Prophet",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.574176,
+          47.835571
+        ]
+      },
+      "properties": {
+        "feet": 6283,
+        "meters": 1915,
+        "latitude": 47.835571,
+        "longitude": -123.574176,
+        "name": "Mount Pulitzer",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.759,
+          46.8528
+        ]
+      },
+      "properties": {
+        "feet": 14411,
+        "meters": 4392,
+        "latitude": 46.8528,
+        "longitude": -121.759,
+        "name": "Mount Rainier",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.300864,
+          48.95782
+        ]
+      },
+      "properties": {
+        "feet": 8969,
+        "meters": 2734,
+        "latitude": 48.95782,
+        "longitude": -121.300864,
+        "name": "Mount Redoubt",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.196867,
+          48.92343
+        ]
+      },
+      "properties": {
+        "feet": 8685,
+        "meters": 2647,
+        "latitude": 48.92343,
+        "longitude": -120.196867,
+        "name": "Mount Remmel",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.191,
+          46.1978
+        ]
+      },
+      "properties": {
+        "feet": 8364,
+        "meters": 2549,
+        "latitude": 46.1978,
+        "longitude": -122.191,
+        "name": "Mount Saint Helens",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.602917,
+          48.830958
+        ]
+      },
+      "properties": {
+        "feet": 9127,
+        "meters": 2782,
+        "latitude": 48.830958,
+        "longitude": -121.602917,
+        "name": "Mount Shuksan",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.740109,
+          47.507603
+        ]
+      },
+      "properties": {
+        "feet": 4167,
+        "meters": 1270,
+        "latitude": 47.507603,
+        "longitude": -121.740109,
+        "name": "Mount Si",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.294196,
+          47.590912
+        ]
+      },
+      "properties": {
+        "feet": 6434,
+        "meters": 1961,
+        "latitude": 47.590912,
+        "longitude": -123.294196,
+        "name": "Mount Skokomish",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.240482,
+          48.969682
+        ]
+      },
+      "properties": {
+        "feet": 8979,
+        "meters": 2737,
+        "latitude": 48.969682,
+        "longitude": -121.240482,
+        "name": "Mount Spickard",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.115,
+          47.9253
+        ]
+      },
+      "properties": {
+        "feet": 5883,
+        "meters": 1793,
+        "latitude": 47.9253,
+        "longitude": -117.115,
+        "name": "Mount Spokane",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.266473,
+          47.606308
+        ]
+      },
+      "properties": {
+        "feet": 6612,
+        "meters": 2015,
+        "latitude": 47.606308,
+        "longitude": -123.266473,
+        "name": "Mount Stone",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.902395,
+          47.475158
+        ]
+      },
+      "properties": {
+        "feet": 9415,
+        "meters": 2869,
+        "latitude": 47.475158,
+        "longitude": -120.902395,
+        "name": "Mount Stuart",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.696,
+          47.5087
+        ]
+      },
+      "properties": {
+        "feet": 4788,
+        "meters": 1459,
+        "latitude": 47.5087,
+        "longitude": -121.696,
+        "name": "Mount Teneriffe",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.299573,
+          48.774294
+        ]
+      },
+      "properties": {
+        "feet": 8151,
+        "meters": 2484,
+        "latitude": 48.774294,
+        "longitude": -121.299573,
+        "name": "Mount Terror",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.758246,
+          47.793143
+        ]
+      },
+      "properties": {
+        "feet": 7076,
+        "meters": 2157,
+        "latitude": 47.793143,
+        "longitude": -123.758246,
+        "name": "Mount Tom",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.077747,
+          48.512056
+        ]
+      },
+      "properties": {
+        "feet": 8120,
+        "meters": 2475,
+        "latitude": 48.512056,
+        "longitude": -121.077747,
+        "name": "Mount Torment",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.059492,
+          47.867509
+        ]
+      },
+      "properties": {
+        "feet": 6280,
+        "meters": 1914,
+        "latitude": 47.867509,
+        "longitude": -123.059492,
+        "name": "Mount Townsend",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.356096,
+          48.706624
+        ]
+      },
+      "properties": {
+        "feet": 7271,
+        "meters": 2216,
+        "latitude": 48.706624,
+        "longitude": -121.356096,
+        "name": "Mount Triumph",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.246002,
+          47.531343
+        ]
+      },
+      "properties": {
+        "feet": 6255,
+        "meters": 1907,
+        "latitude": 47.531343,
+        "longitude": -123.246002,
+        "name": "Mount Washington",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.507034,
+          46.867889
+        ]
+      },
+      "properties": {
+        "feet": 6452,
+        "meters": 1967,
+        "latitude": 46.867889,
+        "longitude": -121.507034,
+        "name": "Naches Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.86978,
+          48.53077
+        ]
+      },
+      "properties": {
+        "feet": 7800,
+        "meters": 2377,
+        "latitude": 48.53077,
+        "longitude": -120.86978,
+        "name": "Natal",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.205034,
+          46.823615
+        ]
+      },
+      "properties": {
+        "feet": 7160,
+        "meters": 2182,
+        "latitude": 46.823615,
+        "longitude": -121.205034,
+        "name": "Nelson Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.572218,
+          45.816837
+        ]
+      },
+      "properties": {
+        "feet": 3088,
+        "meters": 941,
+        "latitude": 45.816837,
+        "longitude": -121.572218,
+        "name": "Nestor Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.655417,
+          48.512909
+        ]
+      },
+      "properties": {
+        "feet": 7760,
+        "meters": 2365,
+        "latitude": 48.512909,
+        "longitude": -120.655417,
+        "name": "North Early Winters Spire",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.998324,
+          48.715459
+        ]
+      },
+      "properties": {
+        "feet": 6640,
+        "meters": 2024,
+        "latitude": 48.715459,
+        "longitude": -121.998324,
+        "name": "North Twin Sister",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.454072,
+          46.512068
+        ]
+      },
+      "properties": {
+        "feet": 7930,
+        "meters": 2417,
+        "latitude": 46.512068,
+        "longitude": -121.454072,
+        "name": "Old Snowy",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.903769,
+          48.523426
+        ]
+      },
+      "properties": {
+        "feet": 7910,
+        "meters": 2411,
+        "latitude": 48.523426,
+        "longitude": -120.903769,
+        "name": "Outpost",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.425262,
+          48.287134
+        ]
+      },
+      "properties": {
+        "feet": 8795,
+        "meters": 2681,
+        "latitude": 48.287134,
+        "longitude": -120.425262,
+        "name": "Oval Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.851111,
+          47.675184
+        ]
+      },
+      "properties": {
+        "feet": 6744,
+        "meters": 2056,
+        "latitude": 47.675184,
+        "longitude": -120.851111,
+        "name": "Painters Thumb",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.149843,
+          48.666238
+        ]
+      },
+      "properties": {
+        "feet": 7480,
+        "meters": 2280,
+        "latitude": 48.666238,
+        "longitude": -121.149843,
+        "name": "Paul Bunyans Stump",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.135082,
+          48.657606
+        ]
+      },
+      "properties": {
+        "feet": 7505,
+        "meters": 2288,
+        "latitude": 48.657606,
+        "longitude": -121.135082,
+        "name": "Peak 7505",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.342449,
+          48.819185
+        ]
+      },
+      "properties": {
+        "feet": 8000,
+        "meters": 2438,
+        "latitude": 48.819185,
+        "longitude": -121.342449,
+        "name": "Phantom Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.134696,
+          48.293615
+        ]
+      },
+      "properties": {
+        "feet": 7088,
+        "meters": 2160,
+        "latitude": 48.293615,
+        "longitude": -121.134696,
+        "name": "Pilot Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.732593,
+          46.757974
+        ]
+      },
+      "properties": {
+        "feet": 6562,
+        "meters": 2000,
+        "latitude": 46.757974,
+        "longitude": -121.732593,
+        "name": "Pinnacle Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.972047,
+          48.207001
+        ]
+      },
+      "properties": {
+        "feet": 7870,
+        "meters": 2399,
+        "latitude": 48.207001,
+        "longitude": -120.972047,
+        "name": "Plummer Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.739631,
+          46.753711
+        ]
+      },
+      "properties": {
+        "feet": 6370,
+        "meters": 1942,
+        "latitude": 46.753711,
+        "longitude": -121.739631,
+        "name": "Plummer Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.062317,
+          47.915927
+        ]
+      },
+      "properties": {
+        "feet": 6015,
+        "meters": 1833,
+        "latitude": 47.915927,
+        "longitude": -121.062317,
+        "name": "Poe Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.736699,
+          48.550279
+        ]
+      },
+      "properties": {
+        "feet": 7762,
+        "meters": 2366,
+        "latitude": 48.550279,
+        "longitude": -120.736699,
+        "name": "Porcupine",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.47,
+          48.2753
+        ]
+      },
+      "properties": {
+        "feet": 5678,
+        "meters": 1731,
+        "latitude": 48.2753,
+        "longitude": -121.47,
+        "name": "Prairie Mtn.",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.091909,
+          48.581973
+        ]
+      },
+      "properties": {
+        "feet": 8508,
+        "meters": 2593,
+        "latitude": 48.581973,
+        "longitude": -121.091909,
+        "name": "Primus Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.78455,
+          47.487397
+        ]
+      },
+      "properties": {
+        "feet": 7858,
+        "meters": 2395,
+        "latitude": 47.487397,
+        "longitude": -120.78455,
+        "name": "Prusik Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.374279,
+          48.143165
+        ]
+      },
+      "properties": {
+        "feet": 7201,
+        "meters": 2195,
+        "latitude": 48.143165,
+        "longitude": -121.374279,
+        "name": "Pugh",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.146069,
+          48.674753
+        ]
+      },
+      "properties": {
+        "feet": 7182,
+        "meters": 2189,
+        "latitude": 48.674753,
+        "longitude": -121.146069,
+        "name": "Pyramid Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.806,
+          47.4584
+        ]
+      },
+      "properties": {
+        "feet": 3294,
+        "meters": 1004,
+        "latitude": 47.4584,
+        "longitude": -121.806,
+        "name": "Rattlesnake Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.389141,
+          47.456068
+        ]
+      },
+      "properties": {
+        "feet": 5890,
+        "meters": 1795,
+        "latitude": 47.456068,
+        "longitude": -121.389141,
+        "name": "Red Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.104814,
+          48.848507
+        ]
+      },
+      "properties": {
+        "feet": 7523,
+        "meters": 2293,
+        "latitude": 48.848507,
+        "longitude": -120.104814,
+        "name": "Reed Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.750832,
+          48.326468
+        ]
+      },
+      "properties": {
+        "feet": 5320,
+        "meters": 1622,
+        "latitude": 48.326468,
+        "longitude": -121.750832,
+        "name": "Round Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.042943,
+          48.694388
+        ]
+      },
+      "properties": {
+        "feet": 7408,
+        "meters": 2258,
+        "latitude": 48.694388,
+        "longitude": -121.042943,
+        "name": "Ruby Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.589427,
+          47.495545
+        ]
+      },
+      "properties": {
+        "feet": 5123,
+        "meters": 1561,
+        "latitude": 47.495545,
+        "longitude": -121.589427,
+        "name": "Russian Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.532822,
+          48.859746
+        ]
+      },
+      "properties": {
+        "feet": 7115,
+        "meters": 2166,
+        "latitude": 48.859746,
+        "longitude": -121.532822,
+        "name": "Ruth Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.038566,
+          48.491184
+        ]
+      },
+      "properties": {
+        "feet": 8680,
+        "meters": 2586,
+        "latitude": 48.491184,
+        "longitude": -121.038566,
+        "name": "Sahale Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.600842,
+          48.523057
+        ]
+      },
+      "properties": {
+        "feet": 5541,
+        "meters": 1689,
+        "latitude": 48.523057,
+        "longitude": -121.600842,
+        "name": "Sauk Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.414,
+          47.9172
+        ]
+      },
+      "properties": {
+        "feet": 5288,
+        "meters": 1612,
+        "latitude": 47.9172,
+        "longitude": -121.414,
+        "name": "Scott Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.549387,
+          48.820033
+        ]
+      },
+      "properties": {
+        "feet": 7441,
+        "meters": 2268,
+        "latitude": 48.820033,
+        "longitude": -121.549387,
+        "name": "Seahpo Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.342304,
+          47.778992
+        ]
+      },
+      "properties": {
+        "feet": 6592,
+        "meters": 2009,
+        "latitude": 47.778992,
+        "longitude": -123.342304,
+        "name": "Sentinel Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.814419,
+          48.150426
+        ]
+      },
+      "properties": {
+        "feet": 9077,
+        "meters": 2767,
+        "latitude": 48.150426,
+        "longitude": -120.814419,
+        "name": "Seven Fingered Jack",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.888705,
+          47.471822
+        ]
+      },
+      "properties": {
+        "feet": 8605,
+        "meters": 2623,
+        "latitude": 47.471822,
+        "longitude": -120.888705,
+        "name": "Sherpa Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.530547,
+          46.813571
+        ]
+      },
+      "properties": {
+        "feet": 5834,
+        "meters": 1768,
+        "latitude": 46.813571,
+        "longitude": -121.530547,
+        "name": "Shriner Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.461368,
+          47.361618
+        ]
+      },
+      "properties": {
+        "feet": 5605,
+        "meters": 1708,
+        "latitude": 47.361618,
+        "longitude": -121.461368,
+        "name": "Silver Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.585079,
+          48.547921
+        ]
+      },
+      "properties": {
+        "feet": 8876,
+        "meters": 2705,
+        "latitude": 48.547921,
+        "longitude": -120.585079,
+        "name": "Silver Star Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.009827,
+          48.299848
+        ]
+      },
+      "properties": {
+        "feet": 8440,
+        "meters": 2573,
+        "latitude": 48.299848,
+        "longitude": -121.009827,
+        "name": "Sinister Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.698303,
+          46.927114
+        ]
+      },
+      "properties": {
+        "feet": 7078,
+        "meters": 2157,
+        "latitude": 46.927114,
+        "longitude": -121.698303,
+        "name": "Skyscraper Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.340303,
+          48.04148
+        ]
+      },
+      "properties": {
+        "feet": 7835,
+        "meters": 2388,
+        "latitude": 48.04148,
+        "longitude": -121.340303,
+        "name": "Sloan Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.737828,
+          46.945868
+        ]
+      },
+      "properties": {
+        "feet": 7026,
+        "meters": 2142,
+        "latitude": 46.945868,
+        "longitude": -121.737828,
+        "name": "Sluiskin Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.416521,
+          47.45894
+        ]
+      },
+      "properties": {
+        "feet": 6278,
+        "meters": 1914,
+        "latitude": 47.45894,
+        "longitude": -121.416521,
+        "name": "Snoqualmie Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009783,
+          46.683098
+        ]
+      },
+      "properties": {
+        "feet": 4477,
+        "meters": 1365,
+        "latitude": 46.683098,
+        "longitude": -122.009783,
+        "name": "Snowbowl Hut Overlook",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.138773,
+          48.635348
+        ]
+      },
+      "properties": {
+        "feet": 8347,
+        "meters": 2544,
+        "latitude": 48.635348,
+        "longitude": -121.138773,
+        "name": "Snowfield Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.935,
+          47.6839
+        ]
+      },
+      "properties": {
+        "feet": 7993,
+        "meters": 2436,
+        "latitude": 47.6839,
+        "longitude": -120.935,
+        "name": "Snowgrass",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.161604,
+          48.390658
+        ]
+      },
+      "properties": {
+        "feet": 6971,
+        "meters": 2125,
+        "latitude": 48.390658,
+        "longitude": -121.161604,
+        "name": "Sonny Boy",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.12843,
+          48.751945
+        ]
+      },
+      "properties": {
+        "feet": 6112,
+        "meters": 1824,
+        "latitude": 48.751945,
+        "longitude": -121.12843,
+        "name": "Sourdough Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.612,
+          48.4372
+        ]
+      },
+      "properties": {
+        "feet": 7670,
+        "meters": 2338,
+        "latitude": 48.4372,
+        "longitude": -120.612,
+        "name": "South Creek Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.654,
+          48.5123
+        ]
+      },
+      "properties": {
+        "feet": 7807,
+        "meters": 2380,
+        "latitude": 48.5123,
+        "longitude": -120.654,
+        "name": "South Early Winters Spire",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.987467,
+          48.704896
+        ]
+      },
+      "properties": {
+        "feet": 7000,
+        "meters": 2134,
+        "latitude": 48.704896,
+        "longitude": -121.987467,
+        "name": "South Twin Sister",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.502566,
+          48.015937
+        ]
+      },
+      "properties": {
+        "feet": 6120,
+        "meters": 1865,
+        "latitude": 48.015937,
+        "longitude": -121.502566,
+        "name": "Sperry Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.036034,
+          48.409406
+        ]
+      },
+      "properties": {
+        "feet": 8280,
+        "meters": 2524,
+        "latitude": 48.409406,
+        "longitude": -121.036034,
+        "name": "Spider Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0718,
+          48.3176
+        ]
+      },
+      "properties": {
+        "feet": 8264,
+        "meters": 2519,
+        "latitude": 48.3176,
+        "longitude": -121.0718,
+        "name": "Spire Point",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.350088,
+          48.110784
+        ]
+      },
+      "properties": {
+        "feet": 5770,
+        "meters": 1759,
+        "latitude": 48.110784,
+        "longitude": -121.350088,
+        "name": "Spring Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.047183,
+          47.503885
+        ]
+      },
+      "properties": {
+        "feet": 2028,
+        "meters": 618,
+        "latitude": 47.503885,
+        "longitude": -122.047183,
+        "name": "Squak Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.676888,
+          46.746095
+        ]
+      },
+      "properties": {
+        "feet": 6510,
+        "meters": 1984,
+        "latitude": 46.746095,
+        "longitude": -121.676888,
+        "name": "Stevens Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.157956,
+          48.411428
+        ]
+      },
+      "properties": {
+        "feet": 5994,
+        "meters": 1827,
+        "latitude": 48.411428,
+        "longitude": -121.157956,
+        "name": "Sunny Girl",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.237333,
+          47.832431
+        ]
+      },
+      "properties": {
+        "feet": 7580,
+        "meters": 2310,
+        "latitude": 47.832431,
+        "longitude": -123.237333,
+        "name": "Sweat Spire",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.71371,
+          48.847745
+        ]
+      },
+      "properties": {
+        "feet": 5742,
+        "meters": 1750,
+        "latitude": 48.847745,
+        "longitude": -121.71371,
+        "name": "Table Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.91115,
+          48.643288
+        ]
+      },
+      "properties": {
+        "feet": 7160,
+        "meters": 2182,
+        "latitude": 48.643288,
+        "longitude": -120.91115,
+        "name": "Tar Heel",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.415062,
+          47.70309
+        ]
+      },
+      "properties": {
+        "feet": 3407,
+        "meters": 1038,
+        "latitude": 47.70309,
+        "longitude": -121.415062,
+        "name": "Temple",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540761,
+          47.588799
+        ]
+      },
+      "properties": {
+        "feet": 5339,
+        "meters": 1627,
+        "latitude": 47.588799,
+        "longitude": -121.540761,
+        "name": "The Ark",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.140998,
+          47.653147
+        ]
+      },
+      "properties": {
+        "feet": 6866,
+        "meters": 2092,
+        "latitude": 47.653147,
+        "longitude": -123.140998,
+        "name": "The Brothers",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.649,
+          48.5989
+        ]
+      },
+      "properties": {
+        "feet": 8170,
+        "meters": 2490,
+        "latitude": 48.5989,
+        "longitude": -120.649,
+        "name": "The Needles",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.551833,
+          47.521403
+        ]
+      },
+      "properties": {
+        "feet": 4523,
+        "meters": 1379,
+        "latitude": 47.521403,
+        "longitude": -121.551833,
+        "name": "The Pulpit",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.454759,
+          47.445823
+        ]
+      },
+      "properties": {
+        "feet": 5604,
+        "meters": 1708,
+        "latitude": 47.445823,
+        "longitude": -121.454759,
+        "name": "The Tooth",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.162934,
+          48.51976
+        ]
+      },
+      "properties": {
+        "feet": 7550,
+        "meters": 2301,
+        "latitude": 48.51976,
+        "longitude": -121.162934,
+        "name": "The Triad",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.073112,
+          48.461539
+        ]
+      },
+      "properties": {
+        "feet": 7240,
+        "meters": 2207,
+        "latitude": 48.461539,
+        "longitude": -121.073112,
+        "name": "The Triplets",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.687789,
+          48.169949
+        ]
+      },
+      "properties": {
+        "feet": 6854,
+        "meters": 2089,
+        "latitude": 48.169949,
+        "longitude": -121.687789,
+        "name": "Three Fingers",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.947045,
+          47.488526
+        ]
+      },
+      "properties": {
+        "feet": 3004,
+        "meters": 916,
+        "latitude": 47.488526,
+        "longitude": -121.947045,
+        "name": "Tiger Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.877389,
+          46.958025
+        ]
+      },
+      "properties": {
+        "feet": 5939,
+        "meters": 1810,
+        "latitude": 46.958025,
+        "longitude": -121.877389,
+        "name": "Tolmie Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.710019,
+          48.974865
+        ]
+      },
+      "properties": {
+        "feet": 7435,
+        "meters": 2266,
+        "latitude": 48.974865,
+        "longitude": -121.710019,
+        "name": "Tomyhoi Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.704169,
+          48.588474
+        ]
+      },
+      "properties": {
+        "feet": 8444,
+        "meters": 2574,
+        "latitude": 48.588474,
+        "longitude": -120.704169,
+        "name": "Tower Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.01788,
+          48.431735
+        ]
+      },
+      "properties": {
+        "feet": 7530,
+        "meters": 2295,
+        "latitude": 48.431735,
+        "longitude": -121.01788,
+        "name": "Trapper Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.322794,
+          48.688411
+        ]
+      },
+      "properties": {
+        "feet": 5966,
+        "meters": 1818,
+        "latitude": 48.688411,
+        "longitude": -121.322794,
+        "name": "Trappers Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.603632,
+          47.612673
+        ]
+      },
+      "properties": {
+        "feet": 5325,
+        "meters": 1623,
+        "latitude": 47.612673,
+        "longitude": -121.603632,
+        "name": "Twin Peaks",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.700964,
+          46.745213
+        ]
+      },
+      "properties": {
+        "feet": 6971,
+        "meters": 2125,
+        "latitude": 46.745213,
+        "longitude": -121.700964,
+        "name": "Unicorn Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.517801,
+          48.012951
+        ]
+      },
+      "properties": {
+        "feet": 6214,
+        "meters": 1894,
+        "latitude": 48.012951,
+        "longitude": -121.517801,
+        "name": "Vesper Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.766839,
+          46.746919
+        ]
+      },
+      "properties": {
+        "feet": 6231,
+        "meters": 1899,
+        "latitude": 46.746919,
+        "longitude": -121.766839,
+        "name": "Wahpenayo Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.133521,
+          47.784067
+        ]
+      },
+      "properties": {
+        "feet": 7300,
+        "meters": 2225,
+        "latitude": 47.784067,
+        "longitude": -123.133521,
+        "name": "Warrior Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Olympic Mountains"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.406208,
+          47.274075
+        ]
+      },
+      "properties": {
+        "feet": 6742,
+        "meters": 2055,
+        "latitude": 47.274075,
+        "longitude": -120.406208,
+        "name": "Wenatchee Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37448,
+          48.8575
+        ]
+      },
+      "properties": {
+        "feet": 7574,
+        "meters": 2309,
+        "latitude": 48.8575,
+        "longitude": -121.37448,
+        "name": "Whatcom Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.707605,
+          48.515414
+        ]
+      },
+      "properties": {
+        "feet": 7790,
+        "meters": 2374,
+        "latitude": 48.515414,
+        "longitude": -120.707605,
+        "name": "Whistler Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.417036,
+          48.208545
+        ]
+      },
+      "properties": {
+        "feet": 6989,
+        "meters": 2130,
+        "latitude": 48.208545,
+        "longitude": -121.417036,
+        "name": "White Chuck",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.438672,
+          48.247415
+        ]
+      },
+      "properties": {
+        "feet": 5040,
+        "meters": 1536,
+        "latitude": 48.247415,
+        "longitude": -121.438672,
+        "name": "White Prairie",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.677747,
+          48.211033
+        ]
+      },
+      "properties": {
+        "feet": 6840,
+        "meters": 2085,
+        "latitude": 48.211033,
+        "longitude": -121.677747,
+        "name": "Whitehorse Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.643071,
+          48.956524
+        ]
+      },
+      "properties": {
+        "feet": 6521,
+        "meters": 1988,
+        "latitude": 48.956524,
+        "longitude": -121.643071,
+        "name": "Winchester Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.522651,
+          46.873512
+        ]
+      },
+      "properties": {
+        "feet": 6226,
+        "meters": 1898,
+        "latitude": 46.873512,
+        "longitude": -121.522651,
+        "name": "Yakima Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7476,
+          47.535139
+        ]
+      },
+      "properties": {
+        "feet": 4500,
+        "meters": 1372,
+        "latitude": 47.535139,
+        "longitude": -120.7476,
+        "name": "Yellowjacket Tower",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

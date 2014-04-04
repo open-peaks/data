@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.1978,
+      48.5006
+    ]
+  },
+  "properties": {
+    "feet": 7088,
+    "meters": 2160,
+    "latitude": 48.5006,
+    "longitude": -121.1978,
+    "name": "Hidden Lake Peaks",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6124,
+      47.5007
+    ]
+  },
+  "properties": {
+    "feet": 6916,
+    "meters": 2108,
+    "latitude": 47.5007,
+    "longitude": 10.6124,
+    "name": "Gimpel",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

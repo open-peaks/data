@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.984,
+      37.8603
+    ]
+  },
+  "properties": {
+    "feet": 14017,
+    "meters": 4272,
+    "latitude": 37.8603,
+    "longitude": -107.984,
+    "name": "Wilson Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.941159,
+      -16.431907
+    ]
+  },
+  "properties": {
+    "feet": 17785,
+    "meters": 5421,
+    "latitude": -16.431907,
+    "longitude": -67.941159,
+    "name": "Hati Khollu",
+    "regions": [
+      "Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

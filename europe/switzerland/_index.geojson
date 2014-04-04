@@ -1,0 +1,3322 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.975799,
+          45.934039
+        ]
+      },
+      "properties": {
+        "feet": 13238,
+        "meters": 4035,
+        "latitude": 45.934039,
+        "longitude": 6.975799,
+        "name": "Aiguille du Jardin",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98333,
+          46.4667
+        ]
+      },
+      "properties": {
+        "feet": 13763,
+        "meters": 4195,
+        "latitude": 46.4667,
+        "longitude": 7.98333,
+        "name": "Aletschhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.863917,
+          46.062972
+        ]
+      },
+      "properties": {
+        "feet": 13799,
+        "meters": 4206,
+        "latitude": 46.062972,
+        "longitude": 7.863917,
+        "name": "Alphubel",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.371796,
+          47.239588
+        ]
+      },
+      "properties": {
+        "feet": 7992,
+        "meters": 2436,
+        "latitude": 47.239588,
+        "longitude": 9.371796,
+        "name": "Altmann",
+        "regions": [
+          "Northern Alps",
+          "Saint Gallen Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69361,
+          46.3917
+        ]
+      },
+      "properties": {
+        "feet": 12133,
+        "meters": 3698,
+        "latitude": 46.3917,
+        "longitude": 7.69361,
+        "name": "balmhorn",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733946,
+          46.155816
+        ]
+      },
+      "properties": {
+        "feet": 11844,
+        "meters": 3610,
+        "latitude": 46.155816,
+        "longitude": 7.733946,
+        "name": "Barrhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.518366,
+          46.167895
+        ]
+      },
+      "properties": {
+        "feet": 10331,
+        "meters": 3149,
+        "latitude": 46.167895,
+        "longitude": 7.518366,
+        "name": "Becs de Bosson",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.484082,
+          46.658601
+        ]
+      },
+      "properties": {
+        "feet": 9236,
+        "meters": 2815,
+        "latitude": 46.658601,
+        "longitude": 8.484082,
+        "name": "Bergseeschijen",
+        "regions": [
+          "Northern Alps",
+          "Urner Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9,
+          46.3667
+        ]
+      },
+      "properties": {
+        "feet": 13284,
+        "meters": 4049,
+        "latitude": 46.3667,
+        "longitude": 9.9,
+        "name": "Bernina",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76667,
+          46.5
+        ]
+      },
+      "properties": {
+        "feet": 12008,
+        "meters": 3660,
+        "latitude": 46.5,
+        "longitude": 7.76667,
+        "name": "Blemlisalphorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.08401,
+          46.23837
+        ]
+      },
+      "properties": {
+        "feet": 11280,
+        "meters": 3438,
+        "latitude": 46.23837,
+        "longitude": 8.08401,
+        "name": "Breithorn (Simplon)",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73333,
+          45.9333
+        ]
+      },
+      "properties": {
+        "feet": 13661,
+        "meters": 4164,
+        "latitude": 45.9333,
+        "longitude": 7.73333,
+        "name": "Breithorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745917,
+          46.125944
+        ]
+      },
+      "properties": {
+        "feet": 12575,
+        "meters": 3833,
+        "latitude": 46.125944,
+        "longitude": 7.745917,
+        "name": "Brunegghorn",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.819889,
+          46.518667
+        ]
+      },
+      "properties": {
+        "feet": 10476,
+        "meters": 3193,
+        "latitude": 46.518667,
+        "longitude": 7.819889,
+        "name": "Bütlasse",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164202,
+          45.874145
+        ]
+      },
+      "properties": {
+        "feet": 9160,
+        "meters": 2792,
+        "latitude": 45.874145,
+        "longitude": 7.164202,
+        "name": "Chenalette",
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26667,
+          46.6167
+        ]
+      },
+      "properties": {
+        "feet": 6900,
+        "meters": 2103,
+        "latitude": 46.6167,
+        "longitude": 7.26667,
+        "name": "Chorblispitz",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61667,
+          46.0333
+        ]
+      },
+      "properties": {
+        "feet": 14291,
+        "meters": 4356,
+        "latitude": 46.0333,
+        "longitude": 7.61667,
+        "name": "Dent Blanche",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605109,
+          45.969953
+        ]
+      },
+      "properties": {
+        "feet": 13684,
+        "meters": 4171,
+        "latitude": 45.969953,
+        "longitude": 7.605109,
+        "name": "Dent d' Hérens",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.975,
+          46.444963
+        ]
+      },
+      "properties": {
+        "feet": 6152,
+        "meters": 1875,
+        "latitude": 46.444963,
+        "longitude": 6.975,
+        "name": "Dent de Jaman",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.002961,
+          46.507634
+        ]
+      },
+      "properties": {
+        "feet": 6608,
+        "meters": 2014,
+        "latitude": 46.507634,
+        "longitude": 7.002961,
+        "name": "Dent de Lys",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93333,
+          46.1667
+        ]
+      },
+      "properties": {
+        "feet": 10686,
+        "meters": 3257,
+        "latitude": 46.1667,
+        "longitude": 6.93333,
+        "name": "Dents du Midi",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85,
+          46.1
+        ]
+      },
+      "properties": {
+        "feet": 14911,
+        "meters": 4545,
+        "latitude": 46.1,
+        "longitude": 7.85,
+        "name": "Dom",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88333,
+          45.9167
+        ]
+      },
+      "properties": {
+        "feet": 15203,
+        "meters": 4634,
+        "latitude": 45.9167,
+        "longitude": 7.88333,
+        "name": "Dufourspitze",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.848158,
+          46.119774
+        ]
+      },
+      "properties": {
+        "feet": 13238,
+        "meters": 4035,
+        "latitude": 46.119774,
+        "longitude": 7.848158,
+        "name": "Dürrenhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.983928,
+          46.57733
+        ]
+      },
+      "properties": {
+        "feet": 8737,
+        "meters": 2663,
+        "latitude": 46.57733,
+        "longitude": 7.983928,
+        "name": "Eiger Rotstock",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.005171,
+          46.577595
+        ]
+      },
+      "properties": {
+        "feet": 13025,
+        "meters": 3970,
+        "latitude": 46.577595,
+        "longitude": 8.005171,
+        "name": "Eiger",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.677658,
+          46.779278
+        ]
+      },
+      "properties": {
+        "feet": 9593,
+        "meters": 2924,
+        "latitude": 46.779278,
+        "longitude": 9.677658,
+        "name": "Erzhorn",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.502761,
+          45.964307
+        ]
+      },
+      "properties": {
+        "feet": 12192,
+        "meters": 3716,
+        "latitude": 45.964307,
+        "longitude": 7.502761,
+        "name": "Eveque",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.999506,
+          46.674795
+        ]
+      },
+      "properties": {
+        "feet": 8796,
+        "meters": 2681,
+        "latitude": 46.674795,
+        "longitude": 7.999506,
+        "name": "Faulhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.13333,
+          46.5333
+        ]
+      },
+      "properties": {
+        "feet": 14019,
+        "meters": 4273,
+        "latitude": 46.5333,
+        "longitude": 8.13333,
+        "name": "Finsteraarhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95,
+          46.8
+        ]
+      },
+      "properties": {
+        "feet": 10325,
+        "meters": 3147,
+        "latitude": 46.8,
+        "longitude": 9.95,
+        "name": "Flüela Schwarzhorn",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96456,
+          46.7608
+        ]
+      },
+      "properties": {
+        "feet": 10121,
+        "meters": 3085,
+        "latitude": 46.7608,
+        "longitude": 9.96456,
+        "name": "Flüela-Wisshorn",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          47.0333
+        ]
+      },
+      "properties": {
+        "feet": 11755,
+        "meters": 3583,
+        "latitude": 47.0333,
+        "longitude": 8.7,
+        "name": "Galenstock",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597307,
+          46.120782
+        ]
+      },
+      "properties": {
+        "feet": 10860,
+        "meters": 3310,
+        "latitude": 46.120782,
+        "longitude": 7.597307,
+        "name": "Garde de Bordon",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56475,
+          47.170287
+        ]
+      },
+      "properties": {
+        "feet": 6906,
+        "meters": 2105,
+        "latitude": 47.170287,
+        "longitude": 9.56475,
+        "name": "Garsellikopf",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          45.95
+        ]
+      },
+      "properties": {
+        "feet": 14154,
+        "meters": 4314,
+        "latitude": 45.95,
+        "longitude": 7.3,
+        "name": "Grand Combin",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.11667,
+          46.2333
+        ]
+      },
+      "properties": {
+        "feet": 10010,
+        "meters": 3051,
+        "latitude": 46.2333,
+        "longitude": 7.11667,
+        "name": "Grand Muveran",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.868,
+          45.93675
+        ]
+      },
+      "properties": {
+        "feet": 15151,
+        "meters": 4618,
+        "latitude": 45.93675,
+        "longitude": 7.868,
+        "name": "Grenzgipfel",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.061304,
+          46.551187
+        ]
+      },
+      "properties": {
+        "feet": 13284,
+        "meters": 4049,
+        "latitude": 46.551187,
+        "longitude": 8.061304,
+        "name": "Gross Fiescherhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.077784,
+          46.531705
+        ]
+      },
+      "properties": {
+        "feet": 13268,
+        "meters": 4044,
+        "latitude": 46.531705,
+        "longitude": 8.077784,
+        "name": "Gross-Grünhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.092632,
+          46.60346
+        ]
+      },
+      "properties": {
+        "feet": 10381,
+        "meters": 3164,
+        "latitude": 46.60346,
+        "longitude": 8.092632,
+        "name": "Gwächtenhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415589,
+          46.603281
+        ]
+      },
+      "properties": {
+        "feet": 9455,
+        "meters": 2882,
+        "latitude": 46.603281,
+        "longitude": 8.415589,
+        "name": "Hannibal Turm",
+        "regions": [
+          "Northern Alps",
+          "Urner Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19,
+          46.24
+        ]
+      },
+      "properties": {
+        "feet": 9741,
+        "meters": 2969,
+        "latitude": 46.24,
+        "longitude": 7.19,
+        "name": "Haut de Cry",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.43333,
+          46.5333
+        ]
+      },
+      "properties": {
+        "feet": 8123,
+        "meters": 2476,
+        "latitude": 46.5333,
+        "longitude": 7.43333,
+        "name": "Hinderi Spillgerte",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.068256,
+          46.545904
+        ]
+      },
+      "properties": {
+        "feet": 13205,
+        "meters": 4025,
+        "latitude": 46.545904,
+        "longitude": 8.068256,
+        "name": "Hinter Fiescherhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.853868,
+          46.112531
+        ]
+      },
+      "properties": {
+        "feet": 13842,
+        "meters": 4219,
+        "latitude": 46.112531,
+        "longitude": 7.853868,
+        "name": "Hohberghorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0575,
+          46.237386
+        ]
+      },
+      "properties": {
+        "feet": 10472,
+        "meters": 3192,
+        "latitude": 46.237386,
+        "longitude": 8.0575,
+        "name": "Hübschhorn",
+        "regions": [
+          "Southern Alps",
+          "Lepontine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.402268,
+          47.252331
+        ]
+      },
+      "properties": {
+        "feet": 7073,
+        "meters": 2156,
+        "latitude": 47.252331,
+        "longitude": 9.402268,
+        "name": "Hundstein",
+        "regions": [
+          "Northern Alps",
+          "Saint Gallen Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.96998,
+          46.15139
+        ]
+      },
+      "properties": {
+        "feet": 10518,
+        "meters": 3206,
+        "latitude": 46.15139,
+        "longitude": 7.96998,
+        "name": "Jegihorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.96667,
+          46.5333
+        ]
+      },
+      "properties": {
+        "feet": 13642,
+        "meters": 4158,
+        "latitude": 46.5333,
+        "longitude": 7.96667,
+        "name": "Jungfrau",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41051,
+          46.58007
+        ]
+      },
+      "properties": {
+        "feet": 9928,
+        "meters": 3026,
+        "latitude": 46.58007,
+        "longitude": 8.41051,
+        "name": "Klein Furkahorn",
+        "regions": [
+          "Southern Alps",
+          "Lepontine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139153,
+          46.578982
+        ]
+      },
+      "properties": {
+        "feet": 12260,
+        "meters": 3737,
+        "latitude": 46.578982,
+        "longitude": 8.139153,
+        "name": "Klein Lauteraarhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.729722,
+          45.938333
+        ]
+      },
+      "properties": {
+        "feet": 12740,
+        "meters": 3883,
+        "latitude": 45.938333,
+        "longitude": 7.729722,
+        "name": "Klein Matterhorn",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.102074,
+          46.60169
+        ]
+      },
+      "properties": {
+        "feet": 11463,
+        "meters": 3494,
+        "latitude": 46.60169,
+        "longitude": 8.102074,
+        "name": "Klein Schreckhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38775,
+          46.0102
+        ]
+      },
+      "properties": {
+        "feet": 11640,
+        "meters": 3548,
+        "latitude": 46.0102,
+        "longitude": 7.38775,
+        "name": "La Luette",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.400361,
+          45.979111
+        ]
+      },
+      "properties": {
+        "feet": 12787,
+        "meters": 3898,
+        "latitude": 45.979111,
+        "longitude": 7.400361,
+        "name": "La Ruinette",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37221,
+          46.02313
+        ]
+      },
+      "properties": {
+        "feet": 11962,
+        "meters": 3646,
+        "latitude": 46.02313,
+        "longitude": 7.37221,
+        "name": "La Sale",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.126621,
+          46.587653
+        ]
+      },
+      "properties": {
+        "feet": 13261,
+        "meters": 4042,
+        "latitude": 46.587653,
+        "longitude": 8.126621,
+        "name": "Lauteraarhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49162,
+          46.21269
+        ]
+      },
+      "properties": {
+        "feet": 7126,
+        "meters": 2172,
+        "latitude": 46.21269,
+        "longitude": 6.49162,
+        "name": "Le Grammont",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.370192,
+          46.015494
+        ]
+      },
+      "properties": {
+        "feet": 12149,
+        "meters": 3703,
+        "latitude": 46.015494,
+        "longitude": 7.370192,
+        "name": "Le Pleureur",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.671316,
+          46.142212
+        ]
+      },
+      "properties": {
+        "feet": 11841,
+        "meters": 3609,
+        "latitude": 46.142212,
+        "longitude": 7.671316,
+        "name": "Les Diablons",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.83333,
+          46.6
+        ]
+      },
+      "properties": {
+        "feet": 8419,
+        "meters": 2566,
+        "latitude": 46.6,
+        "longitude": 7.83333,
+        "name": "Lobhörner",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.078856,
+          46.60856
+        ]
+      },
+      "properties": {
+        "feet": 10184,
+        "meters": 3104,
+        "latitude": 46.60856,
+        "longitude": 8.078856,
+        "name": "Mättenberg",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658333,
+          45.976389
+        ]
+      },
+      "properties": {
+        "feet": 14691,
+        "meters": 4478,
+        "latitude": 45.976389,
+        "longitude": 7.658333,
+        "name": "Matterhorn",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26667,
+          46.35
+        ]
+      },
+      "properties": {
+        "feet": 7657,
+        "meters": 2334,
+        "latitude": 46.35,
+        "longitude": 7.26667,
+        "name": "Mittaghorn",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.124647,
+          46.634881
+        ]
+      },
+      "properties": {
+        "feet": 12152,
+        "meters": 3704,
+        "latitude": 46.634881,
+        "longitude": 8.124647,
+        "name": "Mittelhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          46.5667
+        ]
+      },
+      "properties": {
+        "feet": 13448,
+        "meters": 4107,
+        "latitude": 46.5667,
+        "longitude": 7.9833,
+        "name": "Mönch",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41667,
+          45.9833
+        ]
+      },
+      "properties": {
+        "feet": 12696,
+        "meters": 3870,
+        "latitude": 45.9833,
+        "longitude": 7.41667,
+        "name": "Mont Blanc de Cheilon",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318889,
+          46.080278
+        ]
+      },
+      "properties": {
+        "feet": 10919,
+        "meters": 3328,
+        "latitude": 46.080278,
+        "longitude": 7.318889,
+        "name": "Mont Fort",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35,
+          45.9
+        ]
+      },
+      "properties": {
+        "feet": 11542,
+        "meters": 3518,
+        "latitude": 45.9,
+        "longitude": 7.35,
+        "name": "Mont Gele",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.231493,
+          46.009243
+        ]
+      },
+      "properties": {
+        "feet": 10118,
+        "meters": 3084,
+        "latitude": 46.009243,
+        "longitude": 7.231493,
+        "name": "Mont Rogneux",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90347,
+          46.404233
+        ]
+      },
+      "properties": {
+        "feet": 12306,
+        "meters": 3751,
+        "latitude": 46.404233,
+        "longitude": 9.90347,
+        "name": "Morteratsch",
+        "regions": [
+          "Southern Alps",
+          "Bernina Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25,
+          46.9833
+        ]
+      },
+      "properties": {
+        "feet": 6994,
+        "meters": 2132,
+        "latitude": 46.9833,
+        "longitude": 8.25,
+        "name": "Mount Pilatus",
+        "regions": [
+          "Northern Alps",
+          "Urner Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.113189,
+          46.594436
+        ]
+      },
+      "properties": {
+        "feet": 12303,
+        "meters": 3750,
+        "latitude": 46.594436,
+        "longitude": 8.113189,
+        "name": "Nässihorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.925833,
+          46.413333
+        ]
+      },
+      "properties": {
+        "feet": 12539,
+        "meters": 3822,
+        "latitude": 46.413333,
+        "longitude": 7.925833,
+        "name": "Nesthorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9,
+          45.9167
+        ]
+      },
+      "properties": {
+        "feet": 15121,
+        "meters": 4609,
+        "latitude": 45.9167,
+        "longitude": 7.9,
+        "name": "Nordend",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8194,
+          46.0185
+        ]
+      },
+      "properties": {
+        "feet": 11204,
+        "meters": 3415,
+        "latitude": 46.0185,
+        "longitude": 7.8194,
+        "name": "Oberrothorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.867399,
+          45.936854
+        ]
+      },
+      "properties": {
+        "feet": 15197,
+        "meters": 4632,
+        "latitude": 45.936854,
+        "longitude": 7.867399,
+        "name": "Ostspitze",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.49,
+          46.48
+        ]
+      },
+      "properties": {
+        "feet": 9331,
+        "meters": 2844,
+        "latitude": 46.48,
+        "longitude": 9.49,
+        "name": "Parsenn",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20042,
+          46.11802
+        ]
+      },
+      "properties": {
+        "feet": 8114,
+        "meters": 2473,
+        "latitude": 46.11802,
+        "longitude": 7.20042,
+        "name": "Pierre Avoi",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45,
+          46.0
+        ]
+      },
+      "properties": {
+        "feet": 12454,
+        "meters": 3796,
+        "latitude": 46.0,
+        "longitude": 7.45,
+        "name": "Pigne D'Arolla",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61099,
+          46.08344
+        ]
+      },
+      "properties": {
+        "feet": 11142,
+        "meters": 3396,
+        "latitude": 46.08344,
+        "longitude": 7.61099,
+        "name": "Pigne de la Lé",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.86667,
+          46.6167
+        ]
+      },
+      "properties": {
+        "feet": 11214,
+        "meters": 3418,
+        "latitude": 46.6167,
+        "longitude": 9.86667,
+        "name": "Piz Kesch",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0333,
+          46.8333
+        ]
+      },
+      "properties": {
+        "feet": 11188,
+        "meters": 3410,
+        "latitude": 46.8333,
+        "longitude": 10.0333,
+        "name": "Piz Linard",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4174,
+          46.55101
+        ]
+      },
+      "properties": {
+        "feet": 9944,
+        "meters": 3031,
+        "latitude": 46.55101,
+        "longitude": 10.4174,
+        "name": "Piz Umbrail",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.736306,
+          46.053607
+        ]
+      },
+      "properties": {
+        "feet": 10974,
+        "meters": 3345,
+        "latitude": 46.053607,
+        "longitude": 7.736306,
+        "name": "Platthorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3659,
+          46.03895
+        ]
+      },
+      "properties": {
+        "feet": 10899,
+        "meters": 3322,
+        "latitude": 46.03895,
+        "longitude": 7.3659,
+        "name": "Pointe du Cret",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58593,
+          46.07258
+        ]
+      },
+      "properties": {
+        "feet": 11693,
+        "meters": 3564,
+        "latitude": 46.07258,
+        "longitude": 7.58593,
+        "name": "Pointes de Mourti",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.50924,
+          46.16236
+        ]
+      },
+      "properties": {
+        "feet": 9928,
+        "meters": 3026,
+        "latitude": 46.16236,
+        "longitude": 7.50924,
+        "name": "Pointes de Tsavolire",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          45.9167
+        ]
+      },
+      "properties": {
+        "feet": 13425,
+        "meters": 4092,
+        "latitude": 45.9167,
+        "longitude": 7.75,
+        "name": "Pollux",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.450551,
+          46.501497
+        ]
+      },
+      "properties": {
+        "feet": 9232,
+        "meters": 2814,
+        "latitude": 46.501497,
+        "longitude": 8.450551,
+        "name": "Poncione di Cassina Baggio",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57737,
+          45.9802
+        ]
+      },
+      "properties": {
+        "feet": 9603,
+        "meters": 2927,
+        "latitude": 45.9802,
+        "longitude": 7.57737,
+        "name": "Riffelhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.884015,
+          46.023134
+        ]
+      },
+      "properties": {
+        "feet": 13776,
+        "meters": 4199,
+        "latitude": 46.023134,
+        "longitude": 7.884015,
+        "name": "Rimpfischhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37337,
+          46.04267
+        ]
+      },
+      "properties": {
+        "feet": 10873,
+        "meters": 3314,
+        "latitude": 46.04267,
+        "longitude": 7.37337,
+        "name": "Rochers du Bouc",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45916,
+          46.53974
+        ]
+      },
+      "properties": {
+        "feet": 9928,
+        "meters": 3026,
+        "latitude": 46.53974,
+        "longitude": 10.45916,
+        "name": "Roetlspitz (Rötlspitz; Punta Rosa)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45,
+          46.3667
+        ]
+      },
+      "properties": {
+        "feet": 9678,
+        "meters": 2950,
+        "latitude": 46.3667,
+        "longitude": 7.45,
+        "name": "Rohrbachstein",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.354231,
+          46.060368
+        ]
+      },
+      "properties": {
+        "feet": 10945,
+        "meters": 3336,
+        "latitude": 46.060368,
+        "longitude": 7.354231,
+        "name": "Rosablanche",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.108168,
+          46.598358
+        ]
+      },
+      "properties": {
+        "feet": 12103,
+        "meters": 3689,
+        "latitude": 46.598358,
+        "longitude": 8.108168,
+        "name": "Rosenhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.967362,
+          46.53206
+        ]
+      },
+      "properties": {
+        "feet": 13022,
+        "meters": 3972,
+        "latitude": 46.53206,
+        "longitude": 7.967362,
+        "name": "Rottalhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.530831,
+          46.675888
+        ]
+      },
+      "properties": {
+        "feet": 9780,
+        "meters": 2981,
+        "latitude": 46.675888,
+        "longitude": 8.530831,
+        "name": "Salbitschijen",
+        "regions": [
+          "Northern Alps",
+          "Urner Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.343333,
+          47.249167
+        ]
+      },
+      "properties": {
+        "feet": 7,
+        "meters": 2502,
+        "latitude": 47.249167,
+        "longitude": 9.343333,
+        "name": "Säntis",
+        "regions": [
+          "Northern Alps",
+          "Saint Gallen Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.51538,
+          46.14386
+        ]
+      },
+      "properties": {
+        "feet": 10673,
+        "meters": 3253,
+        "latitude": 46.14386,
+        "longitude": 7.51538,
+        "name": "Sasseneire",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.42178,
+          46.535
+        ]
+      },
+      "properties": {
+        "feet": 13038,
+        "meters": 3974,
+        "latitude": 46.535,
+        "longitude": 7.42178,
+        "name": "Schalihorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.833,
+          46.556
+        ]
+      },
+      "properties": {
+        "feet": 9744,
+        "meters": 2970,
+        "latitude": 46.556,
+        "longitude": 7.833,
+        "name": "Schilthorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.118124,
+          46.589924
+        ]
+      },
+      "properties": {
+        "feet": 13379,
+        "meters": 4078,
+        "latitude": 46.589924,
+        "longitude": 8.118124,
+        "name": "Schreckhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.075,
+          46.687
+        ]
+      },
+      "properties": {
+        "feet": 9606,
+        "meters": 2928,
+        "latitude": 46.687,
+        "longitude": 8.075,
+        "name": "Schwarzhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.877026,
+          45.927125
+        ]
+      },
+      "properties": {
+        "feet": 14947,
+        "meters": 4556,
+        "latitude": 45.927125,
+        "longitude": 7.877026,
+        "name": "Signalkuppe",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.948866,
+          46.540739
+        ]
+      },
+      "properties": {
+        "feet": 12123,
+        "meters": 3695,
+        "latitude": 46.540739,
+        "longitude": 7.948866,
+        "name": "Silberhorn (Alps)",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.340169,
+          46.929901
+        ]
+      },
+      "properties": {
+        "feet": 6227,
+        "meters": 1898,
+        "latitude": 46.929901,
+        "longitude": 8.340169,
+        "name": "Stanserhorn",
+        "regions": [
+          "Northern Alps",
+          "Urner Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.118124,
+          46.575265
+        ]
+      },
+      "properties": {
+        "feet": 11355,
+        "meters": 3461,
+        "latitude": 46.575265,
+        "longitude": 8.118124,
+        "name": "Strahlegghorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.901831,
+          46.013327
+        ]
+      },
+      "properties": {
+        "feet": 13747,
+        "meters": 4190,
+        "latitude": 46.013327,
+        "longitude": 7.901831,
+        "name": "Strahlhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9,
+          46.8
+        ]
+      },
+      "properties": {
+        "feet": 11857,
+        "meters": 3614,
+        "latitude": 46.8,
+        "longitude": 8.9,
+        "name": "Tödi",
+        "regions": [
+          "Northern Alps",
+          "Glarus Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.015471,
+          46.547528
+        ]
+      },
+      "properties": {
+        "feet": 12730,
+        "meters": 3933,
+        "latitude": 46.547528,
+        "longitude": 8.015471,
+        "name": "Trugberg",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741542,
+          46.055573
+        ]
+      },
+      "properties": {
+        "feet": 11870,
+        "meters": 3618,
+        "latitude": 46.055573,
+        "longitude": 7.741542,
+        "name": "Unter Aschhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.697472,
+          46.026306
+        ]
+      },
+      "properties": {
+        "feet": 11129,
+        "meters": 3392,
+        "latitude": 46.026306,
+        "longitude": 7.697472,
+        "name": "Unter Gabelhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.43333,
+          46.5333
+        ]
+      },
+      "properties": {
+        "feet": 7392,
+        "meters": 2253,
+        "latitude": 46.5333,
+        "longitude": 7.43333,
+        "name": "Vorderi Spillgerte",
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.054695,
+          46.555496
+        ]
+      },
+      "properties": {
+        "feet": 12113,
+        "meters": 3693,
+        "latitude": 46.555496,
+        "longitude": 8.054695,
+        "name": "Walcherhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0857,
+          46.2663
+        ]
+      },
+      "properties": {
+        "feet": 10650,
+        "meters": 3246,
+        "latitude": 46.2663,
+        "longitude": 8.0857,
+        "name": "Wasenhorn (Terrarossa)",
+        "regions": [
+          "Southern Alps",
+          "Lepontine Alps"
+        ],
+        "countries": [
+          "Switzerland",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71667,
+          46.1167
+        ]
+      },
+      "properties": {
+        "feet": 14780,
+        "meters": 4504,
+        "latitude": 46.1167,
+        "longitude": 7.71667,
+        "name": "Weisshorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.011944,
+          46.127778
+        ]
+      },
+      "properties": {
+        "feet": 13199,
+        "meters": 4023,
+        "latitude": 46.127778,
+        "longitude": 8.011944,
+        "name": "Weissmies",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677778,
+          46.041944
+        ]
+      },
+      "properties": {
+        "feet": 12805,
+        "meters": 3903,
+        "latitude": 46.041944,
+        "longitude": 7.677778,
+        "name": "Wellenkuppe",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11667,
+          46.6333
+        ]
+      },
+      "properties": {
+        "feet": 12142,
+        "meters": 3692,
+        "latitude": 46.6333,
+        "longitude": 8.11667,
+        "name": "Wetterhorn",
+        "regions": [
+          "Northern Alps",
+          "Berner Oberland"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7421,
+          46.0976
+        ]
+      },
+      "properties": {
+        "feet": 11050,
+        "meters": 3368,
+        "latitude": 46.0976,
+        "longitude": 7.7421,
+        "name": "Wisse Schijen",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.736392,
+          46.053637
+        ]
+      },
+      "properties": {
+        "feet": 9633,
+        "meters": 2936,
+        "latitude": 46.053637,
+        "longitude": 7.736392,
+        "name": "Wisshorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          46.0667
+        ]
+      },
+      "properties": {
+        "feet": 13848,
+        "meters": 4221,
+        "latitude": 46.0667,
+        "longitude": 7.7,
+        "name": "Zinalrothorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

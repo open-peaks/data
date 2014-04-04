@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.580959,
+      48.480944
+    ]
+  },
+  "properties": {
+    "feet": 8023,
+    "meters": 2445,
+    "latitude": 48.480944,
+    "longitude": -120.580959,
+    "name": "Gilbert Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

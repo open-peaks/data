@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.89669,
+          32.424856
+        ]
+      },
+      "properties": {
+        "feet": 535,
+        "meters": 163,
+        "latitude": 32.424856,
+        "longitude": -92.89669,
+        "name": "Driskill Mountain",
+        "states": [
+          "Louisiana"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

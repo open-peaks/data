@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.865094,
+      45.817554
+    ]
+  },
+  "properties": {
+    "feet": 13297,
+    "meters": 4053,
+    "latitude": 45.817554,
+    "longitude": 6.865094,
+    "name": "Mont Brouillard",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

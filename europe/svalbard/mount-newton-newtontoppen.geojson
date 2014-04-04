@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 5633,
+    "meters": 1717,
+    "name": "Mount Newton (Newtontoppen)",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Svalbard"
+    ],
+    "countries": [
+      "Svalbard"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

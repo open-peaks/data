@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8833,
+      -22.8333
+    ]
+  },
+  "properties": {
+    "feet": 19455,
+    "meters": 5930,
+    "latitude": -22.8333,
+    "longitude": -67.8833,
+    "name": "Licancabur",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

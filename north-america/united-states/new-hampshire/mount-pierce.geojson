@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3664,
+      44.2264
+    ]
+  },
+  "properties": {
+    "feet": 4310,
+    "meters": 1314,
+    "latitude": 44.2264,
+    "longitude": -71.3664,
+    "name": "Mount Pierce",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

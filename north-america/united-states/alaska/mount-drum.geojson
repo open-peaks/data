@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -144.637778,
+      62.1161
+    ]
+  },
+  "properties": {
+    "feet": 12010,
+    "meters": 3661,
+    "latitude": 62.1161,
+    "longitude": -144.637778,
+    "name": "Mount Drum",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Wrangell Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

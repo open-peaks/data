@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9008,
+      44.1056
+    ]
+  },
+  "properties": {
+    "feet": 4960,
+    "meters": 1512,
+    "latitude": 44.1056,
+    "longitude": -73.9008,
+    "name": "Haystack",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

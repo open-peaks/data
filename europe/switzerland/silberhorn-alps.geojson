@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.948866,
+      46.540739
+    ]
+  },
+  "properties": {
+    "feet": 12123,
+    "meters": 3695,
+    "latitude": 46.540739,
+    "longitude": 7.948866,
+    "name": "Silberhorn (Alps)",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

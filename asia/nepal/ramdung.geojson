@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.419873,
+      27.813913
+    ]
+  },
+  "properties": {
+    "feet": 19439,
+    "meters": 5925,
+    "latitude": 27.813913,
+    "longitude": 86.419873,
+    "name": "Ramdung",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

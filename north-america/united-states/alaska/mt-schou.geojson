@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.05,
+      61.55
+    ]
+  },
+  "properties": {
+    "feet": 9072,
+    "meters": 2765,
+    "latitude": 61.55,
+    "longitude": -141.05,
+    "name": "Mt. Schou",
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

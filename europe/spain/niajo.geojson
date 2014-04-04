@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.073028,
+      43.136945
+    ]
+  },
+  "properties": {
+    "feet": 5705,
+    "meters": 1739,
+    "latitude": 43.136945,
+    "longitude": -5.073028,
+    "name": "Niajo",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

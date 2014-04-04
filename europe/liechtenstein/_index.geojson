@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.571389,
+          47.175
+        ]
+      },
+      "properties": {
+        "feet": 6736,
+        "meters": 2053,
+        "latitude": 47.175,
+        "longitude": 9.571389,
+        "name": "Drei Schwestern",
+        "regions": [
+          "Northern Alps",
+          "Saint Gallen Alps"
+        ],
+        "countries": [
+          "Liechtenstein"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.564722,
+          47.170278
+        ]
+      },
+      "properties": {
+        "feet": 6906,
+        "meters": 2105,
+        "latitude": 47.170278,
+        "longitude": 9.564722,
+        "name": "Garsellakopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Liechtenstein",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.592944,
+          47.130361
+        ]
+      },
+      "properties": {
+        "feet": 6903,
+        "meters": 2104,
+        "latitude": 47.130361,
+        "longitude": 9.592944,
+        "name": "Schönberg",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Liechtenstein"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

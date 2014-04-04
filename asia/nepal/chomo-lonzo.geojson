@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.108056,
+      27.93
+    ]
+  },
+  "properties": {
+    "feet": 25650,
+    "meters": 7818,
+    "latitude": 27.93,
+    "longitude": 87.108056,
+    "name": "Chomo Lonzo",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.4217,
+      35.8535
+    ]
+  },
+  "properties": {
+    "feet": 24147,
+    "meters": 7360,
+    "latitude": 35.8535,
+    "longitude": 76.4217,
+    "name": "Skil Brum",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.435506,
+      46.015069
+    ]
+  },
+  "properties": {
+    "feet": 9022,
+    "meters": 2750,
+    "latitude": 46.015069,
+    "longitude": 10.435506,
+    "name": "Ago di Tredenus",
+    "regions": [
+      "Southern Alps",
+      "Brenta-Adamello-Garda Group"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

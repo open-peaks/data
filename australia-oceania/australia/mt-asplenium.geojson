@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.435591,
+      -28.157326
+    ]
+  },
+  "properties": {
+    "feet": 4245,
+    "meters": 1294,
+    "latitude": -28.157326,
+    "longitude": 152.435591,
+    "name": "Mt Asplenium",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

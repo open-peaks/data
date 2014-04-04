@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.011996,
+      48.964047
+    ]
+  },
+  "properties": {
+    "feet": 3740,
+    "meters": 1140,
+    "latitude": 48.964047,
+    "longitude": -66.011996,
+    "name": "Mont Xalibu",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

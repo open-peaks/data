@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8333,
+      46.8617
+    ]
+  },
+  "properties": {
+    "feet": 10325,
+    "meters": 3147,
+    "latitude": 46.8617,
+    "longitude": 10.8333,
+    "name": "Guslarspitzen",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

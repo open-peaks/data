@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.19177,
+      46.516589
+    ]
+  },
+  "properties": {
+    "feet": 9341,
+    "meters": 2847,
+    "latitude": 46.516589,
+    "longitude": 12.19177,
+    "name": "Punta Nera",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

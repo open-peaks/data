@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.184478,
+      48.27174
+    ]
+  },
+  "properties": {
+    "feet": 5924,
+    "meters": 1806,
+    "latitude": 48.27174,
+    "longitude": -121.184478,
+    "name": "Downey Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

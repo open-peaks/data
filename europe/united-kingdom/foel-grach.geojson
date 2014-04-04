@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.96358,
+      53.1742
+    ]
+  },
+  "properties": {
+    "feet": 3202,
+    "meters": 976,
+    "latitude": 53.1742,
+    "longitude": -3.96358,
+    "name": "Foel Grach",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

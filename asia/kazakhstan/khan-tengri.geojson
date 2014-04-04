@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.175,
+      42.2108
+    ]
+  },
+  "properties": {
+    "feet": 22998,
+    "meters": 7010,
+    "latitude": 42.2108,
+    "longitude": 80.175,
+    "name": "Khan Tengri",
+    "regions": [
+      "Tien Shan",
+      "Central Tien Shan"
+    ],
+    "countries": [
+      "Kazakhstan",
+      "Kyrgyzstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

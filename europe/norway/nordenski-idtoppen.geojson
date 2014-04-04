@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0,
+      78.0
+    ]
+  },
+  "properties": {
+    "feet": 3442,
+    "meters": 1049,
+    "latitude": 78.0,
+    "longitude": 16.0,
+    "name": "Nordenski Idtoppen",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

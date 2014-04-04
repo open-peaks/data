@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.341274,
+      -2.004853
+    ]
+  },
+  "properties": {
+    "feet": 17159,
+    "meters": 5230,
+    "latitude": -2.004853,
+    "longitude": -78.341274,
+    "name": "Sangay",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

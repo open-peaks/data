@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.543358,
+      -15.815997
+    ]
+  },
+  "properties": {
+    "feet": 20873,
+    "meters": 6362,
+    "latitude": -15.815997,
+    "longitude": -68.543358,
+    "name": "Illampu",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

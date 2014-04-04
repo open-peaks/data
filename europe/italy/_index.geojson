@@ -1,0 +1,3561 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.435506,
+          46.015069
+        ]
+      },
+      "properties": {
+        "feet": 9022,
+        "meters": 2750,
+        "latitude": 46.015069,
+        "longitude": 10.435506,
+        "name": "Ago di Tredenus",
+        "regions": [
+          "Southern Alps",
+          "Brenta-Adamello-Garda Group"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706682,
+          40.089199
+        ]
+      },
+      "properties": {
+        "feet": 541,
+        "meters": 165,
+        "latitude": 40.089199,
+        "longitude": 9.706682,
+        "name": "Aguglia di Goloritzè",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Tyrrhennian Islands"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.445922,
+          46.580309
+        ]
+      },
+      "properties": {
+        "feet": 8055,
+        "meters": 2456,
+        "latitude": 46.580309,
+        "longitude": 12.445922,
+        "name": "Aiarnola",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.080162,
+          46.400735
+        ]
+      },
+      "properties": {
+        "feet": 6250,
+        "meters": 1905,
+        "latitude": 46.400735,
+        "longitude": 13.080162,
+        "name": "Amariana",
+        "regions": [
+          "Eastern Alps",
+          "Carnic Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          44.1667
+        ]
+      },
+      "properties": {
+        "feet": 10817,
+        "meters": 3297,
+        "latitude": 44.1667,
+        "longitude": 7.3,
+        "name": "Argentera",
+        "regions": [
+          "Western Alps",
+          "Maritime Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564168,
+          45.689439
+        ]
+      },
+      "properties": {
+        "feet": 9862,
+        "meters": 3006,
+        "latitude": 45.689439,
+        "longitude": 7.564168,
+        "name": "Avic",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.175907,
+          45.733866
+        ]
+      },
+      "properties": {
+        "feet": 5883,
+        "meters": 1793,
+        "latitude": 45.733866,
+        "longitude": 11.175907,
+        "name": "Baffelan",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.866667,
+          45.915751
+        ]
+      },
+      "properties": {
+        "feet": 13671,
+        "meters": 4167,
+        "latitude": 45.915751,
+        "longitude": 7.866667,
+        "name": "Balmenhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.365814,
+          45.68707
+        ]
+      },
+      "properties": {
+        "feet": 10308,
+        "meters": 3142,
+        "latitude": 45.68707,
+        "longitude": 7.365814,
+        "name": "Becca di Nona",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37823,
+          45.507826
+        ]
+      },
+      "properties": {
+        "feet": 11053,
+        "meters": 3369,
+        "latitude": 45.507826,
+        "longitude": 7.37823,
+        "name": "Becco di Valsoera",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.333599,
+          45.499444
+        ]
+      },
+      "properties": {
+        "feet": 11024,
+        "meters": 3360,
+        "latitude": 45.499444,
+        "longitude": 7.333599,
+        "name": "Becco Meridionale Della Tribolazione",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.898473,
+          46.184616
+        ]
+      },
+      "properties": {
+        "feet": 9711,
+        "meters": 2960,
+        "latitude": 46.184616,
+        "longitude": 10.898473,
+        "name": "Brenta Alta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8946,
+          46.1615
+        ]
+      },
+      "properties": {
+        "feet": 9439,
+        "meters": 2877,
+        "latitude": 46.1615,
+        "longitude": 10.8946,
+        "name": "Campanile Basso",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.874168,
+          46.23911
+        ]
+      },
+      "properties": {
+        "feet": 9485,
+        "meters": 2891,
+        "latitude": 46.23911,
+        "longitude": 11.874168,
+        "name": "Canali (Cima)",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.922451,
+          44.511152
+        ]
+      },
+      "properties": {
+        "feet": 8031,
+        "meters": 2448,
+        "latitude": 44.511152,
+        "longitude": 6.922451,
+        "name": "Castello (Torre)",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6505,
+          46.4716
+        ]
+      },
+      "properties": {
+        "feet": 9780,
+        "meters": 2981,
+        "latitude": 46.4716,
+        "longitude": 11.6505,
+        "name": "Catinaccio",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.620833,
+          46.448055
+        ]
+      },
+      "properties": {
+        "feet": 12365,
+        "meters": 3769,
+        "latitude": 46.448055,
+        "longitude": 10.620833,
+        "name": "Cevedale",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.247539,
+          45.493989
+        ]
+      },
+      "properties": {
+        "feet": 11942,
+        "meters": 3640,
+        "latitude": 45.493989,
+        "longitude": 7.247539,
+        "name": "Ciarforon",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.605597,
+          46.17677
+        ]
+      },
+      "properties": {
+        "feet": 9341,
+        "meters": 2847,
+        "latitude": 46.17677,
+        "longitude": 11.605597,
+        "name": "Cima d'Asta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8734,
+          46.2511
+        ]
+      },
+      "properties": {
+        "feet": 9642,
+        "meters": 2939,
+        "latitude": 46.2511,
+        "longitude": 11.8734,
+        "name": "Cima della Fradusta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8305,
+          46.2899
+        ]
+      },
+      "properties": {
+        "feet": 10472,
+        "meters": 3192,
+        "latitude": 46.2899,
+        "longitude": 11.8305,
+        "name": "Cima della Vezzana",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.557163,
+          46.382914
+        ]
+      },
+      "properties": {
+        "feet": 11680,
+        "meters": 3560,
+        "latitude": 46.382914,
+        "longitude": 10.557163,
+        "name": "Cima Dosegu",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.772873,
+          46.612225
+        ]
+      },
+      "properties": {
+        "feet": 9925,
+        "meters": 3025,
+        "latitude": 46.612225,
+        "longitude": 11.772873,
+        "name": "Cima Furchetta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85,
+          46.3833
+        ]
+      },
+      "properties": {
+        "feet": 9839,
+        "meters": 2999,
+        "latitude": 46.3833,
+        "longitude": 11.85,
+        "name": "Cima Grande",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55,
+          46.5167
+        ]
+      },
+      "properties": {
+        "feet": 12802,
+        "meters": 3902,
+        "latitude": 46.5167,
+        "longitude": 10.55,
+        "name": "Cima Ortles",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608543,
+          45.646073
+        ]
+      },
+      "properties": {
+        "feet": 8241,
+        "meters": 2512,
+        "latitude": 45.646073,
+        "longitude": 7.608543,
+        "name": "Cima Piana",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3333,
+          46.3333
+        ]
+      },
+      "properties": {
+        "feet": 8868,
+        "meters": 2703,
+        "latitude": 46.3333,
+        "longitude": 12.3333,
+        "name": "Cima Preti",
+        "regions": [
+          "Eastern Alps",
+          "Carnic Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8633,
+          46.1556
+        ]
+      },
+      "properties": {
+        "feet": 10410,
+        "meters": 3173,
+        "latitude": 46.1556,
+        "longitude": 10.8633,
+        "name": "Cima Tosa",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55453,
+          46.36953
+        ]
+      },
+      "properties": {
+        "feet": 11309,
+        "meters": 3447,
+        "latitude": 46.36953,
+        "longitude": 10.55453,
+        "name": "Cima Villacorna",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572,
+          46.3444
+        ]
+      },
+      "properties": {
+        "feet": 9324,
+        "meters": 2842,
+        "latitude": 46.3444,
+        "longitude": 11.572,
+        "name": "Cimon del Latemar",
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.820602,
+          46.285828
+        ]
+      },
+      "properties": {
+        "feet": 10446,
+        "meters": 3184,
+        "latitude": 46.285828,
+        "longitude": 11.820602,
+        "name": "Cimon della Pala",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3333,
+          46.1667
+        ]
+      },
+      "properties": {
+        "feet": 8107,
+        "meters": 2471,
+        "latitude": 46.1667,
+        "longitude": 12.3333,
+        "name": "Col Nudo",
+        "regions": [
+          "Eastern Alps",
+          "Carnic Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.097442,
+          46.586652
+        ]
+      },
+      "properties": {
+        "feet": 7106,
+        "meters": 2166,
+        "latitude": 46.586652,
+        "longitude": 12.097442,
+        "name": "Col Rosà",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51569,
+          46.34323
+        ]
+      },
+      "properties": {
+        "feet": 11024,
+        "meters": 3360,
+        "latitude": 46.34323,
+        "longitude": 10.51569,
+        "name": "Corno dei Tre Signori",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5667,
+          42.4667
+        ]
+      },
+      "properties": {
+        "feet": 9554,
+        "meters": 2912,
+        "latitude": 42.4667,
+        "longitude": 13.5667,
+        "name": "Corno Grande",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.174068,
+          44.263903
+        ]
+      },
+      "properties": {
+        "feet": 10007,
+        "meters": 3050,
+        "latitude": 44.263903,
+        "longitude": 7.174068,
+        "name": "Corno Stella",
+        "regions": [
+          "Western Alps",
+          "Maritime Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.232433,
+          45.456814
+        ]
+      },
+      "properties": {
+        "feet": 10374,
+        "meters": 3162,
+        "latitude": 45.456814,
+        "longitude": 7.232433,
+        "name": "Courmaon",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960893,
+          46.622385
+        ]
+      },
+      "properties": {
+        "feet": 9928,
+        "meters": 3026,
+        "latitude": 46.622385,
+        "longitude": 11.960893,
+        "name": "Croda di Santa Croce",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.890234,
+          46.182714
+        ]
+      },
+      "properties": {
+        "feet": 10285,
+        "meters": 3135,
+        "latitude": 46.182714,
+        "longitude": 10.890234,
+        "name": "Crozzon di Brenta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.240522,
+          47.070231
+        ]
+      },
+      "properties": {
+        "feet": 1066,
+        "meters": 3498,
+        "latitude": 47.070231,
+        "longitude": 12.240522,
+        "name": "Dreiherrnspitze (Picco dei Tre Signori)",
+        "regions": [
+          "Eastern Alps",
+          "Noric Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.475167,
+          46.498998
+        ]
+      },
+      "properties": {
+        "feet": 11375,
+        "meters": 3467,
+        "latitude": 46.498998,
+        "longitude": 10.475167,
+        "name": "Geisterspitze (Punta degli Spiriti)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2678,
+          45.5177
+        ]
+      },
+      "properties": {
+        "feet": 13323,
+        "meters": 4061,
+        "latitude": 45.5177,
+        "longitude": 7.2678,
+        "name": "Gran Paradiso",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5685,
+          46.4786
+        ]
+      },
+      "properties": {
+        "feet": 12634,
+        "meters": 3851,
+        "latitude": 46.4786,
+        "longitude": 10.5685,
+        "name": "Gran Zebrù",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.36667,
+          46.0
+        ]
+      },
+      "properties": {
+        "feet": 7142,
+        "meters": 2177,
+        "latitude": 46.0,
+        "longitude": 9.36667,
+        "name": "Grigna Meridionale",
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.257581,
+          45.595798
+        ]
+      },
+      "properties": {
+        "feet": 13022,
+        "meters": 3969,
+        "latitude": 45.595798,
+        "longitude": 7.257581,
+        "name": "Grivola",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05,
+          46.8
+        ]
+      },
+      "properties": {
+        "feet": 11384,
+        "meters": 3470,
+        "latitude": 46.8,
+        "longitude": 11.05,
+        "name": "Hinterer Seelenkogel",
+        "regions": [
+          "Eastern Alps",
+          "Otztal Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275706,
+          46.738096
+        ]
+      },
+      "properties": {
+        "feet": 9124,
+        "meters": 2781,
+        "latitude": 46.738096,
+        "longitude": 11.275706,
+        "name": "Hirzer (Punta Cervina)",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.129057,
+          46.913681
+        ]
+      },
+      "properties": {
+        "feet": 11273,
+        "meters": 3436,
+        "latitude": 46.913681,
+        "longitude": 12.129057,
+        "name": "Hochgall (Collalto)",
+        "regions": [
+          "Eastern Alps",
+          "Noric Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.46053,
+          46.49585
+        ]
+      },
+      "properties": {
+        "feet": 11266,
+        "meters": 3434,
+        "latitude": 46.49585,
+        "longitude": 10.46053,
+        "name": "Hohe Schneide (Monte Cristallo)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.764906,
+          46.973802
+        ]
+      },
+      "properties": {
+        "feet": 11056,
+        "meters": 3370,
+        "latitude": 46.973802,
+        "longitude": 11.764906,
+        "name": "Hoher Weisszint (Punta Bianca)",
+        "regions": [
+          "Eastern Alps",
+          "Noric Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.255492,
+          46.693253
+        ]
+      },
+      "properties": {
+        "feet": 8468,
+        "meters": 2581,
+        "latitude": 46.693253,
+        "longitude": 11.255492,
+        "name": "Ifinger (Ivigna)",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442223,
+          46.433872
+        ]
+      },
+      "properties": {
+        "feet": 9032,
+        "meters": 2753,
+        "latitude": 46.433872,
+        "longitude": 13.442223,
+        "name": "Jof di Montasio",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.491461,
+          46.430168
+        ]
+      },
+      "properties": {
+        "feet": 8747,
+        "meters": 2666,
+        "latitude": 46.430168,
+        "longitude": 13.491461,
+        "name": "Jof Fuart",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25,
+          45.3833
+        ]
+      },
+      "properties": {
+        "feet": 11663,
+        "meters": 3555,
+        "latitude": 45.3833,
+        "longitude": 5.25,
+        "name": "Levanna Orientale",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.33,
+          44.33
+        ]
+      },
+      "properties": {
+        "feet": 5915,
+        "meters": 1803,
+        "latitude": 44.33,
+        "longitude": 9.33,
+        "name": "Maggiorasca",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.998925,
+          44.395737
+        ]
+      },
+      "properties": {
+        "feet": 6076,
+        "meters": 1852,
+        "latitude": 44.395737,
+        "longitude": 9.998925,
+        "name": "Marmagna",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85,
+          46.4333
+        ]
+      },
+      "properties": {
+        "feet": 10965,
+        "meters": 3342,
+        "latitude": 46.4333,
+        "longitude": 11.85,
+        "name": "Marmolada",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.138,
+          46.055
+        ]
+      },
+      "properties": {
+        "feet": 1896,
+        "meters": 1896,
+        "latitude": 46.055,
+        "longitude": 8.138,
+        "name": "Moncucco",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.865094,
+          45.817554
+        ]
+      },
+      "properties": {
+        "feet": 13297,
+        "meters": 4053,
+        "latitude": 45.817554,
+        "longitude": 6.865094,
+        "name": "Mont Brouillard",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528806,
+          45.624018
+        ]
+      },
+      "properties": {
+        "feet": 10299,
+        "meters": 3139,
+        "latitude": 45.624018,
+        "longitude": 7.528806,
+        "name": "Mont Delà",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.540136,
+          45.63134
+        ]
+      },
+      "properties": {
+        "feet": 10453,
+        "meters": 3186,
+        "latitude": 45.63134,
+        "longitude": 7.540136,
+        "name": "Mont Glacier",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9534,
+          46.2759
+        ]
+      },
+      "properties": {
+        "feet": 9419,
+        "meters": 2871,
+        "latitude": 46.2759,
+        "longitude": 11.9534,
+        "name": "Monte Agner",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0833,
+          42.0833
+        ]
+      },
+      "properties": {
+        "feet": 9163,
+        "meters": 2793,
+        "latitude": 42.0833,
+        "longitude": 14.0833,
+        "name": "Monte Amaro",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.716774,
+          42.443221
+        ]
+      },
+      "properties": {
+        "feet": 8412,
+        "meters": 2564,
+        "latitude": 42.443221,
+        "longitude": 13.716774,
+        "name": "Monte Camicia",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.050086,
+          46.377231
+        ]
+      },
+      "properties": {
+        "feet": 10561,
+        "meters": 3219,
+        "latitude": 46.377231,
+        "longitude": 12.050086,
+        "name": "Monte Civetta",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          46.2667
+        ]
+      },
+      "properties": {
+        "feet": 12067,
+        "meters": 3678,
+        "latitude": 46.2667,
+        "longitude": 9.75,
+        "name": "Monte Dizgrazia",
+        "regions": [
+          "Southern Alps",
+          "Lepontine Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          37.75
+        ]
+      },
+      "properties": {
+        "feet": 10902,
+        "meters": 3323,
+        "latitude": 37.75,
+        "longitude": 15.0,
+        "name": "Monte Etna",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Sicily"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.471399,
+          46.352761
+        ]
+      },
+      "properties": {
+        "feet": 10574,
+        "meters": 3223,
+        "latitude": 46.352761,
+        "longitude": 10.471399,
+        "name": "Monte Gavia",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3864,
+          46.36159
+        ]
+      },
+      "properties": {
+        "feet": 9872,
+        "meters": 3009,
+        "latitude": 46.36159,
+        "longitude": 8.3864,
+        "name": "Monte Giove",
+        "regions": [
+          "Southern Alps",
+          "Lepontine Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.467087,
+          44.561137
+        ]
+      },
+      "properties": {
+        "feet": 5240,
+        "meters": 1597,
+        "latitude": 44.561137,
+        "longitude": 9.467087,
+        "name": "Monte Groppo Rosso",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56069,
+          46.37287
+        ]
+      },
+      "properties": {
+        "feet": 11539,
+        "meters": 3517,
+        "latitude": 46.37287,
+        "longitude": 10.56069,
+        "name": "Monte Mantello",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04227,
+          44.383054
+        ]
+      },
+      "properties": {
+        "feet": 6027,
+        "meters": 1837,
+        "latitude": 44.383054,
+        "longitude": 10.04227,
+        "name": "Monte Matto",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2749,
+          40.2142
+        ]
+      },
+      "properties": {
+        "feet": 5715,
+        "meters": 1742,
+        "latitude": 40.2142,
+        "longitude": 15.2749,
+        "name": "Monte Motola",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88333,
+          45.9167
+        ]
+      },
+      "properties": {
+        "feet": 15203,
+        "meters": 4633,
+        "latitude": 45.9167,
+        "longitude": 7.88333,
+        "name": "Monte Rosa",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.44238,
+          46.52178
+        ]
+      },
+      "properties": {
+        "feet": 10154,
+        "meters": 3095,
+        "latitude": 46.52178,
+        "longitude": 10.44238,
+        "name": "Monte Scorluzzo",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08824,
+          44.6667
+        ]
+      },
+      "properties": {
+        "feet": 12602,
+        "meters": 3841,
+        "latitude": 44.6667,
+        "longitude": 7.08824,
+        "name": "Monte Viso",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.097565,
+          46.720917
+        ]
+      },
+      "properties": {
+        "feet": 7526,
+        "meters": 2294,
+        "latitude": 46.720917,
+        "longitude": 11.097565,
+        "name": "Mutspitze",
+        "regions": [
+          "Eastern Alps",
+          "Otztal Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358318,
+          45.524665
+        ]
+      },
+      "properties": {
+        "feet": 11227,
+        "meters": 3422,
+        "latitude": 45.524665,
+        "longitude": 7.358318,
+        "name": "Nero (Monte)",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995456,
+          44.400971
+        ]
+      },
+      "properties": {
+        "feet": 6007,
+        "meters": 1831,
+        "latitude": 44.400971,
+        "longitude": 9.995456,
+        "name": "Orsaro",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.54439,
+          46.50776
+        ]
+      },
+      "properties": {
+        "feet": 12812,
+        "meters": 3905,
+        "latitude": 46.50776,
+        "longitude": 10.54439,
+        "name": "Ortler (Ortles)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8478,
+          46.2541
+        ]
+      },
+      "properties": {
+        "feet": 9800,
+        "meters": 2987,
+        "latitude": 46.2541,
+        "longitude": 11.8478,
+        "name": "Pala di San Martino",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.601588,
+          46.443331
+        ]
+      },
+      "properties": {
+        "feet": 11657,
+        "meters": 3553,
+        "latitude": 46.443331,
+        "longitude": 10.601588,
+        "name": "Pasquale",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12745,
+          46.4162
+        ]
+      },
+      "properties": {
+        "feet": 10394,
+        "meters": 3168,
+        "latitude": 46.4162,
+        "longitude": 12.12745,
+        "name": "Pelmo",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0254,
+          37.89412
+        ]
+      },
+      "properties": {
+        "feet": 6493,
+        "meters": 1979,
+        "latitude": 37.89412,
+        "longitude": 14.0254,
+        "name": "Pizzo Carbonara",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Sicily"
+        ],
+        "countries": [
+          "Italy",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.601918,
+          46.294812
+        ]
+      },
+      "properties": {
+        "feet": 11112,
+        "meters": 3367,
+        "latitude": 46.294812,
+        "longitude": 9.601918,
+        "name": "Pizzo Cengalo",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.168707,
+          44.144884
+        ]
+      },
+      "properties": {
+        "feet": 5843,
+        "meters": 1781,
+        "latitude": 44.144884,
+        "longitude": 10.168707,
+        "name": "Pizzo d'Uccello",
+        "regions": [
+          "Italian Peninsula and Islands"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.204912,
+          47.026965
+        ]
+      },
+      "properties": {
+        "feet": 11480,
+        "meters": 3499,
+        "latitude": 47.026965,
+        "longitude": 12.204912,
+        "name": "Pizzo Rosso di Predoi/Rotspitze",
+        "regions": [
+          "Eastern Alps",
+          "Hohe Tauern"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95,
+          46.3
+        ]
+      },
+      "properties": {
+        "feet": 8271,
+        "meters": 2521,
+        "latitude": 46.3,
+        "longitude": 10.95,
+        "name": "Presolana",
+        "regions": [
+          "Southern Alps",
+          "Orobie Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057891,
+          44.385279
+        ]
+      },
+      "properties": {
+        "feet": 5545,
+        "meters": 1690,
+        "latitude": 44.385279,
+        "longitude": 10.057891,
+        "name": "Pumacioletto",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.863502,
+          45.815879
+        ]
+      },
+      "properties": {
+        "feet": 13166,
+        "meters": 4013,
+        "latitude": 45.815879,
+        "longitude": 6.863502,
+        "name": "Punta Baretti",
+        "regions": [
+          "Western Alps",
+          "Savoy Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861679,
+          44.904092
+        ]
+      },
+      "properties": {
+        "feet": 10807,
+        "meters": 3294,
+        "latitude": 44.904092,
+        "longitude": 6.861679,
+        "name": "Punta Ciatagnera",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45757,
+          46.50835
+        ]
+      },
+      "properties": {
+        "feet": 10735,
+        "meters": 3272,
+        "latitude": 46.50835,
+        "longitude": 10.45757,
+        "name": "Punta del Naso (Grosse Nagler Spitze)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.18,
+          46.24
+        ]
+      },
+      "properties": {
+        "feet": 10440,
+        "meters": 3182,
+        "latitude": 46.24,
+        "longitude": 8.18,
+        "name": "Punta del Sabbione",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.339335,
+          45.658282
+        ]
+      },
+      "properties": {
+        "feet": 10138,
+        "meters": 3090,
+        "latitude": 45.658282,
+        "longitude": 7.339335,
+        "name": "Punta della Valletta",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41783,
+          45.67548
+        ]
+      },
+      "properties": {
+        "feet": 10846,
+        "meters": 3306,
+        "latitude": 45.67548,
+        "longitude": 7.41783,
+        "name": "Punta di Leppe",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.377315,
+          45.655343
+        ]
+      },
+      "properties": {
+        "feet": 11312,
+        "meters": 3448,
+        "latitude": 45.655343,
+        "longitude": 7.377315,
+        "name": "Punta Garin",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19177,
+          46.516589
+        ]
+      },
+      "properties": {
+        "feet": 9341,
+        "meters": 2847,
+        "latitude": 46.516589,
+        "longitude": 12.19177,
+        "name": "Punta Nera",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.54795,
+          46.38667
+        ]
+      },
+      "properties": {
+        "feet": 11808,
+        "meters": 3599,
+        "latitude": 46.38667,
+        "longitude": 10.54795,
+        "name": "Punta Pedranzini",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.381434,
+          45.66518
+        ]
+      },
+      "properties": {
+        "feet": 11909,
+        "meters": 3630,
+        "latitude": 45.66518,
+        "longitude": 7.381434,
+        "name": "Punta Rossa",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41667,
+          45.8667
+        ]
+      },
+      "properties": {
+        "feet": 6148,
+        "meters": 1874,
+        "latitude": 45.8667,
+        "longitude": 9.41667,
+        "name": "Resegone",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.461101,
+          46.614957
+        ]
+      },
+      "properties": {
+        "feet": 7415,
+        "meters": 2260,
+        "latitude": 46.614957,
+        "longitude": 11.461101,
+        "name": "Rittner Horn",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.864623,
+          44.906892
+        ]
+      },
+      "properties": {
+        "feet": 10778,
+        "meters": 3285,
+        "latitude": 44.906892,
+        "longitude": 6.864623,
+        "name": "Roc del Boucher",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.921869,
+          44.505423
+        ]
+      },
+      "properties": {
+        "feet": 7881,
+        "meters": 2402,
+        "latitude": 44.505423,
+        "longitude": 6.921869,
+        "name": "Rocca Provenzale (Croce Provenzale)",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026579,
+          44.39537
+        ]
+      },
+      "properties": {
+        "feet": 5666,
+        "meters": 1727,
+        "latitude": 44.39537,
+        "longitude": 10.026579,
+        "name": "Roccabiasca",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.286241,
+          46.33169
+        ]
+      },
+      "properties": {
+        "feet": 7913,
+        "meters": 2412,
+        "latitude": 46.33169,
+        "longitude": 12.286241,
+        "name": "Rocchetta Alta di Bosconero",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.074962,
+          44.688259
+        ]
+      },
+      "properties": {
+        "feet": 10072,
+        "meters": 3070,
+        "latitude": 44.688259,
+        "longitude": 7.074962,
+        "name": "Roma (Punta)",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53078,
+          45.576696
+        ]
+      },
+      "properties": {
+        "feet": 10381,
+        "meters": 3164,
+        "latitude": 45.576696,
+        "longitude": 7.53078,
+        "name": "Rosa dei Banchi",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.995855,
+          46.699082
+        ]
+      },
+      "properties": {
+        "feet": 10948,
+        "meters": 3337,
+        "latitude": 46.699082,
+        "longitude": 10.995855,
+        "name": "Roteck (Monte Rosso)",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.767889,
+          46.610056
+        ]
+      },
+      "properties": {
+        "feet": 9925,
+        "meters": 3025,
+        "latitude": 46.610056,
+        "longitude": 11.767889,
+        "name": "Sass Rigais",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.874082,
+          47.01053
+        ]
+      },
+      "properties": {
+        "feet": 11053,
+        "meters": 3369,
+        "latitude": 47.01053,
+        "longitude": 11.874082,
+        "name": "Sasso Nero (Schwarzenstein)",
+        "regions": [
+          "Eastern Alps",
+          "Noric Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.265592,
+          46.350838
+        ]
+      },
+      "properties": {
+        "feet": 7917,
+        "meters": 2413,
+        "latitude": 46.350838,
+        "longitude": 12.265592,
+        "name": "Sassolungo di Cibiana",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042279,
+          44.383055
+        ]
+      },
+      "properties": {
+        "feet": 5627,
+        "meters": 1715,
+        "latitude": 44.383055,
+        "longitude": 10.042279,
+        "name": "Scala",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95,
+          46.2667
+        ]
+      },
+      "properties": {
+        "feet": 10902,
+        "meters": 3323,
+        "latitude": 46.2667,
+        "longitude": 9.95,
+        "name": "Scalino",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6667,
+          46.25
+        ]
+      },
+      "properties": {
+        "feet": 10669,
+        "meters": 3252,
+        "latitude": 46.25,
+        "longitude": 10.6667,
+        "name": "Scarpaco",
+        "regions": [
+          "Southern Alps",
+          "Brenta-Adamello-Garda Group"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.096441,
+          46.899529
+        ]
+      },
+      "properties": {
+        "feet": 11017,
+        "meters": 3358,
+        "latitude": 46.899529,
+        "longitude": 12.096441,
+        "name": "Schneebiger Nock (Monte Nevoso)",
+        "regions": [
+          "Eastern Alps",
+          "Noric Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.866667,
+          45.916109
+        ]
+      },
+      "properties": {
+        "feet": 14180,
+        "meters": 4322,
+        "latitude": 45.916109,
+        "longitude": 7.866667,
+        "name": "Schwarzhorn",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.006662,
+          46.555173
+        ]
+      },
+      "properties": {
+        "feet": 9429,
+        "meters": 2874,
+        "latitude": 46.555173,
+        "longitude": 12.006662,
+        "name": "Scotoni (Cima)",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403005,
+          46.704874
+        ]
+      },
+      "properties": {
+        "feet": 10515,
+        "meters": 3205,
+        "latitude": 46.704874,
+        "longitude": 10.403005,
+        "name": "Sesvenna (Piz)",
+        "regions": [
+          "Southern Alps",
+          "Rhaetian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0422,
+          44.48304
+        ]
+      },
+      "properties": {
+        "feet": 6106,
+        "meters": 1861,
+        "latitude": 44.48304,
+        "longitude": 10.0422,
+        "name": "Sillara",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Apennines"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2,
+          38.7833
+        ]
+      },
+      "properties": {
+        "feet": 3038,
+        "meters": 926,
+        "latitude": 38.7833,
+        "longitude": 15.2,
+        "name": "Stromboli",
+        "regions": [
+          "Italian Peninsula and Islands",
+          "Sicily"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1833,
+          46.5167
+        ]
+      },
+      "properties": {
+        "feet": 8356,
+        "meters": 2547,
+        "latitude": 46.5167,
+        "longitude": 12.1833,
+        "name": "Tamer",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.336073,
+          45.66794
+        ]
+      },
+      "properties": {
+        "feet": 9249,
+        "meters": 2819,
+        "latitude": 45.66794,
+        "longitude": 7.336073,
+        "name": "Testa Nera",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.971694,
+          46.719711
+        ]
+      },
+      "properties": {
+        "feet": 10886,
+        "meters": 3318,
+        "latitude": 46.719711,
+        "longitude": 10.971694,
+        "name": "Texelspitze (Cima Tessa)",
+        "regions": [
+          "Southern Alps",
+          "Ortler Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49456,
+          45.603845
+        ]
+      },
+      "properties": {
+        "feet": 10174,
+        "meters": 3101,
+        "latitude": 45.603845,
+        "longitude": 7.49456,
+        "name": "Torre Ponton",
+        "regions": [
+          "Western Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0454,
+          46.358057
+        ]
+      },
+      "properties": {
+        "feet": 8064,
+        "meters": 2458,
+        "latitude": 46.358057,
+        "longitude": 12.0454,
+        "name": "Torre Trieste",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0231,
+          46.3611
+        ]
+      },
+      "properties": {
+        "feet": 7667,
+        "meters": 2337,
+        "latitude": 46.3611,
+        "longitude": 12.0231,
+        "name": "Torre Venezia",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625717,
+          46.470854
+        ]
+      },
+      "properties": {
+        "feet": 855,
+        "meters": 2805,
+        "latitude": 46.470854,
+        "longitude": 11.625717,
+        "name": "Torri del Vajolet",
+        "regions": [
+          "Eastern Alps",
+          "Dolomites"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.073245,
+          44.69584
+        ]
+      },
+      "properties": {
+        "feet": 9915,
+        "meters": 3022,
+        "latitude": 44.69584,
+        "longitude": 7.073245,
+        "name": "Udine (Punta)",
+        "regions": [
+          "Western Alps",
+          "Cottian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1667,
+          45.5
+        ]
+      },
+      "properties": {
+        "feet": 12060,
+        "meters": 3676,
+        "latitude": 45.5,
+        "longitude": 7.1667,
+        "name": "Uja di Ciamarella",
+        "regions": [
+          "Western Alps",
+          "Graian Alps"
+        ],
+        "countries": [
+          "Italy",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4333,
+          40.8167
+        ]
+      },
+      "properties": {
+        "feet": 4202,
+        "meters": 1281,
+        "latitude": 40.8167,
+        "longitude": 14.4333,
+        "name": "Vesuvius",
+        "regions": [
+          "Italian Peninsula and Islands"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.180705,
+          47.091066
+        ]
+      },
+      "properties": {
+        "feet": 9554,
+        "meters": 2912,
+        "latitude": 47.091066,
+        "longitude": 12.180705,
+        "name": "Vetta d'Italia/Klockerkarkopf",
+        "regions": [
+          "Eastern Alps",
+          "Tirol Alpen"
+        ],
+        "countries": [
+          "Italy",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.860374,
+          45.908585
+        ]
+      },
+      "properties": {
+        "feet": 13829,
+        "meters": 4215,
+        "latitude": 45.908585,
+        "longitude": 7.860374,
+        "name": "Vincent Piramide",
+        "regions": [
+          "Southern Alps",
+          "Pennine Alps"
+        ],
+        "countries": [
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

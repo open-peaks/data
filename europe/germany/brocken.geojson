@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.616226,
+      51.79938
+    ]
+  },
+  "properties": {
+    "feet": 3747,
+    "meters": 1142,
+    "latitude": 51.79938,
+    "longitude": 10.616226,
+    "name": "Brocken",
+    "regions": [
+      "Central Europe Ranges",
+      "Harz"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

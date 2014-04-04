@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.749999,
+      -3.244392
+    ]
+  },
+  "properties": {
+    "feet": 14979,
+    "meters": 4566,
+    "latitude": -3.244392,
+    "longitude": 36.749999,
+    "name": "Mount Meru",
+    "regions": [
+      "East Africa Mountains",
+      "Northeast Tanzania"
+    ],
+    "countries": [
+      "Tanzania"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

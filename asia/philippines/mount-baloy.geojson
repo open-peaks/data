@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.235,
+      11.1406
+    ]
+  },
+  "properties": {
+    "feet": 7,
+    "meters": 2,
+    "latitude": 11.1406,
+    "longitude": 122.235,
+    "name": "Mount Baloy",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

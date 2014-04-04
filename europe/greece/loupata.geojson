@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.4333,
+      39.4833
+    ]
+  },
+  "properties": {
+    "feet": 6778,
+    "meters": 2066,
+    "latitude": 39.4833,
+    "longitude": 21.4333,
+    "name": "Loupata",
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

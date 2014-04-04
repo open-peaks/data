@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.627,
+      13.33851
+    ]
+  },
+  "properties": {
+    "feet": 2100,
+    "meters": 640,
+    "latitude": 13.33851,
+    "longitude": -87.627,
+    "name": "Volcan Zacate Grande",
+    "countries": [
+      "Honduras"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

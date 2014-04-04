@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.460666,
+      -28.218367
+    ]
+  },
+  "properties": {
+    "feet": 4511,
+    "meters": 1375,
+    "latitude": -28.218367,
+    "longitude": 152.460666,
+    "name": "Mount Superbus",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

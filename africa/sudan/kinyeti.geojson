@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.910258,
+      3.946286
+    ]
+  },
+  "properties": {
+    "feet": 10449,
+    "meters": 3185,
+    "latitude": 3.946286,
+    "longitude": 32.910258,
+    "name": "Kinyeti",
+    "countries": [
+      "Sudan"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

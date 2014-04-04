@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.491491,
+      47.658018
+    ]
+  },
+  "properties": {
+    "feet": 5228,
+    "meters": 1593,
+    "latitude": 47.658018,
+    "longitude": 12.491491,
+    "name": "Streicher, Zenokopf",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.343333,
+      47.249167
+    ]
+  },
+  "properties": {
+    "feet": 7,
+    "meters": 2502,
+    "latitude": 47.249167,
+    "longitude": 9.343333,
+    "name": "Säntis",
+    "regions": [
+      "Northern Alps",
+      "Saint Gallen Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.924153,
+      48.663105
+    ]
+  },
+  "properties": {
+    "feet": 7416,
+    "meters": 2260,
+    "latitude": 48.663105,
+    "longitude": -120.924153,
+    "name": "Beebe",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

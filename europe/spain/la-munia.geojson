@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.130763,
+      42.716277
+    ]
+  },
+  "properties": {
+    "feet": 10279,
+    "meters": 3133,
+    "latitude": 42.716277,
+    "longitude": 0.130763,
+    "name": "La Munia",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

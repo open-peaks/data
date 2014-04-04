@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.7,
+      42.0167
+    ]
+  },
+  "properties": {
+    "feet": 7500,
+    "meters": 2286,
+    "latitude": 42.0167,
+    "longitude": -122.7,
+    "name": "Mt. Ashland",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

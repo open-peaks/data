@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.3923,
+      13.75768
+    ]
+  },
+  "properties": {
+    "feet": 6913,
+    "meters": 2107,
+    "latitude": 13.75768,
+    "longitude": -86.3923,
+    "name": "Cerro Mogoton",
+    "regions": [
+      "Central American Ranges"
+    ],
+    "countries": [
+      "Nicaragua",
+      "Honduras"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

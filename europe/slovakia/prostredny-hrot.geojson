@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.19433,
+      49.184957
+    ]
+  },
+  "properties": {
+    "feet": 8009,
+    "meters": 2441,
+    "latitude": 49.184957,
+    "longitude": 20.19433,
+    "name": "Prostredny Hrot",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.7264,
+      42.3507
+    ]
+  },
+  "properties": {
+    "feet": 3428,
+    "meters": 1045,
+    "latitude": 42.3507,
+    "longitude": -0.7264,
+    "name": "Mallos de Riglos",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

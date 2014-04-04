@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.2241,
+      57.2091
+    ]
+  },
+  "properties": {
+    "feet": 3110,
+    "meters": 948,
+    "latitude": 57.2091,
+    "longitude": -6.2241,
+    "name": "Sgurr Mhic Choinnich",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

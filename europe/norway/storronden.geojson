@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.860916,
+      61.89224
+    ]
+  },
+  "properties": {
+    "feet": 7014,
+    "meters": 2138,
+    "latitude": 61.89224,
+    "longitude": 9.860916,
+    "name": "Storronden",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.135308,
+      49.173922
+    ]
+  },
+  "properties": {
+    "feet": 7605,
+    "meters": 2318,
+    "latitude": 49.173922,
+    "longitude": 20.135308,
+    "name": "Velicky stit",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

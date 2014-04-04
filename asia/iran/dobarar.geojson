@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.230849,
+      35.766154
+    ]
+  },
+  "properties": {
+    "feet": 13944,
+    "meters": 4250,
+    "latitude": 35.766154,
+    "longitude": 52.230849,
+    "name": "Dobarar",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

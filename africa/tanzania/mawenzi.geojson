@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 16893,
+    "meters": 5149,
+    "name": "Mawenzi",
+    "regions": [
+      "East Africa Mountains",
+      "Northeast Tanzania"
+    ],
+    "countries": [
+      "Tanzania"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

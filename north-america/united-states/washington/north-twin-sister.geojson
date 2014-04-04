@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.998324,
+      48.715459
+    ]
+  },
+  "properties": {
+    "feet": 6640,
+    "meters": 2024,
+    "latitude": 48.715459,
+    "longitude": -121.998324,
+    "name": "North Twin Sister",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

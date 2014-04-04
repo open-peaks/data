@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.49,
+      -28.53
+    ]
+  },
+  "properties": {
+    "feet": 1000,
+    "meters": 305,
+    "latitude": -28.53,
+    "longitude": 153.49,
+    "name": "Mount Chincogan",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

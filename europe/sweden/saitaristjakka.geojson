@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6250,
+    "meters": 1905,
+    "name": "Saitaristjåkkå",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

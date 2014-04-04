@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.9667,
+      -50.9833
+    ]
+  },
+  "properties": {
+    "feet": 8204,
+    "meters": 2501,
+    "latitude": -50.9833,
+    "longitude": -72.9667,
+    "name": "Torre Sur",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

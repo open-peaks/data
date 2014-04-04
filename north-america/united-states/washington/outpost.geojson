@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.903769,
+      48.523426
+    ]
+  },
+  "properties": {
+    "feet": 7910,
+    "meters": 2411,
+    "latitude": 48.523426,
+    "longitude": -120.903769,
+    "name": "Outpost",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

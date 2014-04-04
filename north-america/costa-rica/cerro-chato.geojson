@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.689814,
+      10.440837
+    ]
+  },
+  "properties": {
+    "feet": 3740,
+    "meters": 1148,
+    "latitude": 10.440837,
+    "longitude": -84.689814,
+    "name": "Cerro Chato",
+    "regions": [
+      "Central American Ranges",
+      "Costa Rica - Panama Ranges"
+    ],
+    "countries": [
+      "Costa Rica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

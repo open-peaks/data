@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.05,
+      -18.383
+    ]
+  },
+  "properties": {
+    "feet": 19856,
+    "meters": 6052,
+    "latitude": -18.383,
+    "longitude": -69.05,
+    "name": "Acotango",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.977074,
+      -32.628099
+    ]
+  },
+  "properties": {
+    "feet": 19587,
+    "meters": 5970,
+    "latitude": -32.628099,
+    "longitude": -69.977074,
+    "name": "Ameghino",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

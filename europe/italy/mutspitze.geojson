@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.097565,
+      46.720917
+    ]
+  },
+  "properties": {
+    "feet": 7526,
+    "meters": 2294,
+    "latitude": 46.720917,
+    "longitude": 11.097565,
+    "name": "Mutspitze",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

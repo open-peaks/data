@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.00074,
+      50.698578
+    ]
+  },
+  "properties": {
+    "feet": 1775,
+    "meters": 541,
+    "latitude": 50.698578,
+    "longitude": -4.00074,
+    "name": "West Mill Tor",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

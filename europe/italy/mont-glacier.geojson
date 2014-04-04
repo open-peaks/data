@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.540136,
+      45.63134
+    ]
+  },
+  "properties": {
+    "feet": 10453,
+    "meters": 3186,
+    "latitude": 45.63134,
+    "longitude": 7.540136,
+    "name": "Mont Glacier",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

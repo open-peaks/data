@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.047333,
+      42.986567
+    ]
+  },
+  "properties": {
+    "feet": 3051,
+    "meters": 930,
+    "latitude": 42.986567,
+    "longitude": -3.047333,
+    "name": "Orduña",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

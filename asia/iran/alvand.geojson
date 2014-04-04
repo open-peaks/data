@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.2065,
+      34.2708
+    ]
+  },
+  "properties": {
+    "feet": 11319,
+    "meters": 3450,
+    "latitude": 34.2708,
+    "longitude": 54.2065,
+    "name": "alvand",
+    "regions": [
+      "Iranian Plateau",
+      "Central Iranian Plateau"
+    ],
+    "countries": [
+      "Iran",
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

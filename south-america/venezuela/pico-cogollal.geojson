@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.389101,
+      10.394227
+    ]
+  },
+  "properties": {
+    "feet": 7841,
+    "meters": 2390,
+    "latitude": 10.394227,
+    "longitude": -67.389101,
+    "name": "Pico Cogollal",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

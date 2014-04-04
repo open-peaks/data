@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.5,
+      -42.9167
+    ]
+  },
+  "properties": {
+    "feet": 7464,
+    "meters": 2275,
+    "latitude": -42.9167,
+    "longitude": 171.5,
+    "name": "Mount Rolleston",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

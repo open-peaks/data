@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.6838,
+      34.8012
+    ]
+  },
+  "properties": {
+    "feet": 4430,
+    "meters": 1350,
+    "latitude": 34.8012,
+    "longitude": -83.6838,
+    "name": "Tray Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

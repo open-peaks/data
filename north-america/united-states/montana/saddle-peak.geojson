@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.936607,
+      45.793253
+    ]
+  },
+  "properties": {
+    "feet": 9162,
+    "meters": 2793,
+    "latitude": 45.793253,
+    "longitude": -110.936607,
+    "name": "Saddle Peak",
+    "regions": [
+      "Intermountain West"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

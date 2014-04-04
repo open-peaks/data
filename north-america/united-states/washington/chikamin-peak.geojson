@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.310949,
+      47.475419
+    ]
+  },
+  "properties": {
+    "feet": 7000,
+    "meters": 2134,
+    "latitude": 47.475419,
+    "longitude": -121.310949,
+    "name": "Chikamin Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.645,
+      36.2961
+    ]
+  },
+  "properties": {
+    "feet": 10466,
+    "meters": 3190,
+    "latitude": 36.2961,
+    "longitude": 137.645,
+    "name": "Hotakadake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

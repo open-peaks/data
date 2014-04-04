@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.7939,
+      46.7592
+    ]
+  },
+  "properties": {
+    "feet": 6024,
+    "meters": 1836,
+    "latitude": 46.7592,
+    "longitude": 22.7939,
+    "name": "Vladeasa",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

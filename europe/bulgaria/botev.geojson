@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.9167,
+      42.7167
+    ]
+  },
+  "properties": {
+    "feet": 7795,
+    "meters": 2376,
+    "latitude": 42.7167,
+    "longitude": 24.9167,
+    "name": "Botev",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

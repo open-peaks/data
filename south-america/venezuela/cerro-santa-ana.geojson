@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.951453,
+      11.818419
+    ]
+  },
+  "properties": {
+    "feet": 2625,
+    "meters": 830,
+    "latitude": 11.818419,
+    "longitude": -69.951453,
+    "name": "Cerro Santa Ana",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

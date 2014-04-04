@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1300,
+    "meters": 396,
+    "name": "Mt.Riante",
+    "regions": [
+      "North American Plains",
+      "Ozark Highlands"
+    ],
+    "states": [
+      "Arkansas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

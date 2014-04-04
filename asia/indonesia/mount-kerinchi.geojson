@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.267,
+      -1.7
+    ]
+  },
+  "properties": {
+    "feet": 12467,
+    "meters": 3800,
+    "latitude": -1.7,
+    "longitude": 101.267,
+    "name": "Mount Kerinchi",
+    "regions": [
+      "Malay Archipelago",
+      "Sumatra"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

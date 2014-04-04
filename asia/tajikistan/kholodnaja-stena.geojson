@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.5556,
+      38.6028
+    ]
+  },
+  "properties": {
+    "feet": 19511,
+    "meters": 5947,
+    "latitude": 38.6028,
+    "longitude": 72.5556,
+    "name": "Kholodnaja Stena",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

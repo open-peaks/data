@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.17479,
+      42.21145
+    ]
+  },
+  "properties": {
+    "feet": 20902,
+    "meters": 6371,
+    "latitude": 42.21145,
+    "longitude": 80.17479,
+    "name": "Peak Chapayev",
+    "regions": [
+      "Tien Shan"
+    ],
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

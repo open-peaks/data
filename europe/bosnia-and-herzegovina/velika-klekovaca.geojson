@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.507623,
+      44.432087
+    ]
+  },
+  "properties": {
+    "feet": 6444,
+    "meters": 1964,
+    "latitude": 44.432087,
+    "longitude": 16.507623,
+    "name": "Velika Klekovača",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina",
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

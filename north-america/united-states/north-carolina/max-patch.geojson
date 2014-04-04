@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.9569,
+      35.7969
+    ]
+  },
+  "properties": {
+    "feet": 4629,
+    "meters": 1411,
+    "latitude": 35.7969,
+    "longitude": -82.9569,
+    "name": "Max Patch",
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

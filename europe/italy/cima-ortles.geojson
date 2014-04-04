@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.55,
+      46.5167
+    ]
+  },
+  "properties": {
+    "feet": 12802,
+    "meters": 3902,
+    "latitude": 46.5167,
+    "longitude": 10.55,
+    "name": "Cima Ortles",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

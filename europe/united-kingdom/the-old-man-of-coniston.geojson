@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.121,
+      54.321
+    ]
+  },
+  "properties": {
+    "feet": 2633,
+    "meters": 803,
+    "latitude": 54.321,
+    "longitude": 3.121,
+    "name": "The Old Man Of Coniston",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

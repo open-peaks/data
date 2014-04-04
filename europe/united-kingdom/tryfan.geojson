@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.99693,
+      53.1158
+    ]
+  },
+  "properties": {
+    "feet": 3002,
+    "meters": 915,
+    "latitude": 53.1158,
+    "longitude": -3.99693,
+    "name": "Tryfan",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

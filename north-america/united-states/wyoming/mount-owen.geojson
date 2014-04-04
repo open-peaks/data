@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.797,
+      43.7469
+    ]
+  },
+  "properties": {
+    "feet": 12928,
+    "meters": 3940,
+    "latitude": 43.7469,
+    "longitude": -110.797,
+    "name": "Mount Owen",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

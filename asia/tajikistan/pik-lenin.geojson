@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.9167,
+      39.3333
+    ]
+  },
+  "properties": {
+    "feet": 23406,
+    "meters": 7134,
+    "latitude": 39.3333,
+    "longitude": 72.9167,
+    "name": "Pik Lenin",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.0,
+      36.0
+    ]
+  },
+  "properties": {
+    "feet": 24110,
+    "meters": 7349,
+    "latitude": 36.0,
+    "longitude": 71.0,
+    "name": "Saraghrar",
+    "regions": [
+      "Central Asia Ranges",
+      "Hindu Kush "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

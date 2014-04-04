@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.779,
+      40.3717
+    ]
+  },
+  "properties": {
+    "feet": 12889,
+    "meters": 3929,
+    "latitude": 40.3717,
+    "longitude": -105.779,
+    "name": "Mount Ida",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

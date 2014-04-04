@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.207443,
+      50.527942
+    ]
+  },
+  "properties": {
+    "feet": 11316,
+    "meters": 3449,
+    "latitude": 50.527942,
+    "longitude": -115.207443,
+    "name": "Mount Joffre",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.4,
+      3.16667
+    ]
+  },
+  "properties": {
+    "feet": 8041,
+    "meters": 2451,
+    "latitude": 3.16667,
+    "longitude": 98.4,
+    "name": "Gunung Sinabung",
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

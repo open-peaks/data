@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.41667,
+      45.8667
+    ]
+  },
+  "properties": {
+    "feet": 6148,
+    "meters": 1874,
+    "latitude": 45.8667,
+    "longitude": 9.41667,
+    "name": "Resegone",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

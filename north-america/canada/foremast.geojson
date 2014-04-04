@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.331,
+      50.9768
+    ]
+  },
+  "properties": {
+    "feet": 8670,
+    "meters": 2643,
+    "latitude": 50.9768,
+    "longitude": -117.331,
+    "name": "Foremast",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

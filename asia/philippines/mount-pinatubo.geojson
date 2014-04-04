@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.349,
+      15.1422
+    ]
+  },
+  "properties": {
+    "feet": 4875,
+    "meters": 1486,
+    "latitude": 15.1422,
+    "longitude": 120.349,
+    "name": "Mount Pinatubo",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.24073,
+      10.799443
+    ]
+  },
+  "properties": {
+    "feet": 4524,
+    "meters": 1379,
+    "latitude": 10.799443,
+    "longitude": 123.24073,
+    "name": "Sicaba Dacu Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.28119,
+      54.4975
+    ]
+  },
+  "properties": {
+    "feet": 2926,
+    "meters": 892,
+    "latitude": 54.4975,
+    "longitude": -3.28119,
+    "name": "Pillar",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

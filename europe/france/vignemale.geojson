@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.150805,
+      42.774109
+    ]
+  },
+  "properties": {
+    "feet": 10821,
+    "meters": 3298,
+    "latitude": 42.774109,
+    "longitude": -0.150805,
+    "name": "Vignemale",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

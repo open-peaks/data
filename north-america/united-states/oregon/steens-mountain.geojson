@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.55,
+      42.6833
+    ]
+  },
+  "properties": {
+    "feet": 9733,
+    "meters": 2967,
+    "latitude": 42.6833,
+    "longitude": -118.55,
+    "name": "Steens Mountain",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

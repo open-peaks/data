@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.645569,
+      35.991296
+    ]
+  },
+  "properties": {
+    "feet": 12696,
+    "meters": 3870,
+    "latitude": 35.991296,
+    "longitude": -105.645569,
+    "name": "Sheepshead Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

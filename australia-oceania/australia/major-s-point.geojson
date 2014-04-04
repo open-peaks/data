@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.41742,
+      -30.438183
+    ]
+  },
+  "properties": {
+    "feet": 5095,
+    "meters": 1553,
+    "latitude": -30.438183,
+    "longitude": 152.41742,
+    "name": "Major's Point",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

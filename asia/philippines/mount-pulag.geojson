@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.839,
+      16.51
+    ]
+  },
+  "properties": {
+    "feet": 9586,
+    "meters": 2922,
+    "latitude": 16.51,
+    "longitude": 120.839,
+    "name": "Mount Pulag",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

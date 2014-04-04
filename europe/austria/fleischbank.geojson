@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.317,
+      47.5688
+    ]
+  },
+  "properties": {
+    "feet": 7175,
+    "meters": 2187,
+    "latitude": 47.5688,
+    "longitude": 12.317,
+    "name": "Fleischbank",
+    "regions": [
+      "Eastern Alps",
+      "Tirol Alpen"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

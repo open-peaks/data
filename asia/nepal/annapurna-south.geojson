@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.805857,
+      28.518629
+    ]
+  },
+  "properties": {
+    "feet": 23684,
+    "meters": 7219,
+    "latitude": 28.518629,
+    "longitude": 83.805857,
+    "name": "Annapurna South",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

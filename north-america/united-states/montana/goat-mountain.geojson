@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.591723,
+      48.704585
+    ]
+  },
+  "properties": {
+    "feet": 8826,
+    "meters": 2690,
+    "latitude": 48.704585,
+    "longitude": -113.591723,
+    "name": "Goat Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

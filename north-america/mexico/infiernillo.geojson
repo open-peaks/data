@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.935,
+      24.518
+    ]
+  },
+  "properties": {
+    "feet": 10696,
+    "meters": 3260,
+    "latitude": 24.518,
+    "longitude": -99.935,
+    "name": "Infiernillo",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Oriental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

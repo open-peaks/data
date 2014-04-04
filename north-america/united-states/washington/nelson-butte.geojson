@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.205034,
+      46.823615
+    ]
+  },
+  "properties": {
+    "feet": 7160,
+    "meters": 2182,
+    "latitude": 46.823615,
+    "longitude": -121.205034,
+    "name": "Nelson Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.6,
+      13.4667
+    ]
+  },
+  "properties": {
+    "feet": 5079,
+    "meters": 1548,
+    "latitude": 13.4667,
+    "longitude": 123.6,
+    "name": "Mt. Malinao",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

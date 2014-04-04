@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0,
+      56.0
+    ]
+  },
+  "properties": {
+    "feet": 2888,
+    "meters": 880,
+    "latitude": 56.0,
+    "longitude": -4.0,
+    "name": "Ben Ledi",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

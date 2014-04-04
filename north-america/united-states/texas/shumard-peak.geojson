@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.874115,
+      31.906707
+    ]
+  },
+  "properties": {
+    "feet": 8615,
+    "meters": 2626,
+    "latitude": 31.906707,
+    "longitude": -104.874115,
+    "name": "Shumard Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

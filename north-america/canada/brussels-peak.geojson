@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.8222,
+      52.5166
+    ]
+  },
+  "properties": {
+    "feet": 10371,
+    "meters": 3161,
+    "latitude": 52.5166,
+    "longitude": -117.8222,
+    "name": "Brussels Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

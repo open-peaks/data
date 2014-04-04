@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.304,
+      50.2798
+    ]
+  },
+  "properties": {
+    "feet": 8973,
+    "meters": 2735,
+    "latitude": 50.2798,
+    "longitude": -122.304,
+    "name": "Mount Marriott",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

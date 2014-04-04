@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8333,
+      47.55
+    ]
+  },
+  "properties": {
+    "feet": 6831,
+    "meters": 2082,
+    "latitude": 47.55,
+    "longitude": 10.8333,
+    "name": "Ammergauer Hochplatte",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

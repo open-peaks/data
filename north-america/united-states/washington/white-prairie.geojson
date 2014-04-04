@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.438672,
+      48.247415
+    ]
+  },
+  "properties": {
+    "feet": 5040,
+    "meters": 1536,
+    "latitude": 48.247415,
+    "longitude": -121.438672,
+    "name": "White Prairie",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

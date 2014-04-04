@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.321281,
+      52.215706
+    ]
+  },
+  "properties": {
+    "feet": 11500,
+    "meters": 3505,
+    "latitude": 52.215706,
+    "longitude": -117.321281,
+    "name": "Mount Kitchener",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

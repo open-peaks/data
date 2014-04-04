@@ -1,0 +1,1223 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53333,
+          23.3
+        ]
+      },
+      "properties": {
+        "feet": 9573,
+        "meters": 2918,
+        "latitude": 23.3,
+        "longitude": 5.53333,
+        "name": "Tahat",
+        "regions": [
+          "Sahara Desert Ranges",
+          "Ahaggar Mountains"
+        ],
+        "countries": [
+          "Algeria"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18333,
+          4.2
+        ]
+      },
+      "properties": {
+        "feet": 13354,
+        "meters": 4070,
+        "latitude": 4.2,
+        "longitude": 9.18333,
+        "name": "Cameroon Mountain",
+        "regions": [
+          "West Africa Mountains",
+          "Cameroon Mountains"
+        ],
+        "countries": [
+          "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5,
+          19.8333
+        ]
+      },
+      "properties": {
+        "feet": 11204,
+        "meters": 3415,
+        "latitude": 19.8333,
+        "longitude": 18.5,
+        "name": "Emi Koussi",
+        "regions": [
+          "Sahara Desert Ranges",
+          "Tibesti"
+        ],
+        "countries": [
+          "Chad"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2,
+          11.9167
+        ]
+      },
+      "properties": {
+        "feet": 4750,
+        "latitude": 11.9167,
+        "longitude": 18.2,
+        "name": "Mount Guera",
+        "regions": [
+          "Sahara Desert Ranges"
+        ],
+        "countries": [
+          "Chad"
+        ],
+        "continent": "Africa",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9,
+          0.433333
+        ]
+      },
+      "properties": {
+        "feet": 15740,
+        "meters": 4798,
+        "latitude": 0.433333,
+        "longitude": 29.9,
+        "name": "Mount Emin",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9167,
+          0.433333
+        ]
+      },
+      "properties": {
+        "feet": 15470,
+        "meters": 4715,
+        "latitude": 0.433333,
+        "longitude": 29.9167,
+        "name": "Mount Gessi",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8833,
+          0.4
+        ]
+      },
+      "properties": {
+        "feet": 16042,
+        "meters": 4890,
+        "latitude": 0.4,
+        "longitude": 29.8833,
+        "name": "Mount Speke",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8667,
+          0.383333
+        ]
+      },
+      "properties": {
+        "feet": 16763,
+        "meters": 5109,
+        "latitude": 0.383333,
+        "longitude": 29.8667,
+        "name": "Mount Stanley",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95,
+          28.5167
+        ]
+      },
+      "properties": {
+        "feet": 8651,
+        "meters": 2640,
+        "latitude": 28.5167,
+        "longitude": 33.95,
+        "name": "Mount Sinai",
+        "countries": [
+          "Egypt"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4,
+          13.25
+        ]
+      },
+      "properties": {
+        "feet": 14928,
+        "meters": 4550,
+        "latitude": 13.25,
+        "longitude": 38.4,
+        "name": "Ras Dashen",
+        "regions": [
+          "Ethiopian Highlands"
+        ],
+        "countries": [
+          "Ethiopia"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3,
+          -0.15
+        ]
+      },
+      "properties": {
+        "feet": 17057,
+        "meters": 5199,
+        "latitude": -0.15,
+        "longitude": 37.3,
+        "name": "Mount Kenya",
+        "regions": [
+          "East Africa Mountains",
+          "East Central Kenya"
+        ],
+        "countries": [
+          "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.456944,
+          -0.915278
+        ]
+      },
+      "properties": {
+        "feet": 9111,
+        "meters": 2777,
+        "latitude": -0.915278,
+        "longitude": 36.456944,
+        "name": "Mount Longonot",
+        "countries": [
+          "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6333,
+          -15.9667
+        ]
+      },
+      "properties": {
+        "feet": 9852,
+        "meters": 3003,
+        "latitude": -15.9667,
+        "longitude": 35.6333,
+        "name": "Mulanje",
+        "regions": [
+          "Southern Africa",
+          "Malawi Highlands"
+        ],
+        "countries": [
+          "Malawi"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021079,
+          31.574404
+        ]
+      },
+      "properties": {
+        "feet": 11844,
+        "meters": 3610,
+        "latitude": 31.574404,
+        "longitude": -7.021079,
+        "name": "Anghomar",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8254,
+          31.1753
+        ]
+      },
+      "properties": {
+        "feet": 11864,
+        "meters": 3616,
+        "latitude": 31.1753,
+        "longitude": -7.8254,
+        "name": "Angour",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.56972,
+          31.5111
+        ]
+      },
+      "properties": {
+        "feet": 13346,
+        "meters": 4068,
+        "latitude": 31.5111,
+        "longitude": -5.56972,
+        "name": "m'goun",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco",
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91547,
+          31.0611
+        ]
+      },
+      "properties": {
+        "feet": 13665,
+        "meters": 4167,
+        "latitude": 31.0611,
+        "longitude": -7.91547,
+        "name": "Toubkal",
+        "regions": [
+          "Atlas Mountains",
+          "High Atlas"
+        ],
+        "countries": [
+          "Morocco"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.066667,
+          -19.783333
+        ]
+      },
+      "properties": {
+        "feet": 7995,
+        "meters": 2437,
+        "latitude": -19.783333,
+        "longitude": 33.066667,
+        "name": "Binga",
+        "regions": [
+          "Southern Africa",
+          "Zimbabwe Plateau"
+        ],
+        "countries": [
+          "Mozambique"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          -22.0
+        ]
+      },
+      "properties": {
+        "feet": 5020,
+        "meters": 1530,
+        "latitude": -22.0,
+        "longitude": 15.0,
+        "name": "Pondoks",
+        "countries": [
+          "Namibia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7167,
+          -21.2333
+        ]
+      },
+      "properties": {
+        "feet": 8631,
+        "meters": 2631,
+        "latitude": -21.2333,
+        "longitude": 55.7167,
+        "name": "Piton de la Fournaise",
+        "regions": [
+          "Indian Ocean Islands",
+          "Reunion Island"
+        ],
+        "countries": [
+          "Reunion"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4833,
+          -21.0833
+        ]
+      },
+      "properties": {
+        "feet": 10700,
+        "meters": 3070,
+        "latitude": -21.0833,
+        "longitude": 55.4833,
+        "name": "Piton des Neiges",
+        "regions": [
+          "Indian Ocean Islands",
+          "Reunion Island"
+        ],
+        "countries": [
+          "Reunion"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0667,
+          -1.28333
+        ]
+      },
+      "properties": {
+        "feet": 11565,
+        "meters": 3525,
+        "latitude": -1.28333,
+        "longitude": 30.0667,
+        "name": "Gahinga",
+        "regions": [
+          "East Africa Mountains",
+          "Virunga Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.45,
+          -1.5
+        ]
+      },
+      "properties": {
+        "feet": 14787,
+        "meters": 4507,
+        "latitude": -1.5,
+        "longitude": 29.45,
+        "name": "Mount Karisimbi",
+        "regions": [
+          "East Africa Mountains",
+          "Virunga Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6167,
+          -1.33333
+        ]
+      },
+      "properties": {
+        "feet": 13540,
+        "meters": 4127,
+        "latitude": -1.33333,
+        "longitude": 29.6167,
+        "name": "Muhabura",
+        "regions": [
+          "East Africa Mountains"
+        ],
+        "countries": [
+          "Rwanda",
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15,
+          -28.9167
+        ]
+      },
+      "properties": {
+        "feet": 9856,
+        "meters": 3004,
+        "latitude": -28.9167,
+        "longitude": 29.15,
+        "name": "Cathedral Peak",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4167,
+          -33.9167
+        ]
+      },
+      "properties": {
+        "feet": 3281,
+        "meters": 1000,
+        "latitude": -33.9167,
+        "longitude": 18.4167,
+        "name": "Devil's Peak",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0833,
+          -32.2333
+        ]
+      },
+      "properties": {
+        "feet": 5725,
+        "meters": 1745,
+        "latitude": -32.2333,
+        "longitude": 19.0833,
+        "name": "Krakadou",
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.528,
+          -24.7233
+        ]
+      },
+      "properties": {
+        "feet": 4406,
+        "meters": 1343,
+        "latitude": -24.7233,
+        "longitude": 28.528,
+        "name": "Kranskop",
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3571,
+          -29.2023
+        ]
+      },
+      "properties": {
+        "feet": 11319,
+        "meters": 3450,
+        "latitude": -29.2023,
+        "longitude": 29.3571,
+        "name": "Mafadi",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.884644,
+          -28.759081
+        ]
+      },
+      "properties": {
+        "feet": 10768,
+        "meters": 3282,
+        "latitude": -28.759081,
+        "longitude": 28.884644,
+        "name": "Mont-aux-Sources",
+        "regions": [
+          "Southern Africa",
+          "Drakensberg"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1667,
+          -32.5167
+        ]
+      },
+      "properties": {
+        "feet": 6650,
+        "meters": 2027,
+        "latitude": -32.5167,
+        "longitude": 19.1667,
+        "name": "Sneeuberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4167,
+          -33.95
+        ]
+      },
+      "properties": {
+        "feet": 3566,
+        "meters": 1087,
+        "latitude": -33.95,
+        "longitude": 18.4167,
+        "name": "Table Mountain",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2,
+          -32.4167
+        ]
+      },
+      "properties": {
+        "feet": 6460,
+        "meters": 1969,
+        "latitude": -32.4167,
+        "longitude": 19.2,
+        "name": "Tafelberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2667,
+          -32.45
+        ]
+      },
+      "properties": {
+        "feet": 5279,
+        "meters": 1609,
+        "latitude": -32.45,
+        "longitude": 19.2667,
+        "name": "Wolfberg",
+        "regions": [
+          "Southern Africa",
+          "Cape Ranges"
+        ],
+        "countries": [
+          "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0167,
+          21.9167
+        ]
+      },
+      "properties": {
+        "feet": 6345,
+        "meters": 1934,
+        "latitude": 21.9167,
+        "longitude": 25.0167,
+        "name": "Jebel Uweinat",
+        "regions": [
+          "Sahara Desert Ranges"
+        ],
+        "countries": [
+          "Sudan",
+          "Libya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.910258,
+          3.946286
+        ]
+      },
+      "properties": {
+        "feet": 10449,
+        "meters": 3185,
+        "latitude": 3.946286,
+        "longitude": 32.910258,
+        "name": "Kinyeti",
+        "countries": [
+          "Sudan"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5833,
+          -2.83333
+        ]
+      },
+      "properties": {
+        "feet": 12080,
+        "meters": 3682,
+        "latitude": -2.83333,
+        "longitude": 35.5833,
+        "name": "Loolmalasin",
+        "regions": [
+          "East Africa Mountains",
+          "Central East Africa Plateau"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35,
+          -3.06667
+        ]
+      },
+      "properties": {
+        "feet": 19340,
+        "meters": 5895,
+        "latitude": -3.06667,
+        "longitude": 37.35,
+        "name": "Mount Kilimanjaro",
+        "regions": [
+          "East Africa Mountains",
+          "Northeast Tanzania"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.749999,
+          -3.244392
+        ]
+      },
+      "properties": {
+        "feet": 14979,
+        "meters": 4566,
+        "latitude": -3.244392,
+        "longitude": 36.749999,
+        "name": "Mount Meru",
+        "regions": [
+          "East Africa Mountains",
+          "Northeast Tanzania"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75,
+          6.866666
+        ]
+      },
+      "properties": {
+        "feet": 3235,
+        "meters": 986,
+        "latitude": 6.866666,
+        "longitude": -0.75,
+        "name": "Mont Agou",
+        "regions": [
+          "West Africa Mountains"
+        ],
+        "countries": [
+          "Togo"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63333,
+          35.2167
+        ]
+      },
+      "properties": {
+        "feet": 5066,
+        "meters": 1544,
+        "latitude": 35.2167,
+        "longitude": 8.63333,
+        "name": "Jebel Chaambi",
+        "regions": [
+          "Atlas Mountains"
+        ],
+        "countries": [
+          "Tunisia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.873639,
+          0.380319
+        ]
+      },
+      "properties": {
+        "feet": 16763,
+        "meters": 5109,
+        "latitude": 0.380319,
+        "longitude": 29.873639,
+        "name": "Margherita",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Uganda",
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8833,
+          0.366667
+        ]
+      },
+      "properties": {
+        "feet": 15889,
+        "meters": 4843,
+        "latitude": 0.366667,
+        "longitude": 29.8833,
+        "name": "Mount Baker",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.55,
+          1.13333
+        ]
+      },
+      "properties": {
+        "feet": 14178,
+        "meters": 4321,
+        "latitude": 1.13333,
+        "longitude": 34.55,
+        "name": "Mount Elgon",
+        "regions": [
+          "East Africa Mountains",
+          "Central East Africa Plateau"
+        ],
+        "countries": [
+          "Uganda",
+          "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8833,
+          0.333333
+        ]
+      },
+      "properties": {
+        "feet": 15178,
+        "meters": 4626,
+        "latitude": 0.333333,
+        "longitude": 29.8833,
+        "name": "Mount Luigi",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36,
+          -13.2
+        ]
+      },
+      "properties": {
+        "feet": 6400,
+        "meters": 1951,
+        "latitude": -13.2,
+        "longitude": 29.36,
+        "name": "Mumpu",
+        "regions": [
+          "Southern Africa",
+          "Zambia Plateau"
+        ],
+        "countries": [
+          "Zambia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

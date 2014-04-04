@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 12500,
+    "meters": 3810,
+    "name": "Gumatchi",
+    "regions": [
+      "Caucasus Mountains"
+    ],
+    "countries": [
+      "Russia",
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

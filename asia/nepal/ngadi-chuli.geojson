@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.5675,
+      28.5033
+    ]
+  },
+  "properties": {
+    "feet": 25823,
+    "meters": 7871,
+    "latitude": 28.5033,
+    "longitude": 84.5675,
+    "name": "Ngadi Chuli",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.171189,
+      -28.262422
+    ]
+  },
+  "properties": {
+    "feet": 3904,
+    "meters": 1190,
+    "latitude": -28.262422,
+    "longitude": 153.171189,
+    "name": "Mt Bithongabel",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.722057,
+      48.600566
+    ]
+  },
+  "properties": {
+    "feet": 10052,
+    "meters": 3064,
+    "latitude": 48.600566,
+    "longitude": -113.722057,
+    "name": "Mount Jackson",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

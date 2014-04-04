@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.3156,
+      43.2019
+    ]
+  },
+  "properties": {
+    "feet": 5764,
+    "meters": 1757,
+    "latitude": 43.2019,
+    "longitude": 22.3156,
+    "name": "Babin zub",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

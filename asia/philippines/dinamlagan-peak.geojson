@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.221768,
+      10.782744
+    ]
+  },
+  "properties": {
+    "feet": 4839,
+    "meters": 1475,
+    "latitude": 10.782744,
+    "longitude": 123.221768,
+    "name": "Dinamlagan Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

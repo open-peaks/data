@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.236296,
+      51.382067
+    ]
+  },
+  "properties": {
+    "feet": 10072,
+    "meters": 3070,
+    "latitude": 51.382067,
+    "longitude": -116.236296,
+    "name": "Haddo Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.25,
+      -36.4167
+    ]
+  },
+  "properties": {
+    "feet": 6785,
+    "meters": 2068,
+    "latitude": -36.4167,
+    "longitude": 148.25,
+    "name": "Mount Tate",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

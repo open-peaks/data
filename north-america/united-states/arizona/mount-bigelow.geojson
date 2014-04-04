@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.715,
+      32.4155
+    ]
+  },
+  "properties": {
+    "feet": 8550,
+    "meters": 2606,
+    "latitude": 32.4155,
+    "longitude": -110.715,
+    "name": "Mount Bigelow",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

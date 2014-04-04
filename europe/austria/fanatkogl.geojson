@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.7,
+      47.0667
+    ]
+  },
+  "properties": {
+    "feet": 9531,
+    "meters": 2905,
+    "latitude": 47.0667,
+    "longitude": 12.7,
+    "name": "Fanatkogl",
+    "regions": [
+      "Eastern Alps",
+      "Hohe Tauern"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

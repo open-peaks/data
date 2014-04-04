@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.299573,
+      48.774294
+    ]
+  },
+  "properties": {
+    "feet": 8151,
+    "meters": 2484,
+    "latitude": 48.774294,
+    "longitude": -121.299573,
+    "name": "Mount Terror",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

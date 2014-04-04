@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.535614,
+      44.001614
+    ]
+  },
+  "properties": {
+    "feet": 4315,
+    "meters": 1315,
+    "latitude": 44.001614,
+    "longitude": -71.535614,
+    "name": "Mount Osceola",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

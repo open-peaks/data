@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.3324,
+      15.2851
+    ]
+  },
+  "properties": {
+    "feet": 3683,
+    "meters": 1123,
+    "latitude": 15.2851,
+    "longitude": -61.3324,
+    "name": "Morne Anglais",
+    "regions": [
+      "The Caribbean",
+      "Lesser Antilles"
+    ],
+    "countries": [
+      "Dominica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

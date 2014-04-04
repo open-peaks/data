@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.055505,
+      60.958861
+    ]
+  },
+  "properties": {
+    "feet": 3939,
+    "meters": 1201,
+    "latitude": 60.958861,
+    "longitude": -149.055505,
+    "name": "Mount Alyeska",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

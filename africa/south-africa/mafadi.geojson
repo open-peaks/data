@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.3571,
+      -29.2023
+    ]
+  },
+  "properties": {
+    "feet": 11319,
+    "meters": 3450,
+    "latitude": -29.2023,
+    "longitude": 29.3571,
+    "name": "Mafadi",
+    "regions": [
+      "Southern Africa",
+      "Drakensberg"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

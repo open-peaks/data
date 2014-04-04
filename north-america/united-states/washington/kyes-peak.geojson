@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.333737,
+      47.964813
+    ]
+  },
+  "properties": {
+    "feet": 7280,
+    "meters": 2219,
+    "latitude": 47.964813,
+    "longitude": -121.333737,
+    "name": "Kyes Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

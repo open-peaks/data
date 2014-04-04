@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.686762,
+      10.838575
+    ]
+  },
+  "properties": {
+    "feet": 18947,
+    "meters": 5775,
+    "latitude": 10.838575,
+    "longitude": -73.686762,
+    "name": "Pico Cristobal Colon",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.55,
+      31.0
+    ]
+  },
+  "properties": {
+    "feet": 20722,
+    "meters": 6316,
+    "latitude": 31.0,
+    "longitude": 78.55,
+    "name": "Banderpunch",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

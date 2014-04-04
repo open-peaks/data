@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.411682,
+      32.99945
+    ]
+  },
+  "properties": {
+    "feet": 3963,
+    "meters": 1208,
+    "latitude": 32.99945,
+    "longitude": 35.411682,
+    "name": "Har Meron",
+    "regions": [
+      "Levant Ranges"
+    ],
+    "countries": [
+      "Israel"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

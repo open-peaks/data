@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.264778,
+      50.940636
+    ]
+  },
+  "properties": {
+    "feet": 10239,
+    "meters": 3121,
+    "latitude": 50.940636,
+    "longitude": -115.264778,
+    "name": "Mount Sparrowhawk",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

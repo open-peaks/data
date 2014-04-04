@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.923,
+      38.0233
+    ]
+  },
+  "properties": {
+    "feet": 13983,
+    "meters": 4262,
+    "latitude": 38.0233,
+    "longitude": -106.923,
+    "name": "Stewart Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

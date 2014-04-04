@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.167,
+      50.6528
+    ]
+  },
+  "properties": {
+    "feet": 8760,
+    "meters": 2670,
+    "latitude": 50.6528,
+    "longitude": -115.167,
+    "name": "Mount Indefatigable",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

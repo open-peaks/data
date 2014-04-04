@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.134283,
+      48.537626
+    ]
+  },
+  "properties": {
+    "feet": 8868,
+    "meters": 2703,
+    "latitude": 48.537626,
+    "longitude": -121.134283,
+    "name": "Eldorado Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.374119,
+      -16.164291
+    ]
+  },
+  "properties": {
+    "feet": 4508,
+    "meters": 1374,
+    "latitude": -16.164291,
+    "longitude": 145.374119,
+    "name": "Thornton Peak",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

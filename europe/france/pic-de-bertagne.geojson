@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.7,
+      43.3
+    ]
+  },
+  "properties": {
+    "feet": 3442,
+    "meters": 1049,
+    "latitude": 43.3,
+    "longitude": 5.7,
+    "name": "Pic De Bertagne",
+    "regions": [
+      "Western Alps",
+      "Maritime Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

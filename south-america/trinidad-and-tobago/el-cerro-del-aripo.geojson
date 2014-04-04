@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.250008,
+      10.717791
+    ]
+  },
+  "properties": {
+    "feet": 3084,
+    "meters": 940,
+    "latitude": 10.717791,
+    "longitude": -61.250008,
+    "name": "El Cerro del Aripo",
+    "regions": [
+      "South Coastal Caribbean"
+    ],
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.3847,
+      -13.1772
+    ]
+  },
+  "properties": {
+    "feet": 19100,
+    "meters": 5822,
+    "latitude": -13.1772,
+    "longitude": -72.3847,
+    "name": "Nevado Veronica",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

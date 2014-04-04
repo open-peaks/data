@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.861111,
+      27.861111
+    ]
+  },
+  "properties": {
+    "feet": 22494,
+    "meters": 6856,
+    "latitude": 27.861111,
+    "longitude": 86.861111,
+    "name": "Ama Dablam",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

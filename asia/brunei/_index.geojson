@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.872,
+          4.04647
+        ]
+      },
+      "properties": {
+        "feet": 230,
+        "meters": 70,
+        "latitude": 4.04647,
+        "longitude": 114.872,
+        "name": "Bukit Batu Bujang Pahang",
+        "regions": [
+          "Southeast Asia"
+        ],
+        "countries": [
+          "Brunei"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

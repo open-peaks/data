@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.382938,
+      47.465526
+    ]
+  },
+  "properties": {
+    "feet": 6588,
+    "meters": 2008,
+    "latitude": 47.465526,
+    "longitude": 10.382938,
+    "name": "Heubatspitze",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.652,
+      43.7619
+    ]
+  },
+  "properties": {
+    "feet": 10336,
+    "meters": 3150,
+    "latitude": 43.7619,
+    "longitude": -114.652,
+    "name": "Norton Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

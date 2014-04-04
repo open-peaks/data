@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.667,
+      33.8
+    ]
+  },
+  "properties": {
+    "feet": 10670,
+    "meters": 3252,
+    "latitude": 33.8,
+    "longitude": -116.667,
+    "name": "Jean Peak",
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

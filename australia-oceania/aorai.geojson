@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.5,
+      -17.7
+    ]
+  },
+  "properties": {
+    "feet": 6778,
+    "meters": 2066,
+    "latitude": -17.7,
+    "longitude": -149.5,
+    "name": "Aorai",
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

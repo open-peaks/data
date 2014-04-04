@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.870309,
+      43.819007
+    ]
+  },
+  "properties": {
+    "feet": 6752,
+    "meters": 2058,
+    "latitude": 43.819007,
+    "longitude": -121.870309,
+    "name": "Cultus Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

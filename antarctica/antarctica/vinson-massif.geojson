@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.4167,
+      -78.5833
+    ]
+  },
+  "properties": {
+    "feet": 16066,
+    "meters": 4897,
+    "latitude": -78.5833,
+    "longitude": -85.4167,
+    "name": "Vinson Massif",
+    "regions": [
+      "West Antarctica Ranges",
+      "Ellsworth Mountains"
+    ],
+    "countries": [
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

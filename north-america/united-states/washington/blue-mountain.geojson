@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.259563,
+      47.954841
+    ]
+  },
+  "properties": {
+    "feet": 6007,
+    "meters": 1831,
+    "latitude": 47.954841,
+    "longitude": -123.259563,
+    "name": "Blue Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

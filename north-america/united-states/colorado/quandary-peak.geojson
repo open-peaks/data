@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.106,
+      39.3972
+    ]
+  },
+  "properties": {
+    "feet": 14265,
+    "meters": 4348,
+    "latitude": 39.3972,
+    "longitude": -106.106,
+    "name": "Quandary Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

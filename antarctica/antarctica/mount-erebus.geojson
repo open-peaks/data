@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.15,
+      -77.5333
+    ]
+  },
+  "properties": {
+    "feet": 12447,
+    "meters": 3794,
+    "latitude": -77.5333,
+    "longitude": 167.15,
+    "name": "Mount Erebus",
+    "regions": [
+      "Transantarctic Mountains",
+      "Prince Albert-McMurdo"
+    ],
+    "countries": [
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

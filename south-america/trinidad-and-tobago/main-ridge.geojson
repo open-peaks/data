@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.6308,
+      11.2769
+    ]
+  },
+  "properties": {
+    "feet": 1890,
+    "meters": 576,
+    "latitude": 11.2769,
+    "longitude": -60.6308,
+    "name": "Main Ridge",
+    "regions": [
+      "The Caribbean",
+      "South Coastal Caribbean"
+    ],
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.237,
+      35.7581
+    ]
+  },
+  "properties": {
+    "feet": 9731,
+    "meters": 2967,
+    "latitude": 35.7581,
+    "longitude": 138.237,
+    "name": "Kai-Komagatake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

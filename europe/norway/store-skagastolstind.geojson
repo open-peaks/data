@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.86667,
+      61.4167
+    ]
+  },
+  "properties": {
+    "feet": 7884,
+    "meters": 2403,
+    "latitude": 61.4167,
+    "longitude": 7.86667,
+    "name": "Store Skagastolstind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

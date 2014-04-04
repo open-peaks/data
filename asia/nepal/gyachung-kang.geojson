@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.75,
+      28.1
+    ]
+  },
+  "properties": {
+    "feet": 26089,
+    "meters": 7952,
+    "latitude": 28.1,
+    "longitude": 86.75,
+    "name": "Gyachung Kang",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

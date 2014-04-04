@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.655,
+      46.439
+    ]
+  },
+  "properties": {
+    "feet": 8786,
+    "meters": 2678,
+    "latitude": 46.439,
+    "longitude": 13.655,
+    "name": "Mangart",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Slovenia",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

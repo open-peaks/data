@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.002,
+      45.4442
+    ]
+  },
+  "properties": {
+    "feet": 10154,
+    "meters": 3095,
+    "latitude": 45.4442,
+    "longitude": -111.002,
+    "name": "Mount Blackmore",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

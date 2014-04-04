@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.8254,
+      31.1753
+    ]
+  },
+  "properties": {
+    "feet": 11864,
+    "meters": 3616,
+    "latitude": 31.1753,
+    "longitude": -7.8254,
+    "name": "Angour",
+    "regions": [
+      "Atlas Mountains",
+      "High Atlas"
+    ],
+    "countries": [
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

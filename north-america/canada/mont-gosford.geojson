@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.867138,
+      45.301335
+    ]
+  },
+  "properties": {
+    "feet": 3914,
+    "meters": 1193,
+    "latitude": 45.301335,
+    "longitude": -70.867138,
+    "name": "Mont Gosford",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.939,
+      51.3055
+    ]
+  },
+  "properties": {
+    "feet": 9074,
+    "meters": 2766,
+    "latitude": 51.3055,
+    "longitude": -115.939,
+    "name": "Castle Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

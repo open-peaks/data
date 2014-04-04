@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.6,
+      67.2667
+    ]
+  },
+  "properties": {
+    "feet": 4790,
+    "meters": 1460,
+    "latitude": 67.2667,
+    "longitude": -151.6,
+    "name": "Mount Eddy McKenney",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Brooks Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

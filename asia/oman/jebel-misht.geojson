@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 6857,
+    "meters": 2090,
+    "name": "Jebel Misht",
+    "regions": [
+      "Arabian Peninsula",
+      "Southeast Arabia"
+    ],
+    "countries": [
+      "Oman"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

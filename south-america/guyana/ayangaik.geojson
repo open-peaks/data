@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.63,
+      6.083
+    ]
+  },
+  "properties": {
+    "feet": 1378,
+    "meters": 420,
+    "latitude": 6.083,
+    "longitude": -60.63,
+    "name": "Ayangaik",
+    "regions": [
+      "Guiana Highlands",
+      "Eastern Guiana Highlands"
+    ],
+    "countries": [
+      "Guyana"
+    ],
+    "continent": "South America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

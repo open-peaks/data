@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.058478,
+      48.511601
+    ]
+  },
+  "properties": {
+    "feet": 8815,
+    "meters": 2687,
+    "latitude": 48.511601,
+    "longitude": -121.058478,
+    "name": "Forbidden Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

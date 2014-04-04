@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.647911,
+      -37.174543
+    ]
+  },
+  "properties": {
+    "feet": 5715,
+    "meters": 1742,
+    "latitude": -37.174543,
+    "longitude": 146.647911,
+    "name": "Mt Howitt",
+    "regions": [
+      "Great Dividing Range",
+      "Victoria Alps"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

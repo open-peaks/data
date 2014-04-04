@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.483889,
+      -27.0575
+    ]
+  },
+  "properties": {
+    "feet": 21286,
+    "meters": 6488,
+    "latitude": -27.0575,
+    "longitude": -68.483889,
+    "name": "El Muerto",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "countries": [
+      "Chile",
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

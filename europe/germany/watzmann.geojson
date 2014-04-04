@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.9167,
+      47.55
+    ]
+  },
+  "properties": {
+    "feet": 8901,
+    "meters": 2713,
+    "latitude": 47.55,
+    "longitude": 12.9167,
+    "name": "Watzmann",
+    "regions": [
+      "Northern Alps",
+      "Kitzbuhel"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

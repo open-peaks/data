@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.27,
+      28.03
+    ]
+  },
+  "properties": {
+    "feet": 24836,
+    "meters": 7570,
+    "latitude": 28.03,
+    "longitude": 90.27,
+    "name": "Gangkar Punsum",
+    "regions": [
+      "Himalaya ",
+      "Bhutan Himalaya"
+    ],
+    "countries": [
+      "Bhutan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

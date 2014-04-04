@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.966572,
+      61.622832
+    ]
+  },
+  "properties": {
+    "feet": 3763,
+    "meters": 1147,
+    "latitude": 61.622832,
+    "longitude": -148.966572,
+    "name": "Lazy Mountain",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

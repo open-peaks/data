@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.8833,
+      0.333333
+    ]
+  },
+  "properties": {
+    "feet": 15178,
+    "meters": 4626,
+    "latitude": 0.333333,
+    "longitude": 29.8833,
+    "name": "Mount Luigi",
+    "regions": [
+      "East Africa Mountains",
+      "Ruwenzori"
+    ],
+    "countries": [
+      "Uganda"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

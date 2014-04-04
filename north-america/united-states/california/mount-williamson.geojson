@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.31,
+      36.6561
+    ]
+  },
+  "properties": {
+    "feet": 14370,
+    "meters": 4380,
+    "latitude": 36.6561,
+    "longitude": -118.31,
+    "name": "Mount Williamson",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

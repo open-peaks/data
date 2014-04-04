@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.9167,
+      69.4667
+    ]
+  },
+  "properties": {
+    "feet": 6053,
+    "meters": 1845,
+    "latitude": 69.4667,
+    "longitude": 19.9167,
+    "name": "Jiehkkevarri",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

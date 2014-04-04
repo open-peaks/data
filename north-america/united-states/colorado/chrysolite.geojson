@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.344,
+      38.6656
+    ]
+  },
+  "properties": {
+    "feet": 12822,
+    "meters": 3908,
+    "latitude": 38.6656,
+    "longitude": -106.344,
+    "name": "Chrysolite",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

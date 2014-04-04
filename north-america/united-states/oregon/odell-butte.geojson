@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.863889,
+      43.470651
+    ]
+  },
+  "properties": {
+    "feet": 7032,
+    "meters": 2143,
+    "latitude": 43.470651,
+    "longitude": -121.863889,
+    "name": "Odell Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

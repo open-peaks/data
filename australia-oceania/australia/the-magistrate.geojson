@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.009656,
+      -29.376913
+    ]
+  },
+  "properties": {
+    "feet": 4928,
+    "meters": 1502,
+    "latitude": -29.376913,
+    "longitude": 152.009656,
+    "name": "The Magistrate",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

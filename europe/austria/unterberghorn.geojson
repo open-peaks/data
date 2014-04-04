@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.435837,
+      47.620281
+    ]
+  },
+  "properties": {
+    "feet": 5815,
+    "meters": 1772,
+    "latitude": 47.620281,
+    "longitude": 12.435837,
+    "name": "Unterberghorn",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

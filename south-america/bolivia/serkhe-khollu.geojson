@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.940784,
+      -16.392161
+    ]
+  },
+  "properties": {
+    "feet": 18195,
+    "meters": 5546,
+    "latitude": -16.392161,
+    "longitude": -67.940784,
+    "name": "Serkhe Khollu",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia",
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

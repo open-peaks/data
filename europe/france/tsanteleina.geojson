@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.03333,
+      45.4667
+    ]
+  },
+  "properties": {
+    "feet": 11817,
+    "meters": 3602,
+    "latitude": 45.4667,
+    "longitude": 7.03333,
+    "name": "Tsanteleina",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9167,
+          42.7167
+        ]
+      },
+      "properties": {
+        "feet": 7795,
+        "meters": 2376,
+        "latitude": 42.7167,
+        "longitude": 24.9167,
+        "name": "Botev",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.05,
+          42.1
+        ]
+      },
+      "properties": {
+        "feet": 7513,
+        "meters": 2290,
+        "latitude": 42.1,
+        "longitude": 23.05,
+        "name": "Cherni Vrah",
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.25,
+          41.75
+        ]
+      },
+      "properties": {
+        "feet": 8957,
+        "meters": 2730,
+        "latitude": 41.75,
+        "longitude": 23.25,
+        "name": "Djengal",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.495808,
+          41.725077
+        ]
+      },
+      "properties": {
+        "feet": 9354,
+        "meters": 2851,
+        "latitude": 41.725077,
+        "longitude": 23.495808,
+        "name": "Goliam Polezan",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria",
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.592539,
+          42.185094
+        ]
+      },
+      "properties": {
+        "feet": 9354,
+        "meters": 2851,
+        "latitude": 42.185094,
+        "longitude": 23.592539,
+        "name": "Irechek",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.488684,
+          41.685316
+        ]
+      },
+      "properties": {
+        "feet": 9259,
+        "meters": 2822,
+        "latitude": 41.685316,
+        "longitude": 23.488684,
+        "name": "Kamenitsa",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5678,
+          42.3697
+        ]
+      },
+      "properties": {
+        "feet": 8953,
+        "meters": 2729,
+        "latitude": 42.3697,
+        "longitude": 23.5678,
+        "name": "Malyovitza",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0322,
+          41.3678
+        ]
+      },
+      "properties": {
+        "feet": 4639,
+        "meters": 1414,
+        "latitude": 41.3678,
+        "longitude": 24.0322,
+        "name": "Marashka Chuka",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.27,
+          41.36
+        ]
+      },
+      "properties": {
+        "feet": 7185,
+        "meters": 2190,
+        "latitude": 41.36,
+        "longitude": 24.27,
+        "name": "Perelik",
+        "regions": [
+          "Eastern Europe Ranges"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.516667,
+          42.158333
+        ]
+      },
+      "properties": {
+        "feet": 7385,
+        "meters": 2251,
+        "latitude": 42.158333,
+        "longitude": 22.516667,
+        "name": "Ruen",
+        "regions": [
+          "Balkan Peninsula"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35,
+          42.5
+        ]
+      },
+      "properties": {
+        "feet": 5597,
+        "meters": 1706,
+        "latitude": 42.5,
+        "longitude": 22.35,
+        "name": "Ruy",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.677696,
+          41.636999
+        ]
+      },
+      "properties": {
+        "feet": 6332,
+        "meters": 1930,
+        "latitude": 41.636999,
+        "longitude": 24.677696,
+        "name": "Snejanka",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria",
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.196945,
+          43.138573
+        ]
+      },
+      "properties": {
+        "feet": 5856,
+        "meters": 1785,
+        "latitude": 43.138573,
+        "longitude": 23.196945,
+        "name": "Todorini Kukli",
+        "regions": [
+          "Balkan Peninsula",
+          "Balkan Mountains"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5749,
+          41.425
+        ]
+      },
+      "properties": {
+        "feet": 5469,
+        "meters": 1667,
+        "latitude": 41.425,
+        "longitude": 23.5749,
+        "name": "Unden",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3667,
+          41.8
+        ]
+      },
+      "properties": {
+        "feet": 9564,
+        "meters": 2915,
+        "latitude": 41.8,
+        "longitude": 23.3667,
+        "name": "Vihren",
+        "countries": [
+          "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

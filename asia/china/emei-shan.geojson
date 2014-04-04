@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.35,
+      29.5333
+    ]
+  },
+  "properties": {
+    "feet": 10167,
+    "meters": 3099,
+    "latitude": 29.5333,
+    "longitude": 103.35,
+    "name": "Emei Shan",
+    "regions": [
+      "West Sichuan Ranges"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.502761,
+      45.964307
+    ]
+  },
+  "properties": {
+    "feet": 12192,
+    "meters": 3716,
+    "latitude": 45.964307,
+    "longitude": 7.502761,
+    "name": "Eveque",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

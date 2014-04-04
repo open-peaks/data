@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.8886,
+      35.8772
+    ]
+  },
+  "properties": {
+    "feet": 3557,
+    "meters": 1084,
+    "latitude": 35.8772,
+    "longitude": -81.8886,
+    "name": "The Chimneys",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

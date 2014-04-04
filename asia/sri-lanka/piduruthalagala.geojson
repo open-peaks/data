@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.7833,
+      7.0
+    ]
+  },
+  "properties": {
+    "feet": 8281,
+    "meters": 2524,
+    "latitude": 7.0,
+    "longitude": 80.7833,
+    "name": "Piduruthalagala",
+    "regions": [
+      "Indian Subcontinent",
+      "Sri Lanka"
+    ],
+    "countries": [
+      "Sri Lanka"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

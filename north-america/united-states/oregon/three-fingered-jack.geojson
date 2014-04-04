@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.8431,
+      44.479054
+    ]
+  },
+  "properties": {
+    "feet": 7841,
+    "meters": 2390,
+    "latitude": 44.479054,
+    "longitude": -121.8431,
+    "name": "Three Fingered Jack",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.8333,
+      -18.0
+    ]
+  },
+  "properties": {
+    "feet": 20807,
+    "meters": 6342,
+    "latitude": -18.0,
+    "longitude": -68.8333,
+    "name": "Nevado Parinacota",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Chile",
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

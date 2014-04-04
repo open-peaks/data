@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.856468,
+      48.708182
+    ]
+  },
+  "properties": {
+    "feet": 8987,
+    "meters": 2739,
+    "latitude": 48.708182,
+    "longitude": -113.856468,
+    "name": "Heavens Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

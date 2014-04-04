@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.078856,
+      46.60856
+    ]
+  },
+  "properties": {
+    "feet": 10184,
+    "meters": 3104,
+    "latitude": 46.60856,
+    "longitude": 8.078856,
+    "name": "Mättenberg",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

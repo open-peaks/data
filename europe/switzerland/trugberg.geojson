@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.015471,
+      46.547528
+    ]
+  },
+  "properties": {
+    "feet": 12730,
+    "meters": 3933,
+    "latitude": 46.547528,
+    "longitude": 8.015471,
+    "name": "Trugberg",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

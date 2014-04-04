@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53333,
+      60.4167
+    ]
+  },
+  "properties": {
+    "feet": 7677,
+    "meters": 2340,
+    "latitude": 60.4167,
+    "longitude": 8.53333,
+    "name": "Store Knutholstind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

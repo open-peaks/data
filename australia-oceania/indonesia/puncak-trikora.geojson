@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.750501,
+      -4.247641
+    ]
+  },
+  "properties": {
+    "feet": 15518,
+    "meters": 4730,
+    "latitude": -4.247641,
+    "longitude": 138.750501,
+    "name": "Puncak Trikora",
+    "regions": [
+      "New Guinea",
+      "Maoke Range"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

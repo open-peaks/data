@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.1833,
+      14.5833
+    ]
+  },
+  "properties": {
+    "feet": 11604,
+    "meters": 3537,
+    "latitude": 14.5833,
+    "longitude": -91.1833,
+    "name": "Atitlan",
+    "regions": [
+      "Central American Ranges",
+      "Guatemala Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

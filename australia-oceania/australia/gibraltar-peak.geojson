@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.94783,
+      -35.458922
+    ]
+  },
+  "properties": {
+    "feet": 3406,
+    "meters": 1038,
+    "latitude": -35.458922,
+    "longitude": 148.94783,
+    "name": "Gibraltar Peak",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

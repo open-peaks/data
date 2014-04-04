@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.766071,
+      27.919952
+    ]
+  },
+  "properties": {
+    "feet": 21128,
+    "meters": 6440,
+    "latitude": 27.919952,
+    "longitude": 86.766071,
+    "name": "Cholatse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

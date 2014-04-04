@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.136972,
+      9.712413
+    ]
+  },
+  "properties": {
+    "feet": 1673,
+    "meters": 510,
+    "latitude": 9.712413,
+    "longitude": 124.136972,
+    "name": "Bilar Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

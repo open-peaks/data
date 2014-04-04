@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.673026,
+      46.925443
+    ]
+  },
+  "properties": {
+    "feet": 7317,
+    "meters": 2230,
+    "latitude": 46.925443,
+    "longitude": -121.673026,
+    "name": "Mount Fremont",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

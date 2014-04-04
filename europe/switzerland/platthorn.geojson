@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.736306,
+      46.053607
+    ]
+  },
+  "properties": {
+    "feet": 10974,
+    "meters": 3345,
+    "latitude": 46.053607,
+    "longitude": 7.736306,
+    "name": "Platthorn",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

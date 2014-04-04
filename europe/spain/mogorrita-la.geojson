@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.788712,
+      40.359103
+    ]
+  },
+  "properties": {
+    "feet": 6122,
+    "meters": 1866,
+    "latitude": 40.359103,
+    "longitude": -1.788712,
+    "name": "Mogorrita La",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

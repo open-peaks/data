@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.708246,
+      48.562494
+    ]
+  },
+  "properties": {
+    "feet": 7552,
+    "meters": 2302,
+    "latitude": 48.562494,
+    "longitude": -120.708246,
+    "name": "Gentle Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

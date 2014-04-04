@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.723817,
+      48.671579
+    ]
+  },
+  "properties": {
+    "feet": 9125,
+    "meters": 2781,
+    "latitude": 48.671579,
+    "longitude": -113.723817,
+    "name": "Reynolds Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.707605,
+      48.515414
+    ]
+  },
+  "properties": {
+    "feet": 7790,
+    "meters": 2374,
+    "latitude": 48.515414,
+    "longitude": -120.707605,
+    "name": "Whistler Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

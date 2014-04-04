@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.121821,
+      48.661603
+    ]
+  },
+  "properties": {
+    "feet": 7771,
+    "meters": 2369,
+    "latitude": 48.661603,
+    "longitude": -121.121821,
+    "name": "Colonial Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

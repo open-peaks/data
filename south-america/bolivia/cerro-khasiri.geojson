@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.938149,
+      -16.450572
+    ]
+  },
+  "properties": {
+    "feet": 17139,
+    "meters": 5224,
+    "latitude": -16.450572,
+    "longitude": -67.938149,
+    "name": "Cerro Khasiri",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

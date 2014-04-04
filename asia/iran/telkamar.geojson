@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.025843,
+      35.731743
+    ]
+  },
+  "properties": {
+    "feet": 9186,
+    "meters": 2800,
+    "latitude": 35.731743,
+    "longitude": 52.025843,
+    "name": "Telkamar",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

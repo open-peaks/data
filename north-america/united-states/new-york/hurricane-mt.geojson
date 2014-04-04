@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.7,
+      44.2
+    ]
+  },
+  "properties": {
+    "feet": 3694,
+    "meters": 1126,
+    "latitude": 44.2,
+    "longitude": -73.7,
+    "name": "Hurricane Mt",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

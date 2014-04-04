@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0,
+      50.41
+    ]
+  },
+  "properties": {
+    "feet": 2001,
+    "meters": 610,
+    "latitude": 50.41,
+    "longitude": -4.0,
+    "name": "Yes Tor",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

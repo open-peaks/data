@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.162934,
+      48.51976
+    ]
+  },
+  "properties": {
+    "feet": 7550,
+    "meters": 2301,
+    "latitude": 48.51976,
+    "longitude": -121.162934,
+    "name": "The Triad",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

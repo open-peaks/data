@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.585079,
+      48.547921
+    ]
+  },
+  "properties": {
+    "feet": 8876,
+    "meters": 2705,
+    "latitude": 48.547921,
+    "longitude": -120.585079,
+    "name": "Silver Star Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

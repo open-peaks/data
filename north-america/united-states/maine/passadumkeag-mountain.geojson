@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.3592,
+      45.1291
+    ]
+  },
+  "properties": {
+    "feet": 1463,
+    "meters": 446,
+    "latitude": 45.1291,
+    "longitude": -68.3592,
+    "name": "Passadumkeag Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Northern Appalachian Ridges"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States",
+      "Saint Kitts and Nevis"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

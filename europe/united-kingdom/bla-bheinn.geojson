@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.09312,
+      57.2196
+    ]
+  },
+  "properties": {
+    "feet": 3044,
+    "meters": 928,
+    "latitude": 57.2196,
+    "longitude": -6.09312,
+    "name": "Bla Bheinn",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

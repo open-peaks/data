@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.04959,
+      47.44437
+    ]
+  },
+  "properties": {
+    "feet": 5968,
+    "meters": 1819,
+    "latitude": 47.44437,
+    "longitude": 11.04959,
+    "name": "Schwarzenkopf",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

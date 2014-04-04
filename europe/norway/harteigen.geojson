@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.06667,
+      60.1833
+    ]
+  },
+  "properties": {
+    "feet": 5545,
+    "meters": 1690,
+    "latitude": 60.1833,
+    "longitude": 7.06667,
+    "name": "Hårteigen",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

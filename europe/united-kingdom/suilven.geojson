@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.16667,
+      58.0833
+    ]
+  },
+  "properties": {
+    "feet": 2399,
+    "meters": 731,
+    "latitude": 58.0833,
+    "longitude": -5.16667,
+    "name": "Suilven",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

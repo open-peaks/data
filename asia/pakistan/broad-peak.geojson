@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.5667,
+      35.8167
+    ]
+  },
+  "properties": {
+    "feet": 26400,
+    "meters": 8047,
+    "latitude": 35.8167,
+    "longitude": 76.5667,
+    "name": "Broad Peak",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

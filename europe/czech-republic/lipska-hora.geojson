@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.913369,
+      50.513754
+    ]
+  },
+  "properties": {
+    "feet": 2257,
+    "meters": 688,
+    "latitude": 50.513754,
+    "longitude": 13.913369,
+    "name": "Lipska hora",
+    "regions": [
+      "Central Europe Ranges"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.718359,
+      38.924795
+    ]
+  },
+  "properties": {
+    "feet": 12139,
+    "meters": 3700,
+    "latitude": 38.924795,
+    "longitude": 68.718359,
+    "name": "Bivachnaya",
+    "regions": [
+      "Central Asia Ranges",
+      "Central Turkestan Ranges"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.113189,
+      46.594436
+    ]
+  },
+  "properties": {
+    "feet": 12303,
+    "meters": 3750,
+    "latitude": 46.594436,
+    "longitude": 8.113189,
+    "name": "Nässihorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

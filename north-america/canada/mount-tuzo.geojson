@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.228399,
+      51.301616
+    ]
+  },
+  "properties": {
+    "feet": 10650,
+    "meters": 3246,
+    "latitude": 51.301616,
+    "longitude": -116.228399,
+    "name": "Mount Tuzo",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

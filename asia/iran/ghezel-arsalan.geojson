@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.459492,
+      34.659758
+    ]
+  },
+  "properties": {
+    "feet": 11155,
+    "meters": 3400,
+    "latitude": 34.659758,
+    "longitude": 48.459492,
+    "name": "Ghezel Arsalan",
+    "regions": [
+      "Iranian Plateau",
+      "Northwest Iran Ranges"
+    ],
+    "countries": [
+      "Iran",
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

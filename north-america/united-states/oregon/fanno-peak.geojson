@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.643998,
+      44.869282
+    ]
+  },
+  "properties": {
+    "feet": 3333,
+    "meters": 1016,
+    "latitude": 44.869282,
+    "longitude": -123.643998,
+    "name": "Fanno Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Northwest U.S. Coast Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.483333,
+      14.066667
+    ]
+  },
+  "properties": {
+    "feet": 6562,
+    "meters": 2000,
+    "latitude": 14.066667,
+    "longitude": 121.483333,
+    "name": "Mt. Banahaw",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

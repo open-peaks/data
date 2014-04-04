@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.0666,
+      30.2666
+    ]
+  },
+  "properties": {
+    "feet": 22510,
+    "meters": 6861,
+    "latitude": 30.2666,
+    "longitude": 80.0666,
+    "name": "Nandakot",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

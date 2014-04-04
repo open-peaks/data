@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.05,
+      -49.25
+    ]
+  },
+  "properties": {
+    "feet": 9849,
+    "meters": 3002,
+    "latitude": -49.25,
+    "longitude": -73.05,
+    "name": "Cerro Poincenot",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

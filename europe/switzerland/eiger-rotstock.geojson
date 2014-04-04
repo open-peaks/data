@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.983928,
+      46.57733
+    ]
+  },
+  "properties": {
+    "feet": 8737,
+    "meters": 2663,
+    "latitude": 46.57733,
+    "longitude": 7.983928,
+    "name": "Eiger Rotstock",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

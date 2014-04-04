@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4058,
+      45.3769
+    ]
+  },
+  "properties": {
+    "feet": 1947,
+    "meters": 593,
+    "latitude": 45.3769,
+    "longitude": -69.4058,
+    "name": "Boarstone Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Longfellow Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9833,
+      -34.75
+    ]
+  },
+  "properties": {
+    "feet": 17024,
+    "meters": 5189,
+    "latitude": -34.75,
+    "longitude": -69.9833,
+    "name": "Cerro Sosneado",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.28801,
+      47.292096
+    ]
+  },
+  "properties": {
+    "feet": 8556,
+    "meters": 2608,
+    "latitude": 47.292096,
+    "longitude": 10.28801,
+    "name": "Bockkarkopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

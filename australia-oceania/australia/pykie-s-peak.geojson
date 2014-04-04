@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.38,
+      -28.48
+    ]
+  },
+  "properties": {
+    "feet": 2152,
+    "meters": 656,
+    "latitude": -28.48,
+    "longitude": 153.38,
+    "name": "Pykie's Peak",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

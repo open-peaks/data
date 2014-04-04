@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.052795,
+      49.240914
+    ]
+  },
+  "properties": {
+    "feet": 6877,
+    "meters": 2096,
+    "latitude": 49.240914,
+    "longitude": 20.052795,
+    "name": "Ciemniak",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

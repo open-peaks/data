@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.433,
+      25.6667
+    ]
+  },
+  "properties": {
+    "feet": 5840,
+    "meters": 1780,
+    "latitude": 25.6667,
+    "longitude": -100.433,
+    "name": "Pico Piñón",
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.286241,
+      46.33169
+    ]
+  },
+  "properties": {
+    "feet": 7913,
+    "meters": 2412,
+    "latitude": 46.33169,
+    "longitude": 12.286241,
+    "name": "Rocchetta Alta di Bosconero",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

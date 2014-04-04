@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3181,
+      44.3044
+    ]
+  },
+  "properties": {
+    "feet": 5716,
+    "meters": 1742,
+    "latitude": 44.3044,
+    "longitude": -71.3181,
+    "name": "Mt. Jefferson",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

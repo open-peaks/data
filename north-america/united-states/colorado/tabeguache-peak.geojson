@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.25,
+      38.6253
+    ]
+  },
+  "properties": {
+    "feet": 14155,
+    "meters": 4314,
+    "latitude": 38.6253,
+    "longitude": -106.25,
+    "name": "Tabeguache Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

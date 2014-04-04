@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.426169,
+      44.4756
+    ]
+  },
+  "properties": {
+    "feet": 4426,
+    "meters": 1349,
+    "latitude": 44.4756,
+    "longitude": -103.426169,
+    "name": "Bear Butte",
+    "regions": [
+      "North American Plains",
+      "Black Hills"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

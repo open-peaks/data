@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.24478,
+      56.9599
+    ]
+  },
+  "properties": {
+    "feet": 3789,
+    "meters": 1155,
+    "latitude": 56.9599,
+    "longitude": -3.24478,
+    "name": "Lochnagar",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

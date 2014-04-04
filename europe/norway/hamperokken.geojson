@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.343509,
+      69.566594
+    ]
+  },
+  "properties": {
+    "feet": 4606,
+    "meters": 1404,
+    "latitude": 69.566594,
+    "longitude": 19.343509,
+    "name": "Hamperokken",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.734024,
+      42.881751
+    ]
+  },
+  "properties": {
+    "feet": 7746,
+    "meters": 2361,
+    "latitude": 42.881751,
+    "longitude": -0.734024,
+    "name": "Petrechema",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

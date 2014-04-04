@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.232433,
+      45.456814
+    ]
+  },
+  "properties": {
+    "feet": 10374,
+    "meters": 3162,
+    "latitude": 45.456814,
+    "longitude": 7.232433,
+    "name": "Courmaon",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

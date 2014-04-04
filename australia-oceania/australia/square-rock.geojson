@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.891323,
+      -35.542754
+    ]
+  },
+  "properties": {
+    "feet": 4593,
+    "meters": 1400,
+    "latitude": -35.542754,
+    "longitude": 148.891323,
+    "name": "Square Rock",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

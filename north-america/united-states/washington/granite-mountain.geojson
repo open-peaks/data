@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.481205,
+      47.417334
+    ]
+  },
+  "properties": {
+    "feet": 5629,
+    "meters": 1716,
+    "latitude": 47.417334,
+    "longitude": -121.481205,
+    "name": "Granite Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

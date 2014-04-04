@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.515,
+      39.0717
+    ]
+  },
+  "properties": {
+    "feet": 7352,
+    "meters": 2241,
+    "latitude": 39.0717,
+    "longitude": -104.515,
+    "name": "Monument Hill",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

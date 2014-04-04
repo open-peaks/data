@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.8305,
+      46.2899
+    ]
+  },
+  "properties": {
+    "feet": 10472,
+    "meters": 3192,
+    "latitude": 46.2899,
+    "longitude": 11.8305,
+    "name": "Cima della Vezzana",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

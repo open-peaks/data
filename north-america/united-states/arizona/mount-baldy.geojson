@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.562659,
+      33.906005
+    ]
+  },
+  "properties": {
+    "feet": 11403,
+    "meters": 3476,
+    "latitude": 33.906005,
+    "longitude": -109.562659,
+    "name": "Mount Baldy",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

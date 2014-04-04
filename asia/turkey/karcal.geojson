@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.0,
+      41.05
+    ]
+  },
+  "properties": {
+    "feet": 11247,
+    "meters": 3428,
+    "latitude": 41.05,
+    "longitude": 42.0,
+    "name": "Karcal",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

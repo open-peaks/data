@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.32611,
+      58.28611
+    ]
+  },
+  "properties": {
+    "feet": 3819,
+    "meters": 1164,
+    "latitude": 58.28611,
+    "longitude": -134.32611,
+    "name": "Mount Roberts",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.669477,
+      -9.035816
+    ]
+  },
+  "properties": {
+    "feet": 20210,
+    "meters": 6160,
+    "latitude": -9.035816,
+    "longitude": -77.669477,
+    "name": "Huandoy Sur",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

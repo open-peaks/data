@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.425301,
+      67.404701
+    ]
+  },
+  "properties": {
+    "feet": 3737,
+    "meters": 1139,
+    "latitude": 67.404701,
+    "longitude": 18.425301,
+    "name": "Lulep Gierkav",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

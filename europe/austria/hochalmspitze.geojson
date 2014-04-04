@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3167,
+      47.0
+    ]
+  },
+  "properties": {
+    "feet": 11023,
+    "meters": 3360,
+    "latitude": 47.0,
+    "longitude": 13.3167,
+    "name": "Hochalmspitze",
+    "regions": [
+      "Eastern Alps",
+      "Hohe Tauern"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

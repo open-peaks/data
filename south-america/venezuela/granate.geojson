@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.693588,
+      8.780582
+    ]
+  },
+  "properties": {
+    "feet": 12765,
+    "meters": 3891,
+    "latitude": 8.780582,
+    "longitude": -70.693588,
+    "name": "Granate",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

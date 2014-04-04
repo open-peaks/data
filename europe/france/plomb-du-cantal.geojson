@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.7,
+      45.1
+    ]
+  },
+  "properties": {
+    "feet": 6086,
+    "meters": 1855,
+    "latitude": 45.1,
+    "longitude": 3.7,
+    "name": "Plomb du Cantal",
+    "regions": [
+      "Central Europe Ranges",
+      "Massif Central"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

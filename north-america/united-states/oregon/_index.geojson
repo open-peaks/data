@@ -1,0 +1,2389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.549764,
+          42.943457
+        ]
+      },
+      "properties": {
+        "feet": 6125,
+        "meters": 1867,
+        "latitude": 42.943457,
+        "longitude": -122.549764,
+        "name": "Abbott Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17495,
+          45.20297
+        ]
+      },
+      "properties": {
+        "feet": 9702,
+        "meters": 2957,
+        "latitude": 45.20297,
+        "longitude": -117.17495,
+        "name": "Aneroid Mountain",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.087516,
+          42.315417
+        ]
+      },
+      "properties": {
+        "feet": 8208,
+        "meters": 2502,
+        "latitude": 42.315417,
+        "longitude": -122.087516,
+        "name": "Aspen Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.354294,
+          43.274706
+        ]
+      },
+      "properties": {
+        "feet": 7393,
+        "meters": 2253,
+        "latitude": 43.274706,
+        "longitude": -121.354294,
+        "name": "Bald Mountain",
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3307,
+          42.386
+        ]
+      },
+      "properties": {
+        "feet": 7918,
+        "meters": 2413,
+        "latitude": 42.386,
+        "longitude": -119.3307,
+        "name": "Beatys Butte",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84237,
+          44.284967
+        ]
+      },
+      "properties": {
+        "feet": 6872,
+        "meters": 2095,
+        "latitude": 44.284967,
+        "longitude": -121.84237,
+        "name": "Belknap Crater",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.890092,
+          44.364913
+        ]
+      },
+      "properties": {
+        "feet": 5197,
+        "meters": 1584,
+        "latitude": 44.364913,
+        "longitude": -121.890092,
+        "name": "Big Lake Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.699462,
+          44.08293
+        ]
+      },
+      "properties": {
+        "feet": 9175,
+        "meters": 2797,
+        "latitude": 44.08293,
+        "longitude": -121.699462,
+        "name": "Broken Top",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.270236,
+          42.364823
+        ]
+      },
+      "properties": {
+        "feet": 7340,
+        "meters": 2237,
+        "latitude": 42.364823,
+        "longitude": -122.270236,
+        "name": "Brown Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.67418,
+          45.601035
+        ]
+      },
+      "properties": {
+        "feet": 7999,
+        "meters": 2438,
+        "latitude": 45.601035,
+        "longitude": -110.67418,
+        "name": "Canyon Mountain",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5089,
+          45.1561
+        ]
+      },
+      "properties": {
+        "feet": 8656,
+        "meters": 2638,
+        "latitude": 45.1561,
+        "longitude": -117.5089,
+        "name": "China Cap",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0339,
+          43.68068
+        ]
+      },
+      "properties": {
+        "feet": 6573,
+        "meters": 2003,
+        "latitude": 43.68068,
+        "longitude": -121.0339,
+        "name": "China Hat",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.109861,
+          43.241045
+        ]
+      },
+      "properties": {
+        "feet": 6417,
+        "meters": 1956,
+        "latitude": 43.241045,
+        "longitude": -122.109861,
+        "name": "Cinnamon Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.631078,
+          42.307101
+        ]
+      },
+      "properties": {
+        "feet": 7894,
+        "meters": 2406,
+        "latitude": 42.307101,
+        "longitude": -120.631078,
+        "name": "Cougar Peak",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.053898,
+          43.399881
+        ]
+      },
+      "properties": {
+        "feet": 7664,
+        "meters": 2336,
+        "latitude": 43.399881,
+        "longitude": -122.053898,
+        "name": "Cowhorn Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2398,
+          42.0628
+        ]
+      },
+      "properties": {
+        "feet": 8456,
+        "meters": 2577,
+        "latitude": 42.0628,
+        "longitude": -120.2398,
+        "name": "Crane Mountain",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.870309,
+          43.819007
+        ]
+      },
+      "properties": {
+        "feet": 6752,
+        "meters": 2058,
+        "latitude": 43.819007,
+        "longitude": -121.870309,
+        "name": "Cultus Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.149558,
+          43.520765
+        ]
+      },
+      "properties": {
+        "feet": 8744,
+        "meters": 2665,
+        "latitude": 43.520765,
+        "longitude": -122.149558,
+        "name": "Diamond Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.123686,
+          42.300111
+        ]
+      },
+      "properties": {
+        "feet": 8407,
+        "meters": 2562,
+        "latitude": 42.300111,
+        "longitude": -120.123686,
+        "name": "Drake Peak",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3,
+          45.15
+        ]
+      },
+      "properties": {
+        "feet": 9595,
+        "meters": 2925,
+        "latitude": 45.15,
+        "longitude": -117.3,
+        "name": "Eagle Cap",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.661,
+          42.2581
+        ]
+      },
+      "properties": {
+        "feet": 4001,
+        "meters": 1220,
+        "latitude": 42.2581,
+        "longitude": -123.661,
+        "name": "Eight Dollar Mountain",
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.643998,
+          44.869282
+        ]
+      },
+      "properties": {
+        "feet": 3333,
+        "meters": 1016,
+        "latitude": 44.869282,
+        "longitude": -123.643998,
+        "name": "Fanno Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Northwest U.S. Coast Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2587,
+          44.3386
+        ]
+      },
+      "properties": {
+        "feet": 7362,
+        "meters": 2244,
+        "latitude": 44.3386,
+        "longitude": -119.2587,
+        "name": "Fields Peak",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423095,
+          43.075401
+        ]
+      },
+      "properties": {
+        "feet": 6729,
+        "meters": 2051,
+        "latitude": 43.075401,
+        "longitude": -122.423095,
+        "name": "Fish Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.86222,
+          42.51278
+        ]
+      },
+      "properties": {
+        "feet": 8364,
+        "meters": 2549,
+        "latitude": 42.51278,
+        "longitude": -120.86222,
+        "name": "Gearhart Mountain",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.616606,
+          42.269592
+        ]
+      },
+      "properties": {
+        "feet": 5920,
+        "meters": 1804,
+        "latitude": 42.269592,
+        "longitude": -122.616606,
+        "name": "Grizzly Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.783936,
+          42.402164
+        ]
+      },
+      "properties": {
+        "feet": 7724,
+        "meters": 2354,
+        "latitude": 42.402164,
+        "longitude": -119.783936,
+        "name": "Hart Mountain",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.877044,
+          44.422064
+        ]
+      },
+      "properties": {
+        "feet": 5080,
+        "meters": 1548,
+        "latitude": 44.422064,
+        "longitude": -121.877044,
+        "name": "Hogg Rock",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.884226,
+          44.401786
+        ]
+      },
+      "properties": {
+        "feet": 5702,
+        "meters": 1738,
+        "latitude": 44.401786,
+        "longitude": -121.884226,
+        "name": "Hoodoo Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0386,
+          43.1925
+        ]
+      },
+      "properties": {
+        "feet": 8351,
+        "meters": 2545,
+        "latitude": 43.1925,
+        "longitude": -122.0386,
+        "name": "Howlock Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1363,
+          44.24288
+        ]
+      },
+      "properties": {
+        "feet": 7811,
+        "meters": 2381,
+        "latitude": 44.24288,
+        "longitude": -118.1363,
+        "name": "Ironside Mountain",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.031196,
+          44.053736
+        ]
+      },
+      "properties": {
+        "feet": 646,
+        "meters": 197,
+        "latitude": 44.053736,
+        "longitude": -123.031196,
+        "name": "Kelly Butte",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.184479,
+          43.348735
+        ]
+      },
+      "properties": {
+        "feet": 5974,
+        "meters": 1821,
+        "latitude": 43.348735,
+        "longitude": -122.184479,
+        "name": "Kelsay Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.356033,
+          43.917857
+        ]
+      },
+      "properties": {
+        "feet": 5020,
+        "meters": 1530,
+        "latitude": 43.917857,
+        "longitude": -121.356033,
+        "name": "Lava Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.968842,
+          43.629117
+        ]
+      },
+      "properties": {
+        "feet": 7818,
+        "meters": 2383,
+        "latitude": 43.629117,
+        "longitude": -121.968842,
+        "name": "Maiden Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.551217,
+          44.504287
+        ]
+      },
+      "properties": {
+        "feet": 4097,
+        "meters": 1249,
+        "latitude": 44.504287,
+        "longitude": -123.551217,
+        "name": "Marys Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Northwest U.S. Coast Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.290039,
+          45.228481
+        ]
+      },
+      "properties": {
+        "feet": 9826,
+        "meters": 2995,
+        "latitude": 45.228481,
+        "longitude": -117.290039,
+        "name": "Matterhorn",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.582985,
+          45.204866
+        ]
+      },
+      "properties": {
+        "feet": 7825,
+        "meters": 2385,
+        "latitude": 45.204866,
+        "longitude": -117.582985,
+        "name": "Meadow Mountain",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.688,
+          43.979
+        ]
+      },
+      "properties": {
+        "feet": 9068,
+        "meters": 2764,
+        "latitude": 43.979,
+        "longitude": -121.688,
+        "name": "Mount Bachelor",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.219982,
+          43.155105
+        ]
+      },
+      "properties": {
+        "feet": 8368,
+        "meters": 2551,
+        "latitude": 43.155105,
+        "longitude": -122.219982,
+        "name": "Mount Bailey",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.730865,
+          45.307734
+        ]
+      },
+      "properties": {
+        "feet": 7136,
+        "meters": 2175,
+        "latitude": 45.307734,
+        "longitude": -117.730865,
+        "name": "Mount Fanny",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.695642,
+          45.373403
+        ]
+      },
+      "properties": {
+        "feet": 11237,
+        "meters": 3426,
+        "latitude": 45.373403,
+        "longitude": -121.695642,
+        "name": "Mount Hood",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.799583,
+          44.674268
+        ]
+      },
+      "properties": {
+        "feet": 10497,
+        "meters": 3199,
+        "latitude": 44.674268,
+        "longitude": -121.799583,
+        "name": "Mount Jefferson",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.724838,
+          43.792906
+        ]
+      },
+      "properties": {
+        "feet": 4616,
+        "meters": 1407,
+        "latitude": 43.792906,
+        "longitude": -122.724838,
+        "name": "Mount June",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316027,
+          42.444551
+        ]
+      },
+      "properties": {
+        "feet": 9495,
+        "meters": 2894,
+        "latitude": 42.444551,
+        "longitude": -122.316027,
+        "name": "Mount McLoughlin",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.701188,
+          44.156794
+        ]
+      },
+      "properties": {
+        "feet": 3407,
+        "meters": 1038,
+        "latitude": 44.156794,
+        "longitude": -122.701188,
+        "name": "Mount Nebo",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96452,
+          44.00567
+        ]
+      },
+      "properties": {
+        "feet": 1531,
+        "meters": 467,
+        "latitude": 44.00567,
+        "longitude": -122.96452,
+        "name": "Mount Pisgah",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.016306,
+          42.922963
+        ]
+      },
+      "properties": {
+        "feet": 8934,
+        "meters": 2723,
+        "latitude": 42.922963,
+        "longitude": -122.016306,
+        "name": "Mount Scott",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.066,
+          43.1531
+        ]
+      },
+      "properties": {
+        "feet": 9178,
+        "meters": 2797,
+        "latitude": 43.1531,
+        "longitude": -122.066,
+        "name": "Mount Thielsen",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.838593,
+          44.332229
+        ]
+      },
+      "properties": {
+        "feet": 7794,
+        "meters": 2376,
+        "latitude": 44.332229,
+        "longitude": -121.838593,
+        "name": "Mount Washington",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7,
+          42.0167
+        ]
+      },
+      "properties": {
+        "feet": 7500,
+        "meters": 2286,
+        "latitude": 42.0167,
+        "longitude": -122.7,
+        "name": "Mt. Ashland",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.134624,
+          43.563072
+        ]
+      },
+      "properties": {
+        "feet": 7100,
+        "meters": 2164,
+        "latitude": 43.563072,
+        "longitude": -122.134624,
+        "name": "Mt. Yoran",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.25885,
+          43.68997
+        ]
+      },
+      "properties": {
+        "feet": 7986,
+        "meters": 2434,
+        "latitude": 43.68997,
+        "longitude": -121.25885,
+        "name": "Newberry Volcano",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.863889,
+          43.470651
+        ]
+      },
+      "properties": {
+        "feet": 7032,
+        "meters": 2143,
+        "latitude": 43.470651,
+        "longitude": -121.863889,
+        "name": "Odell Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.763878,
+          44.821543
+        ]
+      },
+      "properties": {
+        "feet": 7219,
+        "meters": 2200,
+        "latitude": 44.821543,
+        "longitude": -121.763878,
+        "name": "Olallie Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.145481,
+          42.513551
+        ]
+      },
+      "properties": {
+        "feet": 8036,
+        "meters": 2449,
+        "latitude": 42.513551,
+        "longitude": -122.145481,
+        "name": "Pelican Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.22045,
+          45.18905
+        ]
+      },
+      "properties": {
+        "feet": 9675,
+        "meters": 2949,
+        "latitude": 45.18905,
+        "longitude": -117.22045,
+        "name": "Petes Point",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.283259,
+          44.060521
+        ]
+      },
+      "properties": {
+        "feet": 4142,
+        "meters": 1262,
+        "latitude": 44.060521,
+        "longitude": -121.283259,
+        "name": "Pilot Butte",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.245,
+          45.0646
+        ]
+      },
+      "properties": {
+        "feet": 9560,
+        "meters": 2914,
+        "latitude": 45.0646,
+        "longitude": -117.245,
+        "name": "Red Mountain",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.292926,
+          45.245026
+        ]
+      },
+      "properties": {
+        "feet": 9838,
+        "meters": 2999,
+        "latitude": 45.245026,
+        "longitude": -117.292926,
+        "name": "Sacajawea Peak",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.928072,
+          44.384759
+        ]
+      },
+      "properties": {
+        "feet": 5459,
+        "meters": 1664,
+        "latitude": 44.384759,
+        "longitude": -121.928072,
+        "name": "Sand Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09306,
+          44.05861
+        ]
+      },
+      "properties": {
+        "feet": 682,
+        "meters": 208,
+        "latitude": 44.05861,
+        "longitude": -123.09306,
+        "name": "Skinner Butte",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479062,
+          42.064683
+        ]
+      },
+      "properties": {
+        "feet": 6091,
+        "meters": 1857,
+        "latitude": 42.064683,
+        "longitude": -122.479062,
+        "name": "Soda Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.769285,
+          44.103519
+        ]
+      },
+      "properties": {
+        "feet": 10358,
+        "meters": 3157,
+        "latitude": 44.103519,
+        "longitude": -121.769285,
+        "name": "South Sister Volcano",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09667,
+          43.98361
+        ]
+      },
+      "properties": {
+        "feet": 2055,
+        "meters": 626,
+        "latitude": 43.98361,
+        "longitude": -123.09667,
+        "name": "Spencer Butte",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.971878,
+          43.377105
+        ]
+      },
+      "properties": {
+        "feet": 5500,
+        "meters": 1676,
+        "latitude": 43.377105,
+        "longitude": -117.971878,
+        "name": "Star Mountain",
+        "regions": [
+          "Intermountain West"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55,
+          42.6833
+        ]
+      },
+      "properties": {
+        "feet": 9733,
+        "meters": 2967,
+        "latitude": 42.6833,
+        "longitude": -118.55,
+        "name": "Steens Mountain",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.709335,
+          44.303704
+        ]
+      },
+      "properties": {
+        "feet": 9038,
+        "meters": 2755,
+        "latitude": 44.303704,
+        "longitude": -118.709335,
+        "name": "Strawberry Mountain",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.315887,
+          44.333672
+        ]
+      },
+      "properties": {
+        "feet": 7879,
+        "meters": 2402,
+        "latitude": 44.333672,
+        "longitude": -118.315887,
+        "name": "Table Rock",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8565,
+          44.127205
+        ]
+      },
+      "properties": {
+        "feet": 7524,
+        "meters": 2293,
+        "latitude": 44.127205,
+        "longitude": -121.8565,
+        "name": "The Husband",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8431,
+          44.479054
+        ]
+      },
+      "properties": {
+        "feet": 7841,
+        "meters": 2390,
+        "latitude": 44.479054,
+        "longitude": -121.8431,
+        "name": "Three Fingered Jack",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.772,
+          44.1358
+        ]
+      },
+      "properties": {
+        "feet": 10358,
+        "meters": 3157,
+        "latitude": 44.1358,
+        "longitude": -121.772,
+        "name": "Three Sisters",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.456501,
+          45.371499
+        ]
+      },
+      "properties": {
+        "feet": 3412,
+        "meters": 1040,
+        "latitude": 45.371499,
+        "longitude": -123.456501,
+        "name": "Trask Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Northwest U.S. Coast Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.642534,
+          44.005115
+        ]
+      },
+      "properties": {
+        "feet": 7779,
+        "meters": 2371,
+        "latitude": 44.005115,
+        "longitude": -121.642534,
+        "name": "Tumalo Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22333,
+          42.831101
+        ]
+      },
+      "properties": {
+        "feet": 7714,
+        "meters": 2351,
+        "latitude": 42.831101,
+        "longitude": -122.22333,
+        "name": "Union Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.56104,
+          44.71373
+        ]
+      },
+      "properties": {
+        "feet": 8131,
+        "meters": 2478,
+        "latitude": 44.71373,
+        "longitude": -118.56104,
+        "name": "Vinegar Hill",
+        "regions": [
+          "Intermountain West",
+          "Columbia Plateau"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.71669,
+          43.305128
+        ]
+      },
+      "properties": {
+        "feet": 7080,
+        "meters": 2158,
+        "latitude": 43.305128,
+        "longitude": -121.71669,
+        "name": "Walker Mountain",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.74162,
+          42.4596
+        ]
+      },
+      "properties": {
+        "feet": 8017,
+        "meters": 2444,
+        "latitude": 42.4596,
+        "longitude": -119.74162,
+        "name": "Warner Peak",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.269093,
+          42.326236
+        ]
+      },
+      "properties": {
+        "feet": 7211,
+        "meters": 2198,
+        "latitude": 42.326236,
+        "longitude": -121.269093,
+        "name": "Yainax Butte",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.360817,
+          42.930725
+        ]
+      },
+      "properties": {
+        "feet": 8196,
+        "meters": 2498,
+        "latitude": 42.930725,
+        "longitude": -121.360817,
+        "name": "Yamsay Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "Oregon"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

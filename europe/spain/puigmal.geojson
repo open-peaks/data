@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.116585,
+      42.383148
+    ]
+  },
+  "properties": {
+    "feet": 9537,
+    "meters": 2907,
+    "latitude": 42.383148,
+    "longitude": 2.116585,
+    "name": "Puigmal",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

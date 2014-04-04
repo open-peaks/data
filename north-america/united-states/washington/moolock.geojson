@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.641955,
+      47.547306
+    ]
+  },
+  "properties": {
+    "feet": 4965,
+    "meters": 1513,
+    "latitude": 47.547306,
+    "longitude": -121.641955,
+    "name": "Moolock",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

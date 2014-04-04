@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.225,
+      42.7792
+    ]
+  },
+  "properties": {
+    "feet": 11884,
+    "meters": 3622,
+    "latitude": 42.7792,
+    "longitude": -109.225,
+    "name": "Pingora",
+    "regions": [
+      "Rocky Mountains",
+      "Wind River Range"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

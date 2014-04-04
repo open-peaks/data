@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.832585,
+      44.148406
+    ]
+  },
+  "properties": {
+    "feet": 4177,
+    "meters": 1273,
+    "latitude": 44.148406,
+    "longitude": -73.832585,
+    "name": "Lower Wolfjaw Mtn",
+    "regions": [
+      "Appalachian Mountains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

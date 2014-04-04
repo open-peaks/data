@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.062317,
+      47.915927
+    ]
+  },
+  "properties": {
+    "feet": 6015,
+    "meters": 1833,
+    "latitude": 47.915927,
+    "longitude": -121.062317,
+    "name": "Poe Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

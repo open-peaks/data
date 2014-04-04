@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.356087,
+      47.360339
+    ]
+  },
+  "properties": {
+    "feet": 8170,
+    "meters": 2491,
+    "latitude": 47.360339,
+    "longitude": 11.356087,
+    "name": "Hoher Gleiersch",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

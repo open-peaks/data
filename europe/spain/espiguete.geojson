@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.797592,
+      42.945366
+    ]
+  },
+  "properties": {
+    "feet": 8038,
+    "meters": 2450,
+    "latitude": 42.945366,
+    "longitude": -4.797592,
+    "name": "Espiguete",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

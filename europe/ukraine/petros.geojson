@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.423,
+      48.172
+    ]
+  },
+  "properties": {
+    "feet": 6627,
+    "meters": 2020,
+    "latitude": 48.172,
+    "longitude": 24.423,
+    "name": "Petros",
+    "regions": [
+      "Balkan Peninsula"
+    ],
+    "countries": [
+      "Ukraine"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

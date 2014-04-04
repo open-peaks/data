@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.699462,
+      44.08293
+    ]
+  },
+  "properties": {
+    "feet": 9175,
+    "meters": 2797,
+    "latitude": 44.08293,
+    "longitude": -121.699462,
+    "name": "Broken Top",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

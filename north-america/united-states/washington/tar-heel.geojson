@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.91115,
+      48.643288
+    ]
+  },
+  "properties": {
+    "feet": 7160,
+    "meters": 2182,
+    "latitude": 48.643288,
+    "longitude": -120.91115,
+    "name": "Tar Heel",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.05,
+      34.29
+    ]
+  },
+  "properties": {
+    "feet": 7087,
+    "meters": 2160,
+    "latitude": 34.29,
+    "longitude": 110.05,
+    "name": "Hua Shan",
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

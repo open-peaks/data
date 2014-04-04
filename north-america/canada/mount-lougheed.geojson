@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.262,
+      50.965
+    ]
+  },
+  "properties": {
+    "feet": 10194,
+    "meters": 3107,
+    "latitude": 50.965,
+    "longitude": -115.262,
+    "name": "Mount Lougheed",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

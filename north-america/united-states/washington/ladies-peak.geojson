@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.932994,
+      47.665619
+    ]
+  },
+  "properties": {
+    "feet": 7708,
+    "meters": 2349,
+    "latitude": 47.665619,
+    "longitude": -120.932994,
+    "name": "Ladies Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.896,
+      62.9678
+    ]
+  },
+  "properties": {
+    "feet": 12240,
+    "meters": 3730,
+    "latitude": 62.9678,
+    "longitude": -150.896,
+    "name": "Mount Huntington",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

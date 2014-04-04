@@ -1,0 +1,2934 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3463,
+          57.7196
+        ]
+      },
+      "properties": {
+        "feet": 3173,
+        "meters": 967,
+        "latitude": 57.7196,
+        "longitude": -5.3463,
+        "name": "A'Mhaighdean",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.25172,
+          57.807
+        ]
+      },
+      "properties": {
+        "feet": 3484,
+        "meters": 1062,
+        "latitude": 57.807,
+        "longitude": -5.25172,
+        "name": "An Teallach",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0374,
+          56.6794
+        ]
+      },
+      "properties": {
+        "feet": 3172,
+        "meters": 967,
+        "latitude": 56.6794,
+        "longitude": -5.0374,
+        "name": "Aonach Eagach",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68866,
+          52.786776
+        ]
+      },
+      "properties": {
+        "feet": 2975,
+        "meters": 907,
+        "latitude": 52.786776,
+        "longitude": -3.68866,
+        "name": "Aran Fawddwy",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74445,
+          52.917908
+        ]
+      },
+      "properties": {
+        "feet": 2801,
+        "meters": 854,
+        "latitude": 52.917908,
+        "longitude": -3.74445,
+        "name": "Arenig Fawr",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72301,
+          56.5043
+        ]
+      },
+      "properties": {
+        "feet": 3530,
+        "meters": 1076,
+        "latitude": 56.5043,
+        "longitude": -4.72301,
+        "name": "Beinn Dorain",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.42991,
+          57.595
+        ]
+      },
+      "properties": {
+        "feet": 3313,
+        "meters": 1010,
+        "latitude": 57.595,
+        "longitude": -5.42991,
+        "name": "Beinn Eighe",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.81763,
+          56.2376
+        ]
+      },
+      "properties": {
+        "feet": 3317,
+        "meters": 1011,
+        "latitude": 56.2376,
+        "longitude": -4.81763,
+        "name": "Beinn Ime",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7,
+          57.25
+        ]
+      },
+      "properties": {
+        "feet": 2402,
+        "meters": 732,
+        "latitude": 57.25,
+        "longitude": -5.7,
+        "name": "Beinn na Caillich",
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.465513,
+          56.813189
+        ]
+      },
+      "properties": {
+        "feet": 3766,
+        "meters": 1148,
+        "latitude": 56.813189,
+        "longitude": -4.465513,
+        "name": "Ben Alder",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60874,
+          58.41355
+        ]
+      },
+      "properties": {
+        "feet": 3041,
+        "meters": 927,
+        "latitude": 58.41355,
+        "longitude": -4.60874,
+        "name": "Ben Hope",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          56.0
+        ]
+      },
+      "properties": {
+        "feet": 2888,
+        "meters": 880,
+        "latitude": 56.0,
+        "longitude": -4.0,
+        "name": "Ben Ledi",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8111,
+          56.397
+        ]
+      },
+      "properties": {
+        "feet": 3707,
+        "meters": 1130,
+        "latitude": 56.397,
+        "longitude": -4.8111,
+        "name": "Ben Lui",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66961,
+          57.0712
+        ]
+      },
+      "properties": {
+        "feet": 4294,
+        "meters": 1309,
+        "latitude": 57.0712,
+        "longitude": -3.66961,
+        "name": "Ben Macdui",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.00419,
+          56.7979
+        ]
+      },
+      "properties": {
+        "feet": 4409,
+        "meters": 1344,
+        "latitude": 56.7979,
+        "longitude": -5.00419,
+        "name": "Ben Nevis",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78172,
+          56.2498
+        ]
+      },
+      "properties": {
+        "feet": 3002,
+        "meters": 915,
+        "latitude": 56.2498,
+        "longitude": -4.78172,
+        "name": "Ben Vane",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          56.0
+        ]
+      },
+      "properties": {
+        "feet": 2750,
+        "meters": 838,
+        "latitude": 56.0,
+        "longitude": -4.0,
+        "name": "Ben Venue",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80127,
+          50.289339
+        ]
+      },
+      "properties": {
+        "feet": 1024,
+        "meters": 312,
+        "latitude": 50.289339,
+        "longitude": -3.80127,
+        "name": "Bench Tor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.02976,
+          56.6422
+        ]
+      },
+      "properties": {
+        "feet": 3773,
+        "meters": 1150,
+        "latitude": 56.6422,
+        "longitude": -5.02976,
+        "name": "Bidean Nam Bian",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.92685,
+          56.7541
+        ]
+      },
+      "properties": {
+        "feet": 3707,
+        "meters": 1130,
+        "latitude": 56.7541,
+        "longitude": -4.92685,
+        "name": "Binnein Mor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.09312,
+          57.2196
+        ]
+      },
+      "properties": {
+        "feet": 3044,
+        "meters": 928,
+        "latitude": 57.2196,
+        "longitude": -6.09312,
+        "name": "Bla Bheinn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.04978,
+          54.64
+        ]
+      },
+      "properties": {
+        "feet": 2847,
+        "meters": 868,
+        "latitude": 54.64,
+        "longitude": -3.04978,
+        "name": "Blencathra",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.108688,
+          53.817274
+        ]
+      },
+      "properties": {
+        "feet": 1700,
+        "meters": 518,
+        "latitude": 53.817274,
+        "longitude": -2.108688,
+        "name": "Bouldsworth Hill",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Pennine Chain"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16676,
+          54.4492
+        ]
+      },
+      "properties": {
+        "feet": 2959,
+        "meters": 902,
+        "latitude": 54.4492,
+        "longitude": -3.16676,
+        "name": "Bowfell",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73055,
+          57.0777
+        ]
+      },
+      "properties": {
+        "feet": 4252,
+        "meters": 1296,
+        "latitude": 57.0777,
+        "longitude": -3.73055,
+        "name": "Braeriach",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          56.9186
+        ]
+      },
+      "properties": {
+        "feet": 3274,
+        "meters": 998,
+        "latitude": 56.9186,
+        "longitude": -3.25,
+        "name": "Broad Cairn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.900846,
+          56.646176
+        ]
+      },
+      "properties": {
+        "feet": 3345,
+        "meters": 1020,
+        "latitude": 56.646176,
+        "longitude": -4.900846,
+        "name": "Buachaille Etive Mor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.986763,
+          56.805272
+        ]
+      },
+      "properties": {
+        "feet": 4002,
+        "meters": 1220,
+        "latitude": 56.805272,
+        "longitude": -4.986763,
+        "name": "Carn Mor Dearg",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969841,
+          53.160564
+        ]
+      },
+      "properties": {
+        "feet": 3491,
+        "meters": 1064,
+        "latitude": 53.160564,
+        "longitude": -3.969841,
+        "name": "Carnedd Llewelyn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00893,
+          54.5335
+        ]
+      },
+      "properties": {
+        "feet": 2920,
+        "meters": 890,
+        "latitude": 54.5335,
+        "longitude": -3.00893,
+        "name": "Catstye Cam",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.034115,
+          54.592655
+        ]
+      },
+      "properties": {
+        "feet": 2382,
+        "meters": 726,
+        "latitude": 54.592655,
+        "longitude": -3.034115,
+        "name": "Clough Head",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          53.0
+        ]
+      },
+      "properties": {
+        "feet": 2265,
+        "meters": 690,
+        "latitude": 53.0,
+        "longitude": -4.0,
+        "name": "Cnicht",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.437133,
+          51.884333
+        ]
+      },
+      "properties": {
+        "feet": 2864,
+        "meters": 873,
+        "latitude": 51.884333,
+        "longitude": -3.437133,
+        "name": "Corn Du",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05302,
+          53.0768
+        ]
+      },
+      "properties": {
+        "feet": 3028,
+        "meters": 923,
+        "latitude": 53.0768,
+        "longitude": -4.05302,
+        "name": "Crib Goch",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.056015,
+          53.059271
+        ]
+      },
+      "properties": {
+        "feet": 3449,
+        "meters": 1065,
+        "latitude": 53.059271,
+        "longitude": -4.056015,
+        "name": "Crib Y Ddysgl",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.41667,
+          51.8833
+        ]
+      },
+      "properties": {
+        "feet": 2608,
+        "meters": 795,
+        "latitude": 51.8833,
+        "longitude": -3.41667,
+        "name": "Cribyn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5,
+          55.55
+        ]
+      },
+      "properties": {
+        "feet": 2454,
+        "meters": 748,
+        "latitude": 55.55,
+        "longitude": -3.5,
+        "name": "Culter Fell",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.202,
+          54.527159
+        ]
+      },
+      "properties": {
+        "feet": 2471,
+        "meters": 753,
+        "latitude": 54.527159,
+        "longitude": -3.202,
+        "name": "Dale Head",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96751,
+          54.486345
+        ]
+      },
+      "properties": {
+        "feet": 2603,
+        "meters": 793,
+        "latitude": 54.486345,
+        "longitude": -2.96751,
+        "name": "Dove Crag",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.075306,
+          53.131199
+        ]
+      },
+      "properties": {
+        "feet": 3031,
+        "meters": 924,
+        "latitude": 53.131199,
+        "longitude": -4.075306,
+        "name": "Elidir Fawr",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17831,
+          54.456468
+        ]
+      },
+      "properties": {
+        "feet": 2903,
+        "meters": 885,
+        "latitude": 54.456468,
+        "longitude": -3.17831,
+        "name": "Esk Pike",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99165,
+          54.4971
+        ]
+      },
+      "properties": {
+        "feet": 2864,
+        "meters": 873,
+        "latitude": 54.4971,
+        "longitude": -2.99165,
+        "name": "Fairfield",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.23333,
+          54.5167
+        ]
+      },
+      "properties": {
+        "feet": 2126,
+        "meters": 648,
+        "latitude": 54.5167,
+        "longitude": -3.23333,
+        "name": "Fleetwith Pike",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          53.2
+        ]
+      },
+      "properties": {
+        "feet": 3091,
+        "meters": 942,
+        "latitude": 53.2,
+        "longitude": -3.95,
+        "name": "Foel Fras",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.051895,
+          53.127616
+        ]
+      },
+      "properties": {
+        "feet": 2726,
+        "meters": 831,
+        "latitude": 53.127616,
+        "longitude": -4.051895,
+        "name": "Foel-goch",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96358,
+          53.1742
+        ]
+      },
+      "properties": {
+        "feet": 3202,
+        "meters": 976,
+        "latitude": 53.1742,
+        "longitude": -3.96358,
+        "name": "Foel Grach",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.965578,
+          53.183408
+        ]
+      },
+      "properties": {
+        "feet": 3038,
+        "meters": 926,
+        "latitude": 53.183408,
+        "longitude": -3.965578,
+        "name": "Garnedd Uchaf",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.159599,
+          54.4846
+        ]
+      },
+      "properties": {
+        "feet": 2569,
+        "meters": 783,
+        "latitude": 54.4846,
+        "longitude": -3.159599,
+        "name": "Glaramara",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3682,
+          56.87239
+        ]
+      },
+      "properties": {
+        "feet": 3504,
+        "meters": 1068,
+        "latitude": 56.87239,
+        "longitude": -3.3682,
+        "name": "Glas Maol",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.003315,
+          53.105877
+        ]
+      },
+      "properties": {
+        "feet": 3248,
+        "meters": 990,
+        "latitude": 53.105877,
+        "longitude": -4.003315,
+        "name": "Glyder Fach",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026833,
+          53.102476
+        ]
+      },
+      "properties": {
+        "feet": 3278,
+        "meters": 999,
+        "latitude": 53.102476,
+        "longitude": -4.026833,
+        "name": "Glyder Fawr",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19414,
+          54.4649
+        ]
+      },
+      "properties": {
+        "feet": 2985,
+        "meters": 910,
+        "latitude": 54.4649,
+        "longitude": -3.19414,
+        "name": "Great End",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21927,
+          54.4821
+        ]
+      },
+      "properties": {
+        "feet": 2949,
+        "meters": 899,
+        "latitude": 54.4821,
+        "longitude": -3.21927,
+        "name": "Great Gable",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.138653,
+          54.394505
+        ]
+      },
+      "properties": {
+        "feet": 2536,
+        "meters": 773,
+        "latitude": 54.394505,
+        "longitude": -3.138653,
+        "name": "Grey Friar",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.24273,
+          54.590519
+        ]
+      },
+      "properties": {
+        "feet": 2595,
+        "meters": 791,
+        "latitude": 54.590519,
+        "longitude": -3.24273,
+        "name": "Grisedale Pike",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.975836,
+          54.492527
+        ]
+      },
+      "properties": {
+        "feet": 2698,
+        "meters": 822,
+        "latitude": 54.492527,
+        "longitude": -2.975836,
+        "name": "Hart Crag",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.835503,
+          54.476222
+        ]
+      },
+      "properties": {
+        "feet": 2552,
+        "meters": 778,
+        "latitude": 54.476222,
+        "longitude": -2.835503,
+        "name": "Harter Fell",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.748569,
+          50.589231
+        ]
+      },
+      "properties": {
+        "feet": 1499,
+        "meters": 457,
+        "latitude": 50.589231,
+        "longitude": -3.748569,
+        "name": "Haytor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01752,
+          54.527
+        ]
+      },
+      "properties": {
+        "feet": 3117,
+        "meters": 950,
+        "latitude": 54.527,
+        "longitude": -3.01752,
+        "name": "Helvellyn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0814,
+          52.2054
+        ]
+      },
+      "properties": {
+        "feet": 1398,
+        "meters": 426,
+        "latitude": 52.2054,
+        "longitude": -3.0814,
+        "name": "Hergest Ridge",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.285599,
+          54.520683
+        ]
+      },
+      "properties": {
+        "feet": 2648,
+        "meters": 807,
+        "latitude": 54.520683,
+        "longitude": -3.285599,
+        "name": "High Stile",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.863655,
+          54.489785
+        ]
+      },
+      "properties": {
+        "feet": 2718,
+        "meters": 828,
+        "latitude": 54.489785,
+        "longitude": -2.863655,
+        "name": "High Street",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86667,
+          53.3833
+        ]
+      },
+      "properties": {
+        "feet": 2087,
+        "meters": 636,
+        "latitude": 53.3833,
+        "longitude": -1.86667,
+        "name": "Kinder Scout",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0557,
+          53.0593
+        ]
+      },
+      "properties": {
+        "feet": 2946,
+        "meters": 898,
+        "latitude": 53.0593,
+        "longitude": -4.0557,
+        "name": "Lliwedd (Y Liwedd)",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.24478,
+          56.9599
+        ]
+      },
+      "properties": {
+        "feet": 3789,
+        "meters": 1155,
+        "latitude": 56.9599,
+        "longitude": -3.24478,
+        "name": "Lochnagar",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13329,
+          57.2492
+        ]
+      },
+      "properties": {
+        "feet": 2414,
+        "meters": 736,
+        "latitude": 57.2492,
+        "longitude": -6.13329,
+        "name": "Marsco",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3165,
+          54.5543
+        ]
+      },
+      "properties": {
+        "feet": 1679,
+        "meters": 512,
+        "latitude": 54.5543,
+        "longitude": -3.3165,
+        "name": "Melbreak",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15953,
+          53.09688
+        ]
+      },
+      "properties": {
+        "feet": 2592,
+        "meters": 790,
+        "latitude": 53.09688,
+        "longitude": -4.15953,
+        "name": "Moel Eilio",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.429966,
+          56.980724
+        ]
+      },
+      "properties": {
+        "feet": 2791,
+        "meters": 851,
+        "latitude": 56.980724,
+        "longitude": -3.429966,
+        "name": "Morrone",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.16667,
+          53.0667
+        ]
+      },
+      "properties": {
+        "feet": 2290,
+        "meters": 698,
+        "latitude": 53.0667,
+        "longitude": -4.16667,
+        "name": "Mynydd Mawr",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21783,
+          54.4782
+        ]
+      },
+      "properties": {
+        "feet": 2200,
+        "meters": 671,
+        "latitude": 54.4782,
+        "longitude": -3.21783,
+        "name": "Napes Needle",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.249107,
+          54.155599
+        ]
+      },
+      "properties": {
+        "feet": 2288,
+        "meters": 697,
+        "latitude": 54.155599,
+        "longitude": -2.249107,
+        "name": "Pen-y-ghent",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Pennine Chain"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.28119,
+          54.4975
+        ]
+      },
+      "properties": {
+        "feet": 2926,
+        "meters": 892,
+        "latitude": 54.4975,
+        "longitude": -3.28119,
+        "name": "Pillar",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.04912,
+          58.2153
+        ]
+      },
+      "properties": {
+        "feet": 2651,
+        "meters": 808,
+        "latitude": 58.2153,
+        "longitude": -5.04912,
+        "name": "Quinag",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21167,
+          52.2686
+        ]
+      },
+      "properties": {
+        "feet": 2165,
+        "meters": 660,
+        "latitude": 52.2686,
+        "longitude": -3.21167,
+        "name": "Radnor Forest",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.936096,
+          54.467444
+        ]
+      },
+      "properties": {
+        "feet": 2541,
+        "meters": 774,
+        "latitude": 54.467444,
+        "longitude": -2.936096,
+        "name": "Red Screes",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1073,
+          54.5054
+        ]
+      },
+      "properties": {
+        "feet": 1049,
+        "meters": 320,
+        "latitude": 54.5054,
+        "longitude": -1.1073,
+        "name": "Roseberry Topping",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21154,
+          54.4542
+        ]
+      },
+      "properties": {
+        "feet": 3209,
+        "meters": 978,
+        "latitude": 54.4542,
+        "longitude": -3.21154,
+        "name": "Scafell Pike",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.222942,
+          54.448385
+        ]
+      },
+      "properties": {
+        "feet": 3162,
+        "meters": 964,
+        "latitude": 54.448385,
+        "longitude": -3.222942,
+        "name": "Scafell",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10339,
+          56.6681
+        ]
+      },
+      "properties": {
+        "feet": 3553,
+        "meters": 1083,
+        "latitude": 56.6681,
+        "longitude": -4.10339,
+        "name": "Schiehallion",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23448,
+          57.2282
+        ]
+      },
+      "properties": {
+        "feet": 3192,
+        "meters": 973,
+        "latitude": 57.2282,
+        "longitude": -6.23448,
+        "name": "Sgurr a' Ghreadaidh",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.00432,
+          56.7569
+        ]
+      },
+      "properties": {
+        "feet": 3605,
+        "meters": 1099,
+        "latitude": 56.7569,
+        "longitude": -5.00432,
+        "name": "Sgurr a' Mhaim",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22393,
+          57.2068
+        ]
+      },
+      "properties": {
+        "feet": 3254,
+        "meters": 992,
+        "latitude": 57.2068,
+        "longitude": -6.22393,
+        "name": "Sgurr Alasdair",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.21663,
+          57.2121
+        ]
+      },
+      "properties": {
+        "feet": 2391,
+        "meters": 729,
+        "latitude": 57.2121,
+        "longitude": -6.21663,
+        "name": "Sgurr Coir' an Lochain",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23508,
+          57.2137
+        ]
+      },
+      "properties": {
+        "feet": 3235,
+        "meters": 986,
+        "latitude": 57.2137,
+        "longitude": -6.23508,
+        "name": "Sgurr Dearg",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2241,
+          57.2091
+        ]
+      },
+      "properties": {
+        "feet": 3110,
+        "meters": 948,
+        "latitude": 57.2091,
+        "longitude": -6.2241,
+        "name": "Sgurr Mhic Choinnich",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24272,
+          57.2222
+        ]
+      },
+      "properties": {
+        "feet": 3166,
+        "meters": 965,
+        "latitude": 57.2222,
+        "longitude": -6.24272,
+        "name": "Sgurr Na Banachdich",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45617,
+          57.0135
+        ]
+      },
+      "properties": {
+        "feet": 3412,
+        "meters": 1040,
+        "latitude": 57.0135,
+        "longitude": -5.45617,
+        "name": "Sgurr na Ciche",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2231,
+          57.2559
+        ]
+      },
+      "properties": {
+        "feet": 3776,
+        "meters": 1151,
+        "latitude": 57.2559,
+        "longitude": -5.2231,
+        "name": "Sgurr nan Ceathreamhnan",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19427,
+          57.2492
+        ]
+      },
+      "properties": {
+        "feet": 3162,
+        "meters": 964,
+        "latitude": 57.2492,
+        "longitude": -6.19427,
+        "name": "Sgurr Nan Gillean",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22247,
+          57.2068
+        ]
+      },
+      "properties": {
+        "feet": 3208,
+        "meters": 978,
+        "latitude": 57.2068,
+        "longitude": -6.22247,
+        "name": "Sgurr Thearlaich",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.13876,
+          54.63906
+        ]
+      },
+      "properties": {
+        "feet": 2837,
+        "meters": 865,
+        "latitude": 54.63906,
+        "longitude": -3.13876,
+        "name": "Skiddaw Little Man",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.147755,
+          54.648909
+        ]
+      },
+      "properties": {
+        "feet": 3054,
+        "meters": 931,
+        "latitude": 54.648909,
+        "longitude": -3.147755,
+        "name": "Skiddaw",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.921201,
+          54.180109
+        ]
+      },
+      "properties": {
+        "feet": 2789,
+        "meters": 850,
+        "latitude": 54.180109,
+        "longitude": -5.921201,
+        "name": "Slieve Donard",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Mourne Mountains"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0746,
+          53.0689
+        ]
+      },
+      "properties": {
+        "feet": 3560,
+        "meters": 1085,
+        "latitude": 53.0689,
+        "longitude": -4.0746,
+        "name": "Snowdon",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2034,
+          58.0361
+        ]
+      },
+      "properties": {
+        "feet": 2011,
+        "meters": 613,
+        "latitude": 58.0361,
+        "longitude": -5.2034,
+        "name": "Stac Pollaidh",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.16667,
+          58.0833
+        ]
+      },
+      "properties": {
+        "feet": 2399,
+        "meters": 731,
+        "latitude": 58.0833,
+        "longitude": -5.16667,
+        "name": "Suilven",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.121662,
+          54.395151
+        ]
+      },
+      "properties": {
+        "feet": 2631,
+        "meters": 802,
+        "latitude": 54.395151,
+        "longitude": -3.121662,
+        "name": "Swirl How",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42089,
+          56.8795
+        ]
+      },
+      "properties": {
+        "feet": 3061,
+        "meters": 933,
+        "latitude": 56.8795,
+        "longitude": -3.42089,
+        "name": "The Cairnwell",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.80875,
+          56.2141
+        ]
+      },
+      "properties": {
+        "feet": 2900,
+        "meters": 884,
+        "latitude": 56.2141,
+        "longitude": -4.80875,
+        "name": "The Cobbler",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4684,
+          55.1393
+        ]
+      },
+      "properties": {
+        "feet": 2766,
+        "meters": 843,
+        "latitude": 55.1393,
+        "longitude": -4.4684,
+        "name": "The Merrick",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.121,
+          54.321
+        ]
+      },
+      "properties": {
+        "feet": 2633,
+        "meters": 803,
+        "latitude": 54.321,
+        "longitude": 3.121,
+        "name": "The Old Man Of Coniston",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Lake District"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.57905,
+          57.5892
+        ]
+      },
+      "properties": {
+        "feet": 3025,
+        "meters": 922,
+        "latitude": 57.5892,
+        "longitude": -5.57905,
+        "name": "Tom na Gruagaich",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Scottish Highlands"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.99693,
+          53.1158
+        ]
+      },
+      "properties": {
+        "feet": 3002,
+        "meters": 915,
+        "latitude": 53.1158,
+        "longitude": -3.99693,
+        "name": "Tryfan",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00074,
+          50.698578
+        ]
+      },
+      "properties": {
+        "feet": 1775,
+        "meters": 541,
+        "latitude": 50.698578,
+        "longitude": -4.00074,
+        "name": "West Mill Tor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0464,
+          53.1152
+        ]
+      },
+      "properties": {
+        "feet": 3107,
+        "meters": 947,
+        "latitude": 53.1152,
+        "longitude": -4.0464,
+        "name": "Y Garn",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98735,
+          53.165299
+        ]
+      },
+      "properties": {
+        "feet": 2947,
+        "meters": 898,
+        "latitude": 53.165299,
+        "longitude": -3.98735,
+        "name": "Y Lliwedd",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          50.41
+        ]
+      },
+      "properties": {
+        "feet": 2001,
+        "meters": 610,
+        "latitude": 50.41,
+        "longitude": -4.0,
+        "name": "Yes Tor",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985767,
+          53.16689
+        ]
+      },
+      "properties": {
+        "feet": 3156,
+        "meters": 962,
+        "latitude": 53.16689,
+        "longitude": -3.985767,
+        "name": "Yr Elen",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland",
+          "Snowdonia"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

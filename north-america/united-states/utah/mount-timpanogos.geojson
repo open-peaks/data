@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.633,
+      40.4
+    ]
+  },
+  "properties": {
+    "feet": 11749,
+    "meters": 3581,
+    "latitude": 40.4,
+    "longitude": -111.633,
+    "name": "Mount Timpanogos",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

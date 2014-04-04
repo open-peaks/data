@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.53758,
+      36.55062
+    ]
+  },
+  "properties": {
+    "feet": 9446,
+    "meters": 2879,
+    "latitude": 36.55062,
+    "longitude": 29.53758,
+    "name": "Atkuyruksallamaz",
+    "regions": [
+      "Anatolia",
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.212,
+      37.8771
+    ]
+  },
+  "properties": {
+    "feet": 12773,
+    "meters": 3893,
+    "latitude": 37.8771,
+    "longitude": -119.212,
+    "name": "Mt. Gibbs",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

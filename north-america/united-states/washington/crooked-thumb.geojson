@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.341419,
+      48.826588
+    ]
+  },
+  "properties": {
+    "feet": 8124,
+    "meters": 2476,
+    "latitude": 48.826588,
+    "longitude": -121.341419,
+    "name": "Crooked Thumb",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

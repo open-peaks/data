@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.692,
+      -35.5719
+    ]
+  },
+  "properties": {
+    "feet": 6273,
+    "meters": 1912,
+    "latitude": -35.5719,
+    "longitude": 148.692,
+    "name": "Bimberi",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

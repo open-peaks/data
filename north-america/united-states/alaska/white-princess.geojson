@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.4205,
+      63.42
+    ]
+  },
+  "properties": {
+    "feet": 9850,
+    "meters": 3002,
+    "latitude": 63.42,
+    "longitude": -145.4205,
+    "name": "White Princess",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

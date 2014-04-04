@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.209567,
+      10.778463
+    ]
+  },
+  "properties": {
+    "feet": 4298,
+    "meters": 1310,
+    "latitude": 10.778463,
+    "longitude": 123.209567,
+    "name": "Gawahon Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

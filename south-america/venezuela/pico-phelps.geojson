@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.006553,
+      0.804812
+    ]
+  },
+  "properties": {
+    "feet": 9754,
+    "meters": 2973,
+    "latitude": 0.804812,
+    "longitude": -66.006553,
+    "name": "Pico Phelps",
+    "regions": [
+      "Guiana Highlands",
+      "Western Guiana Highlands"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

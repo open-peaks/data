@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.65,
+      35.9
+    ]
+  },
+  "properties": {
+    "feet": 12500,
+    "meters": 3810,
+    "latitude": 35.9,
+    "longitude": -105.65,
+    "name": "East Pecos Baldy",
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

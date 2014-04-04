@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.3972,
+      32.2114
+    ]
+  },
+  "properties": {
+    "feet": 19688,
+    "meters": 6001,
+    "latitude": 32.2114,
+    "longitude": 77.3972,
+    "name": "Deo Tibba",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

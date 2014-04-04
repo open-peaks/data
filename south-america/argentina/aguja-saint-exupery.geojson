@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.0333,
+      -49.2833
+    ]
+  },
+  "properties": {
+    "feet": 2680,
+    "meters": 817,
+    "latitude": -49.2833,
+    "longitude": -73.0333,
+    "name": "Aguja Saint Exupery",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

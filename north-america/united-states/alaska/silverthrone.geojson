@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.667,
+      63.1
+    ]
+  },
+  "properties": {
+    "feet": 13220,
+    "meters": 4030,
+    "latitude": 63.1,
+    "longitude": -150.667,
+    "name": "Silverthrone",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

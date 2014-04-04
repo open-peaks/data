@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.967,
+      38.5167
+    ]
+  },
+  "properties": {
+    "feet": 9115,
+    "meters": 2778,
+    "latitude": 38.5167,
+    "longitude": -119.967,
+    "name": "Wheeler Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

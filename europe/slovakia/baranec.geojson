@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.7416,
+      49.1736
+    ]
+  },
+  "properties": {
+    "feet": 7165,
+    "meters": 2184,
+    "latitude": 49.1736,
+    "longitude": 19.7416,
+    "name": "Baranec",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

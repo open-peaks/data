@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -125.233,
+      51.3667
+    ]
+  },
+  "properties": {
+    "feet": 13177,
+    "meters": 4016,
+    "latitude": 51.3667,
+    "longitude": -125.233,
+    "name": "Mount Waddington",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

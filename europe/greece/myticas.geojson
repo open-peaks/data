@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35,
+      40.083333
+    ]
+  },
+  "properties": {
+    "feet": 9577,
+    "meters": 2919,
+    "latitude": 40.083333,
+    "longitude": 22.35,
+    "name": "Myticas",
+    "regions": [
+      "Balkan Peninsula"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

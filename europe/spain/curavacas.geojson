@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.673553,
+      42.978236
+    ]
+  },
+  "properties": {
+    "feet": 8268,
+    "meters": 2520,
+    "latitude": 42.978236,
+    "longitude": -4.673553,
+    "name": "Curavacas",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

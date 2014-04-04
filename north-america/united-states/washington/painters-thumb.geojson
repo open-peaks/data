@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.851111,
+      47.675184
+    ]
+  },
+  "properties": {
+    "feet": 6744,
+    "meters": 2056,
+    "latitude": 47.675184,
+    "longitude": -120.851111,
+    "name": "Painters Thumb",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

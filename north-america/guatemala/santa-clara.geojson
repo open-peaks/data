@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.2833,
+      14.7167
+    ]
+  },
+  "properties": {
+    "feet": 7880,
+    "meters": 2402,
+    "latitude": 14.7167,
+    "longitude": -91.2833,
+    "name": "Santa Clara",
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.903316,
+      8.607319
+    ]
+  },
+  "properties": {
+    "feet": 14173,
+    "meters": 4320,
+    "latitude": 8.607319,
+    "longitude": -70.903316,
+    "name": "Pico Santo Cristo",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

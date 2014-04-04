@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.15953,
+      53.09688
+    ]
+  },
+  "properties": {
+    "feet": 2592,
+    "meters": 790,
+    "latitude": 53.09688,
+    "longitude": -4.15953,
+    "name": "Moel Eilio",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

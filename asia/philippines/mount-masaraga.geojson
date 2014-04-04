@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.6,
+      13.32
+    ]
+  },
+  "properties": {
+    "feet": 4357,
+    "meters": 1328,
+    "latitude": 13.32,
+    "longitude": 123.6,
+    "name": "Mount Masaraga",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

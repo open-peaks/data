@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.861679,
+      44.904092
+    ]
+  },
+  "properties": {
+    "feet": 10807,
+    "meters": 3294,
+    "latitude": 44.904092,
+    "longitude": 6.861679,
+    "name": "Punta Ciatagnera",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.686,
+      13.2552
+    ]
+  },
+  "properties": {
+    "feet": 8077,
+    "meters": 2463,
+    "latitude": 13.2552,
+    "longitude": 123.686,
+    "name": "Mayon Volcano",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

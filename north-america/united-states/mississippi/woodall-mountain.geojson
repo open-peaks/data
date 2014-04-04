@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.241625,
+      34.787745
+    ]
+  },
+  "properties": {
+    "feet": 806,
+    "meters": 246,
+    "latitude": 34.787745,
+    "longitude": -88.241625,
+    "name": "Woodall Mountain",
+    "states": [
+      "Mississippi"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

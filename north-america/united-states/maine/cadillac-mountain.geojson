@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2244,
+      44.3528
+    ]
+  },
+  "properties": {
+    "feet": 1533,
+    "meters": 467,
+    "latitude": 44.3528,
+    "longitude": -68.2244,
+    "name": "Cadillac Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "New England Upland"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

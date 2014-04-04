@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.5,
+      -8.35
+    ]
+  },
+  "properties": {
+    "feet": 10000,
+    "meters": 3048,
+    "latitude": -8.35,
+    "longitude": 115.5,
+    "name": "Gunung Agung",
+    "regions": [
+      "Malay Archipelago",
+      "Nusa Tengarra"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

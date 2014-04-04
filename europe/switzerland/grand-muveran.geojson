@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.11667,
+      46.2333
+    ]
+  },
+  "properties": {
+    "feet": 10010,
+    "meters": 3051,
+    "latitude": 46.2333,
+    "longitude": 7.11667,
+    "name": "Grand Muveran",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

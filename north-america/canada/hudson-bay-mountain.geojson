@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -127.339697,
+      54.811691
+    ]
+  },
+  "properties": {
+    "feet": 8494,
+    "meters": 2589,
+    "latitude": 54.811691,
+    "longitude": -127.339697,
+    "name": "Hudson Bay Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

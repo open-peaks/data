@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.104283,
+      48.554293
+    ]
+  },
+  "properties": {
+    "feet": 8485,
+    "meters": 2586,
+    "latitude": 48.554293,
+    "longitude": -121.104283,
+    "name": "Klawatti Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

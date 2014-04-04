@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.04833,
+      -16.317885
+    ]
+  },
+  "properties": {
+    "feet": 16299,
+    "meters": 4968,
+    "latitude": -16.317885,
+    "longitude": -68.04833,
+    "name": "Kolini",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

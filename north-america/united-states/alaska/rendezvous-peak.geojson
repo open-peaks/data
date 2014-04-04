@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.504444,
+      61.250556
+    ]
+  },
+  "properties": {
+    "feet": 3825,
+    "meters": 1166,
+    "latitude": 61.250556,
+    "longitude": -149.504444,
+    "name": "Rendezvous Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

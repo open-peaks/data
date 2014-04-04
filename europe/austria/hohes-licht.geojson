@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.275135,
+      47.280976
+    ]
+  },
+  "properties": {
+    "feet": 8698,
+    "meters": 2651,
+    "latitude": 47.280976,
+    "longitude": 10.275135,
+    "name": "Hohes Licht",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36,
+          -13.2
+        ]
+      },
+      "properties": {
+        "feet": 6400,
+        "meters": 1951,
+        "latitude": -13.2,
+        "longitude": 29.36,
+        "name": "Mumpu",
+        "regions": [
+          "Southern Africa",
+          "Zambia Plateau"
+        ],
+        "countries": [
+          "Zambia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

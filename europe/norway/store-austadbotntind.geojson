@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.80098,
+      61.441824
+    ]
+  },
+  "properties": {
+    "feet": 7228,
+    "meters": 2203,
+    "latitude": 61.441824,
+    "longitude": 7.80098,
+    "name": "Store Austadbotntind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.333,
+      29.1333
+    ]
+  },
+  "properties": {
+    "feet": 24921,
+    "meters": 7596,
+    "latitude": 29.1333,
+    "longitude": 103.333,
+    "name": "Gongga Shan",
+    "regions": [
+      "West Sichuan Ranges"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

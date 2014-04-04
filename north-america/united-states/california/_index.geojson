@@ -1,0 +1,3361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.45
+        ]
+      },
+      "properties": {
+        "feet": 9942,
+        "meters": 3030,
+        "latitude": 38.45,
+        "longitude": -119.8,
+        "name": "Airola Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.894488,
+          34.124524
+        ]
+      },
+      "properties": {
+        "feet": 10840,
+        "meters": 3304,
+        "latitude": 34.124524,
+        "longitude": -116.894488,
+        "name": "Anderson Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.194,
+          37.6967
+        ]
+      },
+      "properties": {
+        "feet": 12947,
+        "meters": 3946,
+        "latitude": 37.6967,
+        "longitude": -119.194,
+        "name": "Banner Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.65,
+          37.2833
+        ]
+      },
+      "properties": {
+        "feet": 13181,
+        "meters": 4018,
+        "latitude": 37.2833,
+        "longitude": -118.65,
+        "name": "Basin Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.767,
+          37.3681
+        ]
+      },
+      "properties": {
+        "feet": 13713,
+        "meters": 4180,
+        "latitude": 37.3681,
+        "longitude": -118.767,
+        "name": "Bear Creek Spire",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.667,
+          37.1
+        ]
+      },
+      "properties": {
+        "feet": 13330,
+        "meters": 4063,
+        "latitude": 37.1,
+        "longitude": -118.667,
+        "name": "Black Giant",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.515,
+          36.5453
+        ]
+      },
+      "properties": {
+        "feet": 13675,
+        "meters": 4168,
+        "latitude": 36.5453,
+        "longitude": -118.515,
+        "name": "Black Kaweah",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.583,
+          35.4511
+        ]
+      },
+      "properties": {
+        "feet": 7548,
+        "meters": 2301,
+        "latitude": 35.4511,
+        "longitude": -118.583,
+        "name": "Breckenridge Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.883,
+          38.4667
+        ]
+      },
+      "properties": {
+        "feet": 9495,
+        "meters": 2894,
+        "latitude": 38.4667,
+        "longitude": -119.883,
+        "name": "Bull Run Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.627931,
+          40.806569
+        ]
+      },
+      "properties": {
+        "feet": 7863,
+        "latitude": 40.806569,
+        "longitude": -121.627931,
+        "name": "Burney Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.117,
+          37.75
+        ]
+      },
+      "properties": {
+        "feet": 10909,
+        "meters": 3325,
+        "latitude": 37.75,
+        "longitude": -119.117,
+        "name": "Carson Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.467,
+          36.7667
+        ]
+      },
+      "properties": {
+        "feet": 10700,
+        "meters": 3261,
+        "latitude": 36.7667,
+        "longitude": -118.467,
+        "name": "Charlotte Dome",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.154713,
+          37.218999
+        ]
+      },
+      "properties": {
+        "feet": 8705,
+        "meters": 2653,
+        "latitude": 37.218999,
+        "longitude": -119.154713,
+        "name": "Chinese Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.363866,
+          40.932386
+        ]
+      },
+      "properties": {
+        "feet": 6906,
+        "meters": 2105,
+        "latitude": 40.932386,
+        "longitude": -121.363866,
+        "name": "Cinder Cone",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.233,
+          36.4667
+        ]
+      },
+      "properties": {
+        "feet": 12900,
+        "meters": 3932,
+        "latitude": 36.4667,
+        "longitude": -118.233,
+        "name": "Cirque Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.489266,
+          37.767853
+        ]
+      },
+      "properties": {
+        "feet": 9926,
+        "meters": 3025,
+        "latitude": 37.767853,
+        "longitude": -119.489266,
+        "name": "Clouds Rest",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.117,
+          37.75
+        ]
+      },
+      "properties": {
+        "feet": 12281,
+        "meters": 3743,
+        "latitude": 37.75,
+        "longitude": -119.117,
+        "name": "Clyde Minaret",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.647,
+          37.14
+        ]
+      },
+      "properties": {
+        "feet": 13267,
+        "meters": 4044,
+        "latitude": 37.14,
+        "longitude": -118.647,
+        "name": "Clyde Spires",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.945552,
+          34.290938
+        ]
+      },
+      "properties": {
+        "feet": 8398,
+        "meters": 2560,
+        "latitude": 34.290938,
+        "longitude": -116.945552,
+        "name": "Delamar Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.311,
+          39.3089
+        ]
+      },
+      "properties": {
+        "feet": 8019,
+        "meters": 2444,
+        "latitude": 39.3089,
+        "longitude": -120.311,
+        "name": "Donner Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.5333
+        ]
+      },
+      "properties": {
+        "feet": 9160,
+        "meters": 2792,
+        "latitude": 38.5333,
+        "longitude": -119.8,
+        "name": "Ebbetts Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.072962,
+          38.856574
+        ]
+      },
+      "properties": {
+        "feet": 8895,
+        "meters": 2711,
+        "latitude": 38.856574,
+        "longitude": -120.072962,
+        "name": "Echo Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.637,
+          37.7342
+        ]
+      },
+      "properties": {
+        "feet": 7569,
+        "meters": 2307,
+        "latitude": 37.7342,
+        "longitude": -119.637,
+        "name": "El Capitan",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.983535,
+          38.678207
+        ]
+      },
+      "properties": {
+        "feet": 9585,
+        "meters": 2922,
+        "latitude": 38.678207,
+        "longitude": -119.983535,
+        "name": "Elephants Back",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.4833
+        ]
+      },
+      "properties": {
+        "feet": 9680,
+        "meters": 2950,
+        "latitude": 38.4833,
+        "longitude": -119.8,
+        "name": "Folger Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.453857,
+          32.908195
+        ]
+      },
+      "properties": {
+        "feet": 5900,
+        "meters": 1798,
+        "latitude": 32.908195,
+        "longitude": -116.453857,
+        "name": "Garnet Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.97123,
+          34.26101
+        ]
+      },
+      "properties": {
+        "feet": 7920,
+        "meters": 2414,
+        "latitude": 34.26101,
+        "longitude": -116.97123,
+        "name": "Grays Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.532,
+          37.7461
+        ]
+      },
+      "properties": {
+        "feet": 8842,
+        "meters": 2695,
+        "latitude": 37.7461,
+        "longitude": -119.532,
+        "name": "Half Dome",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.867,
+          38.4833
+        ]
+      },
+      "properties": {
+        "feet": 9334,
+        "meters": 2845,
+        "latitude": 38.4833,
+        "longitude": -119.867,
+        "name": "Henery Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.4667
+        ]
+      },
+      "properties": {
+        "feet": 9795,
+        "meters": 2986,
+        "latitude": 38.4667,
+        "longitude": -119.8,
+        "name": "Hiram Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.712,
+          34.2883
+        ]
+      },
+      "properties": {
+        "feet": 8006,
+        "meters": 2440,
+        "latitude": 34.2883,
+        "longitude": -117.712,
+        "name": "Iron Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.667,
+          33.8
+        ]
+      },
+      "properties": {
+        "feet": 10670,
+        "meters": 3252,
+        "latitude": 33.8,
+        "longitude": -116.667,
+        "name": "Jean Peak",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.367,
+          36.6167
+        ]
+      },
+      "properties": {
+        "feet": 14260,
+        "meters": 4347,
+        "latitude": 36.6167,
+        "longitude": -118.367,
+        "name": "Keeler Needle",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.504,
+          40.4878
+        ]
+      },
+      "properties": {
+        "feet": 10457,
+        "meters": 3187,
+        "latitude": 40.4878,
+        "longitude": -121.504,
+        "name": "Lassen Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.89,
+          37.5803
+        ]
+      },
+      "properties": {
+        "feet": 11812,
+        "meters": 3600,
+        "latitude": 37.5803,
+        "longitude": -118.89,
+        "name": "Laurel Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.346823,
+          37.88187
+        ]
+      },
+      "properties": {
+        "feet": 9450,
+        "meters": 2880,
+        "latitude": 37.88187,
+        "longitude": -119.346823,
+        "name": "Lembert Dome",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.333,
+          37.0167
+        ]
+      },
+      "properties": {
+        "feet": 8044,
+        "meters": 2452,
+        "latitude": 37.0167,
+        "longitude": -119.333,
+        "name": "Little Baldy",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.224,
+          36.5617
+        ]
+      },
+      "properties": {
+        "feet": 12944,
+        "meters": 3945,
+        "latitude": 36.5617,
+        "longitude": -118.224,
+        "name": "Lone Pine Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.032,
+          37.631
+        ]
+      },
+      "properties": {
+        "feet": 11053,
+        "meters": 3369,
+        "latitude": 37.631,
+        "longitude": -119.032,
+        "name": "Mammoth Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.382,
+          38.0933
+        ]
+      },
+      "properties": {
+        "feet": 12264,
+        "meters": 3738,
+        "latitude": 38.0933,
+        "longitude": -119.382,
+        "name": "Matterhorn Peak ",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5536,
+          41.6111
+        ]
+      },
+      "properties": {
+        "feet": 7913,
+        "meters": 2412,
+        "latitude": 41.6111,
+        "longitude": -121.5536,
+        "name": "Medicine Lake Volcano",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.467,
+          37.0667
+        ]
+      },
+      "properties": {
+        "feet": 14040,
+        "meters": 4279,
+        "latitude": 37.0667,
+        "longitude": -118.467,
+        "name": "Middle Palisade",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.484,
+          36.6347
+        ]
+      },
+      "properties": {
+        "feet": 13641,
+        "meters": 4158,
+        "latitude": 36.6347,
+        "longitude": -118.484,
+        "name": "Milestone Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.86755,
+          35.36943
+        ]
+      },
+      "properties": {
+        "feet": 581,
+        "meters": 177,
+        "latitude": 35.36943,
+        "longitude": -120.86755,
+        "name": "Morro Rock",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.784,
+          37.3864
+        ]
+      },
+      "properties": {
+        "feet": 13704,
+        "meters": 4177,
+        "latitude": 37.3864,
+        "longitude": -118.784,
+        "name": "Mount Abbot",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53,
+          37.1117
+        ]
+      },
+      "properties": {
+        "feet": 13893,
+        "meters": 4235,
+        "latitude": 37.1117,
+        "longitude": -118.53,
+        "name": "Mount Agassiz",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76464,
+          34.35853
+        ]
+      },
+      "properties": {
+        "feet": 9399,
+        "meters": 2865,
+        "latitude": 34.35853,
+        "longitude": -117.76464,
+        "name": "Mount Baden-Powell",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.781506,
+          34.359132
+        ]
+      },
+      "properties": {
+        "feet": 8997,
+        "meters": 2742,
+        "latitude": 34.359132,
+        "longitude": -117.781506,
+        "name": "Mount Burnham",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.32,
+          37.9669
+        ]
+      },
+      "properties": {
+        "feet": 12590,
+        "meters": 3837,
+        "latitude": 37.9669,
+        "longitude": -119.32,
+        "name": "Mount Conness",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.778,
+          37.3822
+        ]
+      },
+      "properties": {
+        "feet": 13600,
+        "meters": 4145,
+        "latitude": 37.3822,
+        "longitude": -118.778,
+        "name": "Mount Dade",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22,
+          37.8997
+        ]
+      },
+      "properties": {
+        "feet": 13053,
+        "meters": 3979,
+        "latitude": 37.8997,
+        "longitude": -119.22,
+        "name": "Mount Dana",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.671,
+          37.1669
+        ]
+      },
+      "properties": {
+        "feet": 13831,
+        "meters": 4216,
+        "latitude": 37.1669,
+        "longitude": -118.671,
+        "name": "Mount Darwin",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.92,
+          37.88
+        ]
+      },
+      "properties": {
+        "feet": 3849,
+        "meters": 1173,
+        "latitude": 37.88,
+        "longitude": -121.92,
+        "name": "Mount Diablo",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.597,
+          37.1372
+        ]
+      },
+      "properties": {
+        "feet": 13103,
+        "meters": 3994,
+        "latitude": 37.1372,
+        "longitude": -118.597,
+        "name": "Mount Gilbert",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.362,
+          36.5089
+        ]
+      },
+      "properties": {
+        "feet": 12300,
+        "meters": 3749,
+        "latitude": 36.5089,
+        "longitude": -118.362,
+        "name": "Mount Guyot ",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.661,
+          37.1503
+        ]
+      },
+      "properties": {
+        "feet": 13435,
+        "meters": 4095,
+        "latitude": 37.1503,
+        "longitude": -118.661,
+        "name": "Mount Haeckel",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.633,
+          37.35
+        ]
+      },
+      "properties": {
+        "feet": 4209,
+        "meters": 1283,
+        "latitude": 37.35,
+        "longitude": -121.633,
+        "name": "Mount Hamilton",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.805624,
+          34.341133
+        ]
+      },
+      "properties": {
+        "feet": 8850,
+        "meters": 2697,
+        "latitude": 34.341133,
+        "longitude": -117.805624,
+        "name": "Mount Hawkins",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.673,
+          37.2706
+        ]
+      },
+      "properties": {
+        "feet": 13986,
+        "meters": 4263,
+        "latitude": 37.2706,
+        "longitude": -118.673,
+        "name": "Mount Humphreys",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.262,
+          36.5558
+        ]
+      },
+      "properties": {
+        "feet": 13914,
+        "meters": 4241,
+        "latitude": 36.5558,
+        "longitude": -118.262,
+        "name": "Mount Irvine",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.839956,
+          34.344995
+        ]
+      },
+      "properties": {
+        "feet": 8250,
+        "meters": 2515,
+        "latitude": 34.344995,
+        "longitude": -117.839956,
+        "name": "Mount Islip",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3,
+          36.5167
+        ]
+      },
+      "properties": {
+        "feet": 14027,
+        "meters": 4275,
+        "latitude": 36.5167,
+        "longitude": -118.3,
+        "name": "Mount Langley",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.271,
+          37.7394
+        ]
+      },
+      "properties": {
+        "feet": 13114,
+        "meters": 3998,
+        "latitude": 37.7394,
+        "longitude": -119.271,
+        "name": "Mount Lyell",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25,
+          37.4
+        ]
+      },
+      "properties": {
+        "feet": 13748,
+        "meters": 4190,
+        "latitude": 37.4,
+        "longitude": -119.25,
+        "name": "Mount Morgan (South)",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.291253,
+          36.564743
+        ]
+      },
+      "properties": {
+        "feet": 14012,
+        "meters": 4271,
+        "latitude": 36.564743,
+        "longitude": -118.291253,
+        "name": "Mount Muir",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0,
+          37.6894
+        ]
+      },
+      "properties": {
+        "feet": 13143,
+        "meters": 4006,
+        "latitude": 37.6894,
+        "longitude": -119.0,
+        "name": "Mount Ritter",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.288,
+          36.5908
+        ]
+      },
+      "properties": {
+        "feet": 14086,
+        "meters": 4293,
+        "latitude": 36.5908,
+        "longitude": -118.288,
+        "name": "Mount Russell",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.646,
+          34.2889
+        ]
+      },
+      "properties": {
+        "feet": 10046,
+        "meters": 3068,
+        "latitude": 34.2889,
+        "longitude": -117.646,
+        "name": "Mount San Antonio",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.678,
+          33.8144
+        ]
+      },
+      "properties": {
+        "feet": 10804,
+        "meters": 3293,
+        "latitude": 33.8144,
+        "longitude": -116.678,
+        "name": "Mount San Jacinto Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.195048,
+          41.409357
+        ]
+      },
+      "properties": {
+        "feet": 14162,
+        "meters": 4317,
+        "latitude": 41.409357,
+        "longitude": -122.195048,
+        "name": "Mount Shasta",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.502,
+          37.0944
+        ]
+      },
+      "properties": {
+        "feet": 14153,
+        "meters": 4314,
+        "latitude": 37.0944,
+        "longitude": -118.502,
+        "name": "Mount Sill",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.098,
+          38.9061
+        ]
+      },
+      "properties": {
+        "feet": 9735,
+        "meters": 2967,
+        "latitude": 38.9061,
+        "longitude": -120.098,
+        "name": "Mount Tallac",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.577682,
+          37.928662
+        ]
+      },
+      "properties": {
+        "feet": 2574,
+        "meters": 784,
+        "latitude": 37.928662,
+        "longitude": -122.577682,
+        "name": "Mount Tamalpais",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.613,
+          37.1431
+        ]
+      },
+      "properties": {
+        "feet": 13494,
+        "meters": 4113,
+        "latitude": 37.1431,
+        "longitude": -118.613,
+        "name": "Mount Thompson",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.658,
+          37.3386
+        ]
+      },
+      "properties": {
+        "feet": 13652,
+        "meters": 4161,
+        "latitude": 37.3386,
+        "longitude": -118.658,
+        "name": "Mount Tom",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.333,
+          36.65
+        ]
+      },
+      "properties": {
+        "feet": 14018,
+        "meters": 4273,
+        "latitude": 36.65,
+        "longitude": -118.333,
+        "name": "Mount Tyndall",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.292327,
+          36.578523
+        ]
+      },
+      "properties": {
+        "feet": 14494,
+        "meters": 4418,
+        "latitude": 36.578523,
+        "longitude": -118.292327,
+        "name": "Mount Whitney",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.31,
+          36.6561
+        ]
+      },
+      "properties": {
+        "feet": 14370,
+        "meters": 4380,
+        "latitude": 36.6561,
+        "longitude": -118.31,
+        "name": "Mount Williamson",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.525,
+          37.1033
+        ]
+      },
+      "properties": {
+        "feet": 13775,
+        "meters": 4199,
+        "latitude": 37.1033,
+        "longitude": -118.525,
+        "name": "Mount Winchell",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.483,
+          36.7
+        ]
+      },
+      "properties": {
+        "feet": 13570,
+        "meters": 4136,
+        "latitude": 36.7,
+        "longitude": -118.483,
+        "name": "Mt. Brewer",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.517,
+          37.0833
+        ]
+      },
+      "properties": {
+        "feet": 13510,
+        "meters": 4118,
+        "latitude": 37.0833,
+        "longitude": -118.517,
+        "name": "Mt. Gayley",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.212,
+          37.8771
+        ]
+      },
+      "properties": {
+        "feet": 12773,
+        "meters": 3893,
+        "latitude": 37.8771,
+        "longitude": -119.212,
+        "name": "Mt. Gibbs",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.472,
+          37.075
+        ]
+      },
+      "properties": {
+        "feet": 13920,
+        "meters": 4243,
+        "latitude": 37.075,
+        "longitude": -118.472,
+        "name": "Norman Clyde Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.522,
+          37.0939
+        ]
+      },
+      "properties": {
+        "feet": 14242,
+        "meters": 4341,
+        "latitude": 37.0939,
+        "longitude": -118.522,
+        "name": "North Palisade",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.314,
+          37.9822
+        ]
+      },
+      "properties": {
+        "feet": 12242,
+        "meters": 3731,
+        "latitude": 37.9822,
+        "longitude": -119.314,
+        "name": "North Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11823,
+          36.26522
+        ]
+      },
+      "properties": {
+        "feet": 12123,
+        "meters": 3695,
+        "latitude": 36.26522,
+        "longitude": -118.11823,
+        "name": "Olancha Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.624006,
+          34.227842
+        ]
+      },
+      "properties": {
+        "feet": 8693,
+        "meters": 2650,
+        "latitude": 34.227842,
+        "longitude": -117.624006,
+        "name": "Ontario Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.517,
+          37.0833
+        ]
+      },
+      "properties": {
+        "feet": 14200,
+        "meters": 4328,
+        "latitude": 37.0833,
+        "longitude": -118.517,
+        "name": "Polemonium Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15781,
+          38.84502
+        ]
+      },
+      "properties": {
+        "feet": 9983,
+        "meters": 3043,
+        "latitude": 38.84502,
+        "longitude": -120.15781,
+        "name": "Pyramid Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.017,
+          38.5
+        ]
+      },
+      "properties": {
+        "feet": 10062,
+        "meters": 3067,
+        "latitude": 38.5,
+        "longitude": -120.017,
+        "name": "Red Lake Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.909766,
+          34.124666
+        ]
+      },
+      "properties": {
+        "feet": 10691,
+        "meters": 3259,
+        "latitude": 34.124666,
+        "longitude": -116.909766,
+        "name": "San Bernardino East Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.922512,
+          34.12225
+        ]
+      },
+      "properties": {
+        "feet": 10649,
+        "meters": 3246,
+        "latitude": 34.12225,
+        "longitude": -116.922512,
+        "name": "San Bernardino Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.828,
+          34.1006
+        ]
+      },
+      "properties": {
+        "feet": 11499,
+        "meters": 3505,
+        "latitude": 34.1006,
+        "longitude": -116.828,
+        "name": "San Gorgonio",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.533,
+          33.7103
+        ]
+      },
+      "properties": {
+        "feet": 5687,
+        "meters": 1733,
+        "latitude": 33.7103,
+        "longitude": -117.533,
+        "name": "Santiago",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.003141,
+          40.973064
+        ]
+      },
+      "properties": {
+        "feet": 8886,
+        "meters": 2708,
+        "latitude": 40.973064,
+        "longitude": -123.003141,
+        "name": "Sawtooth Mountain",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.881742,
+          34.127082
+        ]
+      },
+      "properties": {
+        "feet": 10680,
+        "meters": 3255,
+        "latitude": 34.127082,
+        "longitude": -116.881742,
+        "name": "Shields Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.417,
+          37.0167
+        ]
+      },
+      "properties": {
+        "feet": 14058,
+        "meters": 4285,
+        "latitude": 37.0167,
+        "longitude": -118.417,
+        "name": "Split Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5142,
+          37.094167
+        ]
+      },
+      "properties": {
+        "feet": 14200,
+        "meters": 4328,
+        "latitude": 37.094167,
+        "longitude": -118.5142,
+        "name": "Starlight Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.634,
+          34.2417
+        ]
+      },
+      "properties": {
+        "feet": 6924,
+        "meters": 2110,
+        "latitude": 34.2417,
+        "longitude": -117.634,
+        "name": "Sugarloaf Peak",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6762,
+          33.7553
+        ]
+      },
+      "properties": {
+        "feet": 8828,
+        "meters": 2691,
+        "latitude": 33.7553,
+        "longitude": -116.6762,
+        "name": "Tahquitz Peak",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.083,
+          36.1667
+        ]
+      },
+      "properties": {
+        "feet": 11049,
+        "meters": 3368,
+        "latitude": 36.1667,
+        "longitude": -117.083,
+        "name": "Telescope Peak",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.492,
+          37.1097
+        ]
+      },
+      "properties": {
+        "feet": 12999,
+        "meters": 3962,
+        "latitude": 37.1097,
+        "longitude": -118.492,
+        "name": "Temple Crag",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.443402,
+          37.828701
+        ]
+      },
+      "properties": {
+        "feet": 10280,
+        "meters": 3133,
+        "latitude": 37.828701,
+        "longitude": -119.443402,
+        "name": "Tenaya Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.033,
+          41.0
+        ]
+      },
+      "properties": {
+        "feet": 9002,
+        "meters": 2744,
+        "latitude": 41.0,
+        "longitude": -123.033,
+        "name": "Thompson Peak",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.79923,
+          34.350558
+        ]
+      },
+      "properties": {
+        "feet": 9138,
+        "meters": 2785,
+        "latitude": 34.350558,
+        "longitude": -117.79923,
+        "name": "Throop Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Central and Southern California Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.517,
+          37.0981
+        ]
+      },
+      "properties": {
+        "feet": 14000,
+        "meters": 4267,
+        "latitude": 37.0981,
+        "longitude": -118.517,
+        "name": "Thunderbolt Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.246,
+          37.9494
+        ]
+      },
+      "properties": {
+        "feet": 11526,
+        "meters": 3513,
+        "latitude": 37.9494,
+        "longitude": -119.246,
+        "name": "Tioga Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.783,
+          38.5167
+        ]
+      },
+      "properties": {
+        "feet": 9970,
+        "meters": 3039,
+        "latitude": 38.5167,
+        "longitude": -119.783,
+        "name": "Tryon Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.361,
+          36.7481
+        ]
+      },
+      "properties": {
+        "feet": 13632,
+        "meters": 4155,
+        "latitude": 36.7481,
+        "longitude": -118.361,
+        "name": "University Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.620019,
+          33.164486
+        ]
+      },
+      "properties": {
+        "feet": 5000,
+        "meters": 1524,
+        "latitude": 33.164486,
+        "longitude": -116.620019,
+        "name": "Volcan Mountain",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.967,
+          38.5167
+        ]
+      },
+      "properties": {
+        "feet": 9115,
+        "meters": 2778,
+        "latitude": 38.5167,
+        "longitude": -119.967,
+        "name": "Wheeler Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Sierra Nevada"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.255,
+          37.6344
+        ]
+      },
+      "properties": {
+        "feet": 14246,
+        "meters": 4342,
+        "latitude": 37.6344,
+        "longitude": -118.255,
+        "name": "White Mountain Peak",
+        "regions": [
+          "Intermountain West",
+          "Great Basin Ranges"
+        ],
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.794,
+          41.0289
+        ]
+      },
+      "properties": {
+        "feet": 7596,
+        "meters": 2315,
+        "latitude": 41.0289,
+        "longitude": -122.794,
+        "name": "Ycatapom Peak",
+        "states": [
+          "California"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

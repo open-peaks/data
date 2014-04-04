@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.641,
+      13.272
+    ]
+  },
+  "properties": {
+    "feet": 2569,
+    "meters": 783,
+    "latitude": 13.272,
+    "longitude": -87.641,
+    "name": "Volcan El Tigre",
+    "countries": [
+      "Honduras"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

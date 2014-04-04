@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.19002,
+      50.893938
+    ]
+  },
+  "properties": {
+    "feet": 9705,
+    "meters": 2958,
+    "latitude": 50.893938,
+    "longitude": -115.19002,
+    "name": "Mount Kidd",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

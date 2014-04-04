@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.45757,
+      46.50835
+    ]
+  },
+  "properties": {
+    "feet": 10735,
+    "meters": 3272,
+    "latitude": 46.50835,
+    "longitude": 10.45757,
+    "name": "Punta del Naso (Grosse Nagler Spitze)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

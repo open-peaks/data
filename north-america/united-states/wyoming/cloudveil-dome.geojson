@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.807,
+      43.7189
+    ]
+  },
+  "properties": {
+    "feet": 12026,
+    "meters": 3666,
+    "latitude": 43.7189,
+    "longitude": -110.807,
+    "name": "Cloudveil Dome",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

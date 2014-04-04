@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.952125,
+      -41.684323
+    ]
+  },
+  "properties": {
+    "feet": 5069,
+    "meters": 1545,
+    "latitude": -41.684323,
+    "longitude": 145.952125,
+    "name": "Cradle Mountain",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

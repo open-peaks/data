@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.22,
+      51.2908
+    ]
+  },
+  "properties": {
+    "feet": 10860,
+    "meters": 3310,
+    "latitude": 51.2908,
+    "longitude": -116.22,
+    "name": "Mount Allen",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

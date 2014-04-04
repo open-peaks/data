@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.214889,
+      47.639803
+    ]
+  },
+  "properties": {
+    "feet": 5995,
+    "meters": 1827,
+    "latitude": 47.639803,
+    "longitude": -123.214889,
+    "name": "Mount Lena",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

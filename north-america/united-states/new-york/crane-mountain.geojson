@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.962407,
+      43.544847
+    ]
+  },
+  "properties": {
+    "feet": 3254,
+    "meters": 992,
+    "latitude": 43.544847,
+    "longitude": -73.962407,
+    "name": "Crane Mountain",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

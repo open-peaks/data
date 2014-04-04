@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.654371,
+      -8.878203
+    ]
+  },
+  "properties": {
+    "feet": 19511,
+    "meters": 5947,
+    "latitude": -8.878203,
+    "longitude": -77.654371,
+    "name": "Alpamayo",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

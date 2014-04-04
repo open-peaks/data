@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.414,
+      49.575
+    ]
+  },
+  "properties": {
+    "feet": 7250,
+    "meters": 2210,
+    "latitude": 49.575,
+    "longitude": -114.414,
+    "name": "Turtle Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

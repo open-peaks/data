@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.311389,
+      37.053333
+    ]
+  },
+  "properties": {
+    "feet": 11424,
+    "meters": 3482,
+    "latitude": 37.053333,
+    "longitude": -3.311389,
+    "name": "Mulhacen",
+    "regions": [
+      "Iberian Peninsula",
+      "Andalucian Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

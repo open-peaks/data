@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.04436,
+      -35.549808
+    ]
+  },
+  "properties": {
+    "feet": 4511,
+    "meters": 1375,
+    "latitude": -35.549808,
+    "longitude": 149.04436,
+    "name": "Mt Tennent",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

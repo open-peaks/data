@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.363579,
+      40.237212
+    ]
+  },
+  "properties": {
+    "feet": 5948,
+    "meters": 1813,
+    "latitude": 40.237212,
+    "longitude": -0.363579,
+    "name": "Penyagolosa",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

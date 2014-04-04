@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.064724,
+      -16.317309
+    ]
+  },
+  "properties": {
+    "feet": 16424,
+    "meters": 5006,
+    "latitude": -16.317309,
+    "longitude": -68.064724,
+    "name": "Wila Llojo",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

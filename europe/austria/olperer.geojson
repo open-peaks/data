@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.96,
+      47.09
+    ]
+  },
+  "properties": {
+    "feet": 11404,
+    "meters": 3476,
+    "latitude": 47.09,
+    "longitude": 11.96,
+    "name": "Olperer",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

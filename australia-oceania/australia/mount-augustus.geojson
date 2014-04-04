@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.835,
+      -24.3103
+    ]
+  },
+  "properties": {
+    "feet": 3627,
+    "meters": 1106,
+    "latitude": -24.3103,
+    "longitude": 116.835,
+    "name": "Mount Augustus",
+    "regions": [
+      "Western Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

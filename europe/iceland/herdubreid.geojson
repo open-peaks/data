@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.34,
+      65.18
+    ]
+  },
+  "properties": {
+    "feet": 5518,
+    "meters": 1682,
+    "latitude": 65.18,
+    "longitude": 16.34,
+    "name": "Herðubreið",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

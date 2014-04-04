@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.031196,
+      44.053736
+    ]
+  },
+  "properties": {
+    "feet": 646,
+    "meters": 197,
+    "latitude": 44.053736,
+    "longitude": -123.031196,
+    "name": "Kelly Butte",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

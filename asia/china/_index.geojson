@@ -1,0 +1,989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.4625,
+          34.798333
+        ]
+      },
+      "properties": {
+        "feet": 20610,
+        "meters": 6282,
+        "latitude": 34.798333,
+        "longitude": 99.4625,
+        "name": "Amne Machin",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5333,
+          43.75
+        ]
+      },
+      "properties": {
+        "feet": 17864,
+        "meters": 5445,
+        "latitude": 43.75,
+        "longitude": 88.5333,
+        "name": "Bogda Peak",
+        "regions": [
+          "Tien Shan",
+          "Eastern Tien Shan"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9142,
+          28.0253
+        ]
+      },
+      "properties": {
+        "feet": 24868,
+        "meters": 7580,
+        "latitude": 28.0253,
+        "longitude": 86.9142,
+        "name": "Changtse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.613979,
+          28.073798
+        ]
+      },
+      "properties": {
+        "feet": 24117,
+        "meters": 7351,
+        "latitude": 28.073798,
+        "longitude": 86.613979,
+        "name": "Cho Aui (Nangpai Gosum I)",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35,
+          29.5333
+        ]
+      },
+      "properties": {
+        "feet": 10167,
+        "meters": 3099,
+        "latitude": 29.5333,
+        "longitude": 103.35,
+        "name": "Emei Shan",
+        "regions": [
+          "West Sichuan Ranges"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3333,
+          27.9667
+        ]
+      },
+      "properties": {
+        "feet": 23405,
+        "meters": 7134,
+        "latitude": 27.9667,
+        "longitude": 86.3333,
+        "name": "Gauri Sankar",
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0333,
+          29.7
+        ]
+      },
+      "properties": {
+        "feet": 17191,
+        "meters": 5240,
+        "latitude": 29.7,
+        "longitude": 91.0333,
+        "name": "Gompe Utse",
+        "regions": [
+          "Central Tibetan Plateau"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.333,
+          29.1333
+        ]
+      },
+      "properties": {
+        "feet": 24921,
+        "meters": 7596,
+        "latitude": 29.1333,
+        "longitude": 103.333,
+        "name": "Gongga Shan",
+        "regions": [
+          "West Sichuan Ranges"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2833,
+          30.4333
+        ]
+      },
+      "properties": {
+        "feet": 25242,
+        "meters": 7694,
+        "latitude": 30.4333,
+        "longitude": 81.2833,
+        "name": "Gurla Mandata",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2833,
+          30.2833
+        ]
+      },
+      "properties": {
+        "feet": 25242,
+        "meters": 7694,
+        "latitude": 30.2833,
+        "longitude": 81.2833,
+        "name": "Gurla Mandhata",
+        "regions": [
+          "Central Tibetan Plateau"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.191,
+          27.3394
+        ]
+      },
+      "properties": {
+        "feet": 17703,
+        "meters": 5396,
+        "latitude": 27.3394,
+        "longitude": 100.191,
+        "name": "Haba Xue Shan",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.05,
+          34.29
+        ]
+      },
+      "properties": {
+        "feet": 7087,
+        "meters": 2160,
+        "latitude": 34.29,
+        "longitude": 110.05,
+        "name": "Hua Shan",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3167,
+          31.0667
+        ]
+      },
+      "properties": {
+        "feet": 22028,
+        "meters": 6714,
+        "latitude": 31.0667,
+        "longitude": 81.3167,
+        "name": "Kailas",
+        "regions": [
+          "Gangdisi Shanmai"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0,
+          28.0167
+        ]
+      },
+      "properties": {
+        "feet": 21348,
+        "meters": 6507,
+        "latitude": 28.0167,
+        "longitude": 87.0,
+        "name": "Kartse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9667,
+          28.05
+        ]
+      },
+      "properties": {
+        "feet": 23710,
+        "meters": 7227,
+        "latitude": 28.05,
+        "longitude": 86.9667,
+        "name": "Khartaphu",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.35,
+          38.6667
+        ]
+      },
+      "properties": {
+        "feet": 25326,
+        "meters": 7719,
+        "latitude": 38.6667,
+        "longitude": 75.35,
+        "name": "Kongur",
+        "regions": [
+          "Kunlun"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.683611,
+          28.381389
+        ]
+      },
+      "properties": {
+        "feet": 23638,
+        "meters": 7205,
+        "latitude": 28.381389,
+        "longitude": 85.683611,
+        "name": "Langtang Ri",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.969831,
+          28.037811
+        ]
+      },
+      "properties": {
+        "feet": 23114,
+        "meters": 7045,
+        "latitude": 28.037811,
+        "longitude": 86.969831,
+        "name": "Lhakpa Ri",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.95,
+          27.9667
+        ]
+      },
+      "properties": {
+        "feet": 27657,
+        "meters": 8430,
+        "latitude": 27.9667,
+        "longitude": 86.95,
+        "name": "Lhotse middle",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0,
+          33.4667
+        ]
+      },
+      "properties": {
+        "feet": 20545,
+        "meters": 6262,
+        "latitude": 33.4667,
+        "longitude": 86.0,
+        "name": "Mayer Kangri",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4333,
+          27.9667
+        ]
+      },
+      "properties": {
+        "feet": 23555,
+        "meters": 7181,
+        "latitude": 27.9667,
+        "longitude": 86.4333,
+        "name": "Melungtse",
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.432662,
+          27.972004
+        ]
+      },
+      "properties": {
+        "feet": 23559,
+        "meters": 7181,
+        "latitude": 27.972004,
+        "longitude": 86.432662,
+        "name": "Menlungtse",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.883,
+          29.5667
+        ]
+      },
+      "properties": {
+        "feet": 24790,
+        "meters": 7556,
+        "latitude": 29.5667,
+        "longitude": 101.883,
+        "name": "Minya Konka",
+        "regions": [
+          "West Sichuan Ranges"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1167,
+          38.2833
+        ]
+      },
+      "properties": {
+        "feet": 24758,
+        "meters": 7546,
+        "latitude": 38.2833,
+        "longitude": 75.1167,
+        "name": "Muztagh Ata",
+        "regions": [
+          "Kunlun"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1667,
+          29.6667
+        ]
+      },
+      "properties": {
+        "feet": 25531,
+        "meters": 7782,
+        "latitude": 29.6667,
+        "longitude": 95.1667,
+        "name": "Namche Barwa",
+        "regions": [
+          "Himalaya ",
+          "Assam Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1667,
+          28.9333
+        ]
+      },
+      "properties": {
+        "feet": 23641,
+        "meters": 7206,
+        "latitude": 28.9333,
+        "longitude": 90.1667,
+        "name": "Nojinkangsang",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6333,
+          28.1167
+        ]
+      },
+      "properties": {
+        "feet": 23008,
+        "meters": 7013,
+        "latitude": 28.1167,
+        "longitude": 86.6333,
+        "name": "Palung Ri",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.809721,
+          28.354998
+        ]
+      },
+      "properties": {
+        "feet": 25134,
+        "meters": 7661,
+        "latitude": 28.354998,
+        "longitude": 85.809721,
+        "name": "Phola Gangchen (aka Molamenqing) (摩拉门青)",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3667,
+          28.85
+        ]
+      },
+      "properties": {
+        "feet": 23080,
+        "meters": 7035,
+        "latitude": 28.85,
+        "longitude": 84.3667,
+        "name": "Ratna Chuli",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "China",
+          "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3,
+          31.5167
+        ]
+      },
+      "properties": {
+        "feet": 22949,
+        "meters": 6995,
+        "latitude": 31.5167,
+        "longitude": 94.3,
+        "name": "Sepu Kangri",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7833,
+          28.35
+        ]
+      },
+      "properties": {
+        "feet": 26289,
+        "meters": 8013,
+        "latitude": 28.35,
+        "longitude": 85.7833,
+        "name": "Shisha Pangma",
+        "regions": [
+          "Himalaya ",
+          "Central Nepal Himalaya"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5675,
+          35.9264
+        ]
+      },
+      "properties": {
+        "feet": 24754,
+        "meters": 7545,
+        "latitude": 35.9264,
+        "longitude": 76.5675,
+        "name": "Skyang Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.384167,
+          36.4125
+        ]
+      },
+      "properties": {
+        "feet": 22923,
+        "meters": 6987,
+        "latitude": 36.4125,
+        "longitude": 87.384167,
+        "name": "Ulugh Muztagh",
+        "regions": [
+          "Kunlun"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167,
+          22.25
+        ]
+      },
+      "properties": {
+        "feet": 1811,
+        "meters": 552,
+        "latitude": 22.25,
+        "longitude": 114.167,
+        "name": "Victoria Peak",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.417,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 10033,
+        "meters": 3058,
+        "latitude": 0.0,
+        "longitude": 113.417,
+        "name": "Wutai Shan",
+        "regions": [
+          "North Central China"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.167,
+          0.0
+        ]
+      },
+      "properties": {
+        "feet": 18359,
+        "meters": 5596,
+        "latitude": 0.0,
+        "longitude": 100.167,
+        "name": "Yulong Xue Shan",
+        "regions": [
+          "Parallel Gorges Area"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2167,
+          35.6667
+        ]
+      },
+      "properties": {
+        "feet": 20269,
+        "meters": 6178,
+        "latitude": 35.6667,
+        "longitude": 94.2167,
+        "name": "Yuzhu Feng",
+        "regions": [
+          "Kunlun"
+        ],
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3667,
+          85.7667
+        ]
+      },
+      "properties": {
+        "feet": 22874,
+        "meters": 6972,
+        "latitude": 85.7667,
+        "longitude": 34.3667,
+        "name": "Zanzber Kangri",
+        "countries": [
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

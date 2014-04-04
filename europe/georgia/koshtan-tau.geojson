@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.2167,
+      43.05
+    ]
+  },
+  "properties": {
+    "feet": 16877,
+    "meters": 5144,
+    "latitude": 43.05,
+    "longitude": 43.2167,
+    "name": "Koshtan-Tau",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia",
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

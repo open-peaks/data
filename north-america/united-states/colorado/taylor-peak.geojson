@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.68,
+      40.2744
+    ]
+  },
+  "properties": {
+    "feet": 13153,
+    "meters": 4009,
+    "latitude": 40.2744,
+    "longitude": -105.68,
+    "name": "Taylor Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

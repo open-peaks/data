@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.272025,
+      48.830713
+    ]
+  },
+  "properties": {
+    "feet": 8311,
+    "meters": 2533,
+    "latitude": 48.830713,
+    "longitude": -121.272025,
+    "name": "Luna Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

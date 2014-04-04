@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.55,
+      61.0
+    ]
+  },
+  "properties": {
+    "feet": 4300,
+    "meters": 1311,
+    "latitude": 61.0,
+    "longitude": -149.55,
+    "name": "Indianhouse Mountain",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

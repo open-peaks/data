@@ -1,0 +1,742 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4667,
+          -21.2167
+        ]
+      },
+      "properties": {
+        "feet": 20262,
+        "meters": 6176,
+        "latitude": -21.2167,
+        "longitude": -68.4667,
+        "name": "Aucanquilcha",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.910126,
+          -29.928755
+        ]
+      },
+      "properties": {
+        "feet": 20200,
+        "meters": 6160,
+        "latitude": -29.928755,
+        "longitude": -69.910126,
+        "name": "Cerro de las Tortolas",
+        "regions": [
+          "Andes"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.807413,
+          -39.830884
+        ]
+      },
+      "properties": {
+        "feet": 6201,
+        "meters": 1890,
+        "latitude": -39.830884,
+        "longitude": -71.807413,
+        "name": "Cerro Dollfus",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8667,
+          -33.5333
+        ]
+      },
+      "properties": {
+        "feet": 18110,
+        "meters": 5520,
+        "latitude": -33.5333,
+        "longitude": -69.8667,
+        "name": "Cerro Piramide",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2631,
+          -26.9186
+        ]
+      },
+      "properties": {
+        "feet": 19744,
+        "meters": 6018,
+        "latitude": -26.9186,
+        "longitude": -68.2631,
+        "name": "Cerro San Francisco",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.345327,
+          -46.594908
+        ]
+      },
+      "properties": {
+        "feet": 13313,
+        "meters": 4058,
+        "latitude": -46.594908,
+        "longitude": -73.345327,
+        "name": "Cerro San Valentin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.932604,
+          -30.143686
+        ]
+      },
+      "properties": {
+        "feet": 18163,
+        "meters": 5536,
+        "latitude": -30.143686,
+        "longitude": -69.932604,
+        "name": "Cerro Tapado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7667,
+          -22.9333
+        ]
+      },
+      "properties": {
+        "feet": 18386,
+        "meters": 5604,
+        "latitude": -22.9333,
+        "longitude": -67.7667,
+        "name": "Cerro Toco",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.70196,
+          -23.580665
+        ]
+      },
+      "properties": {
+        "feet": 18956,
+        "meters": 5778,
+        "latitude": -23.580665,
+        "longitude": -67.70196,
+        "name": "Chilques",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.483889,
+          -27.0575
+        ]
+      },
+      "properties": {
+        "feet": 21286,
+        "meters": 6488,
+        "latitude": -27.0575,
+        "longitude": -68.483889,
+        "name": "El Muerto",
+        "regions": [
+          "Andes",
+          "Puna de Atacama"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2333,
+          -33.2667
+        ]
+      },
+      "properties": {
+        "feet": 17815,
+        "meters": 5430,
+        "latitude": -33.2667,
+        "longitude": -70.2333,
+        "name": "El Plomo",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.083448,
+          -18.416397
+        ]
+      },
+      "properties": {
+        "feet": 19888,
+        "meters": 6063,
+        "latitude": -18.416397,
+        "longitude": -69.083448,
+        "name": "Guallatiri",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.375959,
+          -18.123309
+        ]
+      },
+      "properties": {
+        "feet": 16719,
+        "meters": 5096,
+        "latitude": -18.123309,
+        "longitude": -69.375959,
+        "name": "Guane Guane",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5667,
+          -23.3667
+        ]
+      },
+      "properties": {
+        "feet": 18507,
+        "meters": 5641,
+        "latitude": -23.3667,
+        "longitude": -68.5667,
+        "name": "Lascar",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4833,
+          -54.75
+        ]
+      },
+      "properties": {
+        "feet": 8163,
+        "meters": 2488,
+        "latitude": -54.75,
+        "longitude": -69.4833,
+        "name": "Monte Darwin",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8333,
+          -54.45
+        ]
+      },
+      "properties": {
+        "feet": 7546,
+        "meters": 2300,
+        "latitude": -54.45,
+        "longitude": -70.8333,
+        "name": "Monte Sarmiento",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8333,
+          -18.0
+        ]
+      },
+      "properties": {
+        "feet": 20807,
+        "meters": 6342,
+        "latitude": -18.0,
+        "longitude": -68.8333,
+        "name": "Nevado Parinacota",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile",
+          "Bolivia"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.540869,
+          -27.109524
+        ]
+      },
+      "properties": {
+        "feet": 22615,
+        "meters": 6893,
+        "latitude": -27.109524,
+        "longitude": -68.540869,
+        "name": "Ojos del Salado",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile",
+          "Argentina"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9667,
+          -50.9833
+        ]
+      },
+      "properties": {
+        "feet": 10006,
+        "meters": 3050,
+        "latitude": -50.9833,
+        "longitude": -72.9667,
+        "name": "Paine Grande",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.435539,
+          -27.186257
+        ]
+      },
+      "properties": {
+        "feet": 1063,
+        "meters": 324,
+        "latitude": -27.186257,
+        "longitude": -109.435539,
+        "name": "Ranu Kau",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Islands"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.391094,
+          -21.887784
+        ]
+      },
+      "properties": {
+        "feet": 20161,
+        "meters": 6145,
+        "latitude": -21.887784,
+        "longitude": -68.391094,
+        "name": "San Pedro",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.589462,
+          -18.181409
+        ]
+      },
+      "properties": {
+        "feet": 19226,
+        "meters": 5860,
+        "latitude": -18.181409,
+        "longitude": -69.589462,
+        "name": "Taapaca",
+        "regions": [
+          "Andes",
+          "Bolivian Andes"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8,
+          -38.2833
+        ]
+      },
+      "properties": {
+        "feet": 9206,
+        "meters": 2806,
+        "latitude": -38.2833,
+        "longitude": -71.8,
+        "name": "Tolhuaca",
+        "regions": [
+          "Andes",
+          "Central Argentina-Chile"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95,
+          -50.9
+        ]
+      },
+      "properties": {
+        "feet": 8071,
+        "meters": 2460,
+        "latitude": -50.9,
+        "longitude": -72.95,
+        "name": "Torre Central",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9667,
+          -50.9833
+        ]
+      },
+      "properties": {
+        "feet": 8204,
+        "meters": 2501,
+        "latitude": -50.9833,
+        "longitude": -72.9667,
+        "name": "Torre Sur",
+        "regions": [
+          "Andes",
+          "Patagonia"
+        ],
+        "countries": [
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.373054,
+          -27.080541
+        ]
+      },
+      "properties": {
+        "feet": 1677,
+        "meters": 511,
+        "latitude": -27.080541,
+        "longitude": -109.373054,
+        "name": "Volcan Maunga Tere Vaca",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Islands"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.283447,
+          -27.124245
+        ]
+      },
+      "properties": {
+        "feet": 820,
+        "meters": 250,
+        "latitude": -27.124245,
+        "longitude": -109.283447,
+        "name": "Volcan Ranu Raraku",
+        "regions": [
+          "Coastal South America",
+          "Chilean Coastal Range"
+        ],
+        "countries": [
+          "Chile",
+          "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.989921,
+      28.584823
+    ]
+  },
+  "properties": {
+    "feet": 26545,
+    "meters": 8091,
+    "latitude": 28.584823,
+    "longitude": 83.989921,
+    "name": "Annapurna",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

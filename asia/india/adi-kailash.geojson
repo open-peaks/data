@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.651983,
+      30.28529
+    ]
+  },
+  "properties": {
+    "feet": 20312,
+    "meters": 6191,
+    "latitude": 30.28529,
+    "longitude": 80.651983,
+    "name": "Adi Kailash",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

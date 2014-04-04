@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.2344,
+      49.3426
+    ]
+  },
+  "properties": {
+    "feet": 3028,
+    "meters": 923,
+    "latitude": 49.3426,
+    "longitude": 19.2344,
+    "name": "Beskid Krzyżowski",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.701188,
+      44.156794
+    ]
+  },
+  "properties": {
+    "feet": 3407,
+    "meters": 1038,
+    "latitude": 44.156794,
+    "longitude": -122.701188,
+    "name": "Mount Nebo",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

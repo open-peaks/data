@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.466605,
+      48.474543
+    ]
+  },
+  "properties": {
+    "feet": 8538,
+    "meters": 2602,
+    "latitude": 48.474543,
+    "longitude": -113.466605,
+    "name": "Mt. Helen",
+    "regions": [
+      "Rocky Mountains",
+      "Far Northern Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

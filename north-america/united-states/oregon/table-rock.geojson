@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.315887,
+      44.333672
+    ]
+  },
+  "properties": {
+    "feet": 7879,
+    "meters": 2402,
+    "latitude": 44.333672,
+    "longitude": -118.315887,
+    "name": "Table Rock",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

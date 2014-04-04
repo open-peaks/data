@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.4,
+      -9.41667
+    ]
+  },
+  "properties": {
+    "feet": 20216,
+    "meters": 6162,
+    "latitude": -9.41667,
+    "longitude": -77.4,
+    "name": "Ranrapalca",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

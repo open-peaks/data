@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.25,
+      46.9833
+    ]
+  },
+  "properties": {
+    "feet": 6994,
+    "meters": 2132,
+    "latitude": 46.9833,
+    "longitude": 8.25,
+    "name": "Mount Pilatus",
+    "regions": [
+      "Northern Alps",
+      "Urner Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9253,
+      27.9881
+    ]
+  },
+  "properties": {
+    "feet": 29035,
+    "meters": 8850,
+    "latitude": 27.9881,
+    "longitude": 86.9253,
+    "name": "Mount Everest",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

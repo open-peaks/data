@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.917,
+      50.7167
+    ]
+  },
+  "properties": {
+    "feet": 9626,
+    "meters": 2934,
+    "latitude": 50.7167,
+    "longitude": -114.917,
+    "name": "Banded Peak",
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

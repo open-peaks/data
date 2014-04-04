@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.425,
+      37.9228
+    ]
+  },
+  "properties": {
+    "feet": 14001,
+    "meters": 4268,
+    "latitude": 37.9228,
+    "longitude": -107.425,
+    "name": "Sunshine Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

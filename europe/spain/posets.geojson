@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.434303,
+      42.654856
+    ]
+  },
+  "properties": {
+    "feet": 11073,
+    "meters": 3375,
+    "latitude": 42.654856,
+    "longitude": 0.434303,
+    "name": "Posets",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

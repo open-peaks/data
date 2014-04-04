@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.311117,
+      61.093114
+    ]
+  },
+  "properties": {
+    "feet": 16644,
+    "meters": 5073,
+    "latitude": 61.093114,
+    "longitude": -140.311117,
+    "name": "Mount Steele",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

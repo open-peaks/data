@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.898831,
+      30.81038
+    ]
+  },
+  "properties": {
+    "feet": 19091,
+    "meters": 5819,
+    "latitude": 30.81038,
+    "longitude": 78.898831,
+    "name": "Rudragaira",
+    "regions": [
+      "Indian Subcontinent"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

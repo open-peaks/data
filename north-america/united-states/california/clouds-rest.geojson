@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.489266,
+      37.767853
+    ]
+  },
+  "properties": {
+    "feet": 9926,
+    "meters": 3025,
+    "latitude": 37.767853,
+    "longitude": -119.489266,
+    "name": "Clouds Rest",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

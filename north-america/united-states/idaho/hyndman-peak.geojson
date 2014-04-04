@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.13,
+      43.7492
+    ]
+  },
+  "properties": {
+    "feet": 12009,
+    "meters": 3660,
+    "latitude": 43.7492,
+    "longitude": -114.13,
+    "name": "Hyndman Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

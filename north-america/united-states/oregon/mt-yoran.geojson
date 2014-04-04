@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.134624,
+      43.563072
+    ]
+  },
+  "properties": {
+    "feet": 7100,
+    "meters": 2164,
+    "latitude": 43.563072,
+    "longitude": -122.134624,
+    "name": "Mt. Yoran",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

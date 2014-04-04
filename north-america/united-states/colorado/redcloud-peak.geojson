@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.421,
+      37.9408
+    ]
+  },
+  "properties": {
+    "feet": 14034,
+    "meters": 4278,
+    "latitude": 37.9408,
+    "longitude": -107.421,
+    "name": "Redcloud Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

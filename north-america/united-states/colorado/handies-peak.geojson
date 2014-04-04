@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.504,
+      37.9131
+    ]
+  },
+  "properties": {
+    "feet": 14048,
+    "meters": 4282,
+    "latitude": 37.9131,
+    "longitude": -107.504,
+    "name": "Handies Peak",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.224037,
+      10.814867
+    ]
+  },
+  "properties": {
+    "feet": 3757,
+    "meters": 1145,
+    "latitude": 10.814867,
+    "longitude": 123.224037,
+    "name": "Dalayapan Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

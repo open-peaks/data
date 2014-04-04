@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.683214,
+      27.962089
+    ]
+  },
+  "properties": {
+    "feet": 17519,
+    "meters": 5357,
+    "latitude": 27.962089,
+    "longitude": 86.683214,
+    "name": "Gokyo Ri",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

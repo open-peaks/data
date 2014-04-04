@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.085,
+      60.1352
+    ]
+  },
+  "properties": {
+    "feet": 5257,
+    "meters": 1602,
+    "latitude": 60.1352,
+    "longitude": -149.085,
+    "name": "Paradise Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

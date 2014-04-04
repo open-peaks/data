@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.533,
+      43.8667
+    ]
+  },
+  "properties": {
+    "feet": 7242,
+    "meters": 2207,
+    "latitude": 43.8667,
+    "longitude": -103.533,
+    "name": "Harney Peak",
+    "regions": [
+      "North American Plains",
+      "Black Hills"
+    ],
+    "states": [
+      "South Dakota"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

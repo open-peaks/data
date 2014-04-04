@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.1225,
+      36.1044
+    ]
+  },
+  "properties": {
+    "feet": 6285,
+    "meters": 1916,
+    "latitude": 36.1044,
+    "longitude": -82.1225,
+    "name": "Roan High Knob",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina",
+      "Tennessee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

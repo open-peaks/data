@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.56069,
+      46.37287
+    ]
+  },
+  "properties": {
+    "feet": 11539,
+    "meters": 3517,
+    "latitude": 46.37287,
+    "longitude": 10.56069,
+    "name": "Monte Mantello",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

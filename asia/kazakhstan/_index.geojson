@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5908,
+          49.8067
+        ]
+      },
+      "properties": {
+        "feet": 14784,
+        "meters": 4506,
+        "latitude": 49.8067,
+        "longitude": 86.5908,
+        "name": "Gora Belukha",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Kazakhstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.175,
+          42.2108
+        ]
+      },
+      "properties": {
+        "feet": 22998,
+        "meters": 7010,
+        "latitude": 42.2108,
+        "longitude": 80.175,
+        "name": "Khan Tengri",
+        "regions": [
+          "Tien Shan",
+          "Central Tien Shan"
+        ],
+        "countries": [
+          "Kazakhstan",
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.267658,
+          42.281881
+        ]
+      },
+      "properties": {
+        "feet": 20997,
+        "meters": 6400,
+        "latitude": 42.281881,
+        "longitude": 80.267658,
+        "name": "Mramornaja Stena",
+        "regions": [
+          "Tien Shan"
+        ],
+        "countries": [
+          "Kazakhstan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

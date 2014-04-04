@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.1083,
+      42.8611
+    ]
+  },
+  "properties": {
+    "feet": 3165,
+    "meters": 965,
+    "latitude": 42.8611,
+    "longitude": -72.1083,
+    "name": "Mount Monadnock",
+    "regions": [
+      "Appalachian Mountains",
+      "New England Upland"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

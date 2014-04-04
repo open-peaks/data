@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.601588,
+      46.443331
+    ]
+  },
+  "properties": {
+    "feet": 11657,
+    "meters": 3553,
+    "latitude": 46.443331,
+    "longitude": 10.601588,
+    "name": "Pasquale",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

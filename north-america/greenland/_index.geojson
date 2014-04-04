@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.937744,
+          68.873666
+        ]
+      },
+      "properties": {
+        "feet": 12037,
+        "meters": 3669,
+        "latitude": 68.873666,
+        "longitude": -29.937744,
+        "name": "Cone",
+        "countries": [
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.925385,
+          68.839983
+        ]
+      },
+      "properties": {
+        "feet": 12080,
+        "meters": 3682,
+        "latitude": 68.839983,
+        "longitude": -29.925385,
+        "name": "Dome",
+        "countries": [
+          "Greenland",
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.159424,
+          70.877091
+        ]
+      },
+      "properties": {
+        "feet": 3609,
+        "meters": 1100,
+        "latitude": 70.877091,
+        "longitude": -22.159424,
+        "name": "Gemini",
+        "regions": [
+          "North American Arctic Islands",
+          "Greenland"
+        ],
+        "countries": [
+          "Greenland",
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.7956,
+          68.9155
+        ]
+      },
+      "properties": {
+        "feet": 12116,
+        "meters": 3693,
+        "latitude": 68.9155,
+        "longitude": -29.7956,
+        "name": "Gunnbjorns Fjeld",
+        "regions": [
+          "North American Arctic Islands",
+          "Greenland"
+        ],
+        "countries": [
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.5517,
+          71.5903
+        ]
+      },
+      "properties": {
+        "feet": 7644,
+        "meters": 2330,
+        "latitude": 71.5903,
+        "longitude": -24.5517,
+        "name": "Jobjerg",
+        "countries": [
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.342529,
+          65.992329
+        ]
+      },
+      "properties": {
+        "feet": 4757,
+        "meters": 1450,
+        "latitude": 65.992329,
+        "longitude": -37.342529,
+        "name": "Nanu Sax",
+        "regions": [
+          "North American Arctic Islands",
+          "Greenland"
+        ],
+        "countries": [
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5,
+          64.3
+        ]
+      },
+      "properties": {
+        "feet": 3970,
+        "meters": 1210,
+        "latitude": 64.3,
+        "longitude": -51.5,
+        "name": "Sermitsiaq",
+        "regions": [
+          "North American Arctic Islands",
+          "Greenland"
+        ],
+        "countries": [
+          "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

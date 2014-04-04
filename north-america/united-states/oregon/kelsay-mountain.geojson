@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.184479,
+      43.348735
+    ]
+  },
+  "properties": {
+    "feet": 5974,
+    "meters": 1821,
+    "latitude": 43.348735,
+    "longitude": -122.184479,
+    "name": "Kelsay Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

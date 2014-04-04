@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.813,
+      43.6708
+    ]
+  },
+  "properties": {
+    "feet": 10550,
+    "meters": 3216,
+    "latitude": 43.6708,
+    "longitude": -110.813,
+    "name": "Albright Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Teton Range - Yellowstone Area"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

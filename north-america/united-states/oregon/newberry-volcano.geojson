@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.25885,
+      43.68997
+    ]
+  },
+  "properties": {
+    "feet": 7986,
+    "meters": 2434,
+    "latitude": 43.68997,
+    "longitude": -121.25885,
+    "name": "Newberry Volcano",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

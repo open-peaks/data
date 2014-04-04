@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.7833,
+      39.6667
+    ]
+  },
+  "properties": {
+    "feet": 11614,
+    "meters": 3540,
+    "latitude": 39.6667,
+    "longitude": 36.7833,
+    "name": "Mount Güngörmez",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

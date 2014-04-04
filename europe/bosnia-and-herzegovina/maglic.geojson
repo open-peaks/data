@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.733056,
+      43.281111
+    ]
+  },
+  "properties": {
+    "feet": 7831,
+    "meters": 2387,
+    "latitude": 43.281111,
+    "longitude": 18.733056,
+    "name": "Maglic",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

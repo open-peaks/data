@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.508333,
+      21.125
+    ]
+  },
+  "properties": {
+    "feet": 7480,
+    "meters": 2280,
+    "latitude": 21.125,
+    "longitude": -104.508333,
+    "name": "Ceboruco",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

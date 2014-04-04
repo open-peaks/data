@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.12843,
+      48.751945
+    ]
+  },
+  "properties": {
+    "feet": 6112,
+    "meters": 1824,
+    "latitude": 48.751945,
+    "longitude": -121.12843,
+    "name": "Sourdough Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.6667,
+      45.2833
+    ]
+  },
+  "properties": {
+    "feet": 7710,
+    "meters": 2350,
+    "latitude": 45.2833,
+    "longitude": 22.6667,
+    "name": "Mount Retezat",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

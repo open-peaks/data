@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.3861,
+      15.459
+    ]
+  },
+  "properties": {
+    "feet": 4747,
+    "meters": 1447,
+    "latitude": 15.459,
+    "longitude": -61.3861,
+    "name": "Mount Diablotin",
+    "regions": [
+      "The Caribbean"
+    ],
+    "countries": [
+      "Dominica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

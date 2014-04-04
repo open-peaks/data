@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.517,
+      36.4057
+    ]
+  },
+  "properties": {
+    "feet": 8425,
+    "meters": 2568,
+    "latitude": 36.4057,
+    "longitude": 138.517,
+    "name": "Asama Yama",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

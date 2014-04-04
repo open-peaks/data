@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.163171,
+      -26.834104
+    ]
+  },
+  "properties": {
+    "feet": 17142,
+    "meters": 5225,
+    "latitude": -26.834104,
+    "longitude": -68.163171,
+    "name": "Volcan Bertrand",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

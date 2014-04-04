@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3188,
+          49.70688
+        ]
+      },
+      "properties": {
+        "feet": 13009,
+        "meters": 3965,
+        "latitude": 49.70688,
+        "longitude": 91.3188,
+        "name": "Deglii Tsagaan",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Mongolia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.825,
+          49.149167
+        ]
+      },
+      "properties": {
+        "feet": 14350,
+        "meters": 4374,
+        "latitude": 49.149167,
+        "longitude": 87.825,
+        "name": "Khuiten Uul",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Mongolia",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35,
+          49.6167
+        ]
+      },
+      "properties": {
+        "feet": 14350,
+        "meters": 4374,
+        "latitude": 49.6167,
+        "longitude": 106.35,
+        "name": "Mt Khuiten",
+        "regions": [
+          "Tien Shan"
+        ],
+        "countries": [
+          "Mongolia",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8235,
+          49.178
+        ]
+      },
+      "properties": {
+        "feet": 13507,
+        "meters": 4117,
+        "latitude": 49.178,
+        "longitude": 87.8235,
+        "name": "Nairamdal",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Mongolia",
+          "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.594063,
+          46.61768
+        ]
+      },
+      "properties": {
+        "feet": 13418,
+        "meters": 4090,
+        "latitude": 46.61768,
+        "longitude": 93.594063,
+        "name": "Sutay Uul",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Mongolia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15755,
+          48.64879
+        ]
+      },
+      "properties": {
+        "feet": 12920,
+        "meters": 3938,
+        "latitude": 48.64879,
+        "longitude": 89.15755,
+        "name": "Tsengel Khairkhan Uul",
+        "regions": [
+          "Mongolia Ranges",
+          "Altai"
+        ],
+        "countries": [
+          "Mongolia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.920061,
+          47.700173
+        ]
+      },
+      "properties": {
+        "feet": 7408,
+        "meters": 2258,
+        "latitude": 47.700173,
+        "longitude": 106.920061,
+        "name": "Tsetsee Gun Uul",
+        "regions": [
+          "Mongolia Ranges"
+        ],
+        "countries": [
+          "Mongolia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

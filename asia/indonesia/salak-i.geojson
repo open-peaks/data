@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.734,
+      -6.71542
+    ]
+  },
+  "properties": {
+    "feet": 7254,
+    "meters": 2211,
+    "latitude": -6.71542,
+    "longitude": 106.734,
+    "name": "SALAK I",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

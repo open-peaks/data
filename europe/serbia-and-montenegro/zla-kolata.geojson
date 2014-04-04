@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.897222,
+      42.485
+    ]
+  },
+  "properties": {
+    "feet": 8314,
+    "meters": 2534,
+    "latitude": 42.485,
+    "longitude": 19.897222,
+    "name": "Zla Kolata",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro",
+      "Albania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

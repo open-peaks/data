@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.316027,
+      42.444551
+    ]
+  },
+  "properties": {
+    "feet": 9495,
+    "meters": 2894,
+    "latitude": 42.444551,
+    "longitude": -122.316027,
+    "name": "Mount McLoughlin",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

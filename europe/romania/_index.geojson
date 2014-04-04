@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6889,
+          46.4408
+        ]
+      },
+      "properties": {
+        "feet": 6066,
+        "meters": 1849,
+        "latitude": 46.4408,
+        "longitude": 22.6889,
+        "name": "Bihor",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.493603,
+          45.416407
+        ]
+      },
+      "properties": {
+        "feet": 7822,
+        "meters": 2384,
+        "latitude": 45.416407,
+        "longitude": 25.493603,
+        "name": "Caraiman",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania",
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4854,
+          45.427
+        ]
+      },
+      "properties": {
+        "feet": 8196,
+        "meters": 2498,
+        "latitude": 45.427,
+        "longitude": 25.4854,
+        "name": "Costila",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Transylvanian Alps"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4889,
+          47.4368
+        ]
+      },
+      "properties": {
+        "feet": 6093,
+        "meters": 1857,
+        "latitude": 47.4368,
+        "longitude": 25.4889,
+        "name": "Giumalau",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.809172,
+          46.207756
+        ]
+      },
+      "properties": {
+        "feet": 2625,
+        "meters": 800,
+        "latitude": 46.207756,
+        "longitude": 21.809172,
+        "name": "Highis",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6667,
+          45.2833
+        ]
+      },
+      "properties": {
+        "feet": 7710,
+        "meters": 2350,
+        "latitude": 45.2833,
+        "longitude": 22.6667,
+        "name": "Mount Retezat",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.691357,
+          45.436767
+        ]
+      },
+      "properties": {
+        "feet": 6309,
+        "meters": 1923,
+        "latitude": 45.436767,
+        "longitude": 25.691357,
+        "name": "Neamtu",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7939,
+          46.7592
+        ]
+      },
+      "properties": {
+        "feet": 6024,
+        "meters": 1836,
+        "latitude": 46.7592,
+        "longitude": 22.7939,
+        "name": "Vladeasa",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

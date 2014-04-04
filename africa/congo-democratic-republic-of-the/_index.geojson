@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9,
+          0.433333
+        ]
+      },
+      "properties": {
+        "feet": 15740,
+        "meters": 4798,
+        "latitude": 0.433333,
+        "longitude": 29.9,
+        "name": "Mount Emin",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9167,
+          0.433333
+        ]
+      },
+      "properties": {
+        "feet": 15470,
+        "meters": 4715,
+        "latitude": 0.433333,
+        "longitude": 29.9167,
+        "name": "Mount Gessi",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8833,
+          0.4
+        ]
+      },
+      "properties": {
+        "feet": 16042,
+        "meters": 4890,
+        "latitude": 0.4,
+        "longitude": 29.8833,
+        "name": "Mount Speke",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8667,
+          0.383333
+        ]
+      },
+      "properties": {
+        "feet": 16763,
+        "meters": 5109,
+        "latitude": 0.383333,
+        "longitude": 29.8667,
+        "name": "Mount Stanley",
+        "regions": [
+          "East Africa Mountains",
+          "Ruwenzori"
+        ],
+        "countries": [
+          "Congo, Democratic Republic of the"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.9534,
+      46.2759
+    ]
+  },
+  "properties": {
+    "feet": 9419,
+    "meters": 2871,
+    "latitude": 46.2759,
+    "longitude": 11.9534,
+    "name": "Monte Agner",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

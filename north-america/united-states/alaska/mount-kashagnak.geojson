@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.693329,
+      59.377499
+    ]
+  },
+  "properties": {
+    "feet": 5670,
+    "meters": 1728,
+    "latitude": 59.377499,
+    "longitude": -135.693329,
+    "name": "Mount Kashagnak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

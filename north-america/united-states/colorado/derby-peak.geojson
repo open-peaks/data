@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.117,
+      39.9667
+    ]
+  },
+  "properties": {
+    "feet": 12186,
+    "meters": 3714,
+    "latitude": 39.9667,
+    "longitude": -107.117,
+    "name": "Derby Peak",
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

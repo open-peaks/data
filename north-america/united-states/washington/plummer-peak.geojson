@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.739631,
+      46.753711
+    ]
+  },
+  "properties": {
+    "feet": 6370,
+    "meters": 1942,
+    "latitude": 46.753711,
+    "longitude": -121.739631,
+    "name": "Plummer Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

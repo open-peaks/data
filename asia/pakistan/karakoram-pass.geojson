@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.823056,
+      35.513333
+    ]
+  },
+  "properties": {
+    "feet": 18176,
+    "meters": 5540,
+    "latitude": 35.513333,
+    "longitude": 77.823056,
+    "name": "Karakoram Pass",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan",
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

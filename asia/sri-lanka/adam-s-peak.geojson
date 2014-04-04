@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.4997,
+      6.81139
+    ]
+  },
+  "properties": {
+    "feet": 7359,
+    "meters": 2243,
+    "latitude": 6.81139,
+    "longitude": 80.4997,
+    "name": "Adam's Peak",
+    "regions": [
+      "Indian Subcontinent",
+      "Sri Lanka"
+    ],
+    "countries": [
+      "Sri Lanka"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

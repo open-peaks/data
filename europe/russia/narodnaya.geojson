@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.0,
+      65.0
+    ]
+  },
+  "properties": {
+    "feet": 6217,
+    "meters": 1895,
+    "latitude": 65.0,
+    "longitude": 60.0,
+    "name": "Narodnaya",
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

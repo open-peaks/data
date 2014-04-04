@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.350619,
+      44.241144
+    ]
+  },
+  "properties": {
+    "feet": 4780,
+    "meters": 1457,
+    "latitude": 44.241144,
+    "longitude": -71.350619,
+    "name": "Mount Eisenhower",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

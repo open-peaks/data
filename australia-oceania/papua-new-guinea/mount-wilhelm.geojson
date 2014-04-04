@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.029316,
+      -5.779966
+    ]
+  },
+  "properties": {
+    "feet": 14793,
+    "meters": 4509,
+    "latitude": -5.779966,
+    "longitude": 145.029316,
+    "name": "Mount Wilhelm",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

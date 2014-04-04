@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.980043,
+      27.871636
+    ]
+  },
+  "properties": {
+    "feet": 23687,
+    "meters": 7220,
+    "latitude": 27.871636,
+    "longitude": 86.980043,
+    "name": "Baruntse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

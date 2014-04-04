@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.45905,
+      13.56451
+    ]
+  },
+  "properties": {
+    "feet": 3071,
+    "meters": 936,
+    "latitude": 13.56451,
+    "longitude": -86.45905,
+    "name": "Cerro Montañita de Santa Maria",
+    "countries": [
+      "Nicaragua"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

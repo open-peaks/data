@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.937946,
+      47.457925
+    ]
+  },
+  "properties": {
+    "feet": 8782,
+    "meters": 2653,
+    "latitude": 47.457925,
+    "longitude": 12.937946,
+    "name": "Schönfeldspitze",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

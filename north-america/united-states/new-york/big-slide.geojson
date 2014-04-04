@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.870611,
+      44.182635
+    ]
+  },
+  "properties": {
+    "feet": 4239,
+    "meters": 1292,
+    "latitude": 44.182635,
+    "longitude": -73.870611,
+    "name": "Big slide",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

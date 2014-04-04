@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.5757,
+      36.2239
+    ]
+  },
+  "properties": {
+    "feet": 15912,
+    "meters": 4850,
+    "latitude": 36.2239,
+    "longitude": 50.5757,
+    "name": "Alam Kuh",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

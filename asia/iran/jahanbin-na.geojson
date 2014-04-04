@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.85,
+      31.5333
+    ]
+  },
+  "properties": {
+    "feet": 10335,
+    "meters": 3150,
+    "latitude": 31.5333,
+    "longitude": 50.85,
+    "name": "Jahanbin-na",
+    "regions": [
+      "Iranian Plateau"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

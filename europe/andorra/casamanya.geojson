@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.564522,
+      42.584939
+    ]
+  },
+  "properties": {
+    "feet": 9006,
+    "meters": 2745,
+    "latitude": 42.584939,
+    "longitude": 1.564522,
+    "name": "Casamanya",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Andorra"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

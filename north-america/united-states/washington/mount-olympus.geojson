@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.710861,
+      47.801251
+    ]
+  },
+  "properties": {
+    "feet": 7965,
+    "meters": 2427,
+    "latitude": 47.801251,
+    "longitude": -123.710861,
+    "name": "Mount Olympus",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

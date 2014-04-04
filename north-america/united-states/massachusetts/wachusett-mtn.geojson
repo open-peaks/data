@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.887,
+      42.489
+    ]
+  },
+  "properties": {
+    "feet": 2006,
+    "meters": 611,
+    "latitude": 42.489,
+    "longitude": -71.887,
+    "name": "Wachusett Mtn.",
+    "states": [
+      "Massachusetts"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

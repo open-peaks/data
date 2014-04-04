@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.008,
+      51.1569
+    ]
+  },
+  "properties": {
+    "feet": 10863,
+    "meters": 3311,
+    "latitude": 51.1569,
+    "longitude": -116.008,
+    "name": "Mount Ball",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

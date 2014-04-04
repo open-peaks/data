@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.981367,
+      67.981279
+    ]
+  },
+  "properties": {
+    "feet": 1988,
+    "meters": 606,
+    "latitude": 67.981279,
+    "longitude": 12.981367,
+    "name": "Helvetestinden",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

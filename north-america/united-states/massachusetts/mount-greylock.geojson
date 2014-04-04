@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.1662,
+      42.6376
+    ]
+  },
+  "properties": {
+    "feet": 3491,
+    "meters": 1064,
+    "latitude": 42.6376,
+    "longitude": -73.1662,
+    "name": "Mount Greylock",
+    "states": [
+      "Massachusetts"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

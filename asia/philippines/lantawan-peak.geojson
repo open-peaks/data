@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.235533,
+      10.83254
+    ]
+  },
+  "properties": {
+    "feet": 3442,
+    "meters": 1049,
+    "latitude": 10.83254,
+    "longitude": 123.235533,
+    "name": "Lantawan Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

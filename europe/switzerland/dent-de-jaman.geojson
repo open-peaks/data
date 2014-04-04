@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.975,
+      46.444963
+    ]
+  },
+  "properties": {
+    "feet": 6152,
+    "meters": 1875,
+    "latitude": 46.444963,
+    "longitude": 6.975,
+    "name": "Dent de Jaman",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

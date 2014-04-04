@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0011,
+      8.54583
+    ]
+  },
+  "properties": {
+    "feet": 16043,
+    "meters": 4890,
+    "latitude": 8.54583,
+    "longitude": -71.0011,
+    "name": "Bonpland",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

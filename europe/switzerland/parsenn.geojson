@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.49,
+      46.48
+    ]
+  },
+  "properties": {
+    "feet": 9331,
+    "meters": 2844,
+    "latitude": 46.48,
+    "longitude": 9.49,
+    "name": "Parsenn",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

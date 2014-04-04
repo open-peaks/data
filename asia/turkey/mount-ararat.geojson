@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.3,
+      39.7
+    ]
+  },
+  "properties": {
+    "feet": 16945,
+    "meters": 5165,
+    "latitude": 39.7,
+    "longitude": 44.3,
+    "name": "Mount Ararat",
+    "regions": [
+      "Anatolia",
+      "Southeast Anatolia"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

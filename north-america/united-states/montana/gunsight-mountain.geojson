@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.76832,
+      48.614754
+    ]
+  },
+  "properties": {
+    "feet": 9258,
+    "meters": 2822,
+    "latitude": 48.614754,
+    "longitude": -113.76832,
+    "name": "Gunsight Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

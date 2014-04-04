@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.880556,
+      46.763611
+    ]
+  },
+  "properties": {
+    "feet": 11831,
+    "meters": 3606,
+    "latitude": 46.763611,
+    "longitude": 10.880556,
+    "name": "Similaun",
+    "regions": [
+      "Eastern Alps",
+      "Otztal Alps"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

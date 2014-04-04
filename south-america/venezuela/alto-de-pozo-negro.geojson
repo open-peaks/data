@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.105136,
+      10.458272
+    ]
+  },
+  "properties": {
+    "feet": 7238,
+    "meters": 2206,
+    "latitude": 10.458272,
+    "longitude": -67.105136,
+    "name": "Alto de Pozo Negro",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

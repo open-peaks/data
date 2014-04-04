@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.354294,
+      43.274706
+    ]
+  },
+  "properties": {
+    "feet": 7393,
+    "meters": 2253,
+    "latitude": 43.274706,
+    "longitude": -121.354294,
+    "name": "Bald Mountain",
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

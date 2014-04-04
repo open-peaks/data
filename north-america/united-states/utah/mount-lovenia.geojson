@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.607,
+      40.7569
+    ]
+  },
+  "properties": {
+    "feet": 12219,
+    "meters": 3724,
+    "latitude": 40.7569,
+    "longitude": -110.607,
+    "name": "Mount Lovenia",
+    "regions": [
+      "Rocky Mountains",
+      "Uinta Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

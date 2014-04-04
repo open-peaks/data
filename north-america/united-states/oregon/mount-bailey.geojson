@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.219982,
+      43.155105
+    ]
+  },
+  "properties": {
+    "feet": 8368,
+    "meters": 2551,
+    "latitude": 43.155105,
+    "longitude": -122.219982,
+    "name": "Mount Bailey",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      169.2323,
+      -19.3434
+    ]
+  },
+  "properties": {
+    "feet": 3000,
+    "meters": 914,
+    "latitude": -19.3434,
+    "longitude": 169.2323,
+    "name": "Tukwasmera (Ughen, Tukosmeru)",
+    "regions": [
+      "Melanesia",
+      "Vanatu"
+    ],
+    "countries": [
+      "Vanuatu"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

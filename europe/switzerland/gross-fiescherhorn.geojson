@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.061304,
+      46.551187
+    ]
+  },
+  "properties": {
+    "feet": 13284,
+    "meters": 4049,
+    "latitude": 46.551187,
+    "longitude": 8.061304,
+    "name": "Gross Fiescherhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.118725,
+      61.571664
+    ]
+  },
+  "properties": {
+    "feet": 7244,
+    "meters": 2208,
+    "latitude": 61.571664,
+    "longitude": 8.118725,
+    "name": "Store Smørstabbtind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

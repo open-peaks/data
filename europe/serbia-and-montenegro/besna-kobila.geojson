@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.14,
+      42.33
+    ]
+  },
+  "properties": {
+    "feet": 6309,
+    "meters": 1923,
+    "latitude": 42.33,
+    "longitude": 22.14,
+    "name": "Besna Kobila",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

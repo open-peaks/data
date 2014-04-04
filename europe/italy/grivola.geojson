@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.257581,
+      45.595798
+    ]
+  },
+  "properties": {
+    "feet": 13022,
+    "meters": 3969,
+    "latitude": 45.595798,
+    "longitude": 7.257581,
+    "name": "Grivola",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

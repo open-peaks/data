@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.79555,
+      48.112143
+    ]
+  },
+  "properties": {
+    "feet": 8112,
+    "meters": 2473,
+    "latitude": 48.112143,
+    "longitude": -120.79555,
+    "name": "Ice Box",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

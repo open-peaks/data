@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.022938,
+      47.864457
+    ]
+  },
+  "properties": {
+    "feet": 4757,
+    "meters": 1450,
+    "latitude": 47.864457,
+    "longitude": 8.022938,
+    "name": "Seebuck",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.689814,
+          10.440837
+        ]
+      },
+      "properties": {
+        "feet": 3740,
+        "meters": 1148,
+        "latitude": 10.440837,
+        "longitude": -84.689814,
+        "name": "Cerro Chato",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.483,
+          9.4833
+        ]
+      },
+      "properties": {
+        "feet": 12533,
+        "meters": 3820,
+        "latitude": 9.4833,
+        "longitude": -83.483,
+        "name": "Cerro Chirripo",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.493506,
+          9.456677
+        ]
+      },
+      "properties": {
+        "feet": 12352,
+        "meters": 3765,
+        "latitude": 9.456677,
+        "longitude": -83.493506,
+        "name": "Cerro Terbi",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.793798,
+          10.317786
+        ]
+      },
+      "properties": {
+        "feet": 6043,
+        "meters": 1842,
+        "latitude": 10.317786,
+        "longitude": -84.793798,
+        "name": "Cerro Tres Amigos",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.509942,
+          9.475472
+        ]
+      },
+      "properties": {
+        "feet": 12507,
+        "meters": 3812,
+        "latitude": 9.475472,
+        "longitude": -83.509942,
+        "name": "Cerro Vantisqueros",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.101316,
+          10.131577
+        ]
+      },
+      "properties": {
+        "feet": 9534,
+        "meters": 2906,
+        "latitude": 10.131577,
+        "longitude": -84.101316,
+        "name": "Volcan Barva",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.854381,
+          9.976497
+        ]
+      },
+      "properties": {
+        "feet": 11260,
+        "meters": 3432,
+        "latitude": 9.976497,
+        "longitude": -83.854381,
+        "name": "Volcan Irazu",
+        "regions": [
+          "Central American Ranges",
+          "Costa Rica - Panama Ranges"
+        ],
+        "countries": [
+          "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

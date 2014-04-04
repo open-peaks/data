@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.492,
+      37.1097
+    ]
+  },
+  "properties": {
+    "feet": 12999,
+    "meters": 3962,
+    "latitude": 37.1097,
+    "longitude": -118.492,
+    "name": "Temple Crag",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.759274,
+      37.930137
+    ]
+  },
+  "properties": {
+    "feet": 12785,
+    "meters": 3897,
+    "latitude": 37.930137,
+    "longitude": -107.759274,
+    "name": "Ajax Peak",
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.689226,
+      40.560667
+    ]
+  },
+  "properties": {
+    "feet": 10112,
+    "meters": 3082,
+    "latitude": 40.560667,
+    "longitude": 39.689226,
+    "name": "Deveboynu",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0,
+          36.4714
+        ]
+      },
+      "properties": {
+        "feet": 9388,
+        "meters": 2861,
+        "latitude": 36.4714,
+        "longitude": -109.0,
+        "name": "Beautiful Mountain",
+        "regions": [
+          "Intermountain West",
+          "Colorado Plateau"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.067,
+          36.4333
+        ]
+      },
+      "properties": {
+        "feet": 10892,
+        "meters": 3320,
+        "latitude": 36.4333,
+        "longitude": -105.067,
+        "name": "Black Mountain",
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.364,
+          35.9536
+        ]
+      },
+      "properties": {
+        "feet": 10496,
+        "meters": 3199,
+        "latitude": 35.9536,
+        "longitude": -106.364,
+        "name": "Caballo Mountain",
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.095893,
+          35.598997
+        ]
+      },
+      "properties": {
+        "feet": 7795,
+        "meters": 2376,
+        "latitude": 35.598997,
+        "longitude": -107.095893,
+        "name": "Cabezon Peak",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.610465,
+          35.973585
+        ]
+      },
+      "properties": {
+        "feet": 12841,
+        "meters": 3914,
+        "latitude": 35.973585,
+        "longitude": -105.610465,
+        "name": "Chimayosos Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.65,
+          35.9
+        ]
+      },
+      "properties": {
+        "feet": 12500,
+        "meters": 3810,
+        "latitude": 35.9,
+        "longitude": -105.65,
+        "name": "East Pecos Baldy",
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.562228,
+          36.054813
+        ]
+      },
+      "properties": {
+        "feet": 12835,
+        "meters": 3912,
+        "latitude": 36.054813,
+        "longitude": -105.562228,
+        "name": "Jicarita Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.433,
+          36.5333
+        ]
+      },
+      "properties": {
+        "feet": 12881,
+        "meters": 3926,
+        "latitude": 36.5333,
+        "longitude": -105.433,
+        "name": "Lake Fork Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.771,
+          35.7964
+        ]
+      },
+      "properties": {
+        "feet": 12404,
+        "meters": 3781,
+        "latitude": 35.7964,
+        "longitude": -105.771,
+        "name": "Lake Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.477761,
+          36.803535
+        ]
+      },
+      "properties": {
+        "feet": 12708,
+        "meters": 3873,
+        "latitude": 36.803535,
+        "longitude": -105.477761,
+        "name": "Latir Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.446,
+          34.5908
+        ]
+      },
+      "properties": {
+        "feet": 10078,
+        "meters": 3072,
+        "latitude": 34.5908,
+        "longitude": -106.446,
+        "name": "Manzano",
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.21333,
+          36.63
+        ]
+      },
+      "properties": {
+        "feet": 12441,
+        "meters": 3792,
+        "latitude": 36.63,
+        "longitude": -105.21333,
+        "name": "Mount Baldy",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.967811,
+          36.783941
+        ]
+      },
+      "properties": {
+        "feet": 8182,
+        "meters": 2494,
+        "latitude": 36.783941,
+        "longitude": -103.967811,
+        "name": "Mount Capulin",
+        "regions": [
+          "North American Plains",
+          "Great Plains"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.162,
+          36.4782
+        ]
+      },
+      "properties": {
+        "feet": 11741,
+        "meters": 3579,
+        "latitude": 36.4782,
+        "longitude": -105.162,
+        "name": "Mount Phillips",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.608528,
+          35.238694
+        ]
+      },
+      "properties": {
+        "feet": 11301,
+        "meters": 3445,
+        "latitude": 35.238694,
+        "longitude": -107.608528,
+        "name": "Mount Taylor",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.617,
+          35.9667
+        ]
+      },
+      "properties": {
+        "feet": 13024,
+        "meters": 3970,
+        "latitude": 35.9667,
+        "longitude": -105.617,
+        "name": "North Truchas Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4,
+          36.5416
+        ]
+      },
+      "properties": {
+        "feet": 13113,
+        "meters": 3998,
+        "latitude": 36.5416,
+        "longitude": -105.4,
+        "name": "Old Mike",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.317,
+          32.7167
+        ]
+      },
+      "properties": {
+        "feet": 7089,
+        "meters": 2161,
+        "latitude": 32.7167,
+        "longitude": -105.317,
+        "name": "One Tree Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.745519,
+          35.861916
+        ]
+      },
+      "properties": {
+        "feet": 12357,
+        "meters": 3766,
+        "latitude": 35.861916,
+        "longitude": -105.745519,
+        "name": "Redonda Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.817,
+          32.7833
+        ]
+      },
+      "properties": {
+        "feet": 9255,
+        "meters": 2821,
+        "latitude": 32.7833,
+        "longitude": -105.817,
+        "name": "Sacramento Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.456,
+          35.235
+        ]
+      },
+      "properties": {
+        "feet": 10678,
+        "meters": 3255,
+        "latitude": 35.235,
+        "longitude": -106.456,
+        "name": "Sandia",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.758,
+          35.8322
+        ]
+      },
+      "properties": {
+        "feet": 12622,
+        "meters": 3847,
+        "latitude": 35.8322,
+        "longitude": -105.758,
+        "name": "Santa Fe Baldy",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.645569,
+          35.991296
+        ]
+      },
+      "properties": {
+        "feet": 12696,
+        "meters": 3870,
+        "latitude": 35.991296,
+        "longitude": -105.645569,
+        "name": "Sheepshead Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.167,
+          33.6833
+        ]
+      },
+      "properties": {
+        "feet": 12003,
+        "meters": 3659,
+        "latitude": 33.6833,
+        "longitude": -106.167,
+        "name": "Sierra Blanca",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.18,
+          32.9244
+        ]
+      },
+      "properties": {
+        "feet": 9001,
+        "meters": 2744,
+        "latitude": 32.9244,
+        "longitude": -108.18,
+        "name": "Signal Peak",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.217,
+          35.1833
+        ]
+      },
+      "properties": {
+        "feet": 8740,
+        "meters": 2664,
+        "latitude": 35.1833,
+        "longitude": -106.217,
+        "name": "South Mountain",
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0,
+          36.4333
+        ]
+      },
+      "properties": {
+        "feet": 9003,
+        "meters": 2744,
+        "latitude": 36.4333,
+        "longitude": -105.0,
+        "name": "Tooth Of Time",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.644,
+          35.9625
+        ]
+      },
+      "properties": {
+        "feet": 13103,
+        "meters": 3994,
+        "latitude": 35.9625,
+        "longitude": -105.644,
+        "name": "Truchas Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.416901,
+          36.556941
+        ]
+      },
+      "properties": {
+        "feet": 13161,
+        "meters": 4011,
+        "latitude": 36.556941,
+        "longitude": -105.416901,
+        "name": "Wheeler Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Sangre de Cristo Range"
+        ],
+        "states": [
+          "New Mexico"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

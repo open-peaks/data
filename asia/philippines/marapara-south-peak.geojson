@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.17859,
+      10.660758
+    ]
+  },
+  "properties": {
+    "feet": 4888,
+    "meters": 1490,
+    "latitude": 10.660758,
+    "longitude": 123.17859,
+    "name": "Marapara South Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

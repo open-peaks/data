@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.775397,
+      -22.337126
+    ]
+  },
+  "properties": {
+    "feet": 5249,
+    "meters": 1600,
+    "latitude": -22.337126,
+    "longitude": -44.775397,
+    "name": "Pedra do Picú",
+    "regions": [
+      "Brazilian Highlands",
+      "Southern Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

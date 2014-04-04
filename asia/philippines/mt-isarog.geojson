@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.383,
+      13.6667
+    ]
+  },
+  "properties": {
+    "feet": 6450,
+    "meters": 1966,
+    "latitude": 13.6667,
+    "longitude": 123.383,
+    "name": "Mt. Isarog",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

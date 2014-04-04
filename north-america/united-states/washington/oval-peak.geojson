@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.425262,
+      48.287134
+    ]
+  },
+  "properties": {
+    "feet": 8795,
+    "meters": 2681,
+    "latitude": 48.287134,
+    "longitude": -120.425262,
+    "name": "Oval Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

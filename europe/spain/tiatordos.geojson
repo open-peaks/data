@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.106583,
+      43.19116
+    ]
+  },
+  "properties": {
+    "feet": 6401,
+    "meters": 1951,
+    "latitude": 43.19116,
+    "longitude": -5.106583,
+    "name": "Tiatordos",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

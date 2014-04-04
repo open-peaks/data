@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.312866,
+      40.099084
+    ]
+  },
+  "properties": {
+    "feet": 6027,
+    "meters": 1837,
+    "latitude": 40.099084,
+    "longitude": -1.312866,
+    "name": "Calderón",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6667,
+          36.6667
+        ]
+      },
+      "properties": {
+        "feet": 3300,
+        "meters": 1006,
+        "latitude": 36.6667,
+        "longitude": -82.6667,
+        "name": "Buffalo Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5,
+          35.55
+        ]
+      },
+      "properties": {
+        "feet": 6643,
+        "meters": 2025,
+        "latitude": 35.55,
+        "longitude": -83.5,
+        "name": "Clingman's Dome",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Tennessee",
+          "North Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4583,
+          36.1225
+        ]
+      },
+      "properties": {
+        "feet": 3324,
+        "meters": 1013,
+        "latitude": 36.1225,
+        "longitude": -84.4583,
+        "name": "Frozen Head",
+        "states": [
+          "Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4368,
+          35.6543
+        ]
+      },
+      "properties": {
+        "feet": 6593,
+        "meters": 2010,
+        "latitude": 35.6543,
+        "longitude": -83.4368,
+        "name": "Mount LeConte",
+        "regions": [
+          "Appalachian Mountains",
+          "Blue Ridge Mountains"
+        ],
+        "states": [
+          "Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -165.771,
+      68.5731
+    ]
+  },
+  "properties": {
+    "feet": 2126,
+    "meters": 648,
+    "latitude": 68.5731,
+    "longitude": -165.771,
+    "name": "Nasak",
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,1690 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8333,
+          47.55
+        ]
+      },
+      "properties": {
+        "feet": 6831,
+        "meters": 2082,
+        "latitude": 47.55,
+        "longitude": 10.8333,
+        "name": "Ammergauer Hochplatte",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.648056,
+          50.455556
+        ]
+      },
+      "properties": {
+        "feet": 3343,
+        "meters": 1019,
+        "latitude": 50.455556,
+        "longitude": 12.648056,
+        "name": "Auersberg",
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.833424,
+          47.82301
+        ]
+      },
+      "properties": {
+        "feet": 4639,
+        "meters": 1414,
+        "latitude": 47.82301,
+        "longitude": 7.833424,
+        "name": "Belchen",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25,
+          47.2667
+        ]
+      },
+      "properties": {
+        "feet": 8527,
+        "meters": 2599,
+        "latitude": 47.2667,
+        "longitude": 10.25,
+        "name": "Biberkopf",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28801,
+          47.292096
+        ]
+      },
+      "properties": {
+        "feet": 8556,
+        "meters": 2608,
+        "latitude": 47.292096,
+        "longitude": 10.28801,
+        "name": "Bockkarkopf",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.383196,
+          47.469501
+        ]
+      },
+      "properties": {
+        "feet": 6211,
+        "meters": 1893,
+        "latitude": 47.469501,
+        "longitude": 10.383196,
+        "name": "Breitenberg",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.616226,
+          51.79938
+        ]
+      },
+      "properties": {
+        "feet": 3747,
+        "meters": 1142,
+        "latitude": 51.79938,
+        "longitude": 10.616226,
+        "name": "Brocken",
+        "regions": [
+          "Central Europe Ranges",
+          "Harz"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.556518,
+          48.16328
+        ]
+      },
+      "properties": {
+        "feet": 2516,
+        "meters": 767,
+        "latitude": 48.16328,
+        "longitude": 9.556518,
+        "name": "Bussen",
+        "regions": [
+          "Central Europe Ranges",
+          "Swabian Alb"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.971389,
+          50.441944
+        ]
+      },
+      "properties": {
+        "feet": 3373,
+        "meters": 1028,
+        "latitude": 50.441944,
+        "longitude": 12.971389,
+        "name": "Eisenberg",
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.003411,
+          47.874648
+        ]
+      },
+      "properties": {
+        "feet": 4898,
+        "meters": 1493,
+        "latitude": 47.874648,
+        "longitude": 8.003411,
+        "name": "Feldberg",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.508793,
+          47.609404
+        ]
+      },
+      "properties": {
+        "feet": 5789,
+        "meters": 1764,
+        "latitude": 47.609404,
+        "longitude": 12.508793,
+        "name": "Fellhorn",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.999573,
+          47.53876
+        ]
+      },
+      "properties": {
+        "feet": 5710,
+        "meters": 1740,
+        "latitude": 47.53876,
+        "longitude": 12.999573,
+        "name": "Feuerpalfen",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.954167,
+          50.429444
+        ]
+      },
+      "properties": {
+        "feet": 3983,
+        "meters": 1214,
+        "latitude": 50.429444,
+        "longitude": 12.954167,
+        "name": "Fichtelberg",
+        "countries": [
+          "Germany",
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.974339,
+          47.675097
+        ]
+      },
+      "properties": {
+        "feet": 5265,
+        "meters": 1605,
+        "latitude": 47.675097,
+        "longitude": 12.974339,
+        "name": "Gr. Rauhenkopf",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.958031,
+          47.588336
+        ]
+      },
+      "properties": {
+        "feet": 4277,
+        "meters": 1304,
+        "latitude": 47.588336,
+        "longitude": 12.958031,
+        "name": "Grünstein",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.319595,
+          47.556604
+        ]
+      },
+      "properties": {
+        "feet": 5702,
+        "meters": 1738,
+        "latitude": 47.556604,
+        "longitude": 10.319595,
+        "name": "Grünten",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.382938,
+          47.465526
+        ]
+      },
+      "properties": {
+        "feet": 6588,
+        "meters": 2008,
+        "latitude": 47.465526,
+        "longitude": 10.382938,
+        "name": "Heubatspitze",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6833,
+          47.65
+        ]
+      },
+      "properties": {
+        "feet": 5479,
+        "meters": 1670,
+        "latitude": 47.65,
+        "longitude": 11.6833,
+        "name": "Hirschberg",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.917519,
+          47.529836
+        ]
+      },
+      "properties": {
+        "feet": 6934,
+        "meters": 2113,
+        "latitude": 47.529836,
+        "longitude": 12.917519,
+        "name": "Hirschwiese",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701201,
+          47.778559
+        ]
+      },
+      "properties": {
+        "feet": 3822,
+        "meters": 1165,
+        "latitude": 47.778559,
+        "longitude": 7.701201,
+        "name": "Hochblauen",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.293611,
+          47.297222
+        ]
+      },
+      "properties": {
+        "feet": 8691,
+        "meters": 2649,
+        "latitude": 47.297222,
+        "longitude": 10.293611,
+        "name": "Hochfrottspitze",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.078454,
+          47.496038
+        ]
+      },
+      "properties": {
+        "feet": 6010,
+        "meters": 1832,
+        "latitude": 47.496038,
+        "longitude": 10.078454,
+        "name": "Hochgrat",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8667,
+          47.5667
+        ]
+      },
+      "properties": {
+        "feet": 8553,
+        "meters": 2607,
+        "latitude": 47.5667,
+        "longitude": 12.8667,
+        "name": "Hochkalter",
+        "regions": [
+          "Northern Alps",
+          "Kitzbuhel"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.860527,
+          47.739092
+        ]
+      },
+      "properties": {
+        "feet": 5667,
+        "meters": 1773,
+        "latitude": 47.739092,
+        "longitude": 12.860527,
+        "name": "Hochstaufen",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.874708,
+          47.692779
+        ]
+      },
+      "properties": {
+        "feet": 3225,
+        "meters": 983,
+        "latitude": 47.692779,
+        "longitude": 7.874708,
+        "name": "Hohe Möhr",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.716592,
+          48.743908
+        ]
+      },
+      "properties": {
+        "feet": 2244,
+        "meters": 684,
+        "latitude": 48.743908,
+        "longitude": 9.716592,
+        "name": "Hohenstaufen",
+        "regions": [
+          "Central Europe Ranges",
+          "Swabian Alb"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.186644,
+          47.55223
+        ]
+      },
+      "properties": {
+        "feet": 4888,
+        "meters": 1490,
+        "latitude": 47.55223,
+        "longitude": 10.186644,
+        "name": "Immenstädter Horn",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.032188,
+          47.531111
+        ]
+      },
+      "properties": {
+        "feet": 7711,
+        "meters": 2351,
+        "latitude": 47.531111,
+        "longitude": 13.032188,
+        "name": "Kahlersberg",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.831001,
+          47.544786
+        ]
+      },
+      "properties": {
+        "feet": 8148,
+        "meters": 2484,
+        "latitude": 47.544786,
+        "longitude": 12.831001,
+        "name": "Kammerlinghorn",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3667,
+          47.75
+        ]
+      },
+      "properties": {
+        "feet": 5472,
+        "meters": 1668,
+        "latitude": 47.75,
+        "longitude": 12.3667,
+        "name": "Kampenwand",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.891083,
+          47.687117
+        ]
+      },
+      "properties": {
+        "feet": 5562,
+        "meters": 1695,
+        "latitude": 47.687117,
+        "longitude": 12.891083,
+        "name": "Karkopf",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016739,
+          47.657872
+        ]
+      },
+      "properties": {
+        "feet": 4000,
+        "meters": 1189,
+        "latitude": 47.657872,
+        "longitude": 13.016739,
+        "name": "Kneifelspitze",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.321484,
+          47.306474
+        ]
+      },
+      "properties": {
+        "feet": 7963,
+        "meters": 2427,
+        "latitude": 47.306474,
+        "longitude": 10.321484,
+        "name": "Kratzer",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.506836,
+          48.939097
+        ]
+      },
+      "properties": {
+        "feet": 4505,
+        "meters": 1373,
+        "latitude": 48.939097,
+        "longitude": 13.506836,
+        "name": "Luzny",
+        "regions": [
+          "Central Europe Ranges",
+          "Bavarian Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.295833,
+          47.3
+        ]
+      },
+      "properties": {
+        "feet": 8678,
+        "meters": 2645,
+        "latitude": 47.3,
+        "longitude": 10.295833,
+        "name": "Mädelegabel",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.91667,
+          50.5
+        ]
+      },
+      "properties": {
+        "feet": 2739,
+        "meters": 835,
+        "latitude": 50.5,
+        "longitude": -9.91667,
+        "name": "Milseburg",
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1167,
+          47.4167
+        ]
+      },
+      "properties": {
+        "feet": 8638,
+        "meters": 2633,
+        "latitude": 47.4167,
+        "longitude": 11.1167,
+        "name": "Partenkirchener Dreitorspitze",
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.91667,
+          50.5
+        ]
+      },
+      "properties": {
+        "feet": 2871,
+        "meters": 875,
+        "latitude": 50.5,
+        "longitude": -9.91667,
+        "name": "Pferdskopf",
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790363,
+          48.757915
+        ]
+      },
+      "properties": {
+        "feet": 2320,
+        "meters": 707,
+        "latitude": 48.757915,
+        "longitude": 9.790363,
+        "name": "Rechberg",
+        "regions": [
+          "Central Europe Ranges",
+          "Swabian Alb"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159392,
+          47.451454
+        ]
+      },
+      "properties": {
+        "feet": 5860,
+        "meters": 1786,
+        "latitude": 47.451454,
+        "longitude": 10.159392,
+        "name": "Riedberger Horn",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.783022,
+          47.695321
+        ]
+      },
+      "properties": {
+        "feet": 5136,
+        "meters": 1565,
+        "latitude": 47.695321,
+        "longitude": 12.783022,
+        "name": "Ristfeuchthorn",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9333,
+          47.6333
+        ]
+      },
+      "properties": {
+        "feet": 5922,
+        "meters": 1805,
+        "latitude": 47.6333,
+        "longitude": 11.9333,
+        "name": "Ruchenkoepfe",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.898698,
+          47.912718
+        ]
+      },
+      "properties": {
+        "feet": 4213,
+        "meters": 1284,
+        "latitude": 47.912718,
+        "longitude": 7.898698,
+        "name": "Schauinsland",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056393,
+          47.561701
+        ]
+      },
+      "properties": {
+        "feet": 7459,
+        "meters": 2274,
+        "latitude": 47.561701,
+        "longitude": 13.056393,
+        "name": "Schneibstein",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04959,
+          47.44437
+        ]
+      },
+      "properties": {
+        "feet": 5968,
+        "meters": 1819,
+        "latitude": 47.44437,
+        "longitude": 11.04959,
+        "name": "Schwarzenkopf",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125704,
+          47.69197
+        ]
+      },
+      "properties": {
+        "feet": 3668,
+        "meters": 1118,
+        "latitude": 47.69197,
+        "longitude": 10.125704,
+        "name": "Schwarzer Grat",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.022938,
+          47.864457
+        ]
+      },
+      "properties": {
+        "feet": 4757,
+        "meters": 1450,
+        "latitude": 47.864457,
+        "longitude": 8.022938,
+        "name": "Seebuck",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.707405,
+          47.681339
+        ]
+      },
+      "properties": {
+        "feet": 6275,
+        "meters": 1913,
+        "latitude": 47.681339,
+        "longitude": 12.707405,
+        "name": "Sonntagshorn",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.454167,
+          47.555833
+        ]
+      },
+      "properties": {
+        "feet": 5361,
+        "meters": 1636,
+        "latitude": 47.555833,
+        "longitude": 10.454167,
+        "name": "Sorgschrofen",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.491491,
+          47.658018
+        ]
+      },
+      "properties": {
+        "feet": 5228,
+        "meters": 1593,
+        "latitude": 47.658018,
+        "longitude": 12.491491,
+        "name": "Streicher, Zenokopf",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.818172,
+          48.744078
+        ]
+      },
+      "properties": {
+        "feet": 2484,
+        "meters": 757,
+        "latitude": 48.744078,
+        "longitude": 9.818172,
+        "name": "Stuifen",
+        "regions": [
+          "Central Europe Ranges",
+          "Swabian Alb"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46,
+          47.34
+        ]
+      },
+      "properties": {
+        "feet": 5418,
+        "meters": 1693,
+        "latitude": 47.34,
+        "longitude": 12.46,
+        "name": "Sulzenstein",
+        "regions": [
+          "Eastern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.923098,
+          47.630867
+        ]
+      },
+      "properties": {
+        "feet": 4566,
+        "meters": 1392,
+        "latitude": 47.630867,
+        "longitude": 12.923098,
+        "name": "Toter Mann",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.295863,
+          47.303709
+        ]
+      },
+      "properties": {
+        "feet": 8514,
+        "meters": 2595,
+        "latitude": 47.303709,
+        "longitude": 10.295863,
+        "name": "Trettachspitze",
+        "regions": [
+          "Northern Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639489,
+          47.604658
+        ]
+      },
+      "properties": {
+        "feet": 1509,
+        "meters": 460,
+        "latitude": 47.604658,
+        "longitude": 7.639489,
+        "name": "Tüllinger Berg",
+        "regions": [
+          "Central Europe Ranges",
+          "Black Forest"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.974854,
+          47.690352
+        ]
+      },
+      "properties": {
+        "feet": 6314,
+        "meters": 1973,
+        "latitude": 47.690352,
+        "longitude": 12.974854,
+        "name": "Untersberg",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9167,
+          47.55
+        ]
+      },
+      "properties": {
+        "feet": 8901,
+        "meters": 2713,
+        "latitude": 47.55,
+        "longitude": 12.9167,
+        "name": "Watzmann",
+        "regions": [
+          "Northern Alps",
+          "Kitzbuhel"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.78697,
+          47.631793
+        ]
+      },
+      "properties": {
+        "feet": 6491,
+        "meters": 1978,
+        "latitude": 47.631793,
+        "longitude": 12.78697,
+        "name": "Weitschartenkopf, Großer",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0,
+          47.7
+        ]
+      },
+      "properties": {
+        "feet": 6030,
+        "meters": 1838,
+        "latitude": 47.7,
+        "longitude": 12.0,
+        "name": "Wendelstein",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.280328,
+          47.288137
+        ]
+      },
+      "properties": {
+        "feet": 8455,
+        "meters": 2577,
+        "latitude": 47.288137,
+        "longitude": 10.280328,
+        "name": "Wilder Mann",
+        "regions": [
+          "Northern Alps",
+          "Austrian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3333,
+          47.45
+        ]
+      },
+      "properties": {
+        "feet": 8123,
+        "meters": 2476,
+        "latitude": 47.45,
+        "longitude": 11.3333,
+        "name": "Woerner",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany",
+          "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9833,
+          47.4167
+        ]
+      },
+      "properties": {
+        "feet": 9718,
+        "meters": 2962,
+        "latitude": 47.4167,
+        "longitude": 10.9833,
+        "name": "Zugspitze",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.814178,
+          47.755252
+        ]
+      },
+      "properties": {
+        "feet": 5845,
+        "meters": 1782,
+        "latitude": 47.755252,
+        "longitude": 12.814178,
+        "name": "Zwiesel",
+        "regions": [
+          "Northern Alps",
+          "Bavarian Alps"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

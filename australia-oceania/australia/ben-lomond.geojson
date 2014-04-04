@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.658537,
+      -41.532511
+    ]
+  },
+  "properties": {
+    "feet": 5167,
+    "meters": 1575,
+    "latitude": -41.532511,
+    "longitude": 147.658537,
+    "name": "Ben Lomond",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

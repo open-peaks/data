@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.792,
+      38.0033
+    ]
+  },
+  "properties": {
+    "feet": 14150,
+    "meters": 4313,
+    "latitude": 38.0033,
+    "longitude": -107.792,
+    "name": "Mount Sneffels",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

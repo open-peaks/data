@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.16667,
+      71.0833
+    ]
+  },
+  "properties": {
+    "feet": 7470,
+    "meters": 2277,
+    "latitude": 71.0833,
+    "longitude": -8.16667,
+    "name": "Beerenberg",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jan Mayen "
+    ],
+    "countries": [
+      "Jan Mayen"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

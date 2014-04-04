@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2231,
+      57.2559
+    ]
+  },
+  "properties": {
+    "feet": 3776,
+    "meters": 1151,
+    "latitude": 57.2559,
+    "longitude": -5.2231,
+    "name": "Sgurr nan Ceathreamhnan",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

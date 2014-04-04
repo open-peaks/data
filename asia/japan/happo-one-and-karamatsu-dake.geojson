@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.774,
+      36.6904
+    ]
+  },
+  "properties": {
+    "feet": 8845,
+    "meters": 2696,
+    "latitude": 36.6904,
+    "longitude": 137.774,
+    "name": "Happo One and Karamatsu Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

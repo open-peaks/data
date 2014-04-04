@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.011234,
+      -32.653359
+    ]
+  },
+  "properties": {
+    "feet": 22841,
+    "meters": 6962,
+    "latitude": -32.653359,
+    "longitude": -70.011234,
+    "name": "Aconcagua",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

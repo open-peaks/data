@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.739155,
+      40.293144
+    ]
+  },
+  "properties": {
+    "feet": 7890,
+    "meters": 2405,
+    "latitude": 40.293144,
+    "longitude": -5.739155,
+    "name": "Calvitero",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

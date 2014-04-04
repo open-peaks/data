@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.5,
+      -36.25
+    ]
+  },
+  "properties": {
+    "feet": 6762,
+    "meters": 2061,
+    "latitude": -36.25,
+    "longitude": 148.5,
+    "name": "Big Bogong",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

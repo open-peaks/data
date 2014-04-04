@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.08,
+      44.6573
+    ]
+  },
+  "properties": {
+    "feet": 10525,
+    "meters": 3208,
+    "latitude": 44.6573,
+    "longitude": 7.08,
+    "name": "Pain de Sucre",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

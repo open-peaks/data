@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.33,
+      43.9614
+    ]
+  },
+  "properties": {
+    "feet": 13153,
+    "meters": 4009,
+    "latitude": 43.9614,
+    "longitude": -109.33,
+    "name": "Francs Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Absaroka Range"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.0833,
+      -32.2333
+    ]
+  },
+  "properties": {
+    "feet": 5725,
+    "meters": 1745,
+    "latitude": -32.2333,
+    "longitude": 19.0833,
+    "name": "Krakadou",
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

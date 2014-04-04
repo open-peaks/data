@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.627898,
+      44.109066
+    ]
+  },
+  "properties": {
+    "feet": 4327,
+    "meters": 1319,
+    "latitude": 44.109066,
+    "longitude": -71.627898,
+    "name": "Mount Flume",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

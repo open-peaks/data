@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.067,
+      -39.3
+    ]
+  },
+  "properties": {
+    "feet": 8261,
+    "meters": 2518,
+    "latitude": -39.3,
+    "longitude": 174.067,
+    "name": "Mount Egmont (Taranaki)",
+    "regions": [
+      "New Zealand",
+      "North Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

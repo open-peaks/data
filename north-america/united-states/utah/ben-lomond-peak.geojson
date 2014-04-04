@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.96,
+      41.3633
+    ]
+  },
+  "properties": {
+    "feet": 9972,
+    "meters": 3040,
+    "latitude": 41.3633,
+    "longitude": -111.96,
+    "name": "Ben Lomond Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

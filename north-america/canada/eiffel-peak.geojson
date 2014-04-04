@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.235352,
+      51.332113
+    ]
+  },
+  "properties": {
+    "feet": 10118,
+    "meters": 3084,
+    "latitude": 51.332113,
+    "longitude": -116.235352,
+    "name": "Eiffel Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

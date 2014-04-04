@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8333,
+      46.3833
+    ]
+  },
+  "properties": {
+    "feet": 9396,
+    "meters": 2864,
+    "latitude": 46.3833,
+    "longitude": 13.8333,
+    "name": "Triglav",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

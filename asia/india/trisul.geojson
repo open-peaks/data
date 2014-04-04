@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.7833,
+      30.3167
+    ]
+  },
+  "properties": {
+    "feet": 23360,
+    "meters": 7120,
+    "latitude": 30.3167,
+    "longitude": 79.7833,
+    "name": "Trisul",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

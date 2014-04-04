@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.267658,
+      42.281881
+    ]
+  },
+  "properties": {
+    "feet": 20997,
+    "meters": 6400,
+    "latitude": 42.281881,
+    "longitude": 80.267658,
+    "name": "Mramornaja Stena",
+    "regions": [
+      "Tien Shan"
+    ],
+    "countries": [
+      "Kazakhstan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

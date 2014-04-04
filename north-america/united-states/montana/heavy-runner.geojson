@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.695192,
+      48.676794
+    ]
+  },
+  "properties": {
+    "feet": 8016,
+    "meters": 2443,
+    "latitude": 48.676794,
+    "longitude": -113.695192,
+    "name": "Heavy Runner",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

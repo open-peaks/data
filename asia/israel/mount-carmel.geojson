@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.05,
+      32.733333
+    ]
+  },
+  "properties": {
+    "feet": 1791,
+    "meters": 546,
+    "latitude": 32.733333,
+    "longitude": 35.05,
+    "name": "Mount Carmel",
+    "regions": [
+      "Levant Ranges",
+      "Sinai-Palestine Ranges"
+    ],
+    "countries": [
+      "Israel"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

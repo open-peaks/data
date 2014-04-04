@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.625717,
+      46.470854
+    ]
+  },
+  "properties": {
+    "feet": 855,
+    "meters": 2805,
+    "latitude": 46.470854,
+    "longitude": 11.625717,
+    "name": "Torri del Vajolet",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

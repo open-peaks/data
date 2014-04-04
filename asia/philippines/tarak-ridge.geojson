@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.492,
+      14.5058
+    ]
+  },
+  "properties": {
+    "feet": 4226,
+    "meters": 1288,
+    "latitude": 14.5058,
+    "longitude": 120.492,
+    "name": "Tarak Ridge",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

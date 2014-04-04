@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.008099,
+      -13.177526
+    ]
+  },
+  "properties": {
+    "feet": 19915,
+    "meters": 6070,
+    "latitude": -13.177526,
+    "longitude": -73.008099,
+    "name": "Pumasillo",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

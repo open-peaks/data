@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.444073,
+      47.439119
+    ]
+  },
+  "properties": {
+    "feet": 5522,
+    "meters": 1683,
+    "latitude": 47.439119,
+    "longitude": -121.444073,
+    "name": "Denny Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

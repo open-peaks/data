@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.755,
+      40.5267
+    ]
+  },
+  "properties": {
+    "feet": 11253,
+    "meters": 3430,
+    "latitude": 40.5267,
+    "longitude": -111.755,
+    "name": "Lone Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

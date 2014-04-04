@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.74249,
+      31.901935
+    ]
+  },
+  "properties": {
+    "feet": 22362,
+    "meters": 6816,
+    "latitude": 31.901935,
+    "longitude": 78.74249,
+    "name": "Leo Pargial",
+    "regions": [
+      "Himalaya ",
+      "Punjab Himalaya"
+    ],
+    "countries": [
+      "India",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

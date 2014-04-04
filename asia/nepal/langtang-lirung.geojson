@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.519444,
+      28.256111
+    ]
+  },
+  "properties": {
+    "feet": 23711,
+    "meters": 7227,
+    "latitude": 28.256111,
+    "longitude": 85.519444,
+    "name": "Langtang Lirung",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

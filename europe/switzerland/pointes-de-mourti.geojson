@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.58593,
+      46.07258
+    ]
+  },
+  "properties": {
+    "feet": 11693,
+    "meters": 3564,
+    "latitude": 46.07258,
+    "longitude": 7.58593,
+    "name": "Pointes de Mourti",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.36,
+      45.42
+    ]
+  },
+  "properties": {
+    "feet": 2671,
+    "meters": 814,
+    "latitude": 45.42,
+    "longitude": -69.36,
+    "name": "Barren Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Longfellow Mountains"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

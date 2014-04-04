@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.932246,
+      49.236515
+    ]
+  },
+  "properties": {
+    "feet": 6578,
+    "meters": 2005,
+    "latitude": 49.236515,
+    "longitude": 19.932246,
+    "name": "Kondratova kopa",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia",
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

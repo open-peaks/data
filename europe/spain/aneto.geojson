@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.655403,
+      42.631433
+    ]
+  },
+  "properties": {
+    "feet": 11168,
+    "meters": 3404,
+    "latitude": 42.631433,
+    "longitude": 0.655403,
+    "name": "Aneto",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

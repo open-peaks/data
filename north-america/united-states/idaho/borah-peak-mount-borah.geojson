@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.783,
+      44.1333
+    ]
+  },
+  "properties": {
+    "feet": 12662,
+    "meters": 3859,
+    "latitude": 44.1333,
+    "longitude": -113.783,
+    "name": "Borah Peak (Mount Borah)",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.558333,
+      44.202333
+    ]
+  },
+  "properties": {
+    "feet": 4761,
+    "meters": 1451,
+    "latitude": 44.202333,
+    "longitude": -71.558333,
+    "name": "North Twin Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

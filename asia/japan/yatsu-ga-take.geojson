@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.37014,
+      35.97075
+    ]
+  },
+  "properties": {
+    "feet": 9511,
+    "meters": 2899,
+    "latitude": 35.97075,
+    "longitude": 138.37014,
+    "name": "Yatsu ga Take",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

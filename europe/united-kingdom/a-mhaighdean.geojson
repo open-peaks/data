@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.3463,
+      57.7196
+    ]
+  },
+  "properties": {
+    "feet": 3173,
+    "meters": 967,
+    "latitude": 57.7196,
+    "longitude": -5.3463,
+    "name": "A'Mhaighdean",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

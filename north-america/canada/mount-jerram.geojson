@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.049,
+      50.7003
+    ]
+  },
+  "properties": {
+    "feet": 9829,
+    "meters": 2996,
+    "latitude": 50.7003,
+    "longitude": -115.049,
+    "name": "Mount Jerram",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

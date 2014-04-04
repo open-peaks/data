@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.151,
+      49.3354
+    ]
+  },
+  "properties": {
+    "feet": 4029,
+    "meters": 1228,
+    "latitude": 49.3354,
+    "longitude": 20.151,
+    "name": "Gorc",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

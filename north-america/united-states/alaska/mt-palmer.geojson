@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.658,
+      61.3192
+    ]
+  },
+  "properties": {
+    "feet": 6970,
+    "meters": 2,
+    "latitude": 61.3192,
+    "longitude": -148.658,
+    "name": "Mt. Palmer",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

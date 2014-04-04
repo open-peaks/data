@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0833,
+      42.0833
+    ]
+  },
+  "properties": {
+    "feet": 9163,
+    "meters": 2793,
+    "latitude": 42.0833,
+    "longitude": 14.0833,
+    "name": "Monte Amaro",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.15,
+      46.95
+    ]
+  },
+  "properties": {
+    "feet": 11499,
+    "meters": 3505,
+    "latitude": 46.95,
+    "longitude": 11.15,
+    "name": "Zuckerhuetl",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

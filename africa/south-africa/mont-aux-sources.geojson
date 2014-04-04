@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.884644,
+      -28.759081
+    ]
+  },
+  "properties": {
+    "feet": 10768,
+    "meters": 3282,
+    "latitude": -28.759081,
+    "longitude": 28.884644,
+    "name": "Mont-aux-Sources",
+    "regions": [
+      "Southern Africa",
+      "Drakensberg"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

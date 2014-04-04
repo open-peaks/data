@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.016374,
+      48.927462
+    ]
+  },
+  "properties": {
+    "feet": 3871,
+    "meters": 1180,
+    "latitude": 48.927462,
+    "longitude": -66.016374,
+    "name": "Mont Richardson",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

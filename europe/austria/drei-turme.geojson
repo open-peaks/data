@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.81667,
+      47.0167
+    ]
+  },
+  "properties": {
+    "feet": 9285,
+    "meters": 2830,
+    "latitude": 47.0167,
+    "longitude": 9.81667,
+    "name": "Drei Türme",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

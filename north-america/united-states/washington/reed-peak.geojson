@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.104814,
+      48.848507
+    ]
+  },
+  "properties": {
+    "feet": 7523,
+    "meters": 2293,
+    "latitude": 48.848507,
+    "longitude": -120.104814,
+    "name": "Reed Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

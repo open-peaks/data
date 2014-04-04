@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.633,
+      39.6
+    ]
+  },
+  "properties": {
+    "feet": 13307,
+    "meters": 4056,
+    "latitude": 39.6,
+    "longitude": -105.633,
+    "name": "Warren",
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

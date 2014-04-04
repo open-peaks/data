@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.549764,
+      42.943457
+    ]
+  },
+  "properties": {
+    "feet": 6125,
+    "meters": 1867,
+    "latitude": 42.943457,
+    "longitude": -122.549764,
+    "name": "Abbott Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

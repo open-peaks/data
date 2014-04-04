@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0,
+      35.3167
+    ]
+  },
+  "properties": {
+    "feet": 7287,
+    "meters": 2221,
+    "latitude": 35.3167,
+    "longitude": 47.0,
+    "name": "Awiar",
+    "regions": [
+      "Iranian Plateau"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

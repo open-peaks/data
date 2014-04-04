@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.001079,
+      8.602607
+    ]
+  },
+  "properties": {
+    "feet": 14678,
+    "meters": 4474,
+    "latitude": 8.602607,
+    "longitude": -71.001079,
+    "name": "Cardenillo",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

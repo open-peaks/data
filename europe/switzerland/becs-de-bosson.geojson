@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.518366,
+      46.167895
+    ]
+  },
+  "properties": {
+    "feet": 10331,
+    "meters": 3149,
+    "latitude": 46.167895,
+    "longitude": 7.518366,
+    "name": "Becs de Bosson",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

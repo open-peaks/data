@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.117,
+      51.1236
+    ]
+  },
+  "properties": {
+    "feet": 7349,
+    "meters": 2240,
+    "latitude": 51.1236,
+    "longitude": -115.117,
+    "name": "Mount Yamnuska",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

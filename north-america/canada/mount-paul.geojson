@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.4308,
+      52.6155
+    ]
+  },
+  "properties": {
+    "feet": 9432,
+    "meters": 2875,
+    "latitude": 52.6155,
+    "longitude": -117.4308,
+    "name": "Mount Paul",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

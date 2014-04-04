@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.6572,
+      -15.5203
+    ]
+  },
+  "properties": {
+    "feet": 21079,
+    "meters": 6425,
+    "latitude": -15.5203,
+    "longitude": -72.6572,
+    "name": "Coropuna",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

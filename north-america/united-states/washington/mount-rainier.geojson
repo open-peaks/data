@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.759,
+      46.8528
+    ]
+  },
+  "properties": {
+    "feet": 14411,
+    "meters": 4392,
+    "latitude": 46.8528,
+    "longitude": -121.759,
+    "name": "Mount Rainier",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

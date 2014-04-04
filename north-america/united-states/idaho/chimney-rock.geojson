@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.7,
+      48.6167
+    ]
+  },
+  "properties": {
+    "feet": 7124,
+    "meters": 2171,
+    "latitude": 48.6167,
+    "longitude": -116.7,
+    "name": "Chimney Rock",
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

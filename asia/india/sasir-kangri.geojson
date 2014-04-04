@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.75,
+      34.8667
+    ]
+  },
+  "properties": {
+    "feet": 25170,
+    "meters": 7672,
+    "latitude": 34.8667,
+    "longitude": 77.75,
+    "name": "Sasir Kangri",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

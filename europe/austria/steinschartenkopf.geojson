@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.280833,
+      47.285
+    ]
+  },
+  "properties": {
+    "feet": 8579,
+    "meters": 2615,
+    "latitude": 47.285,
+    "longitude": 10.280833,
+    "name": "Steinschartenkopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

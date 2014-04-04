@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.35,
+      38.6667
+    ]
+  },
+  "properties": {
+    "feet": 25326,
+    "meters": 7719,
+    "latitude": 38.6667,
+    "longitude": 75.35,
+    "name": "Kongur",
+    "regions": [
+      "Kunlun"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

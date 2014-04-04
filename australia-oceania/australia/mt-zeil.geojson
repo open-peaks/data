@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      132.395534,
+      -23.400925
+    ]
+  },
+  "properties": {
+    "feet": 5023,
+    "meters": 1531,
+    "latitude": -23.400925,
+    "longitude": 132.395534,
+    "name": "Mt Zeil",
+    "regions": [
+      "Central Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

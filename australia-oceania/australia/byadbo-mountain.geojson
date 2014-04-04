@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.833,
+      -37.5
+    ]
+  },
+  "properties": {
+    "feet": 3609,
+    "meters": 1100,
+    "latitude": -37.5,
+    "longitude": 148.833,
+    "name": "Byadbo Mountain",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

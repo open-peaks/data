@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.7,
+      39.15
+    ]
+  },
+  "properties": {
+    "feet": 6699,
+    "meters": 2042,
+    "latitude": 39.15,
+    "longitude": 21.7,
+    "name": "Svoni",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

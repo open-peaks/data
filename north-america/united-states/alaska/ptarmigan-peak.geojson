@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.604049,
+      61.059095
+    ]
+  },
+  "properties": {
+    "feet": 4911,
+    "meters": 1497,
+    "latitude": 61.059095,
+    "longitude": -149.604049,
+    "name": "Ptarmigan Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

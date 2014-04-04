@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0333,
+          50.75
+        ]
+      },
+      "properties": {
+        "feet": 3320,
+        "meters": 1012,
+        "latitude": 50.75,
+        "longitude": 15.0333,
+        "name": "Jested",
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0,
+          49.0
+        ]
+      },
+      "properties": {
+        "feet": 682,
+        "meters": 208,
+        "latitude": 49.0,
+        "longitude": 17.0,
+        "name": "Jochy",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97315,
+          50.566938
+        ]
+      },
+      "properties": {
+        "feet": 2316,
+        "meters": 706,
+        "latitude": 50.566938,
+        "longitude": 13.97315,
+        "name": "Kletecna",
+        "regions": [
+          "Central Europe Ranges"
+        ],
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9678,
+          50.3964
+        ]
+      },
+      "properties": {
+        "feet": 4081,
+        "meters": 1244,
+        "latitude": 50.3964,
+        "longitude": 12.9678,
+        "name": "Klinovec (Keilberg)",
+        "regions": [
+          "Central Europe Ranges",
+          "Erzgebirge"
+        ],
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.913369,
+          50.513754
+        ]
+      },
+      "properties": {
+        "feet": 2257,
+        "meters": 688,
+        "latitude": 50.513754,
+        "longitude": 13.913369,
+        "name": "Lipska hora",
+        "regions": [
+          "Central Europe Ranges"
+        ],
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.931565,
+          50.555079
+        ]
+      },
+      "properties": {
+        "feet": 2746,
+        "meters": 837,
+        "latitude": 50.555079,
+        "longitude": 13.931565,
+        "name": "Milesovka",
+        "regions": [
+          "Central Europe Ranges"
+        ],
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.740061,
+          50.736292
+        ]
+      },
+      "properties": {
+        "feet": 5256,
+        "meters": 1602,
+        "latitude": 50.736292,
+        "longitude": 15.740061,
+        "name": "Snezka",
+        "countries": [
+          "Czech Republic"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.4633,
+      36.4031
+    ]
+  },
+  "properties": {
+    "feet": 4683,
+    "meters": 1427,
+    "latitude": 36.4031,
+    "longitude": -81.4633,
+    "name": "Mount Jefferson",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

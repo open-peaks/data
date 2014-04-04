@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2,
+      46.8
+    ]
+  },
+  "properties": {
+    "feet": 11214,
+    "meters": 3418,
+    "latitude": 46.8,
+    "longitude": 11.2,
+    "name": "Wilder Freiger",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

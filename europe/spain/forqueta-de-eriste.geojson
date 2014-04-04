@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.425463,
+      42.631622
+    ]
+  },
+  "properties": {
+    "feet": 9875,
+    "meters": 3010,
+    "latitude": 42.631622,
+    "longitude": 0.425463,
+    "name": "Forqueta de Eriste",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

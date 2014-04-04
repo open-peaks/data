@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.447692,
+      -32.003017
+    ]
+  },
+  "properties": {
+    "feet": 5203,
+    "meters": 1586,
+    "latitude": -32.003017,
+    "longitude": 151.447692,
+    "name": "Brumlow Top",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.84237,
+      44.284967
+    ]
+  },
+  "properties": {
+    "feet": 6872,
+    "meters": 2095,
+    "latitude": 44.284967,
+    "longitude": -121.84237,
+    "name": "Belknap Crater",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

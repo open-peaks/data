@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.22,
+      37.8997
+    ]
+  },
+  "properties": {
+    "feet": 13053,
+    "meters": 3979,
+    "latitude": 37.8997,
+    "longitude": -119.22,
+    "name": "Mount Dana",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

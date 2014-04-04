@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.206408,
+      48.351629
+    ]
+  },
+  "properties": {
+    "feet": 7320,
+    "meters": 2231,
+    "latitude": 48.351629,
+    "longitude": -121.206408,
+    "name": "Mount Buckindy",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

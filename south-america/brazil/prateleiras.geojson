@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.669938,
+      -22.399721
+    ]
+  },
+  "properties": {
+    "feet": 8301,
+    "meters": 2530,
+    "latitude": -22.399721,
+    "longitude": -44.669938,
+    "name": "Prateleiras",
+    "regions": [
+      "Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

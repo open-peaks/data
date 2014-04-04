@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.659706,
+      -0.531199
+    ]
+  },
+  "properties": {
+    "feet": 15715,
+    "meters": 4790,
+    "latitude": -0.531199,
+    "longitude": -78.659706,
+    "name": "Corazón",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

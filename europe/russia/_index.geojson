@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1333,
+          43.05
+        ]
+      },
+      "properties": {
+        "feet": 17074,
+        "meters": 5204,
+        "latitude": 43.05,
+        "longitude": 43.1333,
+        "name": "Dykh-Tau",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.539133,
+          43.26866
+        ]
+      },
+      "properties": {
+        "feet": 11585,
+        "meters": 3531,
+        "latitude": 43.26866,
+        "longitude": 42.539133,
+        "name": "Itkol Peak",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.464546,
+          43.245219
+        ]
+      },
+      "properties": {
+        "feet": 12339,
+        "meters": 3761,
+        "latitude": 43.245219,
+        "longitude": 42.464546,
+        "name": "Maliy Donguzorun",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4392,
+          43.355
+        ]
+      },
+      "properties": {
+        "feet": 18510,
+        "meters": 5642,
+        "latitude": 43.355,
+        "longitude": 42.4392,
+        "name": "Mount Elbrus",
+        "regions": [
+          "Caucasus Mountains",
+          "Central Caucasus"
+        ],
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0,
+          65.0
+        ]
+      },
+      "properties": {
+        "feet": 6217,
+        "meters": 1895,
+        "latitude": 65.0,
+        "longitude": 60.0,
+        "name": "Narodnaya",
+        "countries": [
+          "Russia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

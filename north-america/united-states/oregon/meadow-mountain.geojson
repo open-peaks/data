@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.582985,
+      45.204866
+    ]
+  },
+  "properties": {
+    "feet": 7825,
+    "meters": 2385,
+    "latitude": 45.204866,
+    "longitude": -117.582985,
+    "name": "Meadow Mountain",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

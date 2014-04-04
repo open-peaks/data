@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.306658,
+      35.642301
+    ]
+  },
+  "properties": {
+    "feet": 25660,
+    "meters": 7821,
+    "latitude": 35.642301,
+    "longitude": 76.306658,
+    "name": "Masherbrum",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

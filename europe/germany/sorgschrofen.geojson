@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.454167,
+      47.555833
+    ]
+  },
+  "properties": {
+    "feet": 5361,
+    "meters": 1636,
+    "latitude": 47.555833,
+    "longitude": 10.454167,
+    "name": "Sorgschrofen",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

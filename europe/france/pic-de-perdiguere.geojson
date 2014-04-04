@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.517302,
+      42.693224
+    ]
+  },
+  "properties": {
+    "feet": 10571,
+    "meters": 3222,
+    "latitude": 42.693224,
+    "longitude": 0.517302,
+    "name": "Pic De Perdiguère",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.12745,
+      46.4162
+    ]
+  },
+  "properties": {
+    "feet": 10394,
+    "meters": 3168,
+    "latitude": 46.4162,
+    "longitude": 12.12745,
+    "name": "Pelmo",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.29344,
+      48.604595
+    ]
+  },
+  "properties": {
+    "feet": 7055,
+    "meters": 2150,
+    "latitude": 48.604595,
+    "longitude": -121.29344,
+    "name": "Big Devil Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

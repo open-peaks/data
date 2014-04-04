@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8167,
+      -29.0333
+    ]
+  },
+  "properties": {
+    "feet": 6250,
+    "meters": 1905,
+    "latitude": -29.0333,
+    "longitude": -67.8167,
+    "name": "Cerro Belgrano",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

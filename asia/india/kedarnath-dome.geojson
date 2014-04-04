@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.0667,
+      30.7833
+    ]
+  },
+  "properties": {
+    "feet": 22411,
+    "meters": 6831,
+    "latitude": 30.7833,
+    "longitude": 79.0667,
+    "name": "Kedarnath Dome",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

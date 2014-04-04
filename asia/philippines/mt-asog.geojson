@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.451,
+      13.4511
+    ]
+  },
+  "properties": {
+    "feet": 3750,
+    "meters": 1143,
+    "latitude": 13.4511,
+    "longitude": 123.451,
+    "name": "Mt. Asog",
+    "regions": [
+      "Philippines",
+      "Luzon"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

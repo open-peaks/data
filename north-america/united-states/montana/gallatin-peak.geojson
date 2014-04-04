@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.365,
+      45.3683
+    ]
+  },
+  "properties": {
+    "feet": 11015,
+    "meters": 3357,
+    "latitude": 45.3683,
+    "longitude": 111.365,
+    "name": "Gallatin Peak",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

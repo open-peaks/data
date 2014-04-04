@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.0666,
+      10.1666
+    ]
+  },
+  "properties": {
+    "feet": 8842,
+    "meters": 2695,
+    "latitude": 10.1666,
+    "longitude": 77.0666,
+    "name": "Anamudi",
+    "regions": [
+      "Indian Subcontinent",
+      "Cardamom Hills"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

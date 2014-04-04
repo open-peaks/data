@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.968842,
+      43.629117
+    ]
+  },
+  "properties": {
+    "feet": 7818,
+    "meters": 2383,
+    "latitude": 43.629117,
+    "longitude": -121.968842,
+    "name": "Maiden Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

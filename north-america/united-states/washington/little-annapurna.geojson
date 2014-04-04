@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.814,
+      47.4682
+    ]
+  },
+  "properties": {
+    "feet": 8440,
+    "meters": 2573,
+    "latitude": 47.4682,
+    "longitude": -120.814,
+    "name": "Little Annapurna",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

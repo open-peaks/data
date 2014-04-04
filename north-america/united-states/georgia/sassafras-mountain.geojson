@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.3077,
+      34.5066
+    ]
+  },
+  "properties": {
+    "feet": 3226,
+    "meters": 983,
+    "latitude": 34.5066,
+    "longitude": -84.3077,
+    "name": "Sassafras Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

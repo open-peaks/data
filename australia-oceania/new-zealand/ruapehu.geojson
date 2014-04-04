@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.561523,
+      -39.289804
+    ]
+  },
+  "properties": {
+    "feet": 9175,
+    "meters": 2796,
+    "latitude": -39.289804,
+    "longitude": 175.561523,
+    "name": "Ruapehu",
+    "regions": [
+      "New Zealand",
+      "North Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

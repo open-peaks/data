@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.589462,
+      -18.181409
+    ]
+  },
+  "properties": {
+    "feet": 19226,
+    "meters": 5860,
+    "latitude": -18.181409,
+    "longitude": -69.589462,
+    "name": "Taapaca",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

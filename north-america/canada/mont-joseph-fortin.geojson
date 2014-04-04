@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.018259,
+      48.947283
+    ]
+  },
+  "properties": {
+    "feet": 3543,
+    "meters": 1080,
+    "latitude": 48.947283,
+    "longitude": -66.018259,
+    "name": "Mont Joseph Fortin",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

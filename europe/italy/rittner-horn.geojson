@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.461101,
+      46.614957
+    ]
+  },
+  "properties": {
+    "feet": 7415,
+    "meters": 2260,
+    "latitude": 46.614957,
+    "longitude": 11.461101,
+    "name": "Rittner Horn",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

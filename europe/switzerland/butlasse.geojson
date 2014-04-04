@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.819889,
+      46.518667
+    ]
+  },
+  "properties": {
+    "feet": 10476,
+    "meters": 3193,
+    "latitude": 46.518667,
+    "longitude": 7.819889,
+    "name": "Bütlasse",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

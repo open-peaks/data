@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.2662,
+      14.6603
+    ]
+  },
+  "properties": {
+    "feet": 9902,
+    "meters": 3018,
+    "latitude": 14.6603,
+    "longitude": -91.2662,
+    "name": "Volcán San Pedro",
+    "regions": [
+      "Central American Ranges",
+      "Guatemala Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

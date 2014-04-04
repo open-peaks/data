@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.467,
+      -8.41667
+    ]
+  },
+  "properties": {
+    "feet": 12,
+    "meters": 4,
+    "latitude": -8.41667,
+    "longitude": 116.467,
+    "name": "Mount Rinjani",
+    "regions": [
+      "Southeast Asia",
+      "Central Southeast Asia"
+    ],
+    "countries": [
+      "Indonesia",
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

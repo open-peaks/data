@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.3167,
+      42.6833
+    ]
+  },
+  "properties": {
+    "feet": 14747,
+    "meters": 4495,
+    "latitude": 42.6833,
+    "longitude": 45.3167,
+    "name": "Tebulo",
+    "regions": [
+      "Caucasus Mountains",
+      "Eastern Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

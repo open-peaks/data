@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.15,
+      44.1
+    ]
+  },
+  "properties": {
+    "feet": 15922,
+    "meters": 4853,
+    "latitude": 44.1,
+    "longitude": 42.15,
+    "name": "Tetnuldi",
+    "regions": [
+      "Caucasus Mountains"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.378,
+      38.9472
+    ]
+  },
+  "properties": {
+    "feet": 14067,
+    "meters": 4288,
+    "latitude": 38.9472,
+    "longitude": -106.378,
+    "name": "Missouri Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

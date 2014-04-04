@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5833,
+          -2.83333
+        ]
+      },
+      "properties": {
+        "feet": 12080,
+        "meters": 3682,
+        "latitude": -2.83333,
+        "longitude": 35.5833,
+        "name": "Loolmalasin",
+        "regions": [
+          "East Africa Mountains",
+          "Central East Africa Plateau"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35,
+          -3.06667
+        ]
+      },
+      "properties": {
+        "feet": 19340,
+        "meters": 5895,
+        "latitude": -3.06667,
+        "longitude": 37.35,
+        "name": "Mount Kilimanjaro",
+        "regions": [
+          "East Africa Mountains",
+          "Northeast Tanzania"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.749999,
+          -3.244392
+        ]
+      },
+      "properties": {
+        "feet": 14979,
+        "meters": 4566,
+        "latitude": -3.244392,
+        "longitude": 36.749999,
+        "name": "Mount Meru",
+        "regions": [
+          "East Africa Mountains",
+          "Northeast Tanzania"
+        ],
+        "countries": [
+          "Tanzania"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.112208,
+      48.63583
+    ]
+  },
+  "properties": {
+    "feet": 7614,
+    "meters": 2321,
+    "latitude": 48.63583,
+    "longitude": -121.112208,
+    "name": "Mantis Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.807509,
+      48.162536
+    ]
+  },
+  "properties": {
+    "feet": 9249,
+    "meters": 2819,
+    "latitude": 48.162536,
+    "longitude": -120.807509,
+    "name": "Mount Fernow",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

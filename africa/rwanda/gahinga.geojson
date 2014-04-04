@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.0667,
+      -1.28333
+    ]
+  },
+  "properties": {
+    "feet": 11565,
+    "meters": 3525,
+    "latitude": -1.28333,
+    "longitude": 30.0667,
+    "name": "Gahinga",
+    "regions": [
+      "East Africa Mountains",
+      "Virunga Mountains"
+    ],
+    "countries": [
+      "Rwanda",
+      "Uganda"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

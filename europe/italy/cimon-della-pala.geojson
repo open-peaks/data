@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.820602,
+      46.285828
+    ]
+  },
+  "properties": {
+    "feet": 10446,
+    "meters": 3184,
+    "latitude": 46.285828,
+    "longitude": 11.820602,
+    "name": "Cimon della Pala",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13336,
+    "meters": 4065,
+    "name": "Jbel Mgoum",
+    "regions": [
+      "Atlas Mountains"
+    ],
+    "countries": [
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

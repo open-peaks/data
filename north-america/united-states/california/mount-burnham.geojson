@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.781506,
+      34.359132
+    ]
+  },
+  "properties": {
+    "feet": 8997,
+    "meters": 2742,
+    "latitude": 34.359132,
+    "longitude": -117.781506,
+    "name": "Mount Burnham",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

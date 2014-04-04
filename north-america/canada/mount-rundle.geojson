@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.494118,
+      51.147371
+    ]
+  },
+  "properties": {
+    "feet": 9675,
+    "meters": 2949,
+    "latitude": 51.147371,
+    "longitude": -115.494118,
+    "name": "Mount Rundle",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

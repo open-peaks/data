@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.817,
+      -17.3833
+    ]
+  },
+  "properties": {
+    "feet": 5321,
+    "meters": 1622,
+    "latitude": -17.3833,
+    "longitude": 145.817,
+    "name": "Mount Bartle Frere",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

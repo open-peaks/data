@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.15755,
+      48.64879
+    ]
+  },
+  "properties": {
+    "feet": 12920,
+    "meters": 3938,
+    "latitude": 48.64879,
+    "longitude": 89.15755,
+    "name": "Tsengel Khairkhan Uul",
+    "regions": [
+      "Mongolia Ranges",
+      "Altai"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.134696,
+      48.293615
+    ]
+  },
+  "properties": {
+    "feet": 7088,
+    "meters": 2160,
+    "latitude": 48.293615,
+    "longitude": -121.134696,
+    "name": "Pilot Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

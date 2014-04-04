@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.516667,
+      42.158333
+    ]
+  },
+  "properties": {
+    "feet": 7385,
+    "meters": 2251,
+    "latitude": 42.158333,
+    "longitude": 22.516667,
+    "name": "Ruen",
+    "regions": [
+      "Balkan Peninsula"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

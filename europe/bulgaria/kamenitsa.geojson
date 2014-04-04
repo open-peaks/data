@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.488684,
+      41.685316
+    ]
+  },
+  "properties": {
+    "feet": 9259,
+    "meters": 2822,
+    "latitude": 41.685316,
+    "longitude": 23.488684,
+    "name": "Kamenitsa",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

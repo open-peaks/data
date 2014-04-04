@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.929,
+      60.2933
+    ]
+  },
+  "properties": {
+    "feet": 18008,
+    "meters": 5489,
+    "latitude": 60.2933,
+    "longitude": -140.929,
+    "name": "Mount Saint Elias",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

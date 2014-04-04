@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.35,
+      46.6667
+    ]
+  },
+  "properties": {
+    "feet": 6575,
+    "meters": 2004,
+    "latitude": 46.6667,
+    "longitude": 13.35,
+    "name": "Golz",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

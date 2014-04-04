@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.860374,
+      45.908585
+    ]
+  },
+  "properties": {
+    "feet": 13829,
+    "meters": 4215,
+    "latitude": 45.908585,
+    "longitude": 7.860374,
+    "name": "Vincent Piramide",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

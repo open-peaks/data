@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.267,
+      51.0833
+    ]
+  },
+  "properties": {
+    "feet": 8878,
+    "meters": 2706,
+    "latitude": 51.0833,
+    "longitude": -115.267,
+    "name": "Grotto Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

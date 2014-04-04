@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.832272,
+      47.662324
+    ]
+  },
+  "properties": {
+    "feet": 7763,
+    "meters": 2366,
+    "latitude": 47.662324,
+    "longitude": -120.832272,
+    "name": "Big Jim",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

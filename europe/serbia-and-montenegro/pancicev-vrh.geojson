@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.7375,
+      43.3333
+    ]
+  },
+  "properties": {
+    "feet": 6614,
+    "meters": 2016,
+    "latitude": 43.3333,
+    "longitude": 20.7375,
+    "name": "Pančićev vrh",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro",
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

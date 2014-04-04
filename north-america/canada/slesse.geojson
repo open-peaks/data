@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.598225,
+      49.026079
+    ]
+  },
+  "properties": {
+    "feet": 8002,
+    "meters": 2439,
+    "latitude": 49.026079,
+    "longitude": -121.598225,
+    "name": "Slesse",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

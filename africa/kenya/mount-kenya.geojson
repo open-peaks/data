@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3,
+      -0.15
+    ]
+  },
+  "properties": {
+    "feet": 17057,
+    "meters": 5199,
+    "latitude": -0.15,
+    "longitude": 37.3,
+    "name": "Mount Kenya",
+    "regions": [
+      "East Africa Mountains",
+      "East Central Kenya"
+    ],
+    "countries": [
+      "Kenya"
+    ],
+    "continent": "Africa",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

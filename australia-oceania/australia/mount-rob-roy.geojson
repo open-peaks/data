@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.128645,
+      -35.49497
+    ]
+  },
+  "properties": {
+    "feet": 3563,
+    "meters": 1086,
+    "latitude": -35.49497,
+    "longitude": 149.128645,
+    "name": "Mount Rob Roy",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

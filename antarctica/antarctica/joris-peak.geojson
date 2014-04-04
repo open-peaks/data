@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.2608,
+      -72.11234
+    ]
+  },
+  "properties": {
+    "feet": 6955,
+    "meters": 2120,
+    "latitude": -72.11234,
+    "longitude": 23.2608,
+    "name": "Joris Peak",
+    "regions": [
+      "East Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica",
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

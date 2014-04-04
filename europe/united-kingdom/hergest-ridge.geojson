@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.0814,
+      52.2054
+    ]
+  },
+  "properties": {
+    "feet": 1398,
+    "meters": 426,
+    "latitude": 52.2054,
+    "longitude": -3.0814,
+    "name": "Hergest Ridge",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

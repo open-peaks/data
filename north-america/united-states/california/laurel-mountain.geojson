@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.89,
+      37.5803
+    ]
+  },
+  "properties": {
+    "feet": 11812,
+    "meters": 3600,
+    "latitude": 37.5803,
+    "longitude": -118.89,
+    "name": "Laurel Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

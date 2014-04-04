@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.545214,
+      -13.333085
+    ]
+  },
+  "properties": {
+    "feet": 20574,
+    "meters": 6271,
+    "latitude": -13.333085,
+    "longitude": -72.545214,
+    "name": "Salcantay",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

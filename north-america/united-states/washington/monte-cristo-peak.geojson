@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.3418,
+      47.9713
+    ]
+  },
+  "properties": {
+    "feet": 7136,
+    "meters": 2175,
+    "latitude": 47.9713,
+    "longitude": -121.3418,
+    "name": "Monte Cristo Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

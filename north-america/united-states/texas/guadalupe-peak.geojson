@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.867,
+      31.8833
+    ]
+  },
+  "properties": {
+    "feet": 8749,
+    "meters": 2667,
+    "latitude": 31.8833,
+    "longitude": -104.867,
+    "name": "Guadalupe Peak",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

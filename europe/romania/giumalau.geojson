@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.4889,
+      47.4368
+    ]
+  },
+  "properties": {
+    "feet": 6093,
+    "meters": 1857,
+    "latitude": 47.4368,
+    "longitude": 25.4889,
+    "name": "Giumalau",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

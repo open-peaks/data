@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.533,
+      60.1167
+    ]
+  },
+  "properties": {
+    "feet": 5155,
+    "meters": 1571,
+    "latitude": 60.1167,
+    "longitude": -149.533,
+    "name": "Phoenix Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

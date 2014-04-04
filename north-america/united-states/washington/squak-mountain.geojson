@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.047183,
+      47.503885
+    ]
+  },
+  "properties": {
+    "feet": 2028,
+    "meters": 618,
+    "latitude": 47.503885,
+    "longitude": -122.047183,
+    "name": "Squak Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

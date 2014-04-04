@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9624,
+      43.016823
+    ]
+  },
+  "properties": {
+    "feet": 7756,
+    "meters": 2364,
+    "latitude": 43.016823,
+    "longitude": -5.9624,
+    "name": "El Prau Del Fontan",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

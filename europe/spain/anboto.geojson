@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.596,
+      43.008
+    ]
+  },
+  "properties": {
+    "feet": 4367,
+    "meters": 1331,
+    "latitude": 43.008,
+    "longitude": -2.596,
+    "name": "Anboto",
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

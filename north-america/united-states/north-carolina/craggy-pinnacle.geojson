@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.3781,
+      35.7033
+    ]
+  },
+  "properties": {
+    "feet": 5892,
+    "meters": 1796,
+    "latitude": 35.7033,
+    "longitude": -82.3781,
+    "name": "Craggy Pinnacle",
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

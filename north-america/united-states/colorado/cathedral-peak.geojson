@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.85,
+      39.0333
+    ]
+  },
+  "properties": {
+    "feet": 13943,
+    "meters": 4250,
+    "latitude": 39.0333,
+    "longitude": -106.85,
+    "name": "Cathedral Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

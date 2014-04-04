@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.598766,
+      -0.177068
+    ]
+  },
+  "properties": {
+    "feet": 15695,
+    "meters": 4784,
+    "latitude": -0.177068,
+    "longitude": -78.598766,
+    "name": "Guagua Pichincha",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.95,
+      46.8
+    ]
+  },
+  "properties": {
+    "feet": 10325,
+    "meters": 3147,
+    "latitude": 46.8,
+    "longitude": 9.95,
+    "name": "Flüela Schwarzhorn",
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

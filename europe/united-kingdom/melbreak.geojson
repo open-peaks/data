@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.3165,
+      54.5543
+    ]
+  },
+  "properties": {
+    "feet": 1679,
+    "meters": 512,
+    "latitude": 54.5543,
+    "longitude": -3.3165,
+    "name": "Melbreak",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

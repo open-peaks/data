@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          39.0
+        ]
+      },
+      "properties": {
+        "feet": 11827,
+        "meters": 3605,
+        "latitude": 39.0,
+        "longitude": 38.0,
+        "name": "Altiparmak",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.53758,
+          36.55062
+        ]
+      },
+      "properties": {
+        "feet": 9446,
+        "meters": 2879,
+        "latitude": 36.55062,
+        "longitude": 29.53758,
+        "name": "Atkuyruksallamaz",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15,
+          40.5667
+        ]
+      },
+      "properties": {
+        "feet": 9954,
+        "meters": 3034,
+        "latitude": 40.5667,
+        "longitude": 29.15,
+        "name": "Çakırgöl",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12078,
+          36.86618
+        ]
+      },
+      "properties": {
+        "feet": 7159,
+        "meters": 2182,
+        "latitude": 36.86618,
+        "longitude": 29.12078,
+        "name": "Çal",
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1667,
+          37.8167
+        ]
+      },
+      "properties": {
+        "feet": 12323,
+        "meters": 3756,
+        "latitude": 37.8167,
+        "longitude": 35.1667,
+        "name": "Demirkazik",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.689226,
+          40.560667
+        ]
+      },
+      "properties": {
+        "feet": 10112,
+        "meters": 3082,
+        "latitude": 40.560667,
+        "longitude": 39.689226,
+        "name": "Deveboynu",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.19,
+          37.38
+        ]
+      },
+      "properties": {
+        "feet": 9865,
+        "meters": 3007,
+        "latitude": 37.38,
+        "longitude": 31.19,
+        "name": "Dipoyraz",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4667,
+          38.5333
+        ]
+      },
+      "properties": {
+        "feet": 12851,
+        "meters": 3917,
+        "latitude": 38.5333,
+        "longitude": 35.4667,
+        "name": "Erciyes",
+        "regions": [
+          "Anatolia",
+          "Central Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.62571,
+          36.72783
+        ]
+      },
+      "properties": {
+        "feet": 8816,
+        "meters": 2687,
+        "latitude": 36.72783,
+        "longitude": 29.62571,
+        "name": "Eren",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "feet": 8570,
+        "meters": 2612,
+        "latitude": 37.0,
+        "longitude": 37.0,
+        "name": "Gelincikana",
+        "regions": [
+          "Anatolia",
+          "Central Anatolia"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.164734,
+          38.126995
+        ]
+      },
+      "properties": {
+        "feet": 10722,
+        "meters": 3268,
+        "latitude": 38.126995,
+        "longitude": 34.164734,
+        "name": "Hasan dag",
+        "regions": [
+          "Anatolia",
+          "Central Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1667,
+          38.1333
+        ]
+      },
+      "properties": {
+        "feet": 10722,
+        "meters": 3268,
+        "latitude": 38.1333,
+        "longitude": 34.1667,
+        "name": "Hasandag",
+        "regions": [
+          "Anatolia",
+          "Central Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.154785,
+          40.830956
+        ]
+      },
+      "properties": {
+        "feet": 12933,
+        "meters": 3942,
+        "latitude": 40.830956,
+        "longitude": 41.154785,
+        "name": "Kackar",
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0,
+          41.05
+        ]
+      },
+      "properties": {
+        "feet": 11247,
+        "meters": 3428,
+        "latitude": 41.05,
+        "longitude": 42.0,
+        "name": "Karcal",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "feet": 10125,
+        "meters": 3086,
+        "latitude": 37.0,
+        "longitude": 37.0,
+        "name": "Kizlarsivrisi",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "feet": 11562,
+        "meters": 3524,
+        "latitude": 37.0,
+        "longitude": 37.0,
+        "name": "Medetsiz",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7
+        ]
+      },
+      "properties": {
+        "feet": 16945,
+        "meters": 5165,
+        "latitude": 39.7,
+        "longitude": 44.3,
+        "name": "Mount Ararat",
+        "regions": [
+          "Anatolia",
+          "Southeast Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8,
+          38.2
+        ]
+      },
+      "properties": {
+        "feet": 11686,
+        "meters": 3562,
+        "latitude": 38.2,
+        "longitude": 37.8,
+        "name": "Mount Bulut",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7833,
+          39.6667
+        ]
+      },
+      "properties": {
+        "feet": 11614,
+        "meters": 3540,
+        "latitude": 39.6667,
+        "longitude": 36.7833,
+        "name": "Mount Güngörmez",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          38.0
+        ]
+      },
+      "properties": {
+        "feet": 10194,
+        "meters": 3107,
+        "latitude": 38.0,
+        "longitude": 37.0,
+        "name": "Mount Karagöl",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2842,
+          39.8489
+        ]
+      },
+      "properties": {
+        "feet": 10732,
+        "meters": 3271,
+        "latitude": 39.8489,
+        "longitude": 41.2842,
+        "name": "Palandoken",
+        "regions": [
+          "Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.386239,
+          41.22285
+        ]
+      },
+      "properties": {
+        "feet": 6841,
+        "meters": 2085,
+        "latitude": 41.22285,
+        "longitude": 41.386239,
+        "name": "Qfamurgi",
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8333,
+          38.9333
+        ]
+      },
+      "properties": {
+        "feet": 13280,
+        "meters": 4048,
+        "latitude": 38.9333,
+        "longitude": 42.8333,
+        "name": "Suphan Dagi",
+        "regions": [
+          "Anatolia",
+          "Southeast Anatolia"
+        ],
+        "countries": [
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "feet": 11919,
+        "meters": 3633,
+        "latitude": 40.0,
+        "longitude": 32.0,
+        "name": "Tatos",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "feet": 9921,
+        "meters": 3024,
+        "latitude": 37.0,
+        "longitude": 37.0,
+        "name": "Uyluk Peak",
+        "regions": [
+          "Anatolia",
+          "Taurus Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          39.0
+        ]
+      },
+      "properties": {
+        "feet": 12238,
+        "meters": 3730,
+        "latitude": 39.0,
+        "longitude": 38.0,
+        "name": "Vercenik",
+        "regions": [
+          "Anatolia",
+          "Pontic Mountains"
+        ],
+        "countries": [
+          "Turkey",
+          "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

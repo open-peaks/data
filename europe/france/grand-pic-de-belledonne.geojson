@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.093949,
+      45.166709
+    ]
+  },
+  "properties": {
+    "feet": 9767,
+    "meters": 2977,
+    "latitude": 45.166709,
+    "longitude": 5.093949,
+    "name": "Grand Pic de Belledonne",
+    "regions": [
+      "Western Alps",
+      "Dauphine Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

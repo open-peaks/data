@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0254,
+      37.89412
+    ]
+  },
+  "properties": {
+    "feet": 6493,
+    "meters": 1979,
+    "latitude": 37.89412,
+    "longitude": 14.0254,
+    "name": "Pizzo Carbonara",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Sicily"
+    ],
+    "countries": [
+      "Italy",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

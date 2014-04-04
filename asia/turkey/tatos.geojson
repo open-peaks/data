@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.0,
+      40.0
+    ]
+  },
+  "properties": {
+    "feet": 11919,
+    "meters": 3633,
+    "latitude": 40.0,
+    "longitude": 32.0,
+    "name": "Tatos",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

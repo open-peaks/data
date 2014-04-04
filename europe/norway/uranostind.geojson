@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5,
+      61.5
+    ]
+  },
+  "properties": {
+    "feet": 7077,
+    "meters": 2157,
+    "latitude": 61.5,
+    "longitude": 7.5,
+    "name": "Uranostind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

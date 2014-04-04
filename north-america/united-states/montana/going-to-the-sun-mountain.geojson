@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.636742,
+      48.690309
+    ]
+  },
+  "properties": {
+    "feet": 9642,
+    "meters": 2939,
+    "latitude": 48.690309,
+    "longitude": -113.636742,
+    "name": "Going-to-the-Sun Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

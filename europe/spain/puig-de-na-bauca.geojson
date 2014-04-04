@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.517886,
+      39.605126
+    ]
+  },
+  "properties": {
+    "feet": 2014,
+    "meters": 614,
+    "latitude": 39.605126,
+    "longitude": 2.517886,
+    "name": "Puig de na Bauçà",
+    "regions": [
+      "Iberian Peninsula",
+      "Balearic Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

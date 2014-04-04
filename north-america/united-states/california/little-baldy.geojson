@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.333,
+      37.0167
+    ]
+  },
+  "properties": {
+    "feet": 8044,
+    "meters": 2452,
+    "latitude": 37.0167,
+    "longitude": -119.333,
+    "name": "Little Baldy",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

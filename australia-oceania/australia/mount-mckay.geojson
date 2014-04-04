@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.017,
+      -22.4333
+    ]
+  },
+  "properties": {
+    "feet": 6043,
+    "meters": 1842,
+    "latitude": -22.4333,
+    "longitude": 120.017,
+    "name": "Mount McKay",
+    "regions": [
+      "Great Dividing Range",
+      "Victoria Alps"
+    ],
+    "countries": [
+      "Australia",
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

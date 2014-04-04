@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.293853,
+      0.13351
+    ]
+  },
+  "properties": {
+    "feet": 13986,
+    "meters": 4263,
+    "latitude": 0.13351,
+    "longitude": -78.293853,
+    "name": "Fuya Fuya",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

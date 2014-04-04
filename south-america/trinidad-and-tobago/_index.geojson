@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.250008,
+          10.717791
+        ]
+      },
+      "properties": {
+        "feet": 3084,
+        "meters": 940,
+        "latitude": 10.717791,
+        "longitude": -61.250008,
+        "name": "El Cerro del Aripo",
+        "regions": [
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.416667,
+          10.733333
+        ]
+      },
+      "properties": {
+        "feet": 3072,
+        "meters": 936,
+        "latitude": 10.733333,
+        "longitude": -61.416667,
+        "name": "El Tucuche",
+        "regions": [
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6308,
+          11.2769
+        ]
+      },
+      "properties": {
+        "feet": 1890,
+        "meters": 576,
+        "latitude": 11.2769,
+        "longitude": -60.6308,
+        "name": "Main Ridge",
+        "regions": [
+          "The Caribbean",
+          "South Coastal Caribbean"
+        ],
+        "countries": [
+          "Trinidad and Tobago"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

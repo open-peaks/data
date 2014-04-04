@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.422,
+      51.0806
+    ]
+  },
+  "properties": {
+    "feet": 8500,
+    "meters": 2530,
+    "latitude": 51.0806,
+    "longitude": -115.422,
+    "name": "Rundle, East End of (EEOR)",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

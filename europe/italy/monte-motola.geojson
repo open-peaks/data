@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2749,
+      40.2142
+    ]
+  },
+  "properties": {
+    "feet": 5715,
+    "meters": 1742,
+    "latitude": 40.2142,
+    "longitude": 15.2749,
+    "name": "Monte Motola",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

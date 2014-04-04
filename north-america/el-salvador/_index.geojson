@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0974,
+          14.3416
+        ]
+      },
+      "properties": {
+        "feet": 8957,
+        "meters": 2730,
+        "latitude": 14.3416,
+        "longitude": -89.0974,
+        "name": "Cerro El Pital",
+        "countries": [
+          "El Salvador",
+          "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62356,
+          13.82732
+        ]
+      },
+      "properties": {
+        "feet": 6660,
+        "meters": 2030,
+        "latitude": 13.82732,
+        "longitude": -89.62356,
+        "name": "Cerro Verde",
+        "countries": [
+          "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63,
+          13.853
+        ]
+      },
+      "properties": {
+        "feet": 7812,
+        "meters": 2381,
+        "latitude": 13.853,
+        "longitude": -89.63,
+        "name": "Santa Ana Volcano",
+        "regions": [
+          "Central American Ranges",
+          "Nicaragua - Honduras - El Salvador Ranges"
+        ],
+        "countries": [
+          "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6326,
+          13.81341
+        ]
+      },
+      "properties": {
+        "feet": 6463,
+        "meters": 1970,
+        "latitude": 13.81341,
+        "longitude": -89.6326,
+        "name": "Volcan Izalco",
+        "countries": [
+          "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

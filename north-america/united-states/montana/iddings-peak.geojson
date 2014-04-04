@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.316,
+      46.0136
+    ]
+  },
+  "properties": {
+    "feet": 10842,
+    "meters": 3305,
+    "latitude": 46.0136,
+    "longitude": -110.316,
+    "name": "Iddings Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

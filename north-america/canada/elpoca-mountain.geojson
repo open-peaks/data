@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.027,
+      50.665
+    ]
+  },
+  "properties": {
+    "feet": 9961,
+    "meters": 3036,
+    "latitude": 50.665,
+    "longitude": -115.027,
+    "name": "Elpoca Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

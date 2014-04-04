@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.3542,
+      38.5111
+    ]
+  },
+  "properties": {
+    "feet": 22769,
+    "meters": 6940,
+    "latitude": 38.5111,
+    "longitude": 72.3542,
+    "name": "Pik Revolution",
+    "regions": [
+      "Central Asia Ranges",
+      "Pamir"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

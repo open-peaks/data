@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.53,
+      37.1117
+    ]
+  },
+  "properties": {
+    "feet": 13893,
+    "meters": 4235,
+    "latitude": 37.1117,
+    "longitude": -118.53,
+    "name": "Mount Agassiz",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.819722,
+      46.658889
+    ]
+  },
+  "properties": {
+    "feet": 9432,
+    "meters": 2875,
+    "latitude": 46.658889,
+    "longitude": 11.819722,
+    "name": "Peitlerkofel",
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

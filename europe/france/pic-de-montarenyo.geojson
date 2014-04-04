@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.226091,
+      42.727091
+    ]
+  },
+  "properties": {
+    "feet": 8596,
+    "meters": 2623,
+    "latitude": 42.727091,
+    "longitude": 1.226091,
+    "name": "Pic de Montarenyo",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

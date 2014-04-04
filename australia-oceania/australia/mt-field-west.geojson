@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.51583,
+      -42.654632
+    ]
+  },
+  "properties": {
+    "feet": 4705,
+    "meters": 1434,
+    "latitude": -42.654632,
+    "longitude": 146.51583,
+    "name": "Mt Field West",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

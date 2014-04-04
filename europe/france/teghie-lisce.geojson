@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.255528,
+      41.826716
+    ]
+  },
+  "properties": {
+    "feet": 3363,
+    "meters": 1025,
+    "latitude": 41.826716,
+    "longitude": 9.255528,
+    "name": "Teghie Lisce",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Tyrrhennian Islands"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

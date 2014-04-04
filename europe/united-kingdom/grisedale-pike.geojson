@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.24273,
+      54.590519
+    ]
+  },
+  "properties": {
+    "feet": 2595,
+    "meters": 791,
+    "latitude": 54.590519,
+    "longitude": -3.24273,
+    "name": "Grisedale Pike",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

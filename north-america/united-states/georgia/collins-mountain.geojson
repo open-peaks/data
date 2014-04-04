@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.9168,
+      34.3747
+    ]
+  },
+  "properties": {
+    "feet": 2800,
+    "meters": 853,
+    "latitude": 34.3747,
+    "longitude": -84.9168,
+    "name": "Collins mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

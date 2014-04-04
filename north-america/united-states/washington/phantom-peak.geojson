@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.342449,
+      48.819185
+    ]
+  },
+  "properties": {
+    "feet": 8000,
+    "meters": 2438,
+    "latitude": 48.819185,
+    "longitude": -121.342449,
+    "name": "Phantom Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

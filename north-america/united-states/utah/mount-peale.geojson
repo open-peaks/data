@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.229,
+      38.4383
+    ]
+  },
+  "properties": {
+    "feet": 12721,
+    "meters": 3877,
+    "latitude": 38.4383,
+    "longitude": -109.229,
+    "name": "Mount Peale",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

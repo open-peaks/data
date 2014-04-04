@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.246,
+      37.9494
+    ]
+  },
+  "properties": {
+    "feet": 11526,
+    "meters": 3513,
+    "latitude": 37.9494,
+    "longitude": -119.246,
+    "name": "Tioga Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

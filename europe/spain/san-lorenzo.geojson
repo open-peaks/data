@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.97266,
+      42.243197
+    ]
+  },
+  "properties": {
+    "feet": 7323,
+    "meters": 2271,
+    "latitude": 42.243197,
+    "longitude": -2.97266,
+    "name": "San Lorenzo",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.702831,
+      48.716309
+    ]
+  },
+  "properties": {
+    "feet": 9190,
+    "meters": 2801,
+    "latitude": 48.716309,
+    "longitude": -113.702831,
+    "name": "Pollock Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.921201,
+      54.180109
+    ]
+  },
+  "properties": {
+    "feet": 2789,
+    "meters": 850,
+    "latitude": 54.180109,
+    "longitude": -5.921201,
+    "name": "Slieve Donard",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Mourne Mountains"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

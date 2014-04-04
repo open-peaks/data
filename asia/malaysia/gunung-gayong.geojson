@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.37351,
+      4.760776
+    ]
+  },
+  "properties": {
+    "feet": 7129,
+    "meters": 2173,
+    "latitude": 4.760776,
+    "longitude": 101.37351,
+    "name": "Gunung Gayong",
+    "regions": [
+      "Southeast Asia",
+      "Malay Peninsula"
+    ],
+    "countries": [
+      "Malaysia",
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.056015,
+      53.059271
+    ]
+  },
+  "properties": {
+    "feet": 3449,
+    "meters": 1065,
+    "latitude": 53.059271,
+    "longitude": -4.056015,
+    "name": "Crib Y Ddysgl",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

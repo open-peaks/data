@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 5577,
+    "meters": 1700,
+    "name": "Mount Rano",
+    "regions": [
+      "Melanesia",
+      "Solomon Islands"
+    ],
+    "countries": [
+      "Solomon Islands"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

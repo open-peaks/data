@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.78333,
+      43.0333
+    ]
+  },
+  "properties": {
+    "feet": 4859,
+    "meters": 1481,
+    "latitude": 43.0333,
+    "longitude": -2.78333,
+    "name": "Gorbeia",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

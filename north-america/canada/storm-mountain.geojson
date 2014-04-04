@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.004,
+      51.2083
+    ]
+  },
+  "properties": {
+    "feet": 10170,
+    "meters": 3100,
+    "latitude": 51.2083,
+    "longitude": -116.004,
+    "name": "Storm Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.363031,
+      42.848803
+    ]
+  },
+  "properties": {
+    "feet": 6791,
+    "meters": 2070,
+    "latitude": 42.848803,
+    "longitude": -112.363031,
+    "name": "Chinese Peak",
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.050086,
+      46.377231
+    ]
+  },
+  "properties": {
+    "feet": 10561,
+    "meters": 3219,
+    "latitude": 46.377231,
+    "longitude": 12.050086,
+    "name": "Monte Civetta",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

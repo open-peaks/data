@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.13,
+      45.01
+    ]
+  },
+  "properties": {
+    "feet": 8000,
+    "meters": 2438,
+    "latitude": 45.01,
+    "longitude": -116.13,
+    "name": "Brundage Mountain",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

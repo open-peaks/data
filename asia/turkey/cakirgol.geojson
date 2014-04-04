@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.15,
+      40.5667
+    ]
+  },
+  "properties": {
+    "feet": 9954,
+    "meters": 3034,
+    "latitude": 40.5667,
+    "longitude": 29.15,
+    "name": "Çakırgöl",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

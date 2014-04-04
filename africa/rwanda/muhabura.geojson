@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.6167,
+      -1.33333
+    ]
+  },
+  "properties": {
+    "feet": 13540,
+    "meters": 4127,
+    "latitude": -1.33333,
+    "longitude": 29.6167,
+    "name": "Muhabura",
+    "regions": [
+      "East Africa Mountains"
+    ],
+    "countries": [
+      "Rwanda",
+      "Uganda"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.8111,
+      56.397
+    ]
+  },
+  "properties": {
+    "feet": 3707,
+    "meters": 1130,
+    "latitude": 56.397,
+    "longitude": -4.8111,
+    "name": "Ben Lui",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

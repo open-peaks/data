@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.41667,
+      51.8833
+    ]
+  },
+  "properties": {
+    "feet": 2608,
+    "meters": 795,
+    "latitude": 51.8833,
+    "longitude": -3.41667,
+    "name": "Cribyn",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

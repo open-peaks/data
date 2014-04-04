@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.1906,
+      49.3138
+    ]
+  },
+  "properties": {
+    "feet": 5108,
+    "meters": 1557,
+    "latitude": 49.3138,
+    "longitude": 19.1906,
+    "name": "Pilsko",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

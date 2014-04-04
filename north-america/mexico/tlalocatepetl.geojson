@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.71229,
+      19.412781
+    ]
+  },
+  "properties": {
+    "feet": 13615,
+    "meters": 4151,
+    "latitude": 19.412781,
+    "longitude": -98.71229,
+    "name": "Tlalocatepetl",
+    "regions": [
+      "Mexican Ranges",
+      "Cordillera Neovolcanica"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

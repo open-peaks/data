@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.907783,
+      38.940167
+    ]
+  },
+  "properties": {
+    "feet": 8961,
+    "meters": 2731,
+    "latitude": 38.940167,
+    "longitude": -104.907783,
+    "name": "Petkash Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

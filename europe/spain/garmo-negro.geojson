@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2725,
+      42.7766
+    ]
+  },
+  "properties": {
+    "feet": 10010,
+    "meters": 3051,
+    "latitude": 42.7766,
+    "longitude": -0.2725,
+    "name": "Garmo Negro",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

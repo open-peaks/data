@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.02976,
+      56.6422
+    ]
+  },
+  "properties": {
+    "feet": 3773,
+    "meters": 1150,
+    "latitude": 56.6422,
+    "longitude": -5.02976,
+    "name": "Bidean Nam Bian",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

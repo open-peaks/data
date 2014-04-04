@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.220046,
+      10.742988
+    ]
+  },
+  "properties": {
+    "feet": 3888,
+    "meters": 1185,
+    "latitude": 10.742988,
+    "longitude": 123.220046,
+    "name": "Tingtingon Daku Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

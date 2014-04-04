@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.7944,
+      39.8085
+    ]
+  },
+  "properties": {
+    "feet": 4741,
+    "meters": 1445,
+    "latitude": 39.8085,
+    "longitude": 2.7944,
+    "name": "Puig Major",
+    "regions": [
+      "Iberian Peninsula",
+      "Balearic Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

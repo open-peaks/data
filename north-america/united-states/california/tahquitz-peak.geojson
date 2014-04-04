@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.6762,
+      33.7553
+    ]
+  },
+  "properties": {
+    "feet": 8828,
+    "meters": 2691,
+    "latitude": 33.7553,
+    "longitude": -116.6762,
+    "name": "Tahquitz Peak",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

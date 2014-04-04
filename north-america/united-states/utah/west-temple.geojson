@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.020515,
+      37.210524
+    ]
+  },
+  "properties": {
+    "feet": 7810,
+    "meters": 2380,
+    "latitude": 37.210524,
+    "longitude": -113.020515,
+    "name": "West Temple",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

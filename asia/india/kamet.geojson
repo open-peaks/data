@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.593611,
+      30.920278
+    ]
+  },
+  "properties": {
+    "feet": 25447,
+    "meters": 7756,
+    "latitude": 30.920278,
+    "longitude": 79.593611,
+    "name": "Kamet",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.687789,
+      48.169949
+    ]
+  },
+  "properties": {
+    "feet": 6854,
+    "meters": 2089,
+    "latitude": 48.169949,
+    "longitude": -121.687789,
+    "name": "Three Fingers",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

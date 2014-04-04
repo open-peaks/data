@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.960893,
+      46.622385
+    ]
+  },
+  "properties": {
+    "feet": 9928,
+    "meters": 3026,
+    "latitude": 46.622385,
+    "longitude": 11.960893,
+    "name": "Croda di Santa Croce",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

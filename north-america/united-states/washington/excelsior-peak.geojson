@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.790056,
+      48.934877
+    ]
+  },
+  "properties": {
+    "feet": 5613,
+    "meters": 1710,
+    "latitude": 48.934877,
+    "longitude": -121.790056,
+    "name": "Excelsior Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

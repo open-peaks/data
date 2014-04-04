@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.64996,
+      48.728511
+    ]
+  },
+  "properties": {
+    "feet": 10014,
+    "meters": 3052,
+    "latitude": 48.728511,
+    "longitude": -113.64996,
+    "name": "Mount Siyeh",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

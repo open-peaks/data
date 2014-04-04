@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.41,
+      25.65
+    ]
+  },
+  "properties": {
+    "feet": 6562,
+    "meters": 2000,
+    "latitude": 25.65,
+    "longitude": -100.41,
+    "name": "Pico Perico",
+    "regions": [
+      "Mexican Ranges"
+    ],
+    "countries": [
+      "Mexico",
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

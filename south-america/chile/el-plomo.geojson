@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.2333,
+      -33.2667
+    ]
+  },
+  "properties": {
+    "feet": 17815,
+    "meters": 5430,
+    "latitude": -33.2667,
+    "longitude": -70.2333,
+    "name": "El Plomo",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

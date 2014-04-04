@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.46053,
+      46.49585
+    ]
+  },
+  "properties": {
+    "feet": 11266,
+    "meters": 3434,
+    "latitude": 46.49585,
+    "longitude": 10.46053,
+    "name": "Hohe Schneide (Monte Cristallo)",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

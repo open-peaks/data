@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.216257,
+      44.355892
+    ]
+  },
+  "properties": {
+    "feet": 1265,
+    "meters": 386,
+    "latitude": 44.355892,
+    "longitude": -68.216257,
+    "name": "Dorr Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "New England Upland"
+    ],
+    "states": [
+      "Maine"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

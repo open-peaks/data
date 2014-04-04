@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.588192,
+      36.108201
+    ]
+  },
+  "properties": {
+    "feet": 14354,
+    "meters": 4375,
+    "latitude": 36.108201,
+    "longitude": 51.588192,
+    "name": "Khole-no",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

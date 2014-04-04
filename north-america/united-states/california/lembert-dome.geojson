@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.346823,
+      37.88187
+    ]
+  },
+  "properties": {
+    "feet": 9450,
+    "meters": 2880,
+    "latitude": 37.88187,
+    "longitude": -119.346823,
+    "name": "Lembert Dome",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

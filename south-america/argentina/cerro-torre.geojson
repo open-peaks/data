@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.097363,
+      -49.293337
+    ]
+  },
+  "properties": {
+    "feet": 10280,
+    "meters": 3133,
+    "latitude": -49.293337,
+    "longitude": -73.097363,
+    "name": "Cerro Torre",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

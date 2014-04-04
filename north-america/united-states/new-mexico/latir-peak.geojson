@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.477761,
+      36.803535
+    ]
+  },
+  "properties": {
+    "feet": 12708,
+    "meters": 3873,
+    "latitude": 36.803535,
+    "longitude": -105.477761,
+    "name": "Latir Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

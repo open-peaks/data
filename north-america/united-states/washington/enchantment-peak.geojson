@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.802789,
+      47.48905
+    ]
+  },
+  "properties": {
+    "feet": 8250,
+    "meters": 2515,
+    "latitude": 47.48905,
+    "longitude": -120.802789,
+    "name": "Enchantment Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.163597,
+      51.297457
+    ]
+  },
+  "properties": {
+    "feet": 10610,
+    "meters": 3234,
+    "latitude": 51.297457,
+    "longitude": -116.163597,
+    "name": "Fay",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.8667,
+      -41.15
+    ]
+  },
+  "properties": {
+    "feet": 11453,
+    "meters": 3491,
+    "latitude": -41.15,
+    "longitude": -71.8667,
+    "name": "Cerro Tronador",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.884038,
+      39.458349
+    ]
+  },
+  "properties": {
+    "feet": 4910,
+    "meters": 1497,
+    "latitude": 39.458349,
+    "longitude": 72.884038,
+    "name": "Pik Petrovski",
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

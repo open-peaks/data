@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.167496,
+      35.465284
+    ]
+  },
+  "properties": {
+    "feet": 10236,
+    "meters": 3120,
+    "latitude": 35.465284,
+    "longitude": 138.167496,
+    "name": "Akaishidake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

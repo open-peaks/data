@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.36667,
+      46.0
+    ]
+  },
+  "properties": {
+    "feet": 7142,
+    "meters": 2177,
+    "latitude": 46.0,
+    "longitude": 9.36667,
+    "name": "Grigna Meridionale",
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

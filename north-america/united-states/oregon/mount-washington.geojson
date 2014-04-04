@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.838593,
+      44.332229
+    ]
+  },
+  "properties": {
+    "feet": 7794,
+    "meters": 2376,
+    "latitude": 44.332229,
+    "longitude": -121.838593,
+    "name": "Mount Washington",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

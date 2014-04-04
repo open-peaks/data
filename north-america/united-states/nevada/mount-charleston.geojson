@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.25,
+      36.4167
+    ]
+  },
+  "properties": {
+    "feet": 11918,
+    "meters": 3633,
+    "latitude": 36.4167,
+    "longitude": -116.25,
+    "name": "Mount Charleston",
+    "regions": [
+      "Intermountain West",
+      "Great Basin Ranges"
+    ],
+    "states": [
+      "Nevada"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

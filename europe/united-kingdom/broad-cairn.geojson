@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.25,
+      56.9186
+    ]
+  },
+  "properties": {
+    "feet": 3274,
+    "meters": 998,
+    "latitude": 56.9186,
+    "longitude": -3.25,
+    "name": "Broad Cairn",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

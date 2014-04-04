@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.985456,
+      47.186563
+    ]
+  },
+  "properties": {
+    "feet": 8868,
+    "meters": 2703,
+    "latitude": 47.186563,
+    "longitude": 9.985456,
+    "name": "Rote Wand",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

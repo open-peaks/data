@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.55,
+      6.08333
+    ]
+  },
+  "properties": {
+    "feet": 13455,
+    "meters": 4102,
+    "latitude": 6.08333,
+    "longitude": 116.55,
+    "name": "Mount Kinabalu",
+    "regions": [
+      "Malay Archipelago",
+      "Borneo"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

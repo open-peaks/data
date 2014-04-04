@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.052872,
+      42.694675
+    ]
+  },
+  "properties": {
+    "feet": 10315,
+    "meters": 3144,
+    "latitude": 42.694675,
+    "longitude": -0.052872,
+    "name": "Taillon",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France",
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

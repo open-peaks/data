@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.113897,
+      42.835696
+    ]
+  },
+  "properties": {
+    "feet": 10144,
+    "meters": 3092,
+    "latitude": 42.835696,
+    "longitude": 0.113897,
+    "name": "Pic de Néouvielle",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.0156,
+      49.225
+    ]
+  },
+  "properties": {
+    "feet": 7070,
+    "meters": 2155,
+    "latitude": 49.225,
+    "longitude": 20.0156,
+    "name": "kościelec",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "Poland",
+      "Poland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.1667,
+      29.6667
+    ]
+  },
+  "properties": {
+    "feet": 25531,
+    "meters": 7782,
+    "latitude": 29.6667,
+    "longitude": 95.1667,
+    "name": "Namche Barwa",
+    "regions": [
+      "Himalaya ",
+      "Assam Himalaya"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

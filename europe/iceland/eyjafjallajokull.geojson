@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -19.6,
+      63.633
+    ]
+  },
+  "properties": {
+    "feet": 1666,
+    "meters": 508,
+    "latitude": 63.633,
+    "longitude": -19.6,
+    "name": "Eyjafjallajökull",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

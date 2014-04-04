@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.384167,
+      36.4125
+    ]
+  },
+  "properties": {
+    "feet": 22923,
+    "meters": 6987,
+    "latitude": 36.4125,
+    "longitude": 87.384167,
+    "name": "Ulugh Muztagh",
+    "regions": [
+      "Kunlun"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.2,
+      44.4
+    ]
+  },
+  "properties": {
+    "feet": 5069,
+    "meters": 1545,
+    "latitude": 44.4,
+    "longitude": 34.2,
+    "name": "Roman-Kosh",
+    "countries": [
+      "Ukraine"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

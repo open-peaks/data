@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.355515,
+      47.312439
+    ]
+  },
+  "properties": {
+    "feet": 8714,
+    "meters": 2656,
+    "latitude": 47.312439,
+    "longitude": 10.355515,
+    "name": "Grosser Krottenkopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

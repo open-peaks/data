@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.164202,
+      45.874145
+    ]
+  },
+  "properties": {
+    "feet": 9160,
+    "meters": 2792,
+    "latitude": 45.874145,
+    "longitude": 7.164202,
+    "name": "Chenalette",
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

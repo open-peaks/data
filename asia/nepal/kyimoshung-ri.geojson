@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.593667,
+      28.214945
+    ]
+  },
+  "properties": {
+    "feet": 15157,
+    "meters": 4620,
+    "latitude": 28.214945,
+    "longitude": 85.593667,
+    "name": "Kyimoshung Ri",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

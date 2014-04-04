@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.904,
+      39.053
+    ]
+  },
+  "properties": {
+    "feet": 13497,
+    "meters": 4114,
+    "latitude": 39.053,
+    "longitude": -106.904,
+    "name": "Hunter Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.572218,
+      45.816837
+    ]
+  },
+  "properties": {
+    "feet": 3088,
+    "meters": 941,
+    "latitude": 45.816837,
+    "longitude": -121.572218,
+    "name": "Nestor Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2034,
+      58.0361
+    ]
+  },
+  "properties": {
+    "feet": 2011,
+    "meters": 613,
+    "latitude": 58.0361,
+    "longitude": -5.2034,
+    "name": "Stac Pollaidh",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.276,
+      46.0181
+    ]
+  },
+  "properties": {
+    "feet": 11214,
+    "meters": 3418,
+    "latitude": 46.0181,
+    "longitude": -110.276,
+    "name": "Crazy Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

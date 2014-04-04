@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.0,
+      36.4333
+    ]
+  },
+  "properties": {
+    "feet": 9003,
+    "meters": 2744,
+    "latitude": 36.4333,
+    "longitude": -105.0,
+    "name": "Tooth Of Time",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

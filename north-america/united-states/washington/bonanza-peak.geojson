@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.866303,
+      48.238251
+    ]
+  },
+  "properties": {
+    "feet": 9511,
+    "meters": 2899,
+    "latitude": 48.238251,
+    "longitude": -120.866303,
+    "name": "Bonanza Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

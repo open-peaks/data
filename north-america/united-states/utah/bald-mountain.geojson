@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.903463,
+      40.699121
+    ]
+  },
+  "properties": {
+    "feet": 11943,
+    "meters": 3640,
+    "latitude": 40.699121,
+    "longitude": -110.903463,
+    "name": "Bald Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Uinta Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

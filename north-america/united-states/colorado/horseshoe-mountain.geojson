@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.185,
+      39.1858
+    ]
+  },
+  "properties": {
+    "feet": 13898,
+    "meters": 4236,
+    "latitude": 39.1858,
+    "longitude": -106.185,
+    "name": "Horseshoe Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.424589,
+      47.680963
+    ]
+  },
+  "properties": {
+    "feet": 5301,
+    "meters": 1616,
+    "latitude": 47.680963,
+    "longitude": -121.424589,
+    "name": "Mount Cleveland",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

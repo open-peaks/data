@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0225,
+      65.4466
+    ]
+  },
+  "properties": {
+    "feet": 3517,
+    "meters": 1072,
+    "latitude": 65.4466,
+    "longitude": 12.0225,
+    "name": "Botnkrona",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

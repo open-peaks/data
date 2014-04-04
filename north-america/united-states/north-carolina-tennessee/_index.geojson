@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0806,
+          36.0997
+        ]
+      },
+      "properties": {
+        "feet": 6050,
+        "meters": 1844,
+        "latitude": 36.0997,
+        "longitude": -82.0806,
+        "name": "Grassy Ridge Bald",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "North Carolina,Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2575,
+          35.705
+        ]
+      },
+      "properties": {
+        "feet": 6621,
+        "meters": 2018,
+        "latitude": 35.705,
+        "longitude": -83.2575,
+        "name": "Mt. Guyot",
+        "states": [
+          "North Carolina,Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1036,
+          36.1069
+        ]
+      },
+      "properties": {
+        "feet": 5826,
+        "meters": 1776,
+        "latitude": 36.1069,
+        "longitude": -82.1036,
+        "name": "Round Bald",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "North Carolina,Tennessee"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

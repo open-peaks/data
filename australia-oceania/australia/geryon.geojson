@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.05,
+      -41.9
+    ]
+  },
+  "properties": {
+    "feet": 4951,
+    "meters": 1509,
+    "latitude": -41.9,
+    "longitude": 146.05,
+    "name": "Geryon",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

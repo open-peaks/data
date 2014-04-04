@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.221275,
+      51.384209
+    ]
+  },
+  "properties": {
+    "feet": 9108,
+    "meters": 2776,
+    "latitude": 51.384209,
+    "longitude": -116.221275,
+    "name": "Sheol Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

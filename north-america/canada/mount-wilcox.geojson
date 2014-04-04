@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.241459,
+      52.243884
+    ]
+  },
+  "properties": {
+    "feet": 9462,
+    "meters": 2884,
+    "latitude": 52.243884,
+    "longitude": -117.241459,
+    "name": "Mount Wilcox",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.4833,
+      39.2333
+    ]
+  },
+  "properties": {
+    "feet": 3360,
+    "meters": 1024,
+    "latitude": 39.2333,
+    "longitude": -79.4833,
+    "name": "Backbone Mountain",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "Maryland"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

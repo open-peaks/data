@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.463745,
+      47.739323
+    ]
+  },
+  "properties": {
+    "feet": 5702,
+    "meters": 1782,
+    "latitude": 47.739323,
+    "longitude": 13.463745,
+    "name": "Schafberg",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

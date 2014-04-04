@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.082,
+      50.7367
+    ]
+  },
+  "properties": {
+    "feet": 9521,
+    "meters": 2902,
+    "latitude": 50.7367,
+    "longitude": -115.082,
+    "name": "Mount Brock",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

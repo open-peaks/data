@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.982431,
+      42.614381
+    ]
+  },
+  "properties": {
+    "feet": 9219,
+    "meters": 2810,
+    "latitude": 42.614381,
+    "longitude": 1.982431,
+    "name": "Peric",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

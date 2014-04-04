@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.044468,
+      45.922498
+    ]
+  },
+  "properties": {
+    "feet": 12543,
+    "meters": 3823,
+    "latitude": 45.922498,
+    "longitude": 7.044468,
+    "name": "Mont Dolent",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.417,
+      -84.3333
+    ]
+  },
+  "properties": {
+    "feet": 14855,
+    "meters": 4528,
+    "latitude": -84.3333,
+    "longitude": 166.417,
+    "name": "Mount Kirkpatrick",
+    "regions": [
+      "West Antarctica Ranges"
+    ],
+    "countries": [
+      "Antarctica"
+    ],
+    "continent": "Antarctica",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

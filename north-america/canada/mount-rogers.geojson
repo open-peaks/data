@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.541351,
+      51.354738
+    ]
+  },
+  "properties": {
+    "feet": 10397,
+    "meters": 3169,
+    "latitude": 51.354738,
+    "longitude": -117.541351,
+    "name": "Mount Rogers",
+    "regions": [
+      "Intermountain West",
+      "Columbia Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

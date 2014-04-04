@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.216,
+      50.6808
+    ]
+  },
+  "properties": {
+    "feet": 9350,
+    "meters": 2850,
+    "latitude": 50.6808,
+    "longitude": -115.216,
+    "name": "Mount Warspite",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

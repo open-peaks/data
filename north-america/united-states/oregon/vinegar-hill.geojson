@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.56104,
+      44.71373
+    ]
+  },
+  "properties": {
+    "feet": 8131,
+    "meters": 2478,
+    "latitude": 44.71373,
+    "longitude": -118.56104,
+    "name": "Vinegar Hill",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

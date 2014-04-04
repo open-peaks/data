@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.0833,
+      49.15
+    ]
+  },
+  "properties": {
+    "feet": 8711,
+    "meters": 2655,
+    "latitude": 49.15,
+    "longitude": 20.0833,
+    "name": "Gerlach",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

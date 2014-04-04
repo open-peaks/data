@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.71371,
+      48.847745
+    ]
+  },
+  "properties": {
+    "feet": 5742,
+    "meters": 1750,
+    "latitude": 48.847745,
+    "longitude": -121.71371,
+    "name": "Table Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.493131,
+      9.118029
+    ]
+  },
+  "properties": {
+    "feet": 13143,
+    "meters": 4006,
+    "latitude": 9.118029,
+    "longitude": -70.493131,
+    "name": "Teta de Niquitao",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

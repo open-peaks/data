@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.85,
+      61.4667
+    ]
+  },
+  "properties": {
+    "feet": 7713,
+    "meters": 2351,
+    "latitude": 61.4667,
+    "longitude": 7.85,
+    "name": "Gjertvasstind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

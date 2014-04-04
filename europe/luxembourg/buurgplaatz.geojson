@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1834,
+    "meters": 559,
+    "name": "Buurgplaatz",
+    "regions": [
+      "Central Europe Ranges",
+      "North France-West Rhine Area"
+    ],
+    "countries": [
+      "Luxembourg"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

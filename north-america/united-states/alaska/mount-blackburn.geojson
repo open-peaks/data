@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -143.433,
+      61.7317
+    ]
+  },
+  "properties": {
+    "feet": 16390,
+    "meters": 4996,
+    "latitude": 61.7317,
+    "longitude": -143.433,
+    "name": "Mount Blackburn",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Wrangell Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

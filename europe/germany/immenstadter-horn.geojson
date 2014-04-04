@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.186644,
+      47.55223
+    ]
+  },
+  "properties": {
+    "feet": 4888,
+    "meters": 1490,
+    "latitude": 47.55223,
+    "longitude": 10.186644,
+    "name": "Immenstädter Horn",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

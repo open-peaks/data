@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.1997,
+      63.0216
+    ]
+  },
+  "properties": {
+    "feet": 5781,
+    "meters": 1762,
+    "latitude": 63.0216,
+    "longitude": 12.1997,
+    "name": "Storsylen",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

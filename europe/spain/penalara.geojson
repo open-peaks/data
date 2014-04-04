@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.955593,
+      40.850956
+    ]
+  },
+  "properties": {
+    "feet": 7966,
+    "meters": 2428,
+    "latitude": 40.850956,
+    "longitude": -3.955593,
+    "name": "Peñalara",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

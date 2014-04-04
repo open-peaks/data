@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.155621,
+      49.171716
+    ]
+  },
+  "properties": {
+    "feet": 8123,
+    "meters": 2476,
+    "latitude": 49.171716,
+    "longitude": 20.155621,
+    "name": "Bradavica",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

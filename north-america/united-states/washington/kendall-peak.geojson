@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.384807,
+      47.443037
+    ]
+  },
+  "properties": {
+    "feet": 5784,
+    "meters": 1763,
+    "latitude": 47.443037,
+    "longitude": -121.384807,
+    "name": "Kendall Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

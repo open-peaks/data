@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.605109,
+      45.969953
+    ]
+  },
+  "properties": {
+    "feet": 13684,
+    "meters": 4171,
+    "latitude": 45.969953,
+    "longitude": 7.605109,
+    "name": "Dent d' Hérens",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.889167,
+      36.386944
+    ]
+  },
+  "properties": {
+    "feet": 23871,
+    "meters": 7276,
+    "latitude": 36.386944,
+    "longitude": 71.889167,
+    "name": "Istor-o-Nal",
+    "regions": [
+      "Central Asia Ranges",
+      "Hindu Kush "
+    ],
+    "countries": [
+      "Pakistan",
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

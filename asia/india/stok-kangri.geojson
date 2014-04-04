@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.4425,
+      33.986111
+    ]
+  },
+  "properties": {
+    "feet": 20082,
+    "meters": 6121,
+    "latitude": 33.986111,
+    "longitude": 77.4425,
+    "name": "Stok Kangri",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

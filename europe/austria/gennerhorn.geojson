@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.30925,
+      47.674866
+    ]
+  },
+  "properties": {
+    "feet": 5691,
+    "meters": 1735,
+    "latitude": 47.674866,
+    "longitude": 13.30925,
+    "name": "Gennerhorn",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

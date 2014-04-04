@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.8,
+      38.2
+    ]
+  },
+  "properties": {
+    "feet": 11686,
+    "meters": 3562,
+    "latitude": 38.2,
+    "longitude": 37.8,
+    "name": "Mount Bulut",
+    "regions": [
+      "Anatolia",
+      "Pontic Mountains"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

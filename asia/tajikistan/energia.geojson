@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.199556,
+      39.18204
+    ]
+  },
+  "properties": {
+    "feet": 16798,
+    "meters": 5120,
+    "latitude": 39.18204,
+    "longitude": 68.199556,
+    "name": "Energia",
+    "regions": [
+      "Central Asia Ranges",
+      "Central Turkestan Ranges"
+    ],
+    "countries": [
+      "Tajikistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

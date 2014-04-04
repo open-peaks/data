@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.975833,
+      30.301667
+    ]
+  },
+  "properties": {
+    "feet": 21690,
+    "meters": 6611,
+    "latitude": 30.301667,
+    "longitude": 79.975833,
+    "name": "Nandakhat",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

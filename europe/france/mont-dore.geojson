@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.78333,
+      45.5
+    ]
+  },
+  "properties": {
+    "feet": 6184,
+    "meters": 1885,
+    "latitude": 45.5,
+    "longitude": 2.78333,
+    "name": "Mont Dore",
+    "regions": [
+      "Central Europe Ranges",
+      "Massif Central"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

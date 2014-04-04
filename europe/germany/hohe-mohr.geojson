@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.874708,
+      47.692779
+    ]
+  },
+  "properties": {
+    "feet": 3225,
+    "meters": 983,
+    "latitude": 47.692779,
+    "longitude": 7.874708,
+    "name": "Hohe Möhr",
+    "regions": [
+      "Central Europe Ranges",
+      "Black Forest"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

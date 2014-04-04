@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.863917,
+      46.062972
+    ]
+  },
+  "properties": {
+    "feet": 13799,
+    "meters": 4206,
+    "latitude": 46.062972,
+    "longitude": 7.863917,
+    "name": "Alphubel",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

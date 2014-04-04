@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.0851,
+      28.7311
+    ]
+  },
+  "properties": {
+    "feet": 19879,
+    "meters": 6059,
+    "latitude": 28.7311,
+    "longitude": 84.0851,
+    "name": "Chulu (Far) East",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

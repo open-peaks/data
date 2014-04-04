@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.540667,
+      44.140667
+    ]
+  },
+  "properties": {
+    "feet": 4265,
+    "meters": 1300,
+    "latitude": 44.140667,
+    "longitude": -71.540667,
+    "name": "Bondcliff",
+    "regions": [
+      "Appalachian Mountains",
+      "White Mountains"
+    ],
+    "states": [
+      "New Hampshire"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

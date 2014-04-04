@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9833,
+          19.0333
+        ]
+      },
+      "properties": {
+        "feet": 10416,
+        "meters": 3175,
+        "latitude": 19.0333,
+        "longitude": -70.9833,
+        "name": "Pico Duarte",
+        "regions": [
+          "The Caribbean",
+          "Hispaniola"
+        ],
+        "countries": [
+          "Dominican Republic"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

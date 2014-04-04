@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.776363,
+      58.420775
+    ]
+  },
+  "properties": {
+    "feet": 2340,
+    "meters": 713,
+    "latitude": 58.420775,
+    "longitude": -124.776363,
+    "name": "Cadet Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

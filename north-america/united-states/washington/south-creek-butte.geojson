@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.612,
+      48.4372
+    ]
+  },
+  "properties": {
+    "feet": 7670,
+    "meters": 2338,
+    "latitude": 48.4372,
+    "longitude": -120.612,
+    "name": "South Creek Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

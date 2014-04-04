@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0374,
+      56.6794
+    ]
+  },
+  "properties": {
+    "feet": 3172,
+    "meters": 967,
+    "latitude": 56.6794,
+    "longitude": -5.0374,
+    "name": "Aonach Eagach",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

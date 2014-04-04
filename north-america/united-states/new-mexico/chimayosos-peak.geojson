@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.610465,
+      35.973585
+    ]
+  },
+  "properties": {
+    "feet": 12841,
+    "meters": 3914,
+    "latitude": 35.973585,
+    "longitude": -105.610465,
+    "name": "Chimayosos Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

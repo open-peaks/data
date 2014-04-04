@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.857778,
+      39.678333
+    ]
+  },
+  "properties": {
+    "feet": 13218,
+    "meters": 4028,
+    "latitude": 39.678333,
+    "longitude": -105.857778,
+    "name": "Mount Sniktau",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

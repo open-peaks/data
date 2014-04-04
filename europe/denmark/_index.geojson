@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.826228,
+          55.997189
+        ]
+      },
+      "properties": {
+        "feet": 558,
+        "meters": 170,
+        "latitude": 55.997189,
+        "longitude": 9.826228,
+        "name": "Mollehoj",
+        "regions": [
+          "United Kingdom, Ireland, & Iceland"
+        ],
+        "countries": [
+          "Denmark"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

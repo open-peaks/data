@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.6667,
+      36.6667
+    ]
+  },
+  "properties": {
+    "feet": 3300,
+    "meters": 1006,
+    "latitude": 36.6667,
+    "longitude": -82.6667,
+    "name": "Buffalo Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Tennessee"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

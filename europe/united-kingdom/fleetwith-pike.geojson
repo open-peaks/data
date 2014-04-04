@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.23333,
+      54.5167
+    ]
+  },
+  "properties": {
+    "feet": 2126,
+    "meters": 648,
+    "latitude": 54.5167,
+    "longitude": -3.23333,
+    "name": "Fleetwith Pike",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

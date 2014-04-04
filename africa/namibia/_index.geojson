@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          -22.0
+        ]
+      },
+      "properties": {
+        "feet": 5020,
+        "meters": 1530,
+        "latitude": -22.0,
+        "longitude": 15.0,
+        "name": "Pondoks",
+        "countries": [
+          "Namibia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

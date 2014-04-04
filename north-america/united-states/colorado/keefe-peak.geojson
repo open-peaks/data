@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.904,
+      39.0325
+    ]
+  },
+  "properties": {
+    "feet": 13516,
+    "meters": 4120,
+    "latitude": 39.0325,
+    "longitude": -106.904,
+    "name": "Keefe Peak",
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.615906,
+      35.762359
+    ]
+  },
+  "properties": {
+    "feet": 26001,
+    "meters": 7925,
+    "latitude": 35.762359,
+    "longitude": 76.615906,
+    "name": "Gasherbrum IV",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.621,
+      37.6228
+    ]
+  },
+  "properties": {
+    "feet": 14083,
+    "meters": 4293,
+    "latitude": 37.6228,
+    "longitude": -107.621,
+    "name": "Mount Eolus",
+    "regions": [
+      "Rocky Mountains",
+      "San Juan Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

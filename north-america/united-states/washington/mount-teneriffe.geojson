@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.696,
+      47.5087
+    ]
+  },
+  "properties": {
+    "feet": 4788,
+    "meters": 1459,
+    "latitude": 47.5087,
+    "longitude": -121.696,
+    "name": "Mount Teneriffe",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

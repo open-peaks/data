@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.903889,
+      43.549722
+    ]
+  },
+  "properties": {
+    "feet": 7070,
+    "meters": 2155,
+    "latitude": 43.549722,
+    "longitude": 17.903889,
+    "name": "Zelena Glava",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

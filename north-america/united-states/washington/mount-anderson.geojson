@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.331562,
+      47.721201
+    ]
+  },
+  "properties": {
+    "feet": 7321,
+    "meters": 2231,
+    "latitude": 47.721201,
+    "longitude": -123.331562,
+    "name": "Mount Anderson",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

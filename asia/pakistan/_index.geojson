@@ -1,0 +1,943 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.753822,
+          35.947717
+        ]
+      },
+      "properties": {
+        "feet": 23901,
+        "meters": 7285,
+        "latitude": 35.947717,
+        "longitude": 75.753822,
+        "name": "Baintha Brakk",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.648,
+          76.6697
+        ]
+      },
+      "properties": {
+        "feet": 23835,
+        "meters": 7265,
+        "latitude": 76.6697,
+        "longitude": 35.648,
+        "name": "Baltoro Kangri",
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31,
+          36.3
+        ]
+      },
+      "properties": {
+        "feet": 25466,
+        "meters": 7762,
+        "latitude": 36.3,
+        "longitude": 74.31,
+        "name": "Batura II",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.522581,
+          36.510326
+        ]
+      },
+      "properties": {
+        "feet": 25574,
+        "meters": 7795,
+        "latitude": 36.510326,
+        "longitude": 74.522581,
+        "name": "Batura",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.37,
+          35.44
+        ]
+      },
+      "properties": {
+        "feet": 25958,
+        "meters": 7912,
+        "latitude": 35.44,
+        "longitude": 78.37,
+        "name": "Bei Tip",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5667,
+          35.8167
+        ]
+      },
+      "properties": {
+        "feet": 26400,
+        "meters": 8047,
+        "latitude": 35.8167,
+        "longitude": 76.5667,
+        "name": "Broad Peak",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.574364,
+          35.613279
+        ]
+      },
+      "properties": {
+        "feet": 25147,
+        "meters": 7665,
+        "latitude": 35.613279,
+        "longitude": 76.574364,
+        "name": "Chogolisa",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6667,
+          36.1167
+        ]
+      },
+      "properties": {
+        "feet": 23839,
+        "meters": 7266,
+        "latitude": 36.1167,
+        "longitude": 74.6667,
+        "name": "Diran Peak",
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.653028,
+          35.757831
+        ]
+      },
+      "properties": {
+        "feet": 26360,
+        "meters": 8035,
+        "latitude": 35.757831,
+        "longitude": 76.653028,
+        "name": "Gasherbrum II",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.615906,
+          35.762359
+        ]
+      },
+      "properties": {
+        "feet": 26001,
+        "meters": 7925,
+        "latitude": 35.762359,
+        "longitude": 76.615906,
+        "name": "Gasherbrum IV",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.69826,
+          35.724845
+        ]
+      },
+      "properties": {
+        "feet": 26470,
+        "meters": 8068,
+        "latitude": 35.724845,
+        "longitude": 76.69826,
+        "name": "Gasherbrum",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1667,
+          35.7167
+        ]
+      },
+      "properties": {
+        "feet": 24291,
+        "meters": 4800,
+        "latitude": 35.7167,
+        "longitude": 74.1667,
+        "name": "Haramosh Kutwal Galli",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.89749,
+          35.840221
+        ]
+      },
+      "properties": {
+        "feet": 24308,
+        "meters": 7409,
+        "latitude": 35.840221,
+        "longitude": 74.89749,
+        "name": "Haramosh Peak",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.889167,
+          36.386944
+        ]
+      },
+      "properties": {
+        "feet": 23871,
+        "meters": 7276,
+        "latitude": 36.386944,
+        "longitude": 71.889167,
+        "name": "Istor-o-Nal",
+        "regions": [
+          "Central Asia Ranges",
+          "Hindu Kush "
+        ],
+        "countries": [
+          "Pakistan",
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33,
+          35.25
+        ]
+      },
+      "properties": {
+        "feet": 23888,
+        "meters": 7282,
+        "latitude": 35.25,
+        "longitude": 76.33,
+        "name": "K-6 Baltistan Peak",
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5133,
+          35.8825
+        ]
+      },
+      "properties": {
+        "feet": 28253,
+        "meters": 8612,
+        "latitude": 35.8825,
+        "longitude": 76.5133,
+        "name": "K2",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.823056,
+          35.513333
+        ]
+      },
+      "properties": {
+        "feet": 18176,
+        "meters": 5540,
+        "latitude": 35.513333,
+        "longitude": 77.823056,
+        "name": "Karakoram Pass",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.121036,
+          36.088159
+        ]
+      },
+      "properties": {
+        "feet": 25761,
+        "meters": 7852,
+        "latitude": 36.088159,
+        "longitude": 75.121036,
+        "name": "Khiangyang Kish",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0,
+          36.5833
+        ]
+      },
+      "properties": {
+        "feet": 22603,
+        "meters": 6889,
+        "latitude": 36.5833,
+        "longitude": 73.0,
+        "name": "Koyo Zom",
+        "regions": [
+          "Central Asia Ranges",
+          "Hindu Kush "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0,
+          36.0
+        ]
+      },
+      "properties": {
+        "feet": 6000,
+        "meters": 1829,
+        "latitude": 36.0,
+        "longitude": 74.0,
+        "name": "Lady Finger",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.410298,
+          35.591645
+        ]
+      },
+      "properties": {
+        "feet": 20341,
+        "meters": 6200,
+        "latitude": 35.591645,
+        "longitude": 76.410298,
+        "name": "Laila Peak",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.302795,
+          35.42207
+        ]
+      },
+      "properties": {
+        "feet": 23100,
+        "meters": 7041,
+        "latitude": 35.42207,
+        "longitude": 76.302795,
+        "name": "Link Sar",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.726587,
+          34.82761
+        ]
+      },
+      "properties": {
+        "feet": 17356,
+        "meters": 5290,
+        "latitude": 34.82761,
+        "longitude": 73.726587,
+        "name": "Malika Parbat",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.306658,
+          35.642301
+        ]
+      },
+      "properties": {
+        "feet": 25660,
+        "meters": 7821,
+        "latitude": 35.642301,
+        "longitude": 76.306658,
+        "name": "Masherbrum",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3608,
+          35.8283
+        ]
+      },
+      "properties": {
+        "feet": 23860,
+        "meters": 7273,
+        "latitude": 35.8283,
+        "longitude": 76.3608,
+        "name": "Muztagh Tower",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.591804,
+          35.248668
+        ]
+      },
+      "properties": {
+        "feet": 26658,
+        "meters": 8125,
+        "latitude": 35.248668,
+        "longitude": 74.591804,
+        "name": "Nanga Parbat",
+        "regions": [
+          "Himalaya ",
+          "Punjab Himalaya"
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.489965,
+          36.142311
+        ]
+      },
+      "properties": {
+        "feet": 25550,
+        "meters": 7788,
+        "latitude": 36.142311,
+        "longitude": 74.489965,
+        "name": "Rakaposhi",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8486,
+          35.4003
+        ]
+      },
+      "properties": {
+        "feet": 25400,
+        "meters": 7742,
+        "latitude": 35.4003,
+        "longitude": 76.8486,
+        "name": "Saltoro Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0,
+          36.0
+        ]
+      },
+      "properties": {
+        "feet": 24110,
+        "meters": 7349,
+        "latitude": 36.0,
+        "longitude": 71.0,
+        "name": "Saraghrar",
+        "regions": [
+          "Central Asia Ranges",
+          "Hindu Kush "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.782074,
+          35.466542
+        ]
+      },
+      "properties": {
+        "feet": 24213,
+        "meters": 7380,
+        "latitude": 35.466542,
+        "longitude": 76.782074,
+        "name": "Sherpi Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.653398,
+          36.423759
+        ]
+      },
+      "properties": {
+        "feet": 24970,
+        "meters": 7611,
+        "latitude": 36.423759,
+        "longitude": 74.653398,
+        "name": "Shisper Pak",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.761861,
+          35.663259
+        ]
+      },
+      "properties": {
+        "feet": 24350,
+        "meters": 7422,
+        "latitude": 35.663259,
+        "longitude": 76.761861,
+        "name": "Sia Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.983647,
+          35.599846
+        ]
+      },
+      "properties": {
+        "feet": 23645,
+        "meters": 7207,
+        "latitude": 35.599846,
+        "longitude": 76.983647,
+        "name": "Singhi Kangri",
+        "regions": [
+          "Central Asia Ranges",
+          "Karakoram "
+        ],
+        "countries": [
+          "Pakistan",
+          "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4217,
+          35.8535
+        ]
+      },
+      "properties": {
+        "feet": 24147,
+        "meters": 7360,
+        "latitude": 35.8535,
+        "longitude": 76.4217,
+        "name": "Skil Brum",
+        "regions": [
+          "Himalaya "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8333,
+          36.25
+        ]
+      },
+      "properties": {
+        "feet": 25282,
+        "meters": 7706,
+        "latitude": 36.25,
+        "longitude": 71.8333,
+        "name": "Tirich Mir",
+        "regions": [
+          "Central Asia Ranges",
+          "Hindu Kush "
+        ],
+        "countries": [
+          "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.681,
+      40.4569
+    ]
+  },
+  "properties": {
+    "feet": 13514,
+    "meters": 4119,
+    "latitude": 40.4569,
+    "longitude": -105.681,
+    "name": "Mount Ypsilon",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.150278,
+      27.7025
+    ]
+  },
+  "properties": {
+    "feet": 22290,
+    "meters": 6794,
+    "latitude": 27.7025,
+    "longitude": 88.150278,
+    "name": "Jichu Drake",
+    "regions": [
+      "Himalaya ",
+      "Bhutan Himalaya"
+    ],
+    "countries": [
+      "Bhutan",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

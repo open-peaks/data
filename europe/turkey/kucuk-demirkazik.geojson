@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 11155,
+    "meters": 3400,
+    "name": "Kucuk Demirkazik",
+    "regions": [
+      "Taurus Mountains"
+    ],
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

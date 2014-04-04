@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.4167,
+      42.6833
+    ]
+  },
+  "properties": {
+    "feet": 14652,
+    "meters": 4466,
+    "latitude": 42.6833,
+    "longitude": 44.4167,
+    "name": "Suatisi",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

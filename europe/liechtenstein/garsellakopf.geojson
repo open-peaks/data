@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.564722,
+      47.170278
+    ]
+  },
+  "properties": {
+    "feet": 6906,
+    "meters": 2105,
+    "latitude": 47.170278,
+    "longitude": 9.564722,
+    "name": "Garsellakopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Liechtenstein",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

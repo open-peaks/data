@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.455849,
+      60.302985
+    ]
+  },
+  "properties": {
+    "feet": 14072,
+    "meters": 4289,
+    "latitude": 60.302985,
+    "longitude": -140.455849,
+    "name": "Mt. Augusta",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

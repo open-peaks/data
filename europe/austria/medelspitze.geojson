@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.7,
+      47.0667
+    ]
+  },
+  "properties": {
+    "feet": 8756,
+    "meters": 2669,
+    "latitude": 47.0667,
+    "longitude": 12.7,
+    "name": "Medelspitze",
+    "regions": [
+      "Eastern Alps",
+      "Hohe Tauern"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

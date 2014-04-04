@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.7569,
+      35.4258
+    ]
+  },
+  "properties": {
+    "feet": 5721,
+    "meters": 1744,
+    "latitude": 35.4258,
+    "longitude": -82.7569,
+    "name": "Mount Pisgah",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

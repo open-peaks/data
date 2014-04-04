@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13333,
+      47.25
+    ]
+  },
+  "properties": {
+    "feet": 8678,
+    "meters": 2645,
+    "latitude": 47.25,
+    "longitude": 9.13333,
+    "name": "Roggalspitze",
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

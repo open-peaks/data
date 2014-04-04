@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.710159,
+      49.193428
+    ]
+  },
+  "properties": {
+    "feet": 7028,
+    "meters": 2142,
+    "latitude": 49.193428,
+    "longitude": 19.710159,
+    "name": "Prislop",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

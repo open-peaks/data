@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.411682,
+          32.99945
+        ]
+      },
+      "properties": {
+        "feet": 3963,
+        "meters": 1208,
+        "latitude": 32.99945,
+        "longitude": 35.411682,
+        "name": "Har Meron",
+        "regions": [
+          "Levant Ranges"
+        ],
+        "countries": [
+          "Israel"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35383,
+          31.31639
+        ]
+      },
+      "properties": {
+        "feet": 1509,
+        "meters": 460,
+        "latitude": 31.31639,
+        "longitude": 35.35383,
+        "name": "Masada",
+        "countries": [
+          "Israel"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05,
+          32.733333
+        ]
+      },
+      "properties": {
+        "feet": 1791,
+        "meters": 546,
+        "latitude": 32.733333,
+        "longitude": 35.05,
+        "name": "Mount Carmel",
+        "regions": [
+          "Levant Ranges",
+          "Sinai-Palestine Ranges"
+        ],
+        "countries": [
+          "Israel"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

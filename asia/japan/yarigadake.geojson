@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.648,
+      36.3428
+    ]
+  },
+  "properties": {
+    "feet": 10433,
+    "meters": 3180,
+    "latitude": 36.3428,
+    "longitude": 137.648,
+    "name": "Yarigadake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

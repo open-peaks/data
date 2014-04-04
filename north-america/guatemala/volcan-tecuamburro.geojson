@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.4333,
+      14.2
+    ]
+  },
+  "properties": {
+    "feet": 6398,
+    "meters": 1950,
+    "latitude": 14.2,
+    "longitude": -90.4333,
+    "name": "Volcan Tecuamburro",
+    "regions": [
+      "Central American Ranges",
+      "Guatemala Ranges"
+    ],
+    "countries": [
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

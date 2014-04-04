@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.595457,
+      48.64428
+    ]
+  },
+  "properties": {
+    "feet": 9541,
+    "meters": 2908,
+    "latitude": 48.64428,
+    "longitude": -113.595457,
+    "name": "Little Chief Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

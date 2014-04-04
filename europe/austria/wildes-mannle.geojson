@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.899639,
+      46.884483
+    ]
+  },
+  "properties": {
+    "feet": 9918,
+    "meters": 3023,
+    "latitude": 46.884483,
+    "longitude": 10.899639,
+    "name": "Wildes Mannle",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 4357,
+    "meters": 1328,
+    "name": "Halti",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Finland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

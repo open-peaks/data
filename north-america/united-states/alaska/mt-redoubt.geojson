@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -152.743056,
+      60.485278
+    ]
+  },
+  "properties": {
+    "feet": 10197,
+    "meters": 3108,
+    "latitude": 60.485278,
+    "longitude": -152.743056,
+    "name": "Mt. Redoubt",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Aleutian Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

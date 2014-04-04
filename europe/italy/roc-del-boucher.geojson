@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.864623,
+      44.906892
+    ]
+  },
+  "properties": {
+    "feet": 10778,
+    "meters": 3285,
+    "latitude": 44.906892,
+    "longitude": 6.864623,
+    "name": "Roc del Boucher",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

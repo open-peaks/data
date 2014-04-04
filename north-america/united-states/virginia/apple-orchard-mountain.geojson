@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.5,
+      37.5167
+    ]
+  },
+  "properties": {
+    "feet": 4225,
+    "meters": 1288,
+    "latitude": 37.5167,
+    "longitude": -79.5,
+    "name": "Apple Orchard Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Virginia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.26,
+      -28.4
+    ]
+  },
+  "properties": {
+    "feet": 3802,
+    "meters": 1159,
+    "latitude": -28.4,
+    "longitude": 153.26,
+    "name": "Mt Warning/Wollumbin",
+    "regions": [
+      "Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

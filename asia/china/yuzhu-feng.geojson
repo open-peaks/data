@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      94.2167,
+      35.6667
+    ]
+  },
+  "properties": {
+    "feet": 20269,
+    "meters": 6178,
+    "latitude": 35.6667,
+    "longitude": 94.2167,
+    "name": "Yuzhu Feng",
+    "regions": [
+      "Kunlun"
+    ],
+    "countries": [
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

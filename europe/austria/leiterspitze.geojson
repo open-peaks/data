@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5167,
+      47.2167
+    ]
+  },
+  "properties": {
+    "feet": 9022,
+    "meters": 2750,
+    "latitude": 47.2167,
+    "longitude": 10.5167,
+    "name": "Leiterspitze",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

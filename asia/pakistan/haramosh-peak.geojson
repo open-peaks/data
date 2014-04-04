@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.89749,
+      35.840221
+    ]
+  },
+  "properties": {
+    "feet": 24308,
+    "meters": 7409,
+    "latitude": 35.840221,
+    "longitude": 74.89749,
+    "name": "Haramosh Peak",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan",
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

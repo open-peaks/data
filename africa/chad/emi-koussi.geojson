@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5,
+      19.8333
+    ]
+  },
+  "properties": {
+    "feet": 11204,
+    "meters": 3415,
+    "latitude": 19.8333,
+    "longitude": 18.5,
+    "name": "Emi Koussi",
+    "regions": [
+      "Sahara Desert Ranges",
+      "Tibesti"
+    ],
+    "countries": [
+      "Chad"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

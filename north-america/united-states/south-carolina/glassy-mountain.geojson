@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.659888,
+      34.900996
+    ]
+  },
+  "properties": {
+    "feet": 1647,
+    "meters": 502,
+    "latitude": 34.900996,
+    "longitude": -82.659888,
+    "name": "Glassy Mountain",
+    "regions": [
+      "Appalachian Mountains"
+    ],
+    "states": [
+      "South Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

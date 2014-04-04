@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.195799,
+      10.637351
+    ]
+  },
+  "properties": {
+    "feet": 6145,
+    "meters": 1873,
+    "latitude": 10.637351,
+    "longitude": 123.195799,
+    "name": "Marapara Daku Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

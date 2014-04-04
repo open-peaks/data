@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.2667,
+      -32.45
+    ]
+  },
+  "properties": {
+    "feet": 5279,
+    "meters": 1609,
+    "latitude": -32.45,
+    "longitude": 19.2667,
+    "name": "Wolfberg",
+    "regions": [
+      "Southern Africa",
+      "Cape Ranges"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

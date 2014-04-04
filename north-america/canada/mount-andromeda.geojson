@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.238798,
+      52.174195
+    ]
+  },
+  "properties": {
+    "feet": 11320,
+    "meters": 3450,
+    "latitude": 52.174195,
+    "longitude": -117.238798,
+    "name": "Mount Andromeda",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

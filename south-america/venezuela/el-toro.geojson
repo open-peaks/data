@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.0889,
+      8.53167
+    ]
+  },
+  "properties": {
+    "feet": 15515,
+    "meters": 4729,
+    "latitude": 8.53167,
+    "longitude": -71.0889,
+    "name": "El Toro",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

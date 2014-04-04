@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.518533,
+      42.696851
+    ]
+  },
+  "properties": {
+    "feet": 16558,
+    "meters": 5047,
+    "latitude": 42.696851,
+    "longitude": 44.518533,
+    "name": "Kazbek",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Georgia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

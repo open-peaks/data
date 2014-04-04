@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.159599,
+      54.4846
+    ]
+  },
+  "properties": {
+    "feet": 2569,
+    "meters": 783,
+    "latitude": 54.4846,
+    "longitude": -3.159599,
+    "name": "Glaramara",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6758,
+      46.2364
+    ]
+  },
+  "properties": {
+    "feet": 7362,
+    "meters": 2244,
+    "latitude": 46.2364,
+    "longitude": 13.6758,
+    "name": "Krn",
+    "regions": [
+      "Eastern Alps",
+      "Julian Alps "
+    ],
+    "countries": [
+      "Slovenia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

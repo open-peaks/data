@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.15781,
+      38.84502
+    ]
+  },
+  "properties": {
+    "feet": 9983,
+    "meters": 3043,
+    "latitude": 38.84502,
+    "longitude": -120.15781,
+    "name": "Pyramid Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.003141,
+      40.973064
+    ]
+  },
+  "properties": {
+    "feet": 8886,
+    "meters": 2708,
+    "latitude": 40.973064,
+    "longitude": -123.003141,
+    "name": "Sawtooth Mountain",
+    "regions": [
+      "Pacific Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.872416,
+      28.021492
+    ]
+  },
+  "properties": {
+    "feet": 21771,
+    "meters": 6636,
+    "latitude": 28.021492,
+    "longitude": 86.872416,
+    "name": "Khumbutse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

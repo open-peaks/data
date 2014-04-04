@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.992281,
+      47.700608
+    ]
+  },
+  "properties": {
+    "feet": 6172,
+    "meters": 1881,
+    "latitude": 47.700608,
+    "longitude": -120.992281,
+    "name": "Doughgob",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

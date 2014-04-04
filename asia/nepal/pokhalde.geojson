@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.8333,
+      27.9333
+    ]
+  },
+  "properties": {
+    "feet": 19009,
+    "meters": 5794,
+    "latitude": 27.9333,
+    "longitude": 86.8333,
+    "name": "Pokhalde",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

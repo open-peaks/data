@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.333599,
+      45.499444
+    ]
+  },
+  "properties": {
+    "feet": 11024,
+    "meters": 3360,
+    "latitude": 45.499444,
+    "longitude": 7.333599,
+    "name": "Becco Meridionale Della Tribolazione",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

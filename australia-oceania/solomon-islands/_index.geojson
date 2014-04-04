@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06219,
+          -9.70359
+        ]
+      },
+      "properties": {
+        "feet": 7677,
+        "meters": 2340,
+        "latitude": -9.70359,
+        "longitude": 160.06219,
+        "name": "Mt Popomaneseu",
+        "regions": [
+          "Melanesia",
+          "Solomon Islands"
+        ],
+        "countries": [
+          "Solomon Islands",
+          "Solomon Islands"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

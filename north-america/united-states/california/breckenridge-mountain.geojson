@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.583,
+      35.4511
+    ]
+  },
+  "properties": {
+    "feet": 7548,
+    "meters": 2301,
+    "latitude": 35.4511,
+    "longitude": -118.583,
+    "name": "Breckenridge Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

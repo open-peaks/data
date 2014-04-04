@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.789031,
+      27.730869
+    ]
+  },
+  "properties": {
+    "feet": 22898,
+    "meters": 6979,
+    "latitude": 27.730869,
+    "longitude": 86.789031,
+    "name": "Kangguru",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

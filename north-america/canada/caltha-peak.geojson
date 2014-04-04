@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.25,
+      50.1333
+    ]
+  },
+  "properties": {
+    "feet": 7792,
+    "meters": 2375,
+    "latitude": 50.1333,
+    "longitude": -122.25,
+    "name": "Caltha Peak",
+    "regions": [
+      "Pacific Ranges",
+      "British Columbia Coast Ranges"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

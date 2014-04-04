@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.429276,
+      10.376304
+    ]
+  },
+  "properties": {
+    "feet": 7995,
+    "meters": 2447,
+    "latitude": 10.376304,
+    "longitude": -67.429276,
+    "name": "Pico La Ceniza",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

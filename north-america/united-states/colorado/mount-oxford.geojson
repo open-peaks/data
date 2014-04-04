@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.338,
+      38.9647
+    ]
+  },
+  "properties": {
+    "feet": 14153,
+    "meters": 4314,
+    "latitude": 38.9647,
+    "longitude": -106.338,
+    "name": "Mount Oxford",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

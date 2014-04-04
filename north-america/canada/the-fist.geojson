@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.3717,
+      50.815
+    ]
+  },
+  "properties": {
+    "feet": 8629,
+    "meters": 2630,
+    "latitude": 50.815,
+    "longitude": -115.3717,
+    "name": "The Fist",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

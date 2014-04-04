@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.454759,
+      47.445823
+    ]
+  },
+  "properties": {
+    "feet": 5604,
+    "meters": 1708,
+    "latitude": 47.445823,
+    "longitude": -121.454759,
+    "name": "The Tooth",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

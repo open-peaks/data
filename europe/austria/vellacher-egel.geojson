@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4333,
+      46.65
+    ]
+  },
+  "properties": {
+    "feet": 6916,
+    "meters": 2108,
+    "latitude": 46.65,
+    "longitude": 13.4333,
+    "name": "Vellacher Egel",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

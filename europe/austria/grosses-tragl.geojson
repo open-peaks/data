@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.033333,
+      47.616667
+    ]
+  },
+  "properties": {
+    "feet": 7149,
+    "meters": 2179,
+    "latitude": 47.616667,
+    "longitude": 14.033333,
+    "name": "Grosses Tragl",
+    "regions": [
+      "Eastern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

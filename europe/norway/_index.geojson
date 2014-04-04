@@ -1,0 +1,820 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 3517,
+        "meters": 1072,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Botnkrona",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 2986,
+        "meters": 910,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Breitinden",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459722,
+          61.731315
+        ]
+      },
+      "properties": {
+        "feet": 4390,
+        "meters": 1338,
+        "latitude": 61.731315,
+        "longitude": 6.459722,
+        "name": "Eggjenibba",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9167,
+          61.5185
+        ]
+      },
+      "properties": {
+        "feet": 6785,
+        "meters": 2068,
+        "latitude": 61.5185,
+        "longitude": 7.9167,
+        "name": "Fannaraki",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782249,
+          60.608806
+        ]
+      },
+      "properties": {
+        "feet": 6539,
+        "meters": 1933,
+        "latitude": 60.608806,
+        "longitude": 7.782249,
+        "name": "Folarskardsnuten",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.317,
+          61.633
+        ]
+      },
+      "properties": {
+        "feet": 8100,
+        "meters": 2469,
+        "latitude": 61.633,
+        "longitude": 8.317,
+        "name": "Galdhøpiggen",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85,
+          61.4667
+        ]
+      },
+      "properties": {
+        "feet": 7713,
+        "meters": 2351,
+        "latitude": 61.4667,
+        "longitude": 7.85,
+        "name": "Gjertvasstind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          61.65
+        ]
+      },
+      "properties": {
+        "feet": 8084,
+        "meters": 2464,
+        "latitude": 61.65,
+        "longitude": 8.55,
+        "name": "Glittertind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 3343,
+        "meters": 1019,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Grytfoten",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.343509,
+          69.566594
+        ]
+      },
+      "properties": {
+        "feet": 4606,
+        "meters": 1404,
+        "latitude": 69.566594,
+        "longitude": 19.343509,
+        "name": "Hamperokken",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.06667,
+          60.1833
+        ]
+      },
+      "properties": {
+        "feet": 5545,
+        "meters": 1690,
+        "latitude": 60.1833,
+        "longitude": 7.06667,
+        "name": "Hårteigen",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981367,
+          67.981279
+        ]
+      },
+      "properties": {
+        "feet": 1988,
+        "meters": 606,
+        "latitude": 67.981279,
+        "longitude": 12.981367,
+        "name": "Helvetestinden",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9167,
+          69.4667
+        ]
+      },
+      "properties": {
+        "feet": 6053,
+        "meters": 1845,
+        "latitude": 69.4667,
+        "longitude": 19.9167,
+        "name": "Jiehkkevarri",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.601067,
+          59.015819
+        ]
+      },
+      "properties": {
+        "feet": 3609,
+        "meters": 1100,
+        "latitude": 59.015819,
+        "longitude": 6.601067,
+        "name": "Kjerag",
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 3314,
+        "meters": 1010,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Kvasstinden",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2916,
+          61.5413
+        ]
+      },
+      "properties": {
+        "feet": 6667,
+        "meters": 2032,
+        "latitude": 61.5413,
+        "longitude": 8.2916,
+        "name": "Kyrkja",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15303,
+          59.003003
+        ]
+      },
+      "properties": {
+        "feet": 2356,
+        "meters": 718,
+        "latitude": 59.003003,
+        "longitude": 6.15303,
+        "name": "Moslifjellet",
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0,
+          78.0
+        ]
+      },
+      "properties": {
+        "feet": 3442,
+        "meters": 1049,
+        "latitude": 78.0,
+        "longitude": 16.0,
+        "name": "Nordenski Idtoppen",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.271088,
+          62.322192
+        ]
+      },
+      "properties": {
+        "feet": 2105,
+        "meters": 642,
+        "latitude": 62.322192,
+        "longitude": 9.271088,
+        "name": "Rasletind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.851692,
+          61.914936
+        ]
+      },
+      "properties": {
+        "feet": 7146,
+        "meters": 2178,
+        "latitude": 61.914936,
+        "longitude": 9.851692,
+        "name": "Rondslottet",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 3402,
+        "meters": 1037,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Skjæringen",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.591144,
+          68.166725
+        ]
+      },
+      "properties": {
+        "feet": 4567,
+        "meters": 1392,
+        "latitude": 68.166725,
+        "longitude": 16.591144,
+        "name": "Stetind",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.80098,
+          61.441824
+        ]
+      },
+      "properties": {
+        "feet": 7228,
+        "meters": 2203,
+        "latitude": 61.441824,
+        "longitude": 7.80098,
+        "name": "Store Austadbotntind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53333,
+          60.4167
+        ]
+      },
+      "properties": {
+        "feet": 7677,
+        "meters": 2340,
+        "latitude": 60.4167,
+        "longitude": 8.53333,
+        "name": "Store Knutholstind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.86667,
+          61.4167
+        ]
+      },
+      "properties": {
+        "feet": 7884,
+        "meters": 2403,
+        "latitude": 61.4167,
+        "longitude": 7.86667,
+        "name": "Store Skagastolstind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.118725,
+          61.571664
+        ]
+      },
+      "properties": {
+        "feet": 7244,
+        "meters": 2208,
+        "latitude": 61.571664,
+        "longitude": 8.118725,
+        "name": "Store Smørstabbtind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.860916,
+          61.89224
+        ]
+      },
+      "properties": {
+        "feet": 7014,
+        "meters": 2138,
+        "latitude": 61.89224,
+        "longitude": 9.860916,
+        "name": "Storronden",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1997,
+          63.0216
+        ]
+      },
+      "properties": {
+        "feet": 5781,
+        "meters": 1762,
+        "latitude": 63.0216,
+        "longitude": 12.1997,
+        "name": "Storsylen",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.645315,
+          61.444142
+        ]
+      },
+      "properties": {
+        "feet": 7648,
+        "meters": 2331,
+        "latitude": 61.444142,
+        "longitude": 8.645315,
+        "name": "Tjønnholstind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0225,
+          65.4466
+        ]
+      },
+      "properties": {
+        "feet": 3215,
+        "meters": 980,
+        "latitude": 65.4466,
+        "longitude": 12.0225,
+        "name": "Tvillingene",
+        "regions": [
+          "Scandinavia/European Arctic"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          61.5
+        ]
+      },
+      "properties": {
+        "feet": 7077,
+        "meters": 2157,
+        "latitude": 61.5,
+        "longitude": 7.5,
+        "name": "Uranostind",
+        "regions": [
+          "Scandinavia/European Arctic",
+          "Jotunheimen"
+        ],
+        "countries": [
+          "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

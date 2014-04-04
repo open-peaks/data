@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.0833,
+      -49.2833
+    ]
+  },
+  "properties": {
+    "feet": 6407,
+    "meters": 1953,
+    "latitude": -49.2833,
+    "longitude": -73.0833,
+    "name": "Cerro Mocho",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

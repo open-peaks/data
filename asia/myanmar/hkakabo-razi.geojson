@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.4667,
+      28.3167
+    ]
+  },
+  "properties": {
+    "feet": 19294,
+    "meters": 5881,
+    "latitude": 28.3167,
+    "longitude": 97.4667,
+    "name": "Hkakabo Razi",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Myanmar",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

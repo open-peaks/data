@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.831001,
+      47.544786
+    ]
+  },
+  "properties": {
+    "feet": 8148,
+    "meters": 2484,
+    "latitude": 47.544786,
+    "longitude": 12.831001,
+    "name": "Kammerlinghorn",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

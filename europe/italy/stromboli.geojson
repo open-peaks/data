@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2,
+      38.7833
+    ]
+  },
+  "properties": {
+    "feet": 3038,
+    "meters": 926,
+    "latitude": 38.7833,
+    "longitude": 15.2,
+    "name": "Stromboli",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Sicily"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

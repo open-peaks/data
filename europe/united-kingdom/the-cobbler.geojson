@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.80875,
+      56.2141
+    ]
+  },
+  "properties": {
+    "feet": 2900,
+    "meters": 884,
+    "latitude": 56.2141,
+    "longitude": -4.80875,
+    "name": "The Cobbler",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Scottish Highlands"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

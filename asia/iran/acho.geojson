@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.1633,
+      36.227
+    ]
+  },
+  "properties": {
+    "feet": 5525,
+    "meters": 1684,
+    "latitude": 36.227,
+    "longitude": 53.1633,
+    "name": "Acho",
+    "regions": [
+      "Iranian Plateau",
+      "Alborz"
+    ],
+    "countries": [
+      "Iran",
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

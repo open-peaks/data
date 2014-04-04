@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.65,
+      37.2833
+    ]
+  },
+  "properties": {
+    "feet": 13181,
+    "meters": 4018,
+    "latitude": 37.2833,
+    "longitude": -118.65,
+    "name": "Basin Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

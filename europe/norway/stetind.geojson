@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.591144,
+      68.166725
+    ]
+  },
+  "properties": {
+    "feet": 4567,
+    "meters": 1392,
+    "latitude": 68.166725,
+    "longitude": 16.591144,
+    "name": "Stetind",
+    "regions": [
+      "Scandinavia/European Arctic"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

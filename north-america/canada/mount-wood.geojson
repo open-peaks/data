@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.5119,
+      61.2327
+    ]
+  },
+  "properties": {
+    "feet": 15886,
+    "meters": 4842,
+    "latitude": 61.2327,
+    "longitude": -140.5119,
+    "name": "Mount Wood",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

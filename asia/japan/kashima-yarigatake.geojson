@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.747,
+      36.6238
+    ]
+  },
+  "properties": {
+    "feet": 9478,
+    "meters": 2889,
+    "latitude": 36.6238,
+    "longitude": 137.747,
+    "name": "Kashima Yarigatake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

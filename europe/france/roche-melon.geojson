@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.16667,
+      45.5
+    ]
+  },
+  "properties": {
+    "feet": 11605,
+    "meters": 3538,
+    "latitude": 45.5,
+    "longitude": 7.16667,
+    "name": "Roche Melon",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

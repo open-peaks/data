@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.745519,
+      35.861916
+    ]
+  },
+  "properties": {
+    "feet": 12357,
+    "meters": 3766,
+    "latitude": 35.861916,
+    "longitude": -105.745519,
+    "name": "Redonda Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.178,
+      39.1981
+    ]
+  },
+  "properties": {
+    "feet": 13348,
+    "meters": 4069,
+    "latitude": 39.1981,
+    "longitude": -106.178,
+    "name": "Peerless Mountain",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

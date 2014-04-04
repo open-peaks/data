@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.646744,
+      42.772471
+    ]
+  },
+  "properties": {
+    "feet": 2487,
+    "meters": 758,
+    "latitude": 42.772471,
+    "longitude": 20.646744,
+    "name": "Ostrvica",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro",
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

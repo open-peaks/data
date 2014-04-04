@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.2783,
+      23.2125
+    ]
+  },
+  "properties": {
+    "feet": 9872,
+    "meters": 3009,
+    "latitude": 23.2125,
+    "longitude": 57.2783,
+    "name": "Jebel Shams",
+    "regions": [
+      "Arabian Peninsula",
+      "Southeast Arabia"
+    ],
+    "countries": [
+      "Oman"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

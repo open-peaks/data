@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.817034,
+      -1.469175
+    ]
+  },
+  "properties": {
+    "feet": 20565,
+    "meters": 6268,
+    "latitude": -1.469175,
+    "longitude": -78.817034,
+    "name": "Chimborazo",
+    "regions": [
+      "Andes",
+      "Ecuador Andes"
+    ],
+    "countries": [
+      "Ecuador"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

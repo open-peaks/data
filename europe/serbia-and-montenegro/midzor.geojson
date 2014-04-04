@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.682107,
+      43.393935
+    ]
+  },
+  "properties": {
+    "feet": 7116,
+    "meters": 2169,
+    "latitude": 43.393935,
+    "longitude": 22.682107,
+    "name": "Midzor",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro",
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

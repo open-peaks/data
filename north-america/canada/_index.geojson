@@ -1,0 +1,6415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.982036,
+          52.037498
+        ]
+      },
+      "properties": {
+        "feet": 10922,
+        "meters": 3329,
+        "latitude": 52.037498,
+        "longitude": -116.982036,
+        "name": "Amery",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.125904,
+          51.181388
+        ]
+      },
+      "properties": {
+        "feet": 7874,
+        "meters": 2400,
+        "latitude": 51.181388,
+        "longitude": -115.125904,
+        "name": "Association",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.169,
+          51.325
+        ]
+      },
+      "properties": {
+        "feet": 7290,
+        "meters": 2221,
+        "latitude": 51.325,
+        "longitude": -116.169,
+        "name": "Babel, Tower of",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.917,
+          50.7167
+        ]
+      },
+      "properties": {
+        "feet": 9626,
+        "meters": 2934,
+        "latitude": 50.7167,
+        "longitude": -114.917,
+        "name": "Banded Peak",
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.140766,
+          51.287366
+        ]
+      },
+      "properties": {
+        "feet": 10118,
+        "meters": 3084,
+        "latitude": 51.287366,
+        "longitude": -116.140766,
+        "name": "Bident Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.353012,
+          51.014511
+        ]
+      },
+      "properties": {
+        "feet": 9632,
+        "meters": 2936,
+        "latitude": 51.014511,
+        "longitude": -115.353012,
+        "name": "Big Sister",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.043,
+          49.9753
+        ]
+      },
+      "properties": {
+        "feet": 7608,
+        "meters": 2319,
+        "latitude": 49.9753,
+        "longitude": -123.043,
+        "name": "Black Tusk",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.378946,
+          51.626489
+        ]
+      },
+      "properties": {
+        "feet": 9409,
+        "meters": 2868,
+        "latitude": 51.626489,
+        "longitude": -116.378946,
+        "name": "Bow Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8222,
+          52.5166
+        ]
+      },
+      "properties": {
+        "feet": 10371,
+        "meters": 3161,
+        "latitude": 52.5166,
+        "longitude": -117.8222,
+        "name": "Brussels Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.776363,
+          58.420775
+        ]
+      },
+      "properties": {
+        "feet": 2340,
+        "meters": 713,
+        "latitude": 58.420775,
+        "longitude": -124.776363,
+        "name": "Cadet Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.545544,
+          51.718734
+        ]
+      },
+      "properties": {
+        "feet": 9551,
+        "meters": 2911,
+        "latitude": 51.718734,
+        "longitude": -116.545544,
+        "name": "Caldron Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          50.1333
+        ]
+      },
+      "properties": {
+        "feet": 7792,
+        "meters": 2375,
+        "latitude": 50.1333,
+        "longitude": -122.25,
+        "name": "Caltha Peak",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.679163,
+          49.004518
+        ]
+      },
+      "properties": {
+        "feet": 7516,
+        "meters": 2291,
+        "latitude": 49.004518,
+        "longitude": -121.679163,
+        "name": "Canadian Border Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.562,
+          51.2278
+        ]
+      },
+      "properties": {
+        "feet": 9836,
+        "meters": 2998,
+        "latitude": 51.2278,
+        "longitude": -115.562,
+        "name": "Cascade Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.939,
+          51.3055
+        ]
+      },
+      "properties": {
+        "feet": 9074,
+        "meters": 2766,
+        "latitude": 51.3055,
+        "longitude": -115.939,
+        "name": "Castle Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25399,
+          52.109984
+        ]
+      },
+      "properties": {
+        "feet": 10138,
+        "meters": 3090,
+        "latitude": 52.109984,
+        "longitude": -117.25399,
+        "name": "Castleguard Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.39,
+          51.3958
+        ]
+      },
+      "properties": {
+        "feet": 10463,
+        "meters": 3189,
+        "latitude": 51.3958,
+        "longitude": -116.39,
+        "name": "Cathedral Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.418,
+          51.7
+        ]
+      },
+      "properties": {
+        "feet": 9819,
+        "meters": 2993,
+        "latitude": 51.7,
+        "longitude": -116.418,
+        "name": "Cirque Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9775,
+          52.1694
+        ]
+      },
+      "properties": {
+        "feet": 10728,
+        "meters": 3270,
+        "latitude": 52.1694,
+        "longitude": -116.9775,
+        "name": "Cirrus Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.724788,
+          51.236933
+        ]
+      },
+      "properties": {
+        "feet": 9108,
+        "meters": 2776,
+        "latitude": 51.236933,
+        "longitude": -115.724788,
+        "name": "Cockscomb Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.558,
+          50.415
+        ]
+      },
+      "properties": {
+        "feet": 11060,
+        "meters": 3371,
+        "latitude": 50.415,
+        "longitude": -116.558,
+        "name": "Commander Mountain",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.434307,
+          51.62537
+        ]
+      },
+      "properties": {
+        "feet": 10007,
+        "meters": 3050,
+        "latitude": 51.62537,
+        "longitude": -116.434307,
+        "name": "Crowfoot Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.574013,
+          49.704944
+        ]
+      },
+      "properties": {
+        "feet": 9137,
+        "meters": 2785,
+        "latitude": 49.704944,
+        "longitude": -114.574013,
+        "name": "Crowsnest Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.781944,
+          50.248333
+        ]
+      },
+      "properties": {
+        "feet": 8364,
+        "meters": 2549,
+        "latitude": 50.248333,
+        "longitude": -122.781944,
+        "name": "Currie",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.854,
+          50.0693
+        ]
+      },
+      "properties": {
+        "feet": 7943,
+        "meters": 2421,
+        "latitude": 50.0693,
+        "longitude": -122.854,
+        "name": "Decker Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.245737,
+          51.301428
+        ]
+      },
+      "properties": {
+        "feet": 11233,
+        "meters": 3424,
+        "latitude": 51.301428,
+        "longitude": -116.245737,
+        "name": "Deltaform",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.422132,
+          52.310315
+        ]
+      },
+      "properties": {
+        "feet": 11060,
+        "meters": 3371,
+        "latitude": 52.310315,
+        "longitude": -117.422132,
+        "name": "Diadem Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.375,
+          51.675
+        ]
+      },
+      "properties": {
+        "feet": 9127,
+        "meters": 2782,
+        "latitude": 51.675,
+        "longitude": -116.375,
+        "name": "Dolomite Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.45959,
+          51.27646
+        ]
+      },
+      "properties": {
+        "feet": 9363,
+        "meters": 2854,
+        "latitude": 51.27646,
+        "longitude": -117.45959,
+        "name": "Eagle Peak",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.235352,
+          51.332113
+        ]
+      },
+      "properties": {
+        "feet": 10118,
+        "meters": 3084,
+        "latitude": 51.332113,
+        "longitude": -116.235352,
+        "name": "Eiffel Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.922413,
+          51.299711
+        ]
+      },
+      "properties": {
+        "feet": 9029,
+        "meters": 2752,
+        "latitude": 51.299711,
+        "longitude": -115.922413,
+        "name": "Eisenhower Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.801643,
+          49.113096
+        ]
+      },
+      "properties": {
+        "feet": 4400,
+        "meters": 1341,
+        "latitude": 49.113096,
+        "longitude": -121.801643,
+        "name": "Elk Thurston Ridge",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.027,
+          50.665
+        ]
+      },
+      "properties": {
+        "feet": 9961,
+        "meters": 3036,
+        "latitude": 50.665,
+        "longitude": -115.027,
+        "name": "Elpoca Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.735058,
+          51.865998
+        ]
+      },
+      "properties": {
+        "feet": 10154,
+        "meters": 3095,
+        "latitude": 51.865998,
+        "longitude": -116.735058,
+        "name": "Epaulette Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.223421,
+          51.399152
+        ]
+      },
+      "properties": {
+        "feet": 9003,
+        "meters": 2744,
+        "latitude": 51.399152,
+        "longitude": -116.223421,
+        "name": "Fairview Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.163597,
+          51.297457
+        ]
+      },
+      "properties": {
+        "feet": 10610,
+        "meters": 3234,
+        "latitude": 51.297457,
+        "longitude": -116.163597,
+        "name": "Fay",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331,
+          50.9768
+        ]
+      },
+      "properties": {
+        "feet": 8670,
+        "meters": 2643,
+        "latitude": 50.9768,
+        "longitude": -117.331,
+        "name": "Foremast",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.239,
+          50.8278
+        ]
+      },
+      "properties": {
+        "feet": 9842,
+        "meters": 3000,
+        "latitude": 50.8278,
+        "longitude": -115.239,
+        "name": "Fortress, The",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.072161,
+          49.00449
+        ]
+      },
+      "properties": {
+        "feet": 7922,
+        "meters": 2415,
+        "latitude": 49.00449,
+        "longitude": -114.072161,
+        "name": "Forum Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.414394,
+          51.210432
+        ]
+      },
+      "properties": {
+        "feet": 11565,
+        "meters": 3525,
+        "latitude": 51.210432,
+        "longitude": -116.414394,
+        "name": "Goodsir Towers North",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7833,
+          49.5833
+        ]
+      },
+      "properties": {
+        "feet": 2648,
+        "meters": 807,
+        "latitude": 49.5833,
+        "longitude": -57.7833,
+        "name": "Gros Morne",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.267,
+          51.0833
+        ]
+      },
+      "properties": {
+        "feet": 8878,
+        "meters": 2706,
+        "latitude": 51.0833,
+        "longitude": -115.267,
+        "name": "Grotto Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.263,
+          50.83
+        ]
+      },
+      "properties": {
+        "feet": 9843,
+        "meters": 3000,
+        "latitude": 50.83,
+        "longitude": -115.263,
+        "name": "Gusty Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.433,
+          51.0333
+        ]
+      },
+      "properties": {
+        "feet": 7897,
+        "meters": 2407,
+        "latitude": 51.0333,
+        "longitude": -115.433,
+        "name": "Ha Ling Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.571121,
+          51.65062
+        ]
+      },
+      "properties": {
+        "feet": 10082,
+        "meters": 3073,
+        "latitude": 51.65062,
+        "longitude": -116.571121,
+        "name": "Habel",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.236296,
+          51.382067
+        ]
+      },
+      "properties": {
+        "feet": 10072,
+        "meters": 3070,
+        "latitude": 51.382067,
+        "longitude": -116.236296,
+        "name": "Haddo Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.132771,
+          51.037994
+        ]
+      },
+      "properties": {
+        "feet": 7005,
+        "meters": 2135,
+        "latitude": 51.037994,
+        "longitude": -115.132771,
+        "name": "Heart Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.177086,
+          52.191088
+        ]
+      },
+      "properties": {
+        "feet": 10039,
+        "meters": 3060,
+        "latitude": 52.191088,
+        "longitude": -117.177086,
+        "name": "Hilda Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.682,
+          51.8133
+        ]
+      },
+      "properties": {
+        "feet": 10810,
+        "meters": 3295,
+        "latitude": 51.8133,
+        "longitude": -116.682,
+        "name": "Howse Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.339697,
+          54.811691
+        ]
+      },
+      "properties": {
+        "feet": 8494,
+        "meters": 2589,
+        "latitude": 54.811691,
+        "longitude": -127.339697,
+        "name": "Hudson Bay Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.756,
+          51.879
+        ]
+      },
+      "properties": {
+        "feet": 10200,
+        "meters": 3109,
+        "latitude": 51.879,
+        "longitude": -116.756,
+        "name": "Kaufmann Peaks",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.653,
+          60.5825
+        ]
+      },
+      "properties": {
+        "feet": 16971,
+        "meters": 5173,
+        "latitude": 60.5825,
+        "longitude": -140.653,
+        "name": "King Peak",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.331726,
+          51.025093
+        ]
+      },
+      "properties": {
+        "feet": 8839,
+        "meters": 2694,
+        "latitude": 51.025093,
+        "longitude": -115.331726,
+        "name": "Little Sister",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4625,
+          49.0375
+        ]
+      },
+      "properties": {
+        "feet": 7300,
+        "meters": 2225,
+        "latitude": 49.0375,
+        "longitude": -121.4625,
+        "name": "Macdonald Peak",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.321,
+          50.9823
+        ]
+      },
+      "properties": {
+        "feet": 9200,
+        "meters": 2804,
+        "latitude": 50.9823,
+        "longitude": -117.321,
+        "name": "Mainmast",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.341167,
+          51.021854
+        ]
+      },
+      "properties": {
+        "feet": 9085,
+        "meters": 2769,
+        "latitude": 51.021854,
+        "longitude": -115.341167,
+        "name": "Middle Sister",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.909697,
+          50.554398
+        ]
+      },
+      "properties": {
+        "feet": 10302,
+        "meters": 3140,
+        "latitude": 50.554398,
+        "longitude": -114.909697,
+        "name": "Mist Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.876287,
+          51.899443
+        ]
+      },
+      "properties": {
+        "feet": 11663,
+        "meters": 3555,
+        "latitude": 51.899443,
+        "longitude": -125.876287,
+        "name": "Monarch Mountain",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.392006,
+          52.582296
+        ]
+      },
+      "properties": {
+        "feet": 10561,
+        "meters": 3219,
+        "latitude": 52.582296,
+        "longitude": -117.392006,
+        "name": "Monkhead",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.163874,
+          48.929887
+        ]
+      },
+      "properties": {
+        "feet": 3570,
+        "meters": 1088,
+        "latitude": 48.929887,
+        "longitude": -66.163874,
+        "name": "Mont Albert (nord)",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.687867,
+          48.876094
+        ]
+      },
+      "properties": {
+        "feet": 3399,
+        "meters": 1036,
+        "latitude": 48.876094,
+        "longitude": -66.687867,
+        "name": "Mont Collins",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.867138,
+          45.301335
+        ]
+      },
+      "properties": {
+        "feet": 3914,
+        "meters": 1193,
+        "latitude": 45.301335,
+        "longitude": -70.867138,
+        "name": "Mont Gosford",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7167,
+          58.7167
+        ]
+      },
+      "properties": {
+        "feet": 5420,
+        "meters": 1652,
+        "latitude": 58.7167,
+        "longitude": -63.7167,
+        "name": "Mont Iberville",
+        "regions": [
+          "North American Plains",
+          "Canadian Shield"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.948393,
+          48.987655
+        ]
+      },
+      "properties": {
+        "feet": 4167,
+        "meters": 1270,
+        "latitude": 48.987655,
+        "longitude": -65.948393,
+        "name": "Mont Jacques Cartier",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.018259,
+          48.947283
+        ]
+      },
+      "properties": {
+        "feet": 3543,
+        "meters": 1080,
+        "latitude": 48.947283,
+        "longitude": -66.018259,
+        "name": "Mont Joseph Fortin",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.152525,
+          45.455736
+        ]
+      },
+      "properties": {
+        "feet": 3625,
+        "meters": 1105,
+        "latitude": 45.455736,
+        "longitude": -71.152525,
+        "name": "Mont Mégantic",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.016374,
+          48.927462
+        ]
+      },
+      "properties": {
+        "feet": 3871,
+        "meters": 1180,
+        "latitude": 48.927462,
+        "longitude": -66.016374,
+        "name": "Mont Richardson",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.011996,
+          48.964047
+        ]
+      },
+      "properties": {
+        "feet": 3740,
+        "meters": 1140,
+        "latitude": 48.964047,
+        "longitude": -66.011996,
+        "name": "Mont Xalibu",
+        "regions": [
+          "Appalachian Mountains",
+          "Canadian Appalachians"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.247625,
+          51.37987
+        ]
+      },
+      "properties": {
+        "feet": 10341,
+        "meters": 3152,
+        "latitude": 51.37987,
+        "longitude": -116.247625,
+        "name": "Mount Aberdeen",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.417,
+          49.6667
+        ]
+      },
+      "properties": {
+        "feet": 6870,
+        "meters": 2094,
+        "latitude": 49.6667,
+        "longitude": -125.417,
+        "name": "Mount Albert Edward",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.476463,
+          52.288008
+        ]
+      },
+      "properties": {
+        "feet": 11874,
+        "meters": 3619,
+        "latitude": 52.288008,
+        "longitude": -117.476463,
+        "name": "Mount Alberta",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.224781,
+          50.959075
+        ]
+      },
+      "properties": {
+        "feet": 9249,
+        "meters": 2819,
+        "latitude": 50.959075,
+        "longitude": -115.224781,
+        "name": "Mount Allan",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22,
+          51.2908
+        ]
+      },
+      "properties": {
+        "feet": 10860,
+        "meters": 3310,
+        "latitude": 51.2908,
+        "longitude": -116.22,
+        "name": "Mount Allen",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.238798,
+          52.174195
+        ]
+      },
+      "properties": {
+        "feet": 11320,
+        "meters": 3450,
+        "latitude": 52.174195,
+        "longitude": -117.238798,
+        "name": "Mount Andromeda",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6,
+          49.2167
+        ]
+      },
+      "properties": {
+        "feet": 5968,
+        "meters": 1819,
+        "latitude": 49.2167,
+        "longitude": -124.6,
+        "name": "Mount Arrowsmith",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2666,
+          66.671135
+        ]
+      },
+      "properties": {
+        "feet": 6598,
+        "meters": 2011,
+        "latitude": 66.671135,
+        "longitude": -65.2666,
+        "name": "Mount Asgard",
+        "regions": [
+          "North American Arctic Islands",
+          "Baffin Island"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.65,
+          50.8667
+        ]
+      },
+      "properties": {
+        "feet": 11870,
+        "meters": 3618,
+        "latitude": 50.8667,
+        "longitude": -115.65,
+        "name": "Mount Assiniboine",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.201548,
+          52.180353
+        ]
+      },
+      "properties": {
+        "feet": 11452,
+        "meters": 3491,
+        "latitude": 52.180353,
+        "longitude": -117.201548,
+        "name": "Mount Athabasca",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1633,
+          51.305556
+        ]
+      },
+      "properties": {
+        "feet": 10174,
+        "meters": 3101,
+        "latitude": 51.305556,
+        "longitude": -116.1633,
+        "name": "Mount Babel",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.049515,
+          51.012135
+        ]
+      },
+      "properties": {
+        "feet": 7192,
+        "meters": 2192,
+        "latitude": 51.012135,
+        "longitude": -115.049515,
+        "name": "Mount Baldy",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.466064,
+          51.565333
+        ]
+      },
+      "properties": {
+        "feet": 10735,
+        "meters": 3272,
+        "latitude": 51.565333,
+        "longitude": -116.466064,
+        "name": "Mount Balfour",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.008,
+          51.1569
+        ]
+      },
+      "properties": {
+        "feet": 10863,
+        "meters": 3311,
+        "latitude": 51.1569,
+        "longitude": -116.008,
+        "name": "Mount Ball",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2558,
+          50.8848
+        ]
+      },
+      "properties": {
+        "feet": 8963,
+        "meters": 2732,
+        "latitude": 50.8848,
+        "longitude": -118.2558,
+        "name": "Mount Begbie",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1014,
+          51.2847
+        ]
+      },
+      "properties": {
+        "feet": 9626,
+        "meters": 2934,
+        "latitude": 51.2847,
+        "longitude": -116.1014,
+        "name": "Mount Bell",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.36778,
+          50.78472
+        ]
+      },
+      "properties": {
+        "feet": 10161,
+        "meters": 3097,
+        "latitude": 50.78472,
+        "longitude": -115.36778,
+        "name": "Mount Birdwood",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.035,
+          49.0933
+        ]
+      },
+      "properties": {
+        "feet": 9547,
+        "meters": 2910,
+        "latitude": 49.0933,
+        "longitude": -114.035,
+        "name": "Mount Blakiston",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.073,
+          50.7267
+        ]
+      },
+      "properties": {
+        "feet": 9820,
+        "meters": 2993,
+        "latitude": 50.7267,
+        "longitude": -115.073,
+        "name": "Mount Blane",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.242,
+          50.9083
+        ]
+      },
+      "properties": {
+        "feet": 10315,
+        "meters": 3144,
+        "latitude": 50.9083,
+        "longitude": -115.242,
+        "name": "Mount Bogart",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.581389,
+          49.853889
+        ]
+      },
+      "properties": {
+        "feet": 2487,
+        "meters": 758,
+        "latitude": 49.853889,
+        "longitude": -119.581389,
+        "name": "Mount Boucherie",
+        "regions": [
+          "Intermountain West",
+          "British Columbia Interior"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.775,
+          51.132
+        ]
+      },
+      "properties": {
+        "feet": 9613,
+        "meters": 2930,
+        "latitude": 51.132,
+        "longitude": -115.775,
+        "name": "Mount Bourgeau",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1889,
+          51.3009
+        ]
+      },
+      "properties": {
+        "feet": 10079,
+        "meters": 3072,
+        "latitude": 51.3009,
+        "longitude": -116.1889,
+        "name": "Mount Bowlen",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.82,
+          51.1617
+        ]
+      },
+      "properties": {
+        "feet": 9790,
+        "meters": 2984,
+        "latitude": 51.1617,
+        "longitude": -115.82,
+        "name": "Mount Brett",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.082,
+          50.7367
+        ]
+      },
+      "properties": {
+        "feet": 9521,
+        "meters": 2902,
+        "latitude": 50.7367,
+        "longitude": -115.082,
+        "name": "Mount Brock",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.329779,
+          52.041036
+        ]
+      },
+      "properties": {
+        "feet": 11506,
+        "meters": 3507,
+        "latitude": 52.041036,
+        "longitude": -117.329779,
+        "name": "Mount Bryce",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.315,
+          50.8917
+        ]
+      },
+      "properties": {
+        "feet": 9186,
+        "meters": 2800,
+        "latitude": 50.8917,
+        "longitude": -115.315,
+        "name": "Mount Buller",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.062,
+          50.71
+        ]
+      },
+      "properties": {
+        "feet": 9626,
+        "meters": 2934,
+        "latitude": 50.71,
+        "longitude": -115.062,
+        "name": "Mount Burney",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.325,
+          50.7723
+        ]
+      },
+      "properties": {
+        "feet": 8989,
+        "meters": 2740,
+        "latitude": 50.7723,
+        "longitude": -115.325,
+        "name": "Mount Burstall",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6,
+          58.8833
+        ]
+      },
+      "properties": {
+        "feet": 5420,
+        "meters": 1652,
+        "latitude": 58.8833,
+        "longitude": -63.6,
+        "name": "Mount Caubvik",
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.572395,
+          50.907363
+        ]
+      },
+      "properties": {
+        "feet": 9357,
+        "meters": 2852,
+        "latitude": 50.907363,
+        "longitude": -115.572395,
+        "name": "Mount Cautley",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.682056,
+          49.186728
+        ]
+      },
+      "properties": {
+        "feet": 6903,
+        "meters": 2104,
+        "latitude": 49.186728,
+        "longitude": -121.682056,
+        "name": "Mount Cheam",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.681671,
+          51.840126
+        ]
+      },
+      "properties": {
+        "feet": 10741,
+        "meters": 3274,
+        "latitude": 51.840126,
+        "longitude": -116.681671,
+        "name": "Mount Chephren",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.267,
+          50.8
+        ]
+      },
+      "properties": {
+        "feet": 10020,
+        "meters": 3054,
+        "latitude": 50.8,
+        "longitude": -115.267,
+        "name": "Mount Chester",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.958488,
+          52.248193
+        ]
+      },
+      "properties": {
+        "feet": 12001,
+        "meters": 3658,
+        "latitude": 52.248193,
+        "longitude": -117.958488,
+        "name": "Mount Clemenceau",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.231516,
+          52.710195
+        ]
+      },
+      "properties": {
+        "feet": 9167,
+        "meters": 2794,
+        "latitude": 52.710195,
+        "longitude": -118.231516,
+        "name": "Mount Clitheroe",
+        "regions": [
+          "Rocky Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.583,
+          49.2333
+        ]
+      },
+      "properties": {
+        "feet": 5184,
+        "meters": 1580,
+        "latitude": 49.2333,
+        "longitude": -124.583,
+        "name": "Mount Cokely",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.436209,
+          52.14879
+        ]
+      },
+      "properties": {
+        "feet": 12294,
+        "meters": 3747,
+        "latitude": 52.14879,
+        "longitude": -117.436209,
+        "name": "Mount Columbia",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.947,
+          50.7383
+        ]
+      },
+      "properties": {
+        "feet": 9744,
+        "meters": 2970,
+        "latitude": 50.7383,
+        "longitude": -114.947,
+        "name": "Mount Cornwall",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.689,
+          51.2014
+        ]
+      },
+      "properties": {
+        "feet": 9193,
+        "meters": 2802,
+        "latitude": 51.2014,
+        "longitude": -115.689,
+        "name": "Mount Cory",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.927622,
+          49.077296
+        ]
+      },
+      "properties": {
+        "feet": 7812,
+        "meters": 2381,
+        "latitude": 49.077296,
+        "longitude": -113.927622,
+        "name": "Mount Crandell",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.393551,
+          52.268788
+        ]
+      },
+      "properties": {
+        "feet": 10925,
+        "meters": 3330,
+        "latitude": 52.268788,
+        "longitude": -117.393551,
+        "name": "Mount Cromwell",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.39534,
+          51.518678
+        ]
+      },
+      "properties": {
+        "feet": 10341,
+        "meters": 3152,
+        "latitude": 51.518678,
+        "longitude": -116.39534,
+        "name": "Mount Daly",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.453,
+          50.465
+        ]
+      },
+      "properties": {
+        "feet": 11175,
+        "meters": 3406,
+        "latitude": 50.465,
+        "longitude": -116.453,
+        "name": "Mount Delphine",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.056507,
+          52.667378
+        ]
+      },
+      "properties": {
+        "feet": 11033,
+        "meters": 3363,
+        "latitude": 52.667378,
+        "longitude": -118.056507,
+        "name": "Mount Edith Cavell",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.668,
+          51.2069
+        ]
+      },
+      "properties": {
+        "feet": 8379,
+        "meters": 2554,
+        "latitude": 51.2069,
+        "longitude": -115.668,
+        "name": "Mount Edith",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.312,
+          50.865
+        ]
+      },
+      "properties": {
+        "feet": 9751,
+        "meters": 2972,
+        "latitude": 50.865,
+        "longitude": -115.312,
+        "name": "Mount Engadine",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.098,
+          50.7633
+        ]
+      },
+      "properties": {
+        "feet": 10164,
+        "meters": 3098,
+        "latitude": 50.7633,
+        "longitude": -115.098,
+        "name": "Mount Evan-Thomas",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.226,
+          51.1175
+        ]
+      },
+      "properties": {
+        "feet": 8865,
+        "meters": 2702,
+        "latitude": 51.1175,
+        "longitude": -115.226,
+        "name": "Mount Fable",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.487,
+          50.4883
+        ]
+      },
+      "properties": {
+        "feet": 11460,
+        "meters": 3493,
+        "latitude": 50.4883,
+        "longitude": -116.487,
+        "name": "Mount Farnham",
+        "regions": [
+          "Intermountain West",
+          "British Columbia Interior"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.932125,
+          51.860168
+        ]
+      },
+      "properties": {
+        "feet": 11850,
+        "meters": 3612,
+        "latitude": 51.860168,
+        "longitude": -116.932125,
+        "name": "Mount Forbes",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.847549,
+          49.012654
+        ]
+      },
+      "properties": {
+        "feet": 7900,
+        "meters": 2408,
+        "latitude": 49.012654,
+        "longitude": -120.847549,
+        "name": "Mount Frosty",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.275,
+          50.8389
+        ]
+      },
+      "properties": {
+        "feet": 10449,
+        "meters": 3185,
+        "latitude": 50.8389,
+        "longitude": -115.275,
+        "name": "Mount Galatea",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.004818,
+          49.850657
+        ]
+      },
+      "properties": {
+        "feet": 8786,
+        "meters": 2678,
+        "latitude": 49.850657,
+        "longitude": -123.004818,
+        "name": "Mount Garibaldi",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.404511,
+          51.236987
+        ]
+      },
+      "properties": {
+        "feet": 9826,
+        "meters": 2995,
+        "latitude": 51.236987,
+        "longitude": -115.404511,
+        "name": "Mount Girouard",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.93124,
+          50.756441
+        ]
+      },
+      "properties": {
+        "feet": 9629,
+        "meters": 2935,
+        "latitude": 50.756441,
+        "longitude": -114.93124,
+        "name": "Mount Glasgow",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.258526,
+          51.575576
+        ]
+      },
+      "properties": {
+        "feet": 11135,
+        "meters": 3394,
+        "latitude": 51.575576,
+        "longitude": -116.258526,
+        "name": "Mount Hector",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.088,
+          50.7467
+        ]
+      },
+      "properties": {
+        "feet": 9524,
+        "meters": 2903,
+        "latitude": 50.7467,
+        "longitude": -115.088,
+        "name": "Mount Hood",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.283,
+          51.3333
+        ]
+      },
+      "properties": {
+        "feet": 11457,
+        "meters": 3492,
+        "latitude": 51.3333,
+        "longitude": -116.283,
+        "name": "Mount Hungabee",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.167,
+          50.6528
+        ]
+      },
+      "properties": {
+        "feet": 8760,
+        "meters": 2670,
+        "latitude": 50.6528,
+        "longitude": -115.167,
+        "name": "Mount Indefatigable",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.207,
+          50.7817
+        ]
+      },
+      "properties": {
+        "feet": 9843,
+        "meters": 3000,
+        "latitude": 50.7817,
+        "longitude": -115.207,
+        "name": "Mount Inflexible",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4217,
+          51.2417
+        ]
+      },
+      "properties": {
+        "feet": 9724,
+        "meters": 2964,
+        "latitude": 51.2417,
+        "longitude": -115.4217,
+        "name": "Mount Inglismaldie",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.192,
+          50.6669
+        ]
+      },
+      "properties": {
+        "feet": 8858,
+        "meters": 2700,
+        "latitude": 50.6669,
+        "longitude": -115.192,
+        "name": "Mount Invincible",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.774741,
+          51.265835
+        ]
+      },
+      "properties": {
+        "feet": 9541,
+        "meters": 2908,
+        "latitude": 51.265835,
+        "longitude": -115.774741,
+        "name": "Mount Ishbel",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.22,
+          50.805
+        ]
+      },
+      "properties": {
+        "feet": 9957,
+        "meters": 3035,
+        "latitude": 50.805,
+        "longitude": -115.22,
+        "name": "Mount James Walker",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.049,
+          50.7003
+        ]
+      },
+      "properties": {
+        "feet": 9829,
+        "meters": 2996,
+        "latitude": 50.7003,
+        "longitude": -115.049,
+        "name": "Mount Jerram",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.505117,
+          51.684796
+        ]
+      },
+      "properties": {
+        "feet": 9700,
+        "meters": 2957,
+        "latitude": 51.684796,
+        "longitude": -116.505117,
+        "name": "Mount Jimmy Simpson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.207443,
+          50.527942
+        ]
+      },
+      "properties": {
+        "feet": 11316,
+        "meters": 3449,
+        "latitude": 50.527942,
+        "longitude": -115.207443,
+        "name": "Mount Joffre",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8267,
+          52.6483
+        ]
+      },
+      "properties": {
+        "feet": 9790,
+        "meters": 2984,
+        "latitude": 52.6483,
+        "longitude": -117.8267,
+        "name": "Mount Kerkeslin",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.19002,
+          50.893938
+        ]
+      },
+      "properties": {
+        "feet": 9705,
+        "meters": 2958,
+        "latitude": 50.893938,
+        "longitude": -115.19002,
+        "name": "Mount Kidd",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.321281,
+          52.215706
+        ]
+      },
+      "properties": {
+        "feet": 11500,
+        "meters": 3505,
+        "latitude": 52.215706,
+        "longitude": -117.321281,
+        "name": "Mount Kitchener",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.317,
+          51.1167
+        ]
+      },
+      "properties": {
+        "feet": 8546,
+        "meters": 2605,
+        "latitude": 51.1167,
+        "longitude": -115.317,
+        "name": "Mount Lady MacDonald",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3917,
+          51.0533
+        ]
+      },
+      "properties": {
+        "feet": 8799,
+        "meters": 2682,
+        "latitude": 51.0533,
+        "longitude": -115.3917,
+        "name": "Mount Lawrence Grassi",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada",
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.19,
+          50.7667
+        ]
+      },
+      "properties": {
+        "feet": 9170,
+        "meters": 2795,
+        "latitude": 50.7667,
+        "longitude": -115.19,
+        "name": "Mount Lawson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.278439,
+          51.36176
+        ]
+      },
+      "properties": {
+        "feet": 11220,
+        "meters": 3420,
+        "latitude": 51.36176,
+        "longitude": -116.278439,
+        "name": "Mount Lefroy",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1833,
+          51.2944
+        ]
+      },
+      "properties": {
+        "feet": 10131,
+        "meters": 3088,
+        "latitude": 51.2944,
+        "longitude": -116.1833,
+        "name": "Mount Little",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.4,
+          60.5667
+        ]
+      },
+      "properties": {
+        "feet": 19550,
+        "meters": 5959,
+        "latitude": 60.5667,
+        "longitude": -140.4,
+        "name": "Mount Logan",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.262,
+          50.965
+        ]
+      },
+      "properties": {
+        "feet": 10194,
+        "meters": 3107,
+        "latitude": 50.965,
+        "longitude": -115.262,
+        "name": "Mount Lougheed",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.467,
+          61.0167
+        ]
+      },
+      "properties": {
+        "feet": 17147,
+        "meters": 5226,
+        "latitude": 61.0167,
+        "longitude": -140.467,
+        "name": "Mount Lucania",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.083,
+          52.6167
+        ]
+      },
+      "properties": {
+        "feet": 7041,
+        "meters": 2146,
+        "latitude": 52.6167,
+        "longitude": -126.083,
+        "name": "Mount Mackenzie",
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304,
+          50.2798
+        ]
+      },
+      "properties": {
+        "feet": 8973,
+        "meters": 2735,
+        "latitude": 50.2798,
+        "longitude": -122.304,
+        "name": "Mount Marriott",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433,
+          50.3167
+        ]
+      },
+      "properties": {
+        "feet": 9130,
+        "meters": 2783,
+        "latitude": 50.3167,
+        "longitude": -122.433,
+        "name": "Mount Matier",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.682394,
+          60.71624
+        ]
+      },
+      "properties": {
+        "feet": 9908,
+        "meters": 3020,
+        "latitude": 60.71624,
+        "longitude": -138.682394,
+        "name": "Mount Maxwell",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.674805,
+          51.93347
+        ]
+      },
+      "properties": {
+        "feet": 10935,
+        "meters": 3333,
+        "latitude": 51.93347,
+        "longitude": -116.674805,
+        "name": "Mount Murchison",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6867,
+          55.4567
+        ]
+      },
+      "properties": {
+        "feet": 5968,
+        "meters": 1819,
+        "latitude": 55.4567,
+        "longitude": -122.6867,
+        "name": "Mount Murray",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.365,
+          50.9283
+        ]
+      },
+      "properties": {
+        "feet": 9744,
+        "meters": 2970,
+        "latitude": 50.9283,
+        "longitude": -115.365,
+        "name": "Mount Nestor",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.272087,
+          51.417088
+        ]
+      },
+      "properties": {
+        "feet": 9764,
+        "meters": 2976,
+        "latitude": 51.417088,
+        "longitude": -116.272087,
+        "name": "Mount Niblock",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.491985,
+          51.611514
+        ]
+      },
+      "properties": {
+        "feet": 10502,
+        "meters": 3201,
+        "latitude": 51.611514,
+        "longitude": -116.491985,
+        "name": "Mount Olive",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.092,
+          50.7533
+        ]
+      },
+      "properties": {
+        "feet": 9843,
+        "meters": 3000,
+        "latitude": 50.7533,
+        "longitude": -115.092,
+        "name": "Mount Packenham",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.575241,
+          51.746376
+        ]
+      },
+      "properties": {
+        "feet": 10489,
+        "meters": 3197,
+        "latitude": 51.746376,
+        "longitude": -116.575241,
+        "name": "Mount Patterson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4308,
+          52.6155
+        ]
+      },
+      "properties": {
+        "feet": 9432,
+        "meters": 2875,
+        "latitude": 52.6155,
+        "longitude": -117.4308,
+        "name": "Mount Paul",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3767,
+          51.21
+        ]
+      },
+      "properties": {
+        "feet": 9626,
+        "meters": 2934,
+        "latitude": 51.21,
+        "longitude": -115.3767,
+        "name": "Mount Peechee",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.20883,
+          51.296008
+        ]
+      },
+      "properties": {
+        "feet": 10010,
+        "meters": 3051,
+        "latitude": 51.296008,
+        "longitude": -116.20883,
+        "name": "Mount Perren",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.148346,
+          52.951327
+        ]
+      },
+      "properties": {
+        "feet": 9678,
+        "meters": 2950,
+        "latitude": 52.951327,
+        "longitude": -118.148346,
+        "name": "Mount Pyramid",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.974,
+          50.6223
+        ]
+      },
+      "properties": {
+        "feet": 10558,
+        "meters": 3218,
+        "latitude": 50.6223,
+        "longitude": -114.974,
+        "name": "Mount Rae",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.971,
+          50.7944
+        ]
+      },
+      "properties": {
+        "feet": 8818,
+        "meters": 2688,
+        "latitude": 50.7944,
+        "longitude": -114.971,
+        "name": "Mount Remus",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.121626,
+          51.495011
+        ]
+      },
+      "properties": {
+        "feet": 10125,
+        "meters": 3086,
+        "latitude": 51.495011,
+        "longitude": -116.121626,
+        "name": "Mount Richardson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.321,
+          50.7264
+        ]
+      },
+      "properties": {
+        "feet": 10423,
+        "meters": 3177,
+        "latitude": 50.7264,
+        "longitude": -115.321,
+        "name": "Mount Robertson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.15,
+          53.1167
+        ]
+      },
+      "properties": {
+        "feet": 12972,
+        "meters": 3954,
+        "latitude": 53.1167,
+        "longitude": -119.15,
+        "name": "Mount Robson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.541351,
+          51.354738
+        ]
+      },
+      "properties": {
+        "feet": 10397,
+        "meters": 3169,
+        "latitude": 51.354738,
+        "longitude": -117.541351,
+        "name": "Mount Rogers",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.993,
+          50.7883
+        ]
+      },
+      "properties": {
+        "feet": 9291,
+        "meters": 2832,
+        "latitude": 50.7883,
+        "longitude": -114.993,
+        "name": "Mount Romulus",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.494118,
+          51.147371
+        ]
+      },
+      "properties": {
+        "feet": 9675,
+        "meters": 2949,
+        "latitude": 51.147371,
+        "longitude": -115.494118,
+        "name": "Mount Rundle",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.767,
+          51.8917
+        ]
+      },
+      "properties": {
+        "feet": 10351,
+        "meters": 3155,
+        "latitude": 51.8917,
+        "longitude": -116.767,
+        "name": "Mount Sarbach",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.167532,
+          50.58013
+        ]
+      },
+      "properties": {
+        "feet": 10411,
+        "meters": 3173,
+        "latitude": 50.58013,
+        "longitude": -115.167532,
+        "name": "Mount Sarrail",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.091556,
+          52.099256
+        ]
+      },
+      "properties": {
+        "feet": 10965,
+        "meters": 3342,
+        "latitude": 52.099256,
+        "longitude": -117.091556,
+        "name": "Mount Saskatchewan",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.41,
+          50.8281
+        ]
+      },
+      "properties": {
+        "feet": 9140,
+        "meters": 2786,
+        "latitude": 50.8281,
+        "longitude": -115.41,
+        "name": "Mount Shark",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43183,
+          51.26315
+        ]
+      },
+      "properties": {
+        "feet": 10818,
+        "meters": 3297,
+        "latitude": 51.26315,
+        "longitude": -117.43183,
+        "name": "Mount Sir Donald",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.339,
+          50.7222
+        ]
+      },
+      "properties": {
+        "feet": 11191,
+        "meters": 3411,
+        "latitude": 50.7222,
+        "longitude": -115.339,
+        "name": "Mount Sir Douglas",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.387,
+          50.8069
+        ]
+      },
+      "properties": {
+        "feet": 9639,
+        "meters": 2938,
+        "latitude": 50.8069,
+        "longitude": -115.387,
+        "name": "Mount Smuts",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.264778,
+          50.940636
+        ]
+      },
+      "properties": {
+        "feet": 10239,
+        "meters": 3121,
+        "latitude": 50.940636,
+        "longitude": -115.264778,
+        "name": "Mount Sparrowhawk",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.253033,
+          51.421316
+        ]
+      },
+      "properties": {
+        "feet": 8691,
+        "meters": 2649,
+        "latitude": 51.421316,
+        "longitude": -116.253033,
+        "name": "Mount St. Piran",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.329389,
+          49.818111
+        ]
+      },
+      "properties": {
+        "feet": 8540,
+        "meters": 2603,
+        "latitude": 49.818111,
+        "longitude": -123.329389,
+        "name": "Mount Tantalus",
+        "regions": [
+          "Pacific Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.206083,
+          51.350986
+        ]
+      },
+      "properties": {
+        "feet": 11626,
+        "meters": 3544,
+        "latitude": 51.350986,
+        "longitude": -116.206083,
+        "name": "Mount Temple",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.523056,
+          51.663611
+        ]
+      },
+      "properties": {
+        "feet": 10118,
+        "meters": 3084,
+        "latitude": 51.663611,
+        "longitude": -116.523056,
+        "name": "Mount Thompson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.833,
+          50.3
+        ]
+      },
+      "properties": {
+        "feet": 8800,
+        "meters": 2682,
+        "latitude": 50.3,
+        "longitude": -123.833,
+        "name": "Mount Tinniswood",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4967,
+          51.3367
+        ]
+      },
+      "properties": {
+        "feet": 9239,
+        "meters": 2816,
+        "latitude": 51.3367,
+        "longitude": -117.4967,
+        "name": "Mount Tupper",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.228399,
+          51.301616
+        ]
+      },
+      "properties": {
+        "feet": 10650,
+        "meters": 3246,
+        "latitude": 51.301616,
+        "longitude": -116.228399,
+        "name": "Mount Tuzo",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.015,
+          50.582
+        ]
+      },
+      "properties": {
+        "feet": 9429,
+        "meters": 2874,
+        "latitude": 50.582,
+        "longitude": -115.015,
+        "name": "Mount Tyrwhitt",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5278,
+          52.6097
+        ]
+      },
+      "properties": {
+        "feet": 10722,
+        "meters": 3268,
+        "latitude": 52.6097,
+        "longitude": -117.5278,
+        "name": "Mount Unwin",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.683333,
+          60.333333
+        ]
+      },
+      "properties": {
+        "feet": 15777,
+        "meters": 4809,
+        "latitude": 60.333333,
+        "longitude": -139.683333,
+        "name": "Mount Vancouver",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.307106,
+          51.376924
+        ]
+      },
+      "properties": {
+        "feet": 11365,
+        "meters": 3464,
+        "latitude": 51.376924,
+        "longitude": -116.307106,
+        "name": "Mount Victoria",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.233,
+          51.3667
+        ]
+      },
+      "properties": {
+        "feet": 13177,
+        "meters": 4016,
+        "latitude": 51.3667,
+        "longitude": -125.233,
+        "name": "Mount Waddington",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.216,
+          50.6808
+        ]
+      },
+      "properties": {
+        "feet": 9350,
+        "meters": 2850,
+        "latitude": 50.6808,
+        "longitude": -115.216,
+        "name": "Mount Warspite",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.527605,
+          51.791736
+        ]
+      },
+      "properties": {
+        "feet": 10105,
+        "meters": 3080,
+        "latitude": 51.791736,
+        "longitude": -116.527605,
+        "name": "Mount Weed",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.098537,
+          51.224142
+        ]
+      },
+      "properties": {
+        "feet": 9331,
+        "meters": 2844,
+        "latitude": 51.224142,
+        "longitude": -116.098537,
+        "name": "Mount Whymper",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.271572,
+          51.408308
+        ]
+      },
+      "properties": {
+        "feet": 9787,
+        "meters": 2983,
+        "latitude": 51.408308,
+        "longitude": -116.271572,
+        "name": "Mount Whyte",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.241459,
+          52.243884
+        ]
+      },
+      "properties": {
+        "feet": 9462,
+        "meters": 2884,
+        "latitude": 52.243884,
+        "longitude": -117.241459,
+        "name": "Mount Wilcox",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8005,
+          52.0192
+        ]
+      },
+      "properties": {
+        "feet": 10699,
+        "meters": 3261,
+        "latitude": 52.0192,
+        "longitude": -116.8005,
+        "name": "Mount Wilson",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.080714,
+          50.695289
+        ]
+      },
+      "properties": {
+        "feet": 8858,
+        "meters": 2700,
+        "latitude": 50.695289,
+        "longitude": -115.080714,
+        "name": "Mount Wintour",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.5119,
+          61.2327
+        ]
+      },
+      "properties": {
+        "feet": 15886,
+        "meters": 4842,
+        "latitude": 61.2327,
+        "longitude": -140.5119,
+        "name": "Mount Wood",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.426167,
+          52.297142
+        ]
+      },
+      "properties": {
+        "feet": 11171,
+        "meters": 3405,
+        "latitude": 52.297142,
+        "longitude": -117.426167,
+        "name": "Mount Woolley",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.117,
+          51.1236
+        ]
+      },
+      "properties": {
+        "feet": 7349,
+        "meters": 2240,
+        "latitude": 51.1236,
+        "longitude": -115.117,
+        "name": "Mount Yamnuska",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.455849,
+          60.302985
+        ]
+      },
+      "properties": {
+        "feet": 14072,
+        "meters": 4289,
+        "latitude": 60.302985,
+        "longitude": -140.455849,
+        "name": "Mt. Augusta",
+        "regions": [
+          "Alaska/Yukon Ranges",
+          "Saint Elias Mountains"
+        ],
+        "countries": [
+          "Canada",
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.397327,
+          52.311942
+        ]
+      },
+      "properties": {
+        "feet": 10531,
+        "meters": 3210,
+        "latitude": 52.311942,
+        "longitude": -117.397327,
+        "name": "Mushroom Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.171,
+          52.239
+        ]
+      },
+      "properties": {
+        "feet": 10535,
+        "meters": 3211,
+        "latitude": 52.239,
+        "longitude": -117.171,
+        "name": "Nigel Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.434664,
+          52.223961
+        ]
+      },
+      "properties": {
+        "feet": 12200,
+        "meters": 3719,
+        "latitude": 52.223961,
+        "longitude": -117.434664,
+        "name": "North Twin",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.467,
+          51.7333
+        ]
+      },
+      "properties": {
+        "feet": 10413,
+        "meters": 3174,
+        "latitude": 51.7333,
+        "longitude": -116.467,
+        "name": "Observation Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.381865,
+          51.358544
+        ]
+      },
+      "properties": {
+        "feet": 10364,
+        "meters": 3159,
+        "latitude": 51.358544,
+        "longitude": -116.381865,
+        "name": "Odaray Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3717,
+          50.94
+        ]
+      },
+      "properties": {
+        "feet": 10236,
+        "meters": 3120,
+        "latitude": 50.94,
+        "longitude": -115.3717,
+        "name": "Old Goat Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.365128,
+          51.45882
+        ]
+      },
+      "properties": {
+        "feet": 8399,
+        "meters": 2560,
+        "latitude": 51.45882,
+        "longitude": -116.365128,
+        "name": "Paget Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.565714,
+          51.684104
+        ]
+      },
+      "properties": {
+        "feet": 9744,
+        "meters": 2970,
+        "latitude": 51.684104,
+        "longitude": -116.565714,
+        "name": "Peyto Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.825,
+          51.1878
+        ]
+      },
+      "properties": {
+        "feet": 9692,
+        "meters": 2954,
+        "latitude": 51.1878,
+        "longitude": -115.825,
+        "name": "Pilot Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.294918,
+          51.402633
+        ]
+      },
+      "properties": {
+        "feet": 10377,
+        "meters": 3163,
+        "latitude": 51.402633,
+        "longitude": -116.294918,
+        "name": "Popes Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.152225,
+          51.287071
+        ]
+      },
+      "properties": {
+        "feet": 10410,
+        "meters": 3173,
+        "latitude": 51.287071,
+        "longitude": -116.152225,
+        "name": "Quadra Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.871,
+          50.9869
+        ]
+      },
+      "properties": {
+        "feet": 6847,
+        "meters": 2087,
+        "latitude": 50.9869,
+        "longitude": -118.871,
+        "name": "Queest Mountain",
+        "regions": [
+          "Intermountain West",
+          "British Columbia Interior"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.683,
+          50.0167
+        ]
+      },
+      "properties": {
+        "feet": 6151,
+        "meters": 1875,
+        "latitude": 50.0167,
+        "longitude": -126.683,
+        "name": "Rugged Mountain",
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.422,
+          51.0806
+        ]
+      },
+      "properties": {
+        "feet": 8500,
+        "meters": 2530,
+        "latitude": 51.0806,
+        "longitude": -115.422,
+        "name": "Rundle, East End of (EEOR)",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.208057,
+          51.393958
+        ]
+      },
+      "properties": {
+        "feet": 7995,
+        "meters": 2437,
+        "latitude": 51.393958,
+        "longitude": -116.208057,
+        "name": "Saddle Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.510967,
+          52.680129
+        ]
+      },
+      "properties": {
+        "feet": 10095,
+        "meters": 3077,
+        "latitude": 52.680129,
+        "longitude": -117.510967,
+        "name": "Samson Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.221275,
+          51.384209
+        ]
+      },
+      "properties": {
+        "feet": 9108,
+        "meters": 2776,
+        "latitude": 51.384209,
+        "longitude": -116.221275,
+        "name": "Sheol Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.598225,
+          49.026079
+        ]
+      },
+      "properties": {
+        "feet": 8002,
+        "meters": 2439,
+        "latitude": 49.026079,
+        "longitude": -121.598225,
+        "name": "Slesse",
+        "regions": [
+          "Pacific Ranges",
+          "Cascade Range"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9333,
+          53.9667
+        ]
+      },
+      "properties": {
+        "feet": 2750,
+        "meters": 838,
+        "latitude": 53.9667,
+        "longitude": -66.9333,
+        "name": "Smokey Mountains",
+        "regions": [
+          "North American Plains",
+          "Canadian Shield"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.317162,
+          52.189615
+        ]
+      },
+      "properties": {
+        "feet": 11549,
+        "meters": 3520,
+        "latitude": 52.189615,
+        "longitude": -117.317162,
+        "name": "Snow Dome",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.781944,
+          50.736389
+        ]
+      },
+      "properties": {
+        "feet": 10118,
+        "meters": 3084,
+        "latitude": 50.736389,
+        "longitude": -116.781944,
+        "name": "Snowpatch Spire",
+        "regions": [
+          "Intermountain West",
+          "Columbia Mountains"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.434921,
+          52.203872
+        ]
+      },
+      "properties": {
+        "feet": 11675,
+        "meters": 3549,
+        "latitude": 52.203872,
+        "longitude": -117.434921,
+        "name": "South Twin",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.501255,
+          51.626649
+        ]
+      },
+      "properties": {
+        "feet": 9744,
+        "meters": 2970,
+        "latitude": 51.626649,
+        "longitude": -116.501255,
+        "name": "St. Nicholas Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.054163,
+          51.170249
+        ]
+      },
+      "properties": {
+        "feet": 10351,
+        "meters": 3155,
+        "latitude": 51.170249,
+        "longitude": -116.054163,
+        "name": "Stanley Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.94,
+          50.5867
+        ]
+      },
+      "properties": {
+        "feet": 10154,
+        "meters": 3095,
+        "latitude": 50.5867,
+        "longitude": -114.94,
+        "name": "Storm Mountain (Kananaskis)",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.004,
+          51.2083
+        ]
+      },
+      "properties": {
+        "feet": 10170,
+        "meters": 3100,
+        "latitude": 51.2083,
+        "longitude": -116.004,
+        "name": "Storm Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.533,
+          51.1
+        ]
+      },
+      "properties": {
+        "feet": 7448,
+        "meters": 2270,
+        "latitude": 51.1,
+        "longitude": -115.533,
+        "name": "Sulphur Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.275276,
+          52.349497
+        ]
+      },
+      "properties": {
+        "feet": 10876,
+        "meters": 3315,
+        "latitude": 52.349497,
+        "longitude": -117.275276,
+        "name": "Sunwapta Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3717,
+          50.815
+        ]
+      },
+      "properties": {
+        "feet": 8629,
+        "meters": 2630,
+        "latitude": 50.815,
+        "longitude": -115.3717,
+        "name": "The Fist",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.593,
+          50.4167
+        ]
+      },
+      "properties": {
+        "feet": 10735,
+        "meters": 3272,
+        "latitude": 50.4167,
+        "longitude": -116.593,
+        "name": "The Lieutenants",
+        "regions": [
+          "Intermountain West",
+          "Southwest Basins and Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.167,
+          49.45
+        ]
+      },
+      "properties": {
+        "feet": 5246,
+        "meters": 1599,
+        "latitude": 49.45,
+        "longitude": -123.167,
+        "name": "The Lions (East Peak)",
+        "regions": [
+          "Pacific Ranges",
+          "British Columbia Coast Ranges"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.29,
+          50.8567
+        ]
+      },
+      "properties": {
+        "feet": 10226,
+        "meters": 3117,
+        "latitude": 50.8567,
+        "longitude": -115.29,
+        "name": "The Tower",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.135174,
+          50.850391
+        ]
+      },
+      "properties": {
+        "feet": 8700,
+        "meters": 2652,
+        "latitude": 50.850391,
+        "longitude": -115.135174,
+        "name": "The Wedge",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.414,
+          49.575
+        ]
+      },
+      "properties": {
+        "feet": 7250,
+        "meters": 2210,
+        "latitude": 49.575,
+        "longitude": -114.414,
+        "name": "Turtle Mountain",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.858013,
+          49.03874
+        ]
+      },
+      "properties": {
+        "feet": 7805,
+        "meters": 2379,
+        "latitude": 49.03874,
+        "longitude": -113.858013,
+        "name": "Vimy Peak",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.695232,
+          51.835778
+        ]
+      },
+      "properties": {
+        "feet": 10745,
+        "meters": 3275,
+        "latitude": 51.835778,
+        "longitude": -116.695232,
+        "name": "White Pyramid",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.292,
+          50.9883
+        ]
+      },
+      "properties": {
+        "feet": 8848,
+        "meters": 2697,
+        "latitude": 50.9883,
+        "longitude": -115.292,
+        "name": "Windtower",
+        "regions": [
+          "Rocky Mountains",
+          "Canadian Rockies"
+        ],
+        "countries": [
+          "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

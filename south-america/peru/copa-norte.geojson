@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.481638,
+      -9.26729
+    ]
+  },
+  "properties": {
+    "feet": 20253,
+    "meters": 6173,
+    "latitude": -9.26729,
+    "longitude": -77.481638,
+    "name": "Copa Norte",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

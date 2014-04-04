@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3312,
+      46.6433
+    ]
+  },
+  "properties": {
+    "feet": 9622,
+    "meters": 2933,
+    "latitude": 46.6433,
+    "longitude": 12.3312,
+    "name": "Mittlerer Burgstall",
+    "regions": [
+      "Eastern Alps",
+      "Hohe Tauern"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

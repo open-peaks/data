@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 7405,
+    "meters": 2257,
+    "name": "Sofeh",
+    "regions": [
+      "Zagros Mountains",
+      "South Central Zagros"
+    ],
+    "countries": [
+      "Iran",
+      "Iran"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

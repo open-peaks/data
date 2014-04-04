@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.231516,
+      52.710195
+    ]
+  },
+  "properties": {
+    "feet": 9167,
+    "meters": 2794,
+    "latitude": 52.710195,
+    "longitude": -118.231516,
+    "name": "Mount Clitheroe",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

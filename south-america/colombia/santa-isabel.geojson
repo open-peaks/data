@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.37,
+      4.82
+    ]
+  },
+  "properties": {
+    "feet": 17093,
+    "meters": 5210,
+    "latitude": 4.82,
+    "longitude": -75.37,
+    "name": "Santa Isabel",
+    "regions": [
+      "Andes",
+      "Colombian Andes"
+    ],
+    "countries": [
+      "Colombia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

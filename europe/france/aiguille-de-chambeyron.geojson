@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.853219,
+      44.528313
+    ]
+  },
+  "properties": {
+    "feet": 11194,
+    "meters": 3412,
+    "latitude": 44.528313,
+    "longitude": 6.853219,
+    "name": "Aiguille de Chambeyron",
+    "regions": [
+      "Western Alps",
+      "Cottian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

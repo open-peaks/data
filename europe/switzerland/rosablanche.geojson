@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.354231,
+      46.060368
+    ]
+  },
+  "properties": {
+    "feet": 10945,
+    "meters": 3336,
+    "latitude": 46.060368,
+    "longitude": 7.354231,
+    "name": "Rosablanche",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

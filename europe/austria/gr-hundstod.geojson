@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.88559,
+      47.512563
+    ]
+  },
+  "properties": {
+    "feet": 8505,
+    "meters": 2592,
+    "latitude": 47.512563,
+    "longitude": 12.88559,
+    "name": "Gr. Hundstod",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria",
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.04322,
+      47.852841
+    ]
+  },
+  "properties": {
+    "feet": 6380,
+    "meters": 1945,
+    "latitude": 47.852841,
+    "longitude": -121.04322,
+    "name": "Labyrinth Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

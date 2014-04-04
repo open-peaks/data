@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95,
+          56.8666
+        ]
+      },
+      "properties": {
+        "feet": 1020,
+        "meters": 311,
+        "latitude": 56.8666,
+        "longitude": 25.95,
+        "name": "Gaizins",
+        "countries": [
+          "Latvia"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

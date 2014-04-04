@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.700964,
+      46.745213
+    ]
+  },
+  "properties": {
+    "feet": 6971,
+    "meters": 2125,
+    "latitude": 46.745213,
+    "longitude": -121.700964,
+    "name": "Unicorn Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

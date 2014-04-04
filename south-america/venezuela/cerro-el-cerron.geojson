@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.631018,
+      10.322604
+    ]
+  },
+  "properties": {
+    "feet": 6778,
+    "meters": 2066,
+    "latitude": 10.322604,
+    "longitude": -70.631018,
+    "name": "Cerro El Cerrón",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

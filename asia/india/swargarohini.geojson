@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.5,
+      31.1
+    ]
+  },
+  "properties": {
+    "feet": 20512,
+    "meters": 6252,
+    "latitude": 31.1,
+    "longitude": 78.5,
+    "name": "Swargarohini",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

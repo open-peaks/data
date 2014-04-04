@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.191,
+      46.1978
+    ]
+  },
+  "properties": {
+    "feet": 8364,
+    "meters": 2549,
+    "latitude": 46.1978,
+    "longitude": -122.191,
+    "name": "Mount Saint Helens",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.1466,
+      39.4307
+    ]
+  },
+  "properties": {
+    "feet": 7851,
+    "meters": 2393,
+    "latitude": 39.4307,
+    "longitude": 21.1466,
+    "name": "Katafidhi",
+    "regions": [
+      "Balkan Peninsula",
+      "Greek-Albanian Ranges"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

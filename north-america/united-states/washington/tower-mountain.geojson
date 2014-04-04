@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.704169,
+      48.588474
+    ]
+  },
+  "properties": {
+    "feet": 8444,
+    "meters": 2574,
+    "latitude": 48.588474,
+    "longitude": -120.704169,
+    "name": "Tower Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

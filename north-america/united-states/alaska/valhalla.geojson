@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.079468,
+      61.460099
+    ]
+  },
+  "properties": {
+    "feet": 12135,
+    "meters": 3699,
+    "latitude": 61.460099,
+    "longitude": -147.079468,
+    "name": "Valhalla",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

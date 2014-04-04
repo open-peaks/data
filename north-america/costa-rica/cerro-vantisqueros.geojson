@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.509942,
+      9.475472
+    ]
+  },
+  "properties": {
+    "feet": 12507,
+    "meters": 3812,
+    "latitude": 9.475472,
+    "longitude": -83.509942,
+    "name": "Cerro Vantisqueros",
+    "regions": [
+      "Central American Ranges",
+      "Costa Rica - Panama Ranges"
+    ],
+    "countries": [
+      "Costa Rica"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

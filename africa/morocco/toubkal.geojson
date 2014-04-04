@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.91547,
+      31.0611
+    ]
+  },
+  "properties": {
+    "feet": 13665,
+    "meters": 4167,
+    "latitude": 31.0611,
+    "longitude": -7.91547,
+    "name": "Toubkal",
+    "regions": [
+      "Atlas Mountains",
+      "High Atlas"
+    ],
+    "countries": [
+      "Morocco"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

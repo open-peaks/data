@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -154.142303,
+      61.801688
+    ]
+  },
+  "properties": {
+    "feet": 9828,
+    "meters": 2996,
+    "latitude": 61.801688,
+    "longitude": -154.142303,
+    "name": "Hesperus",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

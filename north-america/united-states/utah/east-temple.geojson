@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.9504,
+      37.221
+    ]
+  },
+  "properties": {
+    "feet": 7709,
+    "meters": 2350,
+    "latitude": 37.221,
+    "longitude": -112.9504,
+    "name": "East Temple",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

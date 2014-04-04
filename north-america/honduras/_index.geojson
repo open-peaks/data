@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.641,
+          13.272
+        ]
+      },
+      "properties": {
+        "feet": 2569,
+        "meters": 783,
+        "latitude": 13.272,
+        "longitude": -87.641,
+        "name": "Volcan El Tigre",
+        "countries": [
+          "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627,
+          13.33851
+        ]
+      },
+      "properties": {
+        "feet": 2100,
+        "meters": 640,
+        "latitude": 13.33851,
+        "longitude": -87.627,
+        "name": "Volcan Zacate Grande",
+        "countries": [
+          "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

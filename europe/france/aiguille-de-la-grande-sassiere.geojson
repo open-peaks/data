@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9994,
+      45.5048
+    ]
+  },
+  "properties": {
+    "feet": 12293,
+    "meters": 3747,
+    "latitude": 45.5048,
+    "longitude": 6.9994,
+    "name": "aiguille de la grande sassière",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

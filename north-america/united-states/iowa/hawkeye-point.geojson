@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.708891,
+      43.460154
+    ]
+  },
+  "properties": {
+    "feet": 1670,
+    "meters": 509,
+    "latitude": 43.460154,
+    "longitude": -95.708891,
+    "name": "Hawkeye Point",
+    "states": [
+      "Iowa"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

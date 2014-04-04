@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.283259,
+      44.060521
+    ]
+  },
+  "properties": {
+    "feet": 4142,
+    "meters": 1262,
+    "latitude": 44.060521,
+    "longitude": -121.283259,
+    "name": "Pilot Butte",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

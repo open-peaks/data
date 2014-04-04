@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.958031,
+      47.588336
+    ]
+  },
+  "properties": {
+    "feet": 4277,
+    "meters": 1304,
+    "latitude": 47.588336,
+    "longitude": 12.958031,
+    "name": "Grünstein",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

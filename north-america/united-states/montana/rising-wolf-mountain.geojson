@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.415899,
+      48.496019
+    ]
+  },
+  "properties": {
+    "feet": 9513,
+    "meters": 2900,
+    "latitude": 48.496019,
+    "longitude": -113.415899,
+    "name": "Rising Wolf Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

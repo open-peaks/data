@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.458554,
+      -8.410225
+    ]
+  },
+  "properties": {
+    "feet": 12224,
+    "meters": 3726,
+    "latitude": -8.410225,
+    "longitude": 116.458554,
+    "name": "Mount Rinjani - Lombok",
+    "regions": [
+      "Malay Archipelago",
+      "Nusa Tengarra"
+    ],
+    "countries": [
+      "Indonesia",
+      "Indonesia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

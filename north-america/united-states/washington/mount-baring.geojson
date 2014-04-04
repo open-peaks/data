@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.435919,
+      47.779309
+    ]
+  },
+  "properties": {
+    "feet": 6125,
+    "meters": 1867,
+    "latitude": 47.779309,
+    "longitude": -121.435919,
+    "name": "Mount Baring",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

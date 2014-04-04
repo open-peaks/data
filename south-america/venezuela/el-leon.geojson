@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.101069,
+      8.510912
+    ]
+  },
+  "properties": {
+    "feet": 4780,
+    "meters": 1457,
+    "latitude": 8.510912,
+    "longitude": -71.101069,
+    "name": "El León",
+    "regions": [
+      "Andes",
+      "Cordillera de Merida"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

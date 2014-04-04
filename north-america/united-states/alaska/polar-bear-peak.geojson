@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.196,
+      61.1528
+    ]
+  },
+  "properties": {
+    "feet": 6614,
+    "meters": 2016,
+    "latitude": 61.1528,
+    "longitude": -149.196,
+    "name": "Polar Bear Peak",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

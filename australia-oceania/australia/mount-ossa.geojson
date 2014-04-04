@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.017,
+      -41.9
+    ]
+  },
+  "properties": {
+    "feet": 5305,
+    "meters": 1617,
+    "latitude": -41.9,
+    "longitude": 146.017,
+    "name": "Mount Ossa",
+    "regions": [
+      "Tasmania"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

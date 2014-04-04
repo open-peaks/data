@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.558333,
+      47.341111
+    ]
+  },
+  "properties": {
+    "feet": 7358,
+    "meters": 2243,
+    "latitude": 47.341111,
+    "longitude": 11.558333,
+    "name": "Hundskopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.44,
+      37.5847
+    ]
+  },
+  "properties": {
+    "feet": 14042,
+    "meters": 4280,
+    "latitude": 37.5847,
+    "longitude": -105.44,
+    "name": "Mount Lindsey",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

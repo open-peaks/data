@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          47.0333
+        ]
+      },
+      "properties": {
+        "feet": 2540,
+        "meters": 774,
+        "latitude": 47.0333,
+        "longitude": 8.7,
+        "name": "Giakupitsa",
+        "countries": [
+          "Macedonia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.546667,
+          41.790278
+        ]
+      },
+      "properties": {
+        "feet": 9068,
+        "meters": 2764,
+        "latitude": 41.790278,
+        "longitude": 20.546667,
+        "name": "Golem Korab",
+        "regions": [
+          "Balkan Peninsula",
+          "Greek-Albanian Ranges"
+        ],
+        "countries": [
+          "Macedonia",
+          "Albania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.433333,
+          42.016667
+        ]
+      },
+      "properties": {
+        "feet": 8294,
+        "meters": 2528,
+        "latitude": 42.016667,
+        "longitude": 21.433333,
+        "name": "Kubilica",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Macedonia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2132,
+          41.4543
+        ]
+      },
+      "properties": {
+        "feet": 7726,
+        "meters": 2355,
+        "latitude": 41.4543,
+        "longitude": 21.2132,
+        "name": "Ubava",
+        "regions": [
+          "Balkan Peninsula",
+          "Macedonia-Thrace"
+        ],
+        "countries": [
+          "Macedonia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

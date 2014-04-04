@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.017,
+      38.5
+    ]
+  },
+  "properties": {
+    "feet": 10062,
+    "meters": 3067,
+    "latitude": 38.5,
+    "longitude": -120.017,
+    "name": "Red Lake Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

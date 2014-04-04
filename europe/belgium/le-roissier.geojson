@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1824,
+    "meters": 556,
+    "name": "Le Roissier",
+    "regions": [
+      "Central Europe Ranges",
+      "North France-West Rhine Area"
+    ],
+    "countries": [
+      "Belgium"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.8666,
+      30.6666
+    ]
+  },
+  "properties": {
+    "feet": 23182,
+    "meters": 7066,
+    "latitude": 30.6666,
+    "longitude": 79.8666,
+    "name": "Dunagiri",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

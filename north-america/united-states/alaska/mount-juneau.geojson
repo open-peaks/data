@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.41481,
+      58.32554
+    ]
+  },
+  "properties": {
+    "feet": 3576,
+    "meters": 1090,
+    "latitude": 58.32554,
+    "longitude": -134.41481,
+    "name": "Mount Juneau",
+    "regions": [
+      "Alaska/Yukon Ranges"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.311495,
+      61.760658
+    ]
+  },
+  "properties": {
+    "feet": 4811,
+    "meters": 1466,
+    "latitude": 61.760658,
+    "longitude": -149.311495,
+    "name": "Hatch",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Talkeetna Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

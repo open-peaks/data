@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.15239,
+      35.391429
+    ]
+  },
+  "properties": {
+    "feet": 9196,
+    "meters": 2803,
+    "latitude": 35.391429,
+    "longitude": 138.15239,
+    "name": "Kamikouchidake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

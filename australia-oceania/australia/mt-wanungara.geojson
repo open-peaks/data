@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.175592,
+      -28.251847
+    ]
+  },
+  "properties": {
+    "feet": 3901,
+    "meters": 1189,
+    "latitude": -28.251847,
+    "longitude": 153.175592,
+    "name": "Mt Wanungara",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

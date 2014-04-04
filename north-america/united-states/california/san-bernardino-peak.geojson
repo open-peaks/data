@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.922512,
+      34.12225
+    ]
+  },
+  "properties": {
+    "feet": 10649,
+    "meters": 3246,
+    "latitude": 34.12225,
+    "longitude": -116.922512,
+    "name": "San Bernardino Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

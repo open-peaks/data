@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.648,
+      76.6697
+    ]
+  },
+  "properties": {
+    "feet": 23835,
+    "meters": 7265,
+    "latitude": 76.6697,
+    "longitude": 35.648,
+    "name": "Baltoro Kangri",
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

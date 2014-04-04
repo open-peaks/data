@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.46,
+      47.34
+    ]
+  },
+  "properties": {
+    "feet": 5418,
+    "meters": 1693,
+    "latitude": 47.34,
+    "longitude": 12.46,
+    "name": "Sulzenstein",
+    "regions": [
+      "Eastern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Germany",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

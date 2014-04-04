@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.778,
+      37.3822
+    ]
+  },
+  "properties": {
+    "feet": 13600,
+    "meters": 4145,
+    "latitude": 37.3822,
+    "longitude": -118.778,
+    "name": "Mount Dade",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

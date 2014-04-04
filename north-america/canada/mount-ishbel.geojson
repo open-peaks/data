@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.774741,
+      51.265835
+    ]
+  },
+  "properties": {
+    "feet": 9541,
+    "meters": 2908,
+    "latitude": 51.265835,
+    "longitude": -115.774741,
+    "name": "Mount Ishbel",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

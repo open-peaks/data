@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.434346,
+      47.538201
+    ]
+  },
+  "properties": {
+    "feet": 5283,
+    "meters": 1610,
+    "latitude": 47.538201,
+    "longitude": -121.434346,
+    "name": "Galleon Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9603,
+      44.1269
+    ]
+  },
+  "properties": {
+    "feet": 4714,
+    "meters": 1437,
+    "latitude": 44.1269,
+    "longitude": -73.9603,
+    "name": "Colden",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

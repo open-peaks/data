@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.749,
+      61.3856
+    ]
+  },
+  "properties": {
+    "feet": 16421,
+    "meters": 5005,
+    "latitude": 61.3856,
+    "longitude": -141.749,
+    "name": "Bona",
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

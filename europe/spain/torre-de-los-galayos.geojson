@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.278931,
+      40.245467
+    ]
+  },
+  "properties": {
+    "feet": 7270,
+    "meters": 2216,
+    "latitude": 40.245467,
+    "longitude": -5.278931,
+    "name": "Torre de los Galayos",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

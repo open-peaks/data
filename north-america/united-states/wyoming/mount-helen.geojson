@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.087,
+      39.4286
+    ]
+  },
+  "properties": {
+    "feet": 13620,
+    "meters": 4151,
+    "latitude": 39.4286,
+    "longitude": -106.087,
+    "name": "Mount Helen",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Wyoming"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

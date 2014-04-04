@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.594063,
+      46.61768
+    ]
+  },
+  "properties": {
+    "feet": 13418,
+    "meters": 4090,
+    "latitude": 46.61768,
+    "longitude": 93.594063,
+    "name": "Sutay Uul",
+    "regions": [
+      "Mongolia Ranges",
+      "Altai"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.18,
+      46.24
+    ]
+  },
+  "properties": {
+    "feet": 10440,
+    "meters": 3182,
+    "latitude": 46.24,
+    "longitude": 8.18,
+    "name": "Punta del Sabbione",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

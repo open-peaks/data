@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.834758,
+      43.146954
+    ]
+  },
+  "properties": {
+    "feet": 7313,
+    "meters": 2229,
+    "latitude": 43.146954,
+    "longitude": -4.834758,
+    "name": "Peña Remoña",
+    "regions": [
+      "Iberian Peninsula",
+      "Cordillera Cantabrica"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

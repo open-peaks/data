@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.407905,
+      -30.488687
+    ]
+  },
+  "properties": {
+    "feet": 5131,
+    "meters": 1564,
+    "latitude": -30.488687,
+    "longitude": 152.407905,
+    "name": "Point Lookout (New South Wales)",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.6277,
+      48.0469
+    ]
+  },
+  "properties": {
+    "feet": 6629,
+    "meters": 2020,
+    "latitude": 48.0469,
+    "longitude": 24.6277,
+    "name": "Chorna Gora",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Ukraine"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

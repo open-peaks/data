@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.2653,
+      35.7647
+    ]
+  },
+  "properties": {
+    "feet": 6684,
+    "meters": 2037,
+    "latitude": 35.7647,
+    "longitude": -82.2653,
+    "name": "Mount Mitchell",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

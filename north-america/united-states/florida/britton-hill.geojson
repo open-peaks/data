@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.281867,
+      30.987719
+    ]
+  },
+  "properties": {
+    "feet": 345,
+    "meters": 105,
+    "latitude": 30.987719,
+    "longitude": -86.281867,
+    "name": "Britton Hill",
+    "states": [
+      "Florida"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

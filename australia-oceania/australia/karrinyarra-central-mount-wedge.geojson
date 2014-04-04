@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.833,
+      -22.85
+    ]
+  },
+  "properties": {
+    "feet": 3501,
+    "meters": 1067,
+    "latitude": -22.85,
+    "longitude": 131.833,
+    "name": "Karrinyarra (Central Mount Wedge)",
+    "regions": [
+      "Central Australia Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

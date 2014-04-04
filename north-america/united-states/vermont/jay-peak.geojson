@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.525667,
+      44.924167
+    ]
+  },
+  "properties": {
+    "feet": 3858,
+    "meters": 1176,
+    "latitude": 44.924167,
+    "longitude": -72.525667,
+    "name": "Jay Peak",
+    "regions": [
+      "Appalachian Mountains",
+      "Green Mountains"
+    ],
+    "states": [
+      "Vermont"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

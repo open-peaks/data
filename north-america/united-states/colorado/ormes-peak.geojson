@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.933,
+      38.95
+    ]
+  },
+  "properties": {
+    "feet": 9727,
+    "meters": 2965,
+    "latitude": 38.95,
+    "longitude": -104.933,
+    "name": "Ormes Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

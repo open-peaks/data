@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.361,
+      38.9606
+    ]
+  },
+  "properties": {
+    "feet": 14197,
+    "meters": 4327,
+    "latitude": 38.9606,
+    "longitude": -106.361,
+    "name": "Mount Belford",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

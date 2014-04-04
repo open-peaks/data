@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.677,
+      35.3258
+    ]
+  },
+  "properties": {
+    "feet": 12356,
+    "meters": 3766,
+    "latitude": 35.3258,
+    "longitude": -111.677,
+    "name": "Agassiz Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

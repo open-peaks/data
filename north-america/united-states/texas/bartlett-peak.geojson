@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.883,
+      31.9167
+    ]
+  },
+  "properties": {
+    "feet": 8508,
+    "meters": 2593,
+    "latitude": 31.9167,
+    "longitude": -104.883,
+    "name": "Bartlett Peak",
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.467087,
+      44.561137
+    ]
+  },
+  "properties": {
+    "feet": 5240,
+    "meters": 1597,
+    "latitude": 44.561137,
+    "longitude": 9.467087,
+    "name": "Monte Groppo Rosso",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

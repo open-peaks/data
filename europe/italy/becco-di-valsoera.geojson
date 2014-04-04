@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37823,
+      45.507826
+    ]
+  },
+  "properties": {
+    "feet": 11053,
+    "meters": 3369,
+    "latitude": 45.507826,
+    "longitude": 7.37823,
+    "name": "Becco di Valsoera",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -143.444,
+      61.5978
+    ]
+  },
+  "properties": {
+    "feet": 10190,
+    "meters": 3105,
+    "latitude": 61.5978,
+    "longitude": -143.444,
+    "name": "Castle Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Wrangell Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

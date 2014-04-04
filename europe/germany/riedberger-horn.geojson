@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.159392,
+      47.451454
+    ]
+  },
+  "properties": {
+    "feet": 5860,
+    "meters": 1786,
+    "latitude": 47.451454,
+    "longitude": 10.159392,
+    "name": "Riedberger Horn",
+    "regions": [
+      "Northern Alps",
+      "Bavarian Alps"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

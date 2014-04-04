@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.167,
+      61.2667
+    ]
+  },
+  "properties": {
+    "feet": 14831,
+    "meters": 4521,
+    "latitude": 61.2667,
+    "longitude": -141.167,
+    "name": "Mount Bear",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Saint Elias Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

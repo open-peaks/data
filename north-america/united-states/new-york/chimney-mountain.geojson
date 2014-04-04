@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.2108,
+      43.6928
+    ]
+  },
+  "properties": {
+    "feet": 2721,
+    "meters": 829,
+    "latitude": 43.6928,
+    "longitude": -74.2108,
+    "name": "Chimney Mountain",
+    "regions": [
+      "North American Plains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.213737,
+      41.805235
+    ]
+  },
+  "properties": {
+    "feet": 5121,
+    "meters": 1561,
+    "latitude": 41.805235,
+    "longitude": 9.213737,
+    "name": "Punta di a Vacca (Tower III)",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Tyrrhennian Islands"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

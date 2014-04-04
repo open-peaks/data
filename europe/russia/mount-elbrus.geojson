@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.4392,
+      43.355
+    ]
+  },
+  "properties": {
+    "feet": 18510,
+    "meters": 5642,
+    "latitude": 43.355,
+    "longitude": 42.4392,
+    "name": "Mount Elbrus",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

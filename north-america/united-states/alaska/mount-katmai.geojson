@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -154.952,
+      58.2794
+    ]
+  },
+  "properties": {
+    "feet": 6715,
+    "meters": 2047,
+    "latitude": 58.2794,
+    "longitude": -154.952,
+    "name": "Mount Katmai",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Aleutian Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.312,
+      50.865
+    ]
+  },
+  "properties": {
+    "feet": 9751,
+    "meters": 2972,
+    "latitude": 50.865,
+    "longitude": -115.312,
+    "name": "Mount Engadine",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

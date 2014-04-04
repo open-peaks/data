@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.767889,
+      46.610056
+    ]
+  },
+  "properties": {
+    "feet": 9925,
+    "meters": 3025,
+    "latitude": 46.610056,
+    "longitude": 11.767889,
+    "name": "Sass Rigais",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

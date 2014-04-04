@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.30513,
+      47.748904
+    ]
+  },
+  "properties": {
+    "feet": 5114,
+    "meters": 1559,
+    "latitude": 47.748904,
+    "longitude": 13.30513,
+    "name": "Faisten Schafberg",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

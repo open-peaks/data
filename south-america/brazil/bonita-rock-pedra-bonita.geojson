@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -43.2836,
+      -22.9889
+    ]
+  },
+  "properties": {
+    "feet": 2274,
+    "meters": 693,
+    "latitude": -22.9889,
+    "longitude": -43.2836,
+    "name": "Bonita Rock (Pedra Bonita)",
+    "regions": [
+      "Brazilian Highlands",
+      "Southern Brazilian Highlands"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.603632,
+      47.612673
+    ]
+  },
+  "properties": {
+    "feet": 5325,
+    "meters": 1623,
+    "latitude": 47.612673,
+    "longitude": -121.603632,
+    "name": "Twin Peaks",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.154713,
+      37.218999
+    ]
+  },
+  "properties": {
+    "feet": 8705,
+    "meters": 2653,
+    "latitude": 37.218999,
+    "longitude": -119.154713,
+    "name": "Chinese Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1633,
+          36.227
+        ]
+      },
+      "properties": {
+        "feet": 5525,
+        "meters": 1684,
+        "latitude": 36.227,
+        "longitude": 53.1633,
+        "name": "Acho",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran",
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5757,
+          36.2239
+        ]
+      },
+      "properties": {
+        "feet": 15912,
+        "meters": 4850,
+        "latitude": 36.2239,
+        "longitude": 50.5757,
+        "name": "Alam Kuh",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2065,
+          34.2708
+        ]
+      },
+      "properties": {
+        "feet": 11319,
+        "meters": 3450,
+        "latitude": 34.2708,
+        "longitude": 54.2065,
+        "name": "alvand",
+        "regions": [
+          "Iranian Plateau",
+          "Central Iranian Plateau"
+        ],
+        "countries": [
+          "Iran",
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0,
+          35.3167
+        ]
+      },
+      "properties": {
+        "feet": 7287,
+        "meters": 2221,
+        "latitude": 35.3167,
+        "longitude": 47.0,
+        "name": "Awiar",
+        "regions": [
+          "Iranian Plateau"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.115021,
+          35.785165
+        ]
+      },
+      "properties": {
+        "feet": 13287,
+        "meters": 4050,
+        "latitude": 35.785165,
+        "longitude": 52.115021,
+        "name": "Changizchal",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1086,
+          35.9558
+        ]
+      },
+      "properties": {
+        "feet": 18602,
+        "meters": 5670,
+        "latitude": 35.9558,
+        "longitude": 52.1086,
+        "name": "Damavand",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.230849,
+          35.766154
+        ]
+      },
+      "properties": {
+        "feet": 13944,
+        "meters": 4250,
+        "latitude": 35.766154,
+        "longitude": 52.230849,
+        "name": "Dobarar",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.459492,
+          34.659758
+        ]
+      },
+      "properties": {
+        "feet": 11155,
+        "meters": 3400,
+        "latitude": 34.659758,
+        "longitude": 48.459492,
+        "name": "Ghezel Arsalan",
+        "regions": [
+          "Iranian Plateau",
+          "Northwest Iran Ranges"
+        ],
+        "countries": [
+          "Iran",
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85,
+          31.5333
+        ]
+      },
+      "properties": {
+        "feet": 10335,
+        "meters": 3150,
+        "latitude": 31.5333,
+        "longitude": 50.85,
+        "name": "Jahanbin-na",
+        "regions": [
+          "Iranian Plateau"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.80023,
+          33.45613
+        ]
+      },
+      "properties": {
+        "feet": 12762,
+        "meters": 3890,
+        "latitude": 33.45613,
+        "longitude": 51.80023,
+        "name": "Karkas",
+        "regions": [
+          "Iranian Plateau",
+          "Central Iranian Plateau"
+        ],
+        "countries": [
+          "Iran",
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.588192,
+          36.108201
+        ]
+      },
+      "properties": {
+        "feet": 14354,
+        "meters": 4375,
+        "latitude": 36.108201,
+        "longitude": 51.588192,
+        "name": "Khole-no",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.273,
+          35.513
+        ]
+      },
+      "properties": {
+        "feet": 10827,
+        "meters": 3300,
+        "latitude": 35.513,
+        "longitude": 51.273,
+        "name": "Kolakchal",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "feet": 9383,
+        "meters": 2860,
+        "latitude": 37.0,
+        "longitude": 46.0,
+        "name": "Misho",
+        "regions": [
+          "Iranian Plateau",
+          "Northwest Iran Ranges"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.499462,
+          37.730607
+        ]
+      },
+      "properties": {
+        "feet": 12175,
+        "meters": 3711,
+        "latitude": 37.730607,
+        "longitude": 46.499462,
+        "name": "Sahand",
+        "regions": [
+          "Iranian Plateau",
+          "Northwest Iran Ranges"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.25,
+          35.03
+        ]
+      },
+      "properties": {
+        "feet": 11122,
+        "meters": 3390,
+        "latitude": 35.03,
+        "longitude": 46.25,
+        "name": "Shaho",
+        "regions": [
+          "Zagros Mountains",
+          "North Central Zagros"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.234859,
+          36.604297
+        ]
+      },
+      "properties": {
+        "feet": 4800,
+        "meters": 1463,
+        "latitude": 36.604297,
+        "longitude": 47.234859,
+        "name": "Takhte Soleyman",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.025843,
+          35.731743
+        ]
+      },
+      "properties": {
+        "feet": 9186,
+        "meters": 2800,
+        "latitude": 35.731743,
+        "longitude": 52.025843,
+        "name": "Telkamar",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25,
+          35.53
+        ]
+      },
+      "properties": {
+        "feet": 13005,
+        "meters": 3964,
+        "latitude": 35.53,
+        "longitude": 51.25,
+        "name": "Touchal",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.227974,
+          35.706377
+        ]
+      },
+      "properties": {
+        "feet": 12631,
+        "meters": 3850,
+        "latitude": 35.706377,
+        "longitude": 52.227974,
+        "name": "Zarin kooh",
+        "regions": [
+          "Iranian Plateau",
+          "Alborz"
+        ],
+        "countries": [
+          "Iran"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

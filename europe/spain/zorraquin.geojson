@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0,
+      46.0
+    ]
+  },
+  "properties": {
+    "feet": 6890,
+    "meters": 2100,
+    "latitude": 46.0,
+    "longitude": 0.0,
+    "name": "Zorraquin",
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

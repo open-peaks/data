@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.672,
+      40.6903
+    ]
+  },
+  "properties": {
+    "feet": 11932,
+    "meters": 3637,
+    "latitude": 40.6903,
+    "longitude": -106.672,
+    "name": "Lost Ranger Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Central Colorado Ranges"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

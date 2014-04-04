@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.262,
+      36.5558
+    ]
+  },
+  "properties": {
+    "feet": 13914,
+    "meters": 4241,
+    "latitude": 36.5558,
+    "longitude": -118.262,
+    "name": "Mount Irvine",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

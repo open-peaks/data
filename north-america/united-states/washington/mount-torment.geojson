@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.077747,
+      48.512056
+    ]
+  },
+  "properties": {
+    "feet": 8120,
+    "meters": 2475,
+    "latitude": 48.512056,
+    "longitude": -121.077747,
+    "name": "Mount Torment",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5601,
+          47.8974
+        ]
+      },
+      "properties": {
+        "feet": 2301,
+        "meters": 701,
+        "latitude": 47.8974,
+        "longitude": -90.5601,
+        "name": "Eagle Mountain",
+        "regions": [
+          "North American Plains",
+          "Midwest-Great Lakes Area"
+        ],
+        "states": [
+          "Minnesota"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

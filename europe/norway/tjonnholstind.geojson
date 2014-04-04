@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.645315,
+      61.444142
+    ]
+  },
+  "properties": {
+    "feet": 7648,
+    "meters": 2331,
+    "latitude": 61.444142,
+    "longitude": 8.645315,
+    "name": "Tjønnholstind",
+    "regions": [
+      "Scandinavia/European Arctic",
+      "Jotunheimen"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

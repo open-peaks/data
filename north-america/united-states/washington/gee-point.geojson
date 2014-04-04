@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.82662,
+      48.429115
+    ]
+  },
+  "properties": {
+    "feet": 4974,
+    "meters": 1516,
+    "latitude": 48.429115,
+    "longitude": -121.82662,
+    "name": "Gee Point",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

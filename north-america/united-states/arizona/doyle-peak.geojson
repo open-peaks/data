@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.646,
+      35.33
+    ]
+  },
+  "properties": {
+    "feet": 11460,
+    "meters": 3493,
+    "latitude": 35.33,
+    "longitude": -111.646,
+    "name": "Doyle Peak",
+    "regions": [
+      "Intermountain West",
+      "Colorado Plateau"
+    ],
+    "states": [
+      "Arizona"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

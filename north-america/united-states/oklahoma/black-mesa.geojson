@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.997859,
+      36.931838
+    ]
+  },
+  "properties": {
+    "feet": 4973,
+    "meters": 1516,
+    "latitude": 36.931838,
+    "longitude": -102.997859,
+    "name": "Black Mesa",
+    "states": [
+      "Oklahoma"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

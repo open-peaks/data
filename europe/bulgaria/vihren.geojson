@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.3667,
+      41.8
+    ]
+  },
+  "properties": {
+    "feet": 9564,
+    "meters": 2915,
+    "latitude": 41.8,
+    "longitude": 23.3667,
+    "name": "Vihren",
+    "countries": [
+      "Bulgaria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

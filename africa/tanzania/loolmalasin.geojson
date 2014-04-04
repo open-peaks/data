@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5833,
+      -2.83333
+    ]
+  },
+  "properties": {
+    "feet": 12080,
+    "meters": 3682,
+    "latitude": -2.83333,
+    "longitude": 35.5833,
+    "name": "Loolmalasin",
+    "regions": [
+      "East Africa Mountains",
+      "Central East Africa Plateau"
+    ],
+    "countries": [
+      "Tanzania"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.25,
+      45.3833
+    ]
+  },
+  "properties": {
+    "feet": 11663,
+    "meters": 3555,
+    "latitude": 45.3833,
+    "longitude": 5.25,
+    "name": "Levanna Orientale",
+    "regions": [
+      "Western Alps",
+      "Graian Alps"
+    ],
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.983535,
+      38.678207
+    ]
+  },
+  "properties": {
+    "feet": 9585,
+    "meters": 2922,
+    "latitude": 38.678207,
+    "longitude": -119.983535,
+    "name": "Elephants Back",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

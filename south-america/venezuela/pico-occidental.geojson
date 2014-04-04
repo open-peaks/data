@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.853085,
+      10.541188
+    ]
+  },
+  "properties": {
+    "feet": 14600,
+    "meters": 4460,
+    "latitude": 10.541188,
+    "longitude": -66.853085,
+    "name": "Pico Occidental",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

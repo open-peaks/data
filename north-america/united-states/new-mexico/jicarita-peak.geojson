@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.562228,
+      36.054813
+    ]
+  },
+  "properties": {
+    "feet": 12835,
+    "meters": 3912,
+    "latitude": 36.054813,
+    "longitude": -105.562228,
+    "name": "Jicarita Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

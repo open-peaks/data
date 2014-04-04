@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.54,
+      39.6958
+    ]
+  },
+  "properties": {
+    "feet": 5653,
+    "meters": 1723,
+    "latitude": 39.6958,
+    "longitude": -109.54,
+    "name": "Elephant Butte",
+    "regions": [
+      "Rocky Mountains"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5685,
+      46.4786
+    ]
+  },
+  "properties": {
+    "feet": 12634,
+    "meters": 3851,
+    "latitude": 46.4786,
+    "longitude": 10.5685,
+    "name": "Gran Zebrù",
+    "regions": [
+      "Southern Alps",
+      "Ortler Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

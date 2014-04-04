@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.781944,
+      50.736389
+    ]
+  },
+  "properties": {
+    "feet": 10118,
+    "meters": 3084,
+    "latitude": 50.736389,
+    "longitude": -116.781944,
+    "name": "Snowpatch Spire",
+    "regions": [
+      "Intermountain West",
+      "Columbia Mountains"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

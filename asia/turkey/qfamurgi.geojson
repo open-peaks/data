@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.386239,
+      41.22285
+    ]
+  },
+  "properties": {
+    "feet": 6841,
+    "meters": 2085,
+    "latitude": 41.22285,
+    "longitude": 41.386239,
+    "name": "Qfamurgi",
+    "countries": [
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

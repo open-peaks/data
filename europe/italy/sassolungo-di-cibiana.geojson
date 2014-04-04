@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.265592,
+      46.350838
+    ]
+  },
+  "properties": {
+    "feet": 7917,
+    "meters": 2413,
+    "latitude": 46.350838,
+    "longitude": 12.265592,
+    "name": "Sassolungo di Cibiana",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

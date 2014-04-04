@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      37.0
+    ]
+  },
+  "properties": {
+    "feet": 8570,
+    "meters": 2612,
+    "latitude": 37.0,
+    "longitude": 37.0,
+    "name": "Gelincikana",
+    "regions": [
+      "Anatolia",
+      "Central Anatolia"
+    ],
+    "countries": [
+      "Turkey",
+      "Turkey"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

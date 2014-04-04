@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86755,
+      35.36943
+    ]
+  },
+  "properties": {
+    "feet": 581,
+    "meters": 177,
+    "latitude": 35.36943,
+    "longitude": -120.86755,
+    "name": "Morro Rock",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

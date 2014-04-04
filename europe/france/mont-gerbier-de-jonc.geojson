@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.2226,
+      44.8415
+    ]
+  },
+  "properties": {
+    "feet": 5089,
+    "meters": 1551,
+    "latitude": 44.8415,
+    "longitude": 4.2226,
+    "name": "Mont Gerbier de Jonc",
+    "regions": [
+      "Central Europe Ranges",
+      "Massif Central"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

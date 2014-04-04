@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.042279,
+      44.383055
+    ]
+  },
+  "properties": {
+    "feet": 5627,
+    "meters": 1715,
+    "latitude": 44.383055,
+    "longitude": 10.042279,
+    "name": "Scala",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Apennines"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

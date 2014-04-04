@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.290039,
+      45.228481
+    ]
+  },
+  "properties": {
+    "feet": 9826,
+    "meters": 2995,
+    "latitude": 45.228481,
+    "longitude": -117.290039,
+    "name": "Matterhorn",
+    "regions": [
+      "Intermountain West",
+      "Columbia Plateau"
+    ],
+    "states": [
+      "Oregon"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

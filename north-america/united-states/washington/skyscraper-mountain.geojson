@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.698303,
+      46.927114
+    ]
+  },
+  "properties": {
+    "feet": 7078,
+    "meters": 2157,
+    "latitude": 46.927114,
+    "longitude": -121.698303,
+    "name": "Skyscraper Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

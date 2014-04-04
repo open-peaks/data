@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.377315,
+      45.655343
+    ]
+  },
+  "properties": {
+    "feet": 11312,
+    "meters": 3448,
+    "latitude": 45.655343,
+    "longitude": 7.377315,
+    "name": "Punta Garin",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.898473,
+      46.184616
+    ]
+  },
+  "properties": {
+    "feet": 9711,
+    "meters": 2960,
+    "latitude": 46.184616,
+    "longitude": 10.898473,
+    "name": "Brenta Alta",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

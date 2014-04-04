@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.3333,
+      17.6167
+    ]
+  },
+  "properties": {
+    "feet": 3792,
+    "meters": 1156,
+    "latitude": 17.6167,
+    "longitude": -63.3333,
+    "name": "Mount Liamuiga",
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

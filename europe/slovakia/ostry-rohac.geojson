@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.75,
+      49.2
+    ]
+  },
+  "properties": {
+    "feet": 6847,
+    "meters": 2087,
+    "latitude": 49.2,
+    "longitude": 19.75,
+    "name": "Ostry Rohac",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Carpathian Mountains"
+    ],
+    "countries": [
+      "Slovakia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

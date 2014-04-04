@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.687867,
+      48.876094
+    ]
+  },
+  "properties": {
+    "feet": 3399,
+    "meters": 1036,
+    "latitude": 48.876094,
+    "longitude": -66.687867,
+    "name": "Mont Collins",
+    "regions": [
+      "Appalachian Mountains",
+      "Canadian Appalachians"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

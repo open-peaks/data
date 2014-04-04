@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.39316,
+      -28.041834
+    ]
+  },
+  "properties": {
+    "feet": 3753,
+    "meters": 1144,
+    "latitude": -28.041834,
+    "longitude": 152.39316,
+    "name": "Mount Cordeaux",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

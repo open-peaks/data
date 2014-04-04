@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.753822,
+      35.947717
+    ]
+  },
+  "properties": {
+    "feet": 23901,
+    "meters": 7285,
+    "latitude": 35.947717,
+    "longitude": 75.753822,
+    "name": "Baintha Brakk",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

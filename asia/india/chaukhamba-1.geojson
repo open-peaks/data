@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.2833,
+      30.7333
+    ]
+  },
+  "properties": {
+    "feet": 23418,
+    "meters": 7138,
+    "latitude": 30.7333,
+    "longitude": 79.2833,
+    "name": "Chaukhamba 1",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

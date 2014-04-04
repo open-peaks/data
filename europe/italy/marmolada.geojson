@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.85,
+      46.4333
+    ]
+  },
+  "properties": {
+    "feet": 10965,
+    "meters": 3342,
+    "latitude": 46.4333,
+    "longitude": 11.85,
+    "name": "Marmolada",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

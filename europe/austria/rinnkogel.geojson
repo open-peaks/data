@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.486,
+      47.6665
+    ]
+  },
+  "properties": {
+    "feet": 5850,
+    "meters": 1783,
+    "latitude": 47.6665,
+    "longitude": 13.486,
+    "name": "Rinnkogel",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

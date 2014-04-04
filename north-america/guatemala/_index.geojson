@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8667,
+          14.5
+        ]
+      },
+      "properties": {
+        "feet": 13044,
+        "meters": 3976,
+        "latitude": 14.5,
+        "longitude": -90.8667,
+        "name": "Acatenango",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1833,
+          14.5833
+        ]
+      },
+      "properties": {
+        "feet": 11604,
+        "meters": 3537,
+        "latitude": 14.5833,
+        "longitude": -91.1833,
+        "name": "Atitlan",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7274,
+          14.1166
+        ]
+      },
+      "properties": {
+        "feet": 5823,
+        "meters": 1775,
+        "latitude": 14.1166,
+        "longitude": -89.7274,
+        "name": "Chingo",
+        "countries": [
+          "Guatemala",
+          "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.31218,
+          14.65202
+        ]
+      },
+      "properties": {
+        "feet": 9285,
+        "meters": 2830,
+        "latitude": 14.65202,
+        "longitude": -91.31218,
+        "name": "Pakisis",
+        "regions": [
+          "Central American Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2833,
+          14.7167
+        ]
+      },
+      "properties": {
+        "feet": 7880,
+        "meters": 2402,
+        "latitude": 14.7167,
+        "longitude": -91.2833,
+        "name": "Santa Clara",
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35,
+          14.63333
+        ]
+      },
+      "properties": {
+        "feet": 7054,
+        "meters": 2150,
+        "latitude": 14.63333,
+        "longitude": -90.35,
+        "name": "Tomastepeque",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2662,
+          14.6603
+        ]
+      },
+      "properties": {
+        "feet": 9902,
+        "meters": 3018,
+        "latitude": 14.6603,
+        "longitude": -91.2662,
+        "name": "Volcán San Pedro",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.58333,
+          14.8
+        ]
+      },
+      "properties": {
+        "feet": 11056,
+        "meters": 3370,
+        "latitude": 14.8,
+        "longitude": -91.58333,
+        "name": "Volcan Siete Orejas",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4333,
+          14.2
+        ]
+      },
+      "properties": {
+        "feet": 6398,
+        "meters": 1950,
+        "latitude": 14.2,
+        "longitude": -90.4333,
+        "name": "Volcan Tecuamburro",
+        "regions": [
+          "Central American Ranges",
+          "Guatemala Ranges"
+        ],
+        "countries": [
+          "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

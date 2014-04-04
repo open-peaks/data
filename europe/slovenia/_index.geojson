@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.733253,
+          46.439986
+        ]
+      },
+      "properties": {
+        "feet": 7690,
+        "meters": 2344,
+        "latitude": 46.439986,
+        "longitude": 13.733253,
+        "name": "Bavski Grintavec",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6333,
+          46.2934
+        ]
+      },
+      "properties": {
+        "feet": 8678,
+        "meters": 2645,
+        "latitude": 46.2934,
+        "longitude": 19.6333,
+        "name": "Jalovec",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3167,
+          46.4167
+        ]
+      },
+      "properties": {
+        "feet": 6850,
+        "meters": 2088,
+        "latitude": 46.4167,
+        "longitude": 14.3167,
+        "name": "Koöuta",
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6758,
+          46.2364
+        ]
+      },
+      "properties": {
+        "feet": 7362,
+        "meters": 2244,
+        "latitude": 46.2364,
+        "longitude": 13.6758,
+        "name": "Krn",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.655,
+          46.439
+        ]
+      },
+      "properties": {
+        "feet": 8786,
+        "meters": 2678,
+        "latitude": 46.439,
+        "longitude": 13.655,
+        "name": "Mangart",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia",
+          "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.639626,
+          46.366121
+        ]
+      },
+      "properties": {
+        "feet": 7710,
+        "meters": 2350,
+        "latitude": 46.366121,
+        "longitude": 14.639626,
+        "name": "Ojstrica",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.633789,
+          46.362093
+        ]
+      },
+      "properties": {
+        "feet": 7854,
+        "meters": 2394,
+        "latitude": 46.362093,
+        "longitude": 14.633789,
+        "name": "Planjava",
+        "regions": [
+          "Eastern Alps"
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.789215,
+          46.413719
+        ]
+      },
+      "properties": {
+        "feet": 8533,
+        "meters": 2601,
+        "latitude": 46.413719,
+        "longitude": 13.789215,
+        "name": "Razor",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.823547,
+          46.433125
+        ]
+      },
+      "properties": {
+        "feet": 8981,
+        "meters": 2737,
+        "latitude": 46.433125,
+        "longitude": 13.823547,
+        "name": "Skrlatica",
+        "regions": [
+          "Southern Alps"
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4476,
+          45.5885
+        ]
+      },
+      "properties": {
+        "feet": 5892,
+        "meters": 1796,
+        "latitude": 45.5885,
+        "longitude": 14.4476,
+        "name": "Snežnik",
+        "regions": [
+          "Balkan Peninsula",
+          "Dinaric Alps"
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3833,
+          46.35
+        ]
+      },
+      "properties": {
+        "feet": 6995,
+        "meters": 2132,
+        "latitude": 46.35,
+        "longitude": 14.3833,
+        "name": "Storžiè",
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8333,
+          46.3833
+        ]
+      },
+      "properties": {
+        "feet": 9396,
+        "meters": 2864,
+        "latitude": 46.3833,
+        "longitude": 13.8333,
+        "name": "Triglav",
+        "regions": [
+          "Eastern Alps",
+          "Julian Alps "
+        ],
+        "countries": [
+          "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

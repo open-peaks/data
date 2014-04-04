@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.04454,
+      43.12448
+    ]
+  },
+  "properties": {
+    "feet": 7831,
+    "meters": 2387,
+    "latitude": 43.12448,
+    "longitude": 19.04454,
+    "name": "Minin bogaz",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

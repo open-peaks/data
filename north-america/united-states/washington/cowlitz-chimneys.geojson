@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.609468,
+      46.848921
+    ]
+  },
+  "properties": {
+    "feet": 7605,
+    "meters": 2318,
+    "latitude": 46.848921,
+    "longitude": -121.609468,
+    "name": "Cowlitz Chimneys",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

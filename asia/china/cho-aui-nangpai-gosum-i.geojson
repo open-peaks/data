@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.613979,
+      28.073798
+    ]
+  },
+  "properties": {
+    "feet": 24117,
+    "meters": 7351,
+    "latitude": 28.073798,
+    "longitude": 86.613979,
+    "name": "Cho Aui (Nangpai Gosum I)",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "China",
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

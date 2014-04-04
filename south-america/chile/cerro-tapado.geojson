@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.932604,
+      -30.143686
+    ]
+  },
+  "properties": {
+    "feet": 18163,
+    "meters": 5536,
+    "latitude": -30.143686,
+    "longitude": -69.932604,
+    "name": "Cerro Tapado",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

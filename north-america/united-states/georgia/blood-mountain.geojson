@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.9369,
+      34.7398
+    ]
+  },
+  "properties": {
+    "feet": 4461,
+    "meters": 1360,
+    "latitude": 34.7398,
+    "longitude": -83.9369,
+    "name": "Blood Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

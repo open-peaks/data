@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.64257,
+      28.272335
+    ]
+  },
+  "properties": {
+    "feet": 12198,
+    "meters": 3718,
+    "latitude": 28.272335,
+    "longitude": -16.64257,
+    "name": "Teide",
+    "regions": [
+      "Mid-Atlantic Islands",
+      "Canary Islands"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

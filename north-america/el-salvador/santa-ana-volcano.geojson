@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.63,
+      13.853
+    ]
+  },
+  "properties": {
+    "feet": 7812,
+    "meters": 2381,
+    "latitude": 13.853,
+    "longitude": -89.63,
+    "name": "Santa Ana Volcano",
+    "regions": [
+      "Central American Ranges",
+      "Nicaragua - Honduras - El Salvador Ranges"
+    ],
+    "countries": [
+      "El Salvador"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

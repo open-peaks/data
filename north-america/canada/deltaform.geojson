@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.245737,
+      51.301428
+    ]
+  },
+  "properties": {
+    "feet": 11233,
+    "meters": 3424,
+    "latitude": 51.301428,
+    "longitude": -116.245737,
+    "name": "Deltaform",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

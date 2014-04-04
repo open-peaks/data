@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.95,
+      30.2833
+    ]
+  },
+  "properties": {
+    "feet": 21860,
+    "meters": 6663,
+    "latitude": 30.2833,
+    "longitude": 79.95,
+    "name": "Panwali Dwar",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

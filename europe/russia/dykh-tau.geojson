@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.1333,
+      43.05
+    ]
+  },
+  "properties": {
+    "feet": 17074,
+    "meters": 5204,
+    "latitude": 43.05,
+    "longitude": 43.1333,
+    "name": "Dykh-Tau",
+    "regions": [
+      "Caucasus Mountains",
+      "Central Caucasus"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

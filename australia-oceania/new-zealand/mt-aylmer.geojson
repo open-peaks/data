@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.367,
+      -43.5167
+    ]
+  },
+  "properties": {
+    "feet": 8855,
+    "meters": 2699,
+    "latitude": -43.5167,
+    "longitude": 170.367,
+    "name": "Mt Aylmer",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

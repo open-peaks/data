@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.667,
+      31.8333
+    ]
+  },
+  "properties": {
+    "feet": 8085,
+    "meters": 2464,
+    "latitude": 31.8333,
+    "longitude": -104.667,
+    "name": "El Capitan",
+    "regions": [
+      "Intermountain West",
+      "Southwest Basins and Ranges"
+    ],
+    "states": [
+      "Texas"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.779199,
+      46.755652
+    ]
+  },
+  "properties": {
+    "feet": 5958,
+    "meters": 1816,
+    "latitude": 46.755652,
+    "longitude": -121.779199,
+    "name": "Eagle Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

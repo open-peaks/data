@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 5400,
+    "meters": 1646,
+    "name": "Kolokolny",
+    "regions": [
+      "Ural Mountains"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

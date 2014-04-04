@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.567169,
+      42.764784
+    ]
+  },
+  "properties": {
+    "feet": 8678,
+    "meters": 2645,
+    "latitude": 42.764784,
+    "longitude": -0.567169,
+    "name": "Aspe",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

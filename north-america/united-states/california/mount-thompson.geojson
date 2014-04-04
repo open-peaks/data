@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.613,
+      37.1431
+    ]
+  },
+  "properties": {
+    "feet": 13494,
+    "meters": 4113,
+    "latitude": 37.1431,
+    "longitude": -118.613,
+    "name": "Mount Thompson",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

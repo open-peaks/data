@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.806,
+      47.4584
+    ]
+  },
+  "properties": {
+    "feet": 3294,
+    "meters": 1004,
+    "latitude": 47.4584,
+    "longitude": -121.806,
+    "name": "Rattlesnake Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

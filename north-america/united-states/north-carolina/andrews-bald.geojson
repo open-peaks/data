@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.4933,
+      35.5417
+    ]
+  },
+  "properties": {
+    "feet": 5860,
+    "meters": 1786,
+    "latitude": 35.5417,
+    "longitude": -83.4933,
+    "name": "Andrews Bald",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

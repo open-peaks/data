@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.221283,
+      47.795646
+    ]
+  },
+  "properties": {
+    "feet": 7639,
+    "meters": 2326,
+    "latitude": 47.795646,
+    "longitude": -123.221283,
+    "name": "Mount Mystery",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

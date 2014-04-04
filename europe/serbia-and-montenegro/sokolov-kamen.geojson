@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.0634,
+      43.1158
+    ]
+  },
+  "properties": {
+    "feet": 4997,
+    "meters": 1523,
+    "latitude": 43.1158,
+    "longitude": 22.0634,
+    "name": "Sokolov kamen",
+    "regions": [
+      "Balkan Peninsula",
+      "Balkan Mountains"
+    ],
+    "countries": [
+      "Serbia and Montenegro"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

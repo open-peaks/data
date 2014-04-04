@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.233,
+      36.4667
+    ]
+  },
+  "properties": {
+    "feet": 12900,
+    "meters": 3932,
+    "latitude": 36.4667,
+    "longitude": -118.233,
+    "name": "Cirque Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

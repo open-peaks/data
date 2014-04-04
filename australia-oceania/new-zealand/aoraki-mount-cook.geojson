@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.167,
+      -43.6
+    ]
+  },
+  "properties": {
+    "feet": 12316,
+    "meters": 3754,
+    "latitude": -43.6,
+    "longitude": 170.167,
+    "name": "Aoraki/Mount Cook",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.833,
+      68.2333
+    ]
+  },
+  "properties": {
+    "feet": 7510,
+    "meters": 2289,
+    "latitude": 68.2333,
+    "longitude": -149.833,
+    "name": "Peak 7510",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Brooks Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

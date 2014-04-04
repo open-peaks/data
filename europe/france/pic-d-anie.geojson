@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.721879,
+      42.944989
+    ]
+  },
+  "properties": {
+    "feet": 8215,
+    "meters": 2504,
+    "latitude": 42.944989,
+    "longitude": -0.721879,
+    "name": "Pic d'Anie",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

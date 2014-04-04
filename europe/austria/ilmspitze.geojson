@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.338954,
+      47.065832
+    ]
+  },
+  "properties": {
+    "feet": 8832,
+    "meters": 2692,
+    "latitude": 47.065832,
+    "longitude": 11.338954,
+    "name": "Ilmspitze",
+    "regions": [
+      "Eastern Alps",
+      "Stubai Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

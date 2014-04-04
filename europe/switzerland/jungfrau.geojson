@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.96667,
+      46.5333
+    ]
+  },
+  "properties": {
+    "feet": 13642,
+    "meters": 4158,
+    "latitude": 46.5333,
+    "longitude": 7.96667,
+    "name": "Jungfrau",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

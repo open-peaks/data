@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.044333,
+      44.180419
+    ]
+  },
+  "properties": {
+    "feet": 4167,
+    "meters": 1270,
+    "latitude": 44.180419,
+    "longitude": -74.044333,
+    "name": "Street mountain",
+    "regions": [
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

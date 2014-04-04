@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.246002,
+      47.531343
+    ]
+  },
+  "properties": {
+    "feet": 6255,
+    "meters": 1907,
+    "latitude": 47.531343,
+    "longitude": -123.246002,
+    "name": "Mount Washington",
+    "regions": [
+      "Pacific Ranges",
+      "Olympic Mountains"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

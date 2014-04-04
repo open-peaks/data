@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.803,
+      48.0881
+    ]
+  },
+  "properties": {
+    "feet": 7085,
+    "meters": 2160,
+    "latitude": 48.0881,
+    "longitude": -120.803,
+    "name": "Carne Mtn",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

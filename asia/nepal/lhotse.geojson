@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9333,
+      27.9667
+    ]
+  },
+  "properties": {
+    "feet": 27940,
+    "meters": 8516,
+    "latitude": 27.9667,
+    "longitude": 86.9333,
+    "name": "Lhotse",
+    "regions": [
+      "Himalaya ",
+      "Central Nepal Himalaya"
+    ],
+    "countries": [
+      "Nepal",
+      "China"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.668,
+      51.2069
+    ]
+  },
+  "properties": {
+    "feet": 8379,
+    "meters": 2554,
+    "latitude": 51.2069,
+    "longitude": -115.668,
+    "name": "Mount Edith",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

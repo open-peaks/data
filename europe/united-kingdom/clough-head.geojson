@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.034115,
+      54.592655
+    ]
+  },
+  "properties": {
+    "feet": 2382,
+    "meters": 726,
+    "latitude": 54.592655,
+    "longitude": -3.034115,
+    "name": "Clough Head",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Lake District"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

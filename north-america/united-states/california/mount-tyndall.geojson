@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.333,
+      36.65
+    ]
+  },
+  "properties": {
+    "feet": 14018,
+    "meters": 4273,
+    "latitude": 36.65,
+    "longitude": -118.333,
+    "name": "Mount Tyndall",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

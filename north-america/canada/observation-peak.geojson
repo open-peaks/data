@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.467,
+      51.7333
+    ]
+  },
+  "properties": {
+    "feet": 10413,
+    "meters": 3174,
+    "latitude": 51.7333,
+    "longitude": -116.467,
+    "name": "Observation Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 1554,
+    "meters": 474,
+    "name": "Mount Tagpochau (Saipan)",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

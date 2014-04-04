@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.91667,
+      44.6167
+    ]
+  },
+  "properties": {
+    "feet": 8884,
+    "meters": 2708,
+    "latitude": 44.6167,
+    "longitude": 5.91667,
+    "name": "Pic De Bure",
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.659888,
+          34.900996
+        ]
+      },
+      "properties": {
+        "feet": 1647,
+        "meters": 502,
+        "latitude": 34.900996,
+        "longitude": -82.659888,
+        "name": "Glassy Mountain",
+        "regions": [
+          "Appalachian Mountains"
+        ],
+        "states": [
+          "South Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.741685,
+          35.034038
+        ]
+      },
+      "properties": {
+        "feet": 3415,
+        "meters": 1041,
+        "latitude": 35.034038,
+        "longitude": -82.741685,
+        "name": "Pinnacle Mountain",
+        "regions": [
+          "Appalachian Mountains",
+          "Southern Appalachian Ridges"
+        ],
+        "states": [
+          "South Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.777349,
+          35.065146
+        ]
+      },
+      "properties": {
+        "feet": 3560,
+        "meters": 1085,
+        "latitude": 35.065146,
+        "longitude": -82.777349,
+        "name": "Sassafras Mountain",
+        "states": [
+          "South Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70452,
+          35.05143
+        ]
+      },
+      "properties": {
+        "feet": 3157,
+        "meters": 962,
+        "latitude": 35.05143,
+        "longitude": -82.70452,
+        "name": "Table Rock",
+        "regions": [
+          "Appalachian Mountains",
+          "Southern Appalachian Ridges"
+        ],
+        "states": [
+          "South Carolina"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

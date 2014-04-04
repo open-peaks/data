@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.3,
+      -16.1167
+    ]
+  },
+  "properties": {
+    "feet": 17611,
+    "meters": 5368,
+    "latitude": -16.1167,
+    "longitude": -68.3,
+    "name": "Cerro Mullu Apachita",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

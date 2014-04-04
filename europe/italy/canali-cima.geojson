@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.874168,
+      46.23911
+    ]
+  },
+  "properties": {
+    "feet": 9485,
+    "meters": 2891,
+    "latitude": 46.23911,
+    "longitude": 11.874168,
+    "name": "Canali (Cima)",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

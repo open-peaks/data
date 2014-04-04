@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.4854,
+      45.427
+    ]
+  },
+  "properties": {
+    "feet": 8196,
+    "meters": 2498,
+    "latitude": 45.427,
+    "longitude": 25.4854,
+    "name": "Costila",
+    "regions": [
+      "Eastern Europe Ranges",
+      "Transylvanian Alps"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

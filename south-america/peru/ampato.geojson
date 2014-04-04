@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.53125,
+      -14.604847
+    ]
+  },
+  "properties": {
+    "feet": 20630,
+    "meters": 6288,
+    "latitude": -14.604847,
+    "longitude": -74.53125,
+    "name": "Ampato",
+    "regions": [
+      "Andes",
+      "Peruvian Andes"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

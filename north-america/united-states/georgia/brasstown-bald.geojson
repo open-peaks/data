@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.8099,
+      34.8723
+    ]
+  },
+  "properties": {
+    "feet": 4784,
+    "meters": 1458,
+    "latitude": 34.8723,
+    "longitude": -83.8099,
+    "name": "Brasstown Bald",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "Georgia"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

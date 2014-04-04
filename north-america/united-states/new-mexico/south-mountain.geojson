@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.217,
+      35.1833
+    ]
+  },
+  "properties": {
+    "feet": 8740,
+    "meters": 2664,
+    "latitude": 35.1833,
+    "longitude": -106.217,
+    "name": "South Mountain",
+    "states": [
+      "New Mexico"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

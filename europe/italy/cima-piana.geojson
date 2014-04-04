@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.608543,
+      45.646073
+    ]
+  },
+  "properties": {
+    "feet": 8241,
+    "meters": 2512,
+    "latitude": 45.646073,
+    "longitude": 7.608543,
+    "name": "Cima Piana",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

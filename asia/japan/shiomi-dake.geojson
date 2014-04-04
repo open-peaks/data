@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.186,
+      35.5746
+    ]
+  },
+  "properties": {
+    "feet": 10013,
+    "meters": 3052,
+    "latitude": 35.5746,
+    "longitude": 138.186,
+    "name": "Shiomi Dake",
+    "regions": [
+      "Japanese Archipelago",
+      "Honshu"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

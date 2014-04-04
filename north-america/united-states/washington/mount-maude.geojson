@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.803988,
+      48.137351
+    ]
+  },
+  "properties": {
+    "feet": 9082,
+    "meters": 2768,
+    "latitude": 48.137351,
+    "longitude": -120.803988,
+    "name": "Mount Maude",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

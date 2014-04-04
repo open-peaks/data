@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.688,
+      40.4439
+    ]
+  },
+  "properties": {
+    "feet": 13069,
+    "meters": 3983,
+    "latitude": 40.4439,
+    "longitude": -105.688,
+    "name": "Mount Chiquita",
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

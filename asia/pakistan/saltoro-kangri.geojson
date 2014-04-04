@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.8486,
+      35.4003
+    ]
+  },
+  "properties": {
+    "feet": 25400,
+    "meters": 7742,
+    "latitude": 35.4003,
+    "longitude": 76.8486,
+    "name": "Saltoro Kangri",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

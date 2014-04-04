@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.261791,
+      -16.198737
+    ]
+  },
+  "properties": {
+    "feet": 16798,
+    "meters": 5120,
+    "latitude": -16.198737,
+    "longitude": -68.261791,
+    "name": "Cuchillo Khuno",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

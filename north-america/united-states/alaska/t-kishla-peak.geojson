@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.555511,
+      61.143567
+    ]
+  },
+  "properties": {
+    "feet": 5230,
+    "meters": 1594,
+    "latitude": 61.143567,
+    "longitude": -149.555511,
+    "name": "T'Kishla Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Chugach Mountains"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

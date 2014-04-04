@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.8,
+      -38.2833
+    ]
+  },
+  "properties": {
+    "feet": 9206,
+    "meters": 2806,
+    "latitude": -38.2833,
+    "longitude": -71.8,
+    "name": "Tolhuaca",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

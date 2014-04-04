@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.640984,
+      42.638
+    ]
+  },
+  "properties": {
+    "feet": 10853,
+    "meters": 3308,
+    "latitude": 42.638,
+    "longitude": 0.640984,
+    "name": "Pico de la Maladeta",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

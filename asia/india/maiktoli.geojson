@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.877472,
+      30.274486
+    ]
+  },
+  "properties": {
+    "feet": 22320,
+    "meters": 6803,
+    "latitude": 30.274486,
+    "longitude": 79.877472,
+    "name": "Maiktoli",
+    "regions": [
+      "Himalaya ",
+      "Garhwal Himalaya"
+    ],
+    "countries": [
+      "India",
+      "India"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

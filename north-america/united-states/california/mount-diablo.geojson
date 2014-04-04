@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.92,
+      37.88
+    ]
+  },
+  "properties": {
+    "feet": 3849,
+    "meters": 1173,
+    "latitude": 37.88,
+    "longitude": -121.92,
+    "name": "Mount Diablo",
+    "regions": [
+      "Pacific Ranges",
+      "Central and Southern California Ranges"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.74445,
+      52.917908
+    ]
+  },
+  "properties": {
+    "feet": 2801,
+    "meters": 854,
+    "latitude": 52.917908,
+    "longitude": -3.74445,
+    "name": "Arenig Fawr",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

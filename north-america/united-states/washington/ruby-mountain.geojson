@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.042943,
+      48.694388
+    ]
+  },
+  "properties": {
+    "feet": 7408,
+    "meters": 2258,
+    "latitude": 48.694388,
+    "longitude": -121.042943,
+    "name": "Ruby Mountain",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

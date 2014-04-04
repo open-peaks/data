@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.667,
+      41.9
+    ]
+  },
+  "properties": {
+    "feet": 9986,
+    "meters": 3044,
+    "latitude": 41.9,
+    "longitude": -111.667,
+    "name": "Naomi Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Wasatch Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

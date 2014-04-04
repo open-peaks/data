@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.540761,
+      47.588799
+    ]
+  },
+  "properties": {
+    "feet": 5339,
+    "meters": 1627,
+    "latitude": 47.588799,
+    "longitude": -121.540761,
+    "name": "The Ark",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

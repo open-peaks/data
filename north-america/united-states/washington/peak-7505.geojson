@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.135082,
+      48.657606
+    ]
+  },
+  "properties": {
+    "feet": 7505,
+    "meters": 2288,
+    "latitude": 48.657606,
+    "longitude": -121.135082,
+    "name": "Peak 7505",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

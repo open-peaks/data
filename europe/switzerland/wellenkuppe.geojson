@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.677778,
+      46.041944
+    ]
+  },
+  "properties": {
+    "feet": 12805,
+    "meters": 3903,
+    "latitude": 46.041944,
+    "longitude": 7.677778,
+    "name": "Wellenkuppe",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

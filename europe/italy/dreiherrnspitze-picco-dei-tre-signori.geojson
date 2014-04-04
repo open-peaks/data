@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.240522,
+      47.070231
+    ]
+  },
+  "properties": {
+    "feet": 1066,
+    "meters": 3498,
+    "latitude": 47.070231,
+    "longitude": 12.240522,
+    "name": "Dreiherrnspitze (Picco dei Tre Signori)",
+    "regions": [
+      "Eastern Alps",
+      "Noric Alps"
+    ],
+    "countries": [
+      "Italy",
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

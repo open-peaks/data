@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.62,
+      40.2656
+    ]
+  },
+  "properties": {
+    "feet": 13326,
+    "meters": 4062,
+    "latitude": 40.2656,
+    "longitude": -105.62,
+    "name": "Storm Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Front Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

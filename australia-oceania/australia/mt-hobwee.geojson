@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.207577,
+      -28.253264
+    ]
+  },
+  "properties": {
+    "feet": 3855,
+    "meters": 1175,
+    "latitude": -28.253264,
+    "longitude": 153.207577,
+    "name": "Mt Hobwee",
+    "regions": [
+      "Great Dividing Range",
+      "North NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

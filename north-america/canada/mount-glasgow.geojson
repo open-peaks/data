@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.93124,
+      50.756441
+    ]
+  },
+  "properties": {
+    "feet": 9629,
+    "meters": 2935,
+    "latitude": 50.756441,
+    "longitude": -114.93124,
+    "name": "Mount Glasgow",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

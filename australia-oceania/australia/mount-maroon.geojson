@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.727127,
+      -28.210937
+    ]
+  },
+  "properties": {
+    "feet": 3169,
+    "meters": 966,
+    "latitude": -28.210937,
+    "longitude": 152.727127,
+    "name": "Mount Maroon",
+    "regions": [
+      "Great Dividing Range",
+      "South Queensland Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

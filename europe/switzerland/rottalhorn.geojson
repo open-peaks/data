@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.967362,
+      46.53206
+    ]
+  },
+  "properties": {
+    "feet": 13022,
+    "meters": 3972,
+    "latitude": 46.53206,
+    "longitude": 7.967362,
+    "name": "Rottalhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.706682,
+      40.089199
+    ]
+  },
+  "properties": {
+    "feet": 541,
+    "meters": 165,
+    "latitude": 40.089199,
+    "longitude": 9.706682,
+    "name": "Aguglia di Goloritzè",
+    "regions": [
+      "Italian Peninsula and Islands",
+      "Tyrrhennian Islands"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

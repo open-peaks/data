@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.667,
+      -37.5
+    ]
+  },
+  "properties": {
+    "feet": 5997,
+    "meters": 1828,
+    "latitude": -37.5,
+    "longitude": 148.667,
+    "name": "Mount Pilot",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.675179,
+      47.110911
+    ]
+  },
+  "properties": {
+    "feet": 7877,
+    "meters": 2401,
+    "latitude": 47.110911,
+    "longitude": 9.675179,
+    "name": "Fundelkopf",
+    "regions": [
+      "Northern Alps",
+      "Austrian Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

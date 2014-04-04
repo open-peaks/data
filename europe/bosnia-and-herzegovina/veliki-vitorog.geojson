@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0442,
+      44.1194
+    ]
+  },
+  "properties": {
+    "feet": 6257,
+    "meters": 1907,
+    "latitude": 44.1194,
+    "longitude": 17.0442,
+    "name": "Veliki Vitorog",
+    "regions": [
+      "Balkan Peninsula",
+      "Dinaric Alps"
+    ],
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

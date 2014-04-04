@@ -1,0 +1,2070 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.251,
+          -31.7558
+        ]
+      },
+      "properties": {
+        "feet": 1843,
+        "meters": 562,
+        "latitude": -31.7558,
+        "longitude": 159.251,
+        "name": "Ball's Pyramid",
+        "regions": [
+          "New Zealand",
+          "Outlying Islands"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.939805,
+          -41.717527
+        ]
+      },
+      "properties": {
+        "feet": 5114,
+        "meters": 1559,
+        "latitude": -41.717527,
+        "longitude": 145.939805,
+        "name": "Barn Bluff",
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.658537,
+          -41.532511
+        ]
+      },
+      "properties": {
+        "feet": 5167,
+        "meters": 1575,
+        "latitude": -41.532511,
+        "longitude": 147.658537,
+        "name": "Ben Lomond",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5,
+          -36.25
+        ]
+      },
+      "properties": {
+        "feet": 6762,
+        "meters": 2061,
+        "latitude": -36.25,
+        "longitude": 148.5,
+        "name": "Big Bogong",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.099966,
+          -29.347229
+        ]
+      },
+      "properties": {
+        "feet": 4803,
+        "meters": 1464,
+        "latitude": -29.347229,
+        "longitude": 152.099966,
+        "name": "Big Mount Spirabo",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.692,
+          -35.5719
+        ]
+      },
+      "properties": {
+        "feet": 6273,
+        "meters": 1912,
+        "latitude": -35.5719,
+        "longitude": 148.692,
+        "name": "Bimberi",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.833,
+          -37.25
+        ]
+      },
+      "properties": {
+        "feet": 3852,
+        "meters": 1174,
+        "latitude": -37.25,
+        "longitude": 148.833,
+        "name": "Black Jack Mountain",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.417,
+          -34.65
+        ]
+      },
+      "properties": {
+        "feet": 3829,
+        "meters": 1167,
+        "latitude": -34.65,
+        "longitude": 117.417,
+        "name": "Bluff Knoll",
+        "regions": [
+          "Western Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.658,
+          -30.018
+        ]
+      },
+      "properties": {
+        "feet": 4948,
+        "meters": 1508,
+        "latitude": -30.018,
+        "longitude": 151.658,
+        "name": "Brothers Mountain",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia",
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.447692,
+          -32.003017
+        ]
+      },
+      "properties": {
+        "feet": 5203,
+        "meters": 1586,
+        "latitude": -32.003017,
+        "longitude": 151.447692,
+        "name": "Brumlow Top",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.833,
+          -37.5
+        ]
+      },
+      "properties": {
+        "feet": 3609,
+        "meters": 1100,
+        "latitude": -37.5,
+        "longitude": 148.833,
+        "name": "Byadbo Mountain",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.291111,
+          -36.408611
+        ]
+      },
+      "properties": {
+        "feet": 7037,
+        "meters": 2145,
+        "latitude": -36.408611,
+        "longitude": 148.291111,
+        "name": "Carruthers Peak",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.952125,
+          -41.684323
+        ]
+      },
+      "properties": {
+        "feet": 5069,
+        "meters": 1545,
+        "latitude": -41.684323,
+        "longitude": 145.952125,
+        "name": "Cradle Mountain",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.428736,
+          -30.419129
+        ]
+      },
+      "properties": {
+        "feet": 5000,
+        "meters": 1524,
+        "latitude": -30.419129,
+        "longitude": 152.428736,
+        "name": "Darkie Point",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.828528,
+          -42.269116
+        ]
+      },
+      "properties": {
+        "feet": 4734,
+        "meters": 1443,
+        "latitude": -42.269116,
+        "longitude": 145.828528,
+        "name": "Frenchman's Cap",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05,
+          -41.9
+        ]
+      },
+      "properties": {
+        "feet": 4951,
+        "meters": 1509,
+        "latitude": -41.9,
+        "longitude": 146.05,
+        "name": "Geryon",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.94783,
+          -35.458922
+        ]
+      },
+      "properties": {
+        "feet": 3406,
+        "meters": 1038,
+        "latitude": -35.458922,
+        "longitude": 148.94783,
+        "name": "Gibraltar Peak",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.833,
+          -22.85
+        ]
+      },
+      "properties": {
+        "feet": 3501,
+        "meters": 1067,
+        "latitude": -22.85,
+        "longitude": 131.833,
+        "name": "Karrinyarra (Central Mount Wedge)",
+        "regions": [
+          "Central Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64141,
+          -17.02337
+        ]
+      },
+      "properties": {
+        "feet": 4265,
+        "meters": 1300,
+        "latitude": -17.02337,
+        "longitude": 145.64141,
+        "name": "Lambs Head (Kahlpahlim Rock)",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.41742,
+          -30.438183
+        ]
+      },
+      "properties": {
+        "feet": 5095,
+        "meters": 1553,
+        "latitude": -30.438183,
+        "longitude": 152.41742,
+        "name": "Major's Point",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.521881,
+          -53.098147
+        ]
+      },
+      "properties": {
+        "feet": 9006,
+        "meters": 2745,
+        "latitude": -53.098147,
+        "longitude": 73.521881,
+        "name": "Mawson Peak",
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.546331,
+          -17.557191
+        ]
+      },
+      "properties": {
+        "feet": 4501,
+        "meters": 1372,
+        "latitude": -17.557191,
+        "longitude": 145.546331,
+        "name": "Millaa Millaa Mountain",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.835,
+          -24.3103
+        ]
+      },
+      "properties": {
+        "feet": 3627,
+        "meters": 1106,
+        "latitude": -24.3103,
+        "longitude": 116.835,
+        "name": "Mount Augustus",
+        "regions": [
+          "Western Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.698326,
+          -28.280914
+        ]
+      },
+      "properties": {
+        "feet": 4442,
+        "meters": 1354,
+        "latitude": -28.280914,
+        "longitude": 152.698326,
+        "name": "Mount Barney",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.817,
+          -17.3833
+        ]
+      },
+      "properties": {
+        "feet": 5321,
+        "meters": 1622,
+        "latitude": -17.3833,
+        "longitude": 145.817,
+        "name": "Mount Bartle Frere",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25,
+          -37.85
+        ]
+      },
+      "properties": {
+        "feet": 5138,
+        "meters": 1566,
+        "latitude": -37.85,
+        "longitude": 146.25,
+        "name": "Mount Baw Baw",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "feet": 1824,
+        "meters": 556,
+        "latitude": -27.0,
+        "longitude": 0.0,
+        "name": "Mount Beerwah",
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.853889,
+          -17.264167
+        ]
+      },
+      "properties": {
+        "feet": 5226,
+        "meters": 1593,
+        "latitude": -17.264167,
+        "longitude": 145.853889,
+        "name": "Mount Bellenden Ker",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia",
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.49,
+          -28.53
+        ]
+      },
+      "properties": {
+        "feet": 1000,
+        "meters": 305,
+        "latitude": -28.53,
+        "longitude": 153.49,
+        "name": "Mount Chincogan",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27683,
+          -36.933685
+        ]
+      },
+      "properties": {
+        "feet": 6027,
+        "meters": 1837,
+        "latitude": -36.933685,
+        "longitude": 147.27683,
+        "name": "Mount Cope",
+        "regions": [
+          "Great Dividing Range",
+          "Victoria Alps"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.39316,
+          -28.041834
+        ]
+      },
+      "properties": {
+        "feet": 3753,
+        "meters": 1144,
+        "latitude": -28.041834,
+        "longitude": 152.39316,
+        "name": "Mount Cordeaux",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.81063,
+          -35.306414
+        ]
+      },
+      "properties": {
+        "feet": 4659,
+        "meters": 1420,
+        "latitude": -35.306414,
+        "longitude": 148.81063,
+        "name": "Mount Coree",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.325624,
+          -28.235742
+        ]
+      },
+      "properties": {
+        "feet": 2425,
+        "meters": 739,
+        "latitude": -28.235742,
+        "longitude": 153.325624,
+        "name": "Mount Cougal",
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.681458,
+          -37.701207
+        ]
+      },
+      "properties": {
+        "feet": 4101,
+        "meters": 1250,
+        "latitude": -37.701207,
+        "longitude": 145.681458,
+        "name": "Mount Donna Buang",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.4333,
+          -64.6833
+        ]
+      },
+      "properties": {
+        "feet": 5479,
+        "meters": 1670,
+        "latitude": -64.6833,
+        "longitude": -35.4333,
+        "name": "Mount Emu",
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.128069,
+          -36.975267
+        ]
+      },
+      "properties": {
+        "feet": 6109,
+        "meters": 1862,
+        "latitude": -36.975267,
+        "longitude": 147.128069,
+        "name": "Mount Hotham",
+        "regions": [
+          "Great Dividing Range",
+          "Victoria Alps"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.167,
+          -30.25
+        ]
+      },
+      "properties": {
+        "feet": 4947,
+        "meters": 1508,
+        "latitude": -30.25,
+        "longitude": 150.167,
+        "name": "Mount Kaputar",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.267,
+          -36.45
+        ]
+      },
+      "properties": {
+        "feet": 7310,
+        "meters": 2228,
+        "latitude": -36.45,
+        "longitude": 148.267,
+        "name": "Mount Kosciusko",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.727127,
+          -28.210937
+        ]
+      },
+      "properties": {
+        "feet": 3169,
+        "meters": 966,
+        "latitude": -28.210937,
+        "longitude": 152.727127,
+        "name": "Mount Maroon",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.017,
+          -22.4333
+        ]
+      },
+      "properties": {
+        "feet": 6043,
+        "meters": 1842,
+        "latitude": -22.4333,
+        "longitude": 120.017,
+        "name": "Mount McKay",
+        "regions": [
+          "Great Dividing Range",
+          "Victoria Alps"
+        ],
+        "countries": [
+          "Australia",
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.017,
+          -41.9
+        ]
+      },
+      "properties": {
+        "feet": 5305,
+        "meters": 1617,
+        "latitude": -41.9,
+        "longitude": 146.017,
+        "name": "Mount Ossa",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.667,
+          -37.5
+        ]
+      },
+      "properties": {
+        "feet": 5997,
+        "meters": 1828,
+        "latitude": -37.5,
+        "longitude": 148.667,
+        "name": "Mount Pilot",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.128645,
+          -35.49497
+        ]
+      },
+      "properties": {
+        "feet": 3563,
+        "meters": 1086,
+        "latitude": -35.49497,
+        "longitude": 149.128645,
+        "name": "Mount Rob Roy",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.460666,
+          -28.218367
+        ]
+      },
+      "properties": {
+        "feet": 4511,
+        "meters": 1375,
+        "latitude": -28.218367,
+        "longitude": 152.460666,
+        "name": "Mount Superbus",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25,
+          -36.4167
+        ]
+      },
+      "properties": {
+        "feet": 6785,
+        "meters": 2068,
+        "latitude": -36.4167,
+        "longitude": 148.25,
+        "name": "Mount Tate",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3,
+          -42.6167
+        ]
+      },
+      "properties": {
+        "feet": 4170,
+        "meters": 1271,
+        "latitude": -42.6167,
+        "longitude": 147.3,
+        "name": "Mount Wellington",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.167,
+          -36.6667
+        ]
+      },
+      "properties": {
+        "feet": 4970,
+        "meters": 1515,
+        "latitude": -36.6667,
+        "longitude": 148.167,
+        "name": "Mount Youngal",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.435591,
+          -28.157326
+        ]
+      },
+      "properties": {
+        "feet": 4245,
+        "meters": 1294,
+        "latitude": -28.157326,
+        "longitude": 152.435591,
+        "name": "Mt Asplenium",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.105829,
+          -29.294232
+        ]
+      },
+      "properties": {
+        "feet": 4741,
+        "meters": 1445,
+        "latitude": -29.294232,
+        "longitude": 152.105829,
+        "name": "Mt Bajimba",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.614396,
+          -28.269393
+        ]
+      },
+      "properties": {
+        "feet": 4308,
+        "meters": 1313,
+        "latitude": -28.269393,
+        "longitude": 152.614396,
+        "name": "Mt Ballow",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.171189,
+          -28.262422
+        ]
+      },
+      "properties": {
+        "feet": 3904,
+        "meters": 1190,
+        "latitude": -28.262422,
+        "longitude": 153.171189,
+        "name": "Mt Bithongabel",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.449,
+          -37.1475
+        ]
+      },
+      "properties": {
+        "feet": 5919,
+        "meters": 1804,
+        "latitude": -37.1475,
+        "longitude": 146.449,
+        "name": "Mt. Buller",
+        "regions": [
+          "South Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.272257,
+          -16.422226
+        ]
+      },
+      "properties": {
+        "feet": 4521,
+        "meters": 1378,
+        "latitude": -16.422226,
+        "longitude": 145.272257,
+        "name": "Mt Carbine",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.866667,
+          -35.483333
+        ]
+      },
+      "properties": {
+        "feet": 4872,
+        "meters": 1485,
+        "latitude": -35.483333,
+        "longitude": 148.866667,
+        "name": "Mt Domain",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51583,
+          -42.654632
+        ]
+      },
+      "properties": {
+        "feet": 4705,
+        "meters": 1434,
+        "latitude": -42.654632,
+        "longitude": 146.51583,
+        "name": "Mt Field West",
+        "regions": [
+          "Tasmania"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.502583,
+          -28.074367
+        ]
+      },
+      "properties": {
+        "feet": 2526,
+        "meters": 770,
+        "latitude": -28.074367,
+        "longitude": 152.502583,
+        "name": "Mt Greville",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.207577,
+          -28.253264
+        ]
+      },
+      "properties": {
+        "feet": 3855,
+        "meters": 1175,
+        "latitude": -28.253264,
+        "longitude": 153.207577,
+        "name": "Mt Hobwee",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.647911,
+          -37.174543
+        ]
+      },
+      "properties": {
+        "feet": 5715,
+        "meters": 1742,
+        "latitude": -37.174543,
+        "longitude": 146.647911,
+        "name": "Mt Howitt",
+        "regions": [
+          "Great Dividing Range",
+          "Victoria Alps"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.43203,
+          -28.144097
+        ]
+      },
+      "properties": {
+        "feet": 4137,
+        "meters": 1261,
+        "latitude": -28.144097,
+        "longitude": 152.43203,
+        "name": "Mt Huntley",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7125,
+          -34.976048
+        ]
+      },
+      "properties": {
+        "feet": 2329,
+        "meters": 710,
+        "latitude": -34.976048,
+        "longitude": 138.7125,
+        "name": "Mt. Lofty",
+        "regions": [
+          "South Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.472609,
+          -28.204525
+        ]
+      },
+      "properties": {
+        "feet": 4337,
+        "meters": 1322,
+        "latitude": -28.204525,
+        "longitude": 152.472609,
+        "name": "Mt Robert's (Main Range)",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.200734,
+          -16.438774
+        ]
+      },
+      "properties": {
+        "feet": 4354,
+        "meters": 1327,
+        "latitude": -16.438774,
+        "longitude": 145.200734,
+        "name": "Mt Spurgeon",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04436,
+          -35.549808
+        ]
+      },
+      "properties": {
+        "feet": 4511,
+        "meters": 1375,
+        "latitude": -35.549808,
+        "longitude": 149.04436,
+        "name": "Mt Tennent",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.175592,
+          -28.251847
+        ]
+      },
+      "properties": {
+        "feet": 3901,
+        "meters": 1189,
+        "latitude": -28.251847,
+        "longitude": 153.175592,
+        "name": "Mt Wanungara",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.26,
+          -28.4
+        ]
+      },
+      "properties": {
+        "feet": 3802,
+        "meters": 1159,
+        "latitude": -28.4,
+        "longitude": 153.26,
+        "name": "Mt Warning/Wollumbin",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.024393,
+          -16.232454
+        ]
+      },
+      "properties": {
+        "feet": 4432,
+        "meters": 1351,
+        "latitude": -16.232454,
+        "longitude": 145.024393,
+        "name": "Mt Windsor",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.395534,
+          -23.400925
+        ]
+      },
+      "properties": {
+        "feet": 5023,
+        "meters": 1531,
+        "latitude": -23.400925,
+        "longitude": 132.395534,
+        "name": "Mt Zeil",
+        "regions": [
+          "Central Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.407905,
+          -30.488687
+        ]
+      },
+      "properties": {
+        "feet": 5131,
+        "meters": 1564,
+        "latitude": -30.488687,
+        "longitude": 152.407905,
+        "name": "Point Lookout (New South Wales)",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.38,
+          -28.48
+        ]
+      },
+      "properties": {
+        "feet": 2152,
+        "meters": 656,
+        "latitude": -28.48,
+        "longitude": 153.38,
+        "name": "Pykie's Peak",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02255,
+          -35.82917
+        ]
+      },
+      "properties": {
+        "feet": 4629,
+        "meters": 1411,
+        "latitude": -35.82917,
+        "longitude": 149.02255,
+        "name": "Shanahans Mountain",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.394074,
+          -28.099107
+        ]
+      },
+      "properties": {
+        "feet": 3953,
+        "meters": 1205,
+        "latitude": -28.099107,
+        "longitude": 152.394074,
+        "name": "Spicer's Peak",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.891323,
+          -35.542754
+        ]
+      },
+      "properties": {
+        "feet": 4593,
+        "meters": 1400,
+        "latitude": -35.542754,
+        "longitude": 148.891323,
+        "name": "Square Rock",
+        "regions": [
+          "Great Dividing Range",
+          "South Queensland Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.009656,
+          -29.376913
+        ]
+      },
+      "properties": {
+        "feet": 4928,
+        "meters": 1502,
+        "latitude": -29.376913,
+        "longitude": 152.009656,
+        "name": "The Magistrate",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.928488,
+          -35.477288
+        ]
+      },
+      "properties": {
+        "feet": 3835,
+        "meters": 1169,
+        "latitude": -35.477288,
+        "longitude": 148.928488,
+        "name": "The Pyramid",
+        "regions": [
+          "Great Dividing Range",
+          "South NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.239942,
+          -30.437947
+        ]
+      },
+      "properties": {
+        "feet": 5203,
+        "meters": 1586,
+        "latitude": -30.437947,
+        "longitude": 152.239942,
+        "name": "The Round Mountain (New South Wales)",
+        "regions": [
+          "Great Dividing Range",
+          "North NSW Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.374119,
+          -16.164291
+        ]
+      },
+      "properties": {
+        "feet": 4508,
+        "meters": 1374,
+        "latitude": -16.164291,
+        "longitude": 145.374119,
+        "name": "Thornton Peak",
+        "regions": [
+          "Great Dividing Range",
+          "Cape York Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.983,
+          -25.2333
+        ]
+      },
+      "properties": {
+        "feet": 2848,
+        "meters": 868,
+        "latitude": -25.2333,
+        "longitude": 130.983,
+        "name": "Uluru",
+        "regions": [
+          "Central Australia Ranges"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8,
+          -17.1293
+        ]
+      },
+      "properties": {
+        "feet": 3025,
+        "meters": 922,
+        "latitude": -17.1293,
+        "longitude": 145.8,
+        "name": "Walsh's Peak",
+        "regions": [
+          "Great Dividing Range"
+        ],
+        "countries": [
+          "Australia"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

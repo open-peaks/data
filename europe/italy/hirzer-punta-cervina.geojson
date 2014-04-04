@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.275706,
+      46.738096
+    ]
+  },
+  "properties": {
+    "feet": 9124,
+    "meters": 2781,
+    "latitude": 46.738096,
+    "longitude": 11.275706,
+    "name": "Hirzer (Punta Cervina)",
+    "regions": [
+      "Southern Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

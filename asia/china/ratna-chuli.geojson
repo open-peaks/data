@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.3667,
+      28.85
+    ]
+  },
+  "properties": {
+    "feet": 23080,
+    "meters": 7035,
+    "latitude": 28.85,
+    "longitude": 84.3667,
+    "name": "Ratna Chuli",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "China",
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

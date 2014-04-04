@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 22162,
+    "meters": 6755,
+    "name": "Tocorpurri",
+    "regions": [
+      "Andes",
+      "Puna de Atacama"
+    ],
+    "countries": [
+      "Bolivia",
+      "Chile"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

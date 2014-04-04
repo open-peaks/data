@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.888705,
+      47.471822
+    ]
+  },
+  "properties": {
+    "feet": 8605,
+    "meters": 2623,
+    "latitude": 47.471822,
+    "longitude": -120.888705,
+    "name": "Sherpa Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

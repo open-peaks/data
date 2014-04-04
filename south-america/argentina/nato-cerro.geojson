@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.120809,
+      -49.297384
+    ]
+  },
+  "properties": {
+    "feet": 9177,
+    "meters": 2797,
+    "latitude": -49.297384,
+    "longitude": -73.120809,
+    "name": "Nato (Cerro)",
+    "regions": [
+      "Andes",
+      "Patagonia"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.272257,
+      -16.422226
+    ]
+  },
+  "properties": {
+    "feet": 4521,
+    "meters": 1378,
+    "latitude": -16.422226,
+    "longitude": 145.272257,
+    "name": "Mt Carbine",
+    "regions": [
+      "Great Dividing Range",
+      "Cape York Ranges"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

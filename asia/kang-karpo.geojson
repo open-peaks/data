@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.5833,
+      28.3833
+    ]
+  },
+  "properties": {
+    "feet": 22113,
+    "meters": 6740,
+    "latitude": 28.3833,
+    "longitude": 98.5833,
+    "name": "Kang Karpo",
+    "regions": [
+      "Parallel Gorges Area"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

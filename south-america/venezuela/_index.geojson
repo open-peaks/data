@@ -1,0 +1,1248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.207441,
+          10.423394
+        ]
+      },
+      "properties": {
+        "feet": 7694,
+        "meters": 2345,
+        "latitude": 10.423394,
+        "longitude": -67.207441,
+        "name": "Alto de Lagunazo",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.105136,
+          10.458272
+        ]
+      },
+      "properties": {
+        "feet": 7238,
+        "meters": 2206,
+        "latitude": 10.458272,
+        "longitude": -67.105136,
+        "name": "Alto de Pozo Negro",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0011,
+          8.54583
+        ]
+      },
+      "properties": {
+        "feet": 16043,
+        "meters": 4890,
+        "latitude": 8.54583,
+        "longitude": -71.0011,
+        "name": "Bonpland",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.001079,
+          8.602607
+        ]
+      },
+      "properties": {
+        "feet": 14678,
+        "meters": 4474,
+        "latitude": 8.602607,
+        "longitude": -71.001079,
+        "name": "Cardenillo",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.606014,
+          9.977727
+        ]
+      },
+      "properties": {
+        "feet": 5774,
+        "meters": 1760,
+        "latitude": 9.977727,
+        "longitude": -68.606014,
+        "name": "Cerro Azul",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9114,
+          10.9958
+        ]
+      },
+      "properties": {
+        "feet": 3150,
+        "meters": 960,
+        "latitude": 10.9958,
+        "longitude": -63.9114,
+        "name": "Cerro Copey",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.631018,
+          10.322604
+        ]
+      },
+      "properties": {
+        "feet": 6778,
+        "meters": 2066,
+        "latitude": 10.322604,
+        "longitude": -70.631018,
+        "name": "Cerro El Cerrón",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.429734,
+          9.954395
+        ]
+      },
+      "properties": {
+        "feet": 2969,
+        "meters": 905,
+        "latitude": 9.954395,
+        "longitude": -66.429734,
+        "name": "Cerro El Onoto",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.515578,
+          9.870691
+        ]
+      },
+      "properties": {
+        "feet": 6332,
+        "meters": 1930,
+        "latitude": 9.870691,
+        "longitude": -67.515578,
+        "name": "Cerro Platillón",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.951453,
+          11.818419
+        ]
+      },
+      "properties": {
+        "feet": 2625,
+        "meters": 830,
+        "latitude": 11.818419,
+        "longitude": -69.951453,
+        "name": "Cerro Santa Ana",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.394672,
+          9.974472
+        ]
+      },
+      "properties": {
+        "feet": 4134,
+        "meters": 1260,
+        "latitude": 9.974472,
+        "longitude": -66.394672,
+        "name": "Cerro Santa Inés",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.80012,
+          10.404248
+        ]
+      },
+      "properties": {
+        "feet": 6381,
+        "meters": 1945,
+        "latitude": 10.404248,
+        "longitude": -68.80012,
+        "name": "Cerro Tigre",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.958411,
+          10.08384
+        ]
+      },
+      "properties": {
+        "feet": 8514,
+        "meters": 2595,
+        "latitude": 10.08384,
+        "longitude": -63.958411,
+        "name": "Cerro Tristeza",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.826292,
+          8.84262
+        ]
+      },
+      "properties": {
+        "feet": 13510,
+        "meters": 4118,
+        "latitude": 8.84262,
+        "longitude": -70.826292,
+        "name": "Collado del Cóndor",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.333354,
+          10.403683
+        ]
+      },
+      "properties": {
+        "feet": 7776,
+        "meters": 2370,
+        "latitude": 10.403683,
+        "longitude": -67.333354,
+        "name": "Cumbre de Buena Vista",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9344,
+          9.99444
+        ]
+      },
+      "properties": {
+        "feet": 5676,
+        "meters": 1730,
+        "latitude": 9.99444,
+        "longitude": -66.9344,
+        "name": "Curucutí",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.915,
+          8.84778
+        ]
+      },
+      "properties": {
+        "feet": 15256,
+        "meters": 4650,
+        "latitude": 8.84778,
+        "longitude": -70.915,
+        "name": "El Buitre",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.101069,
+          8.510912
+        ]
+      },
+      "properties": {
+        "feet": 4780,
+        "meters": 1457,
+        "latitude": 8.510912,
+        "longitude": -71.101069,
+        "name": "El León",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.922426,
+          8.072147
+        ]
+      },
+      "properties": {
+        "feet": 12835,
+        "meters": 3912,
+        "latitude": 8.072147,
+        "longitude": -71.922426,
+        "name": "El Púlpito",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0889,
+          8.53167
+        ]
+      },
+      "properties": {
+        "feet": 15515,
+        "meters": 4729,
+        "latitude": 8.53167,
+        "longitude": -71.0889,
+        "name": "El Toro",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.21817,
+          10.40993
+        ]
+      },
+      "properties": {
+        "feet": 7782,
+        "meters": 2372,
+        "latitude": 10.40993,
+        "longitude": -67.21817,
+        "name": "Geremba",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.693588,
+          8.780582
+        ]
+      },
+      "properties": {
+        "feet": 12765,
+        "meters": 3891,
+        "latitude": 8.780582,
+        "longitude": -70.693588,
+        "name": "Granate",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          8.55
+        ]
+      },
+      "properties": {
+        "feet": 16214,
+        "meters": 4942,
+        "latitude": 8.55,
+        "longitude": -71.0,
+        "name": "Humboldt",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.802489,
+          8.756357
+        ]
+      },
+      "properties": {
+        "feet": 15322,
+        "meters": 4670,
+        "latitude": 8.756357,
+        "longitude": -70.802489,
+        "name": "Mucuñuque",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.001034,
+          8.810355
+        ]
+      },
+      "properties": {
+        "feet": 15233,
+        "meters": 4643,
+        "latitude": 8.810355,
+        "longitude": -71.001034,
+        "name": "Pan de Azúcar",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.347302,
+          10.387474
+        ]
+      },
+      "properties": {
+        "feet": 7680,
+        "meters": 2341,
+        "latitude": 10.387474,
+        "longitude": -67.347302,
+        "name": "Peñón de San Carlos",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.907768,
+          10.560764
+        ]
+      },
+      "properties": {
+        "feet": 6348,
+        "meters": 1935,
+        "latitude": 10.560764,
+        "longitude": -66.907768,
+        "name": "Picacho de Galipán",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0425,
+          8.54361
+        ]
+      },
+      "properties": {
+        "feet": 16332,
+        "meters": 4978,
+        "latitude": 8.54361,
+        "longitude": -71.0425,
+        "name": "Pico Bolivar",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.937737,
+          10.3625
+        ]
+      },
+      "properties": {
+        "feet": 6542,
+        "meters": 2004,
+        "latitude": 10.3625,
+        "longitude": -67.937737,
+        "name": "Pico Caobal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11333,
+          9.527623
+        ]
+      },
+      "properties": {
+        "feet": 11713,
+        "meters": 3570,
+        "latitude": 9.527623,
+        "longitude": -70.11333,
+        "name": "Pico Cendé",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.309142,
+          10.412169
+        ]
+      },
+      "properties": {
+        "feet": 7969,
+        "meters": 2429,
+        "latitude": 10.412169,
+        "longitude": -67.309142,
+        "name": "Pico Codazzi",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.389101,
+          10.394227
+        ]
+      },
+      "properties": {
+        "feet": 7841,
+        "meters": 2390,
+        "latitude": 10.394227,
+        "longitude": -67.389101,
+        "name": "Pico Cogollal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.800619,
+          8.850556
+        ]
+      },
+      "properties": {
+        "feet": 13780,
+        "meters": 4200,
+        "latitude": 8.850556,
+        "longitude": -70.800619,
+        "name": "Pico El Gavilán",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.556602,
+          8.948921
+        ]
+      },
+      "properties": {
+        "feet": 12697,
+        "meters": 3870,
+        "latitude": 8.948921,
+        "longitude": -70.556602,
+        "name": "Pico Guirigay",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.429276,
+          10.376304
+        ]
+      },
+      "properties": {
+        "feet": 7995,
+        "meters": 2447,
+        "latitude": 10.376304,
+        "longitude": -67.429276,
+        "name": "Pico La Ceniza",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.806198,
+          8.759418
+        ]
+      },
+      "properties": {
+        "feet": 15121,
+        "meters": 4609,
+        "latitude": 8.759418,
+        "longitude": -70.806198,
+        "name": "Pico Mifés",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.782584,
+          10.543002
+        ]
+      },
+      "properties": {
+        "feet": 9071,
+        "meters": 2765,
+        "latitude": 10.543002,
+        "longitude": -66.782584,
+        "name": "Pico Naiguatá",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.853085,
+          10.541188
+        ]
+      },
+      "properties": {
+        "feet": 14600,
+        "meters": 4460,
+        "latitude": 10.541188,
+        "longitude": -66.853085,
+        "name": "Pico Occidental",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.839361,
+          10.537602
+        ]
+      },
+      "properties": {
+        "feet": 8661,
+        "meters": 2640,
+        "latitude": 10.537602,
+        "longitude": -66.839361,
+        "name": "Pico Oriental",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.006553,
+          0.804812
+        ]
+      },
+      "properties": {
+        "feet": 9754,
+        "meters": 2973,
+        "latitude": 0.804812,
+        "longitude": -66.006553,
+        "name": "Pico Phelps",
+        "regions": [
+          "Guiana Highlands",
+          "Western Guiana Highlands"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.903316,
+          8.607319
+        ]
+      },
+      "properties": {
+        "feet": 14173,
+        "meters": 4320,
+        "latitude": 8.607319,
+        "longitude": -70.903316,
+        "name": "Pico Santo Cristo",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.951638,
+          8.858698
+        ]
+      },
+      "properties": {
+        "feet": 15577,
+        "meters": 4748,
+        "latitude": 8.858698,
+        "longitude": -70.951638,
+        "name": "Piedras Blancas",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.787439,
+          5.164506
+        ]
+      },
+      "properties": {
+        "feet": 9219,
+        "meters": 2810,
+        "latitude": 5.164506,
+        "longitude": -60.787439,
+        "name": "Tepuy Roraima",
+        "regions": [
+          "Guiana Highlands",
+          "La Gran Sabana"
+        ],
+        "countries": [
+          "Venezuela",
+          "Brazil"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.493131,
+          9.118029
+        ]
+      },
+      "properties": {
+        "feet": 13143,
+        "meters": 4006,
+        "latitude": 9.118029,
+        "longitude": -70.493131,
+        "name": "Teta de Niquitao",
+        "regions": [
+          "Andes",
+          "Cordillera de Merida"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.358237,
+          9.989899
+        ]
+      },
+      "properties": {
+        "feet": 4685,
+        "meters": 1428,
+        "latitude": 9.989899,
+        "longitude": -66.358237,
+        "name": "Topo La Bandera",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.616056,
+          9.959974
+        ]
+      },
+      "properties": {
+        "feet": 5577,
+        "meters": 1700,
+        "latitude": 9.959974,
+        "longitude": -68.616056,
+        "name": "Topo Yagrumal",
+        "regions": [
+          "Coastal South America",
+          "Coastal Venezuela"
+        ],
+        "countries": [
+          "Venezuela"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

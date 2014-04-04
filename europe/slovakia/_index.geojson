@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.710073,
+          49.197859
+        ]
+      },
+      "properties": {
+        "feet": 7146,
+        "meters": 2178,
+        "latitude": 49.197859,
+        "longitude": 19.710073,
+        "name": "Banikov",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7416,
+          49.1736
+        ]
+      },
+      "properties": {
+        "feet": 7165,
+        "meters": 2184,
+        "latitude": 49.1736,
+        "longitude": 19.7416,
+        "name": "Baranec",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.155621,
+          49.171716
+        ]
+      },
+      "properties": {
+        "feet": 8123,
+        "meters": 2476,
+        "latitude": 49.171716,
+        "longitude": 20.155621,
+        "name": "Bradavica",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5713,
+          48.9416
+        ]
+      },
+      "properties": {
+        "feet": 6575,
+        "meters": 2004,
+        "latitude": 48.9416,
+        "longitude": 19.5713,
+        "name": "Derese",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.144449,
+          49.177793
+        ]
+      },
+      "properties": {
+        "feet": 7785,
+        "meters": 2373,
+        "latitude": 49.177793,
+        "longitude": 20.144449,
+        "name": "Diva veza",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0833,
+          49.15
+        ]
+      },
+      "properties": {
+        "feet": 8711,
+        "meters": 2655,
+        "latitude": 49.15,
+        "longitude": 20.0833,
+        "name": "Gerlach",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.723034,
+          49.200102
+        ]
+      },
+      "properties": {
+        "feet": 7106,
+        "meters": 2166,
+        "latitude": 49.200102,
+        "longitude": 19.723034,
+        "name": "Hruba kopa",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.130244,
+          49.181384
+        ]
+      },
+      "properties": {
+        "feet": 6844,
+        "meters": 2086,
+        "latitude": 49.181384,
+        "longitude": 20.130244,
+        "name": "Hruba veza",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.699001,
+          49.185013
+        ]
+      },
+      "properties": {
+        "feet": 6355,
+        "meters": 1937,
+        "latitude": 49.185013,
+        "longitude": 19.699001,
+        "name": "Jalovska kopa",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.168495,
+          49.187538
+        ]
+      },
+      "properties": {
+        "feet": 7930,
+        "meters": 2417,
+        "latitude": 49.187538,
+        "longitude": 20.168495,
+        "name": "Javorovy Stit",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.932246,
+          49.236515
+        ]
+      },
+      "properties": {
+        "feet": 6578,
+        "meters": 2005,
+        "latitude": 49.236515,
+        "longitude": 19.932246,
+        "name": "Kondratova kopa",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia",
+          "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.183116,
+          49.198213
+        ]
+      },
+      "properties": {
+        "feet": 8619,
+        "meters": 2627,
+        "latitude": 49.198213,
+        "longitude": 20.183116,
+        "name": "Ladovy stit",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0833,
+          49.15
+        ]
+      },
+      "properties": {
+        "feet": 8638,
+        "meters": 2633,
+        "latitude": 49.15,
+        "longitude": 20.0833,
+        "name": "Lomnicky Stit",
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.75,
+          49.2
+        ]
+      },
+      "properties": {
+        "feet": 6847,
+        "meters": 2087,
+        "latitude": 49.2,
+        "longitude": 19.75,
+        "name": "Ostry Rohac",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.74771,
+          49.197326
+        ]
+      },
+      "properties": {
+        "feet": 6969,
+        "meters": 2124,
+        "latitude": 49.197326,
+        "longitude": 19.74771,
+        "name": "Placlivo",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.710159,
+          49.193428
+        ]
+      },
+      "properties": {
+        "feet": 7028,
+        "meters": 2142,
+        "latitude": 49.193428,
+        "longitude": 19.710159,
+        "name": "Prislop",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.19433,
+          49.184957
+        ]
+      },
+      "properties": {
+        "feet": 8009,
+        "meters": 2441,
+        "latitude": 49.184957,
+        "longitude": 20.19433,
+        "name": "Prostredny Hrot",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.135308,
+          49.173922
+        ]
+      },
+      "properties": {
+        "feet": 7605,
+        "meters": 2318,
+        "latitude": 49.173922,
+        "longitude": 20.135308,
+        "name": "Velicky stit",
+        "regions": [
+          "Eastern Europe Ranges",
+          "Carpathian Mountains"
+        ],
+        "countries": [
+          "Slovakia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

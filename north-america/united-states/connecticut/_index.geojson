@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.481972,
+          42.051083
+        ]
+      },
+      "properties": {
+        "feet": 2380,
+        "meters": 725,
+        "latitude": 42.051083,
+        "longitude": -73.481972,
+        "name": "Mount Frissell",
+        "regions": [
+          "Appalachian Mountains",
+          "Northern Appalachian Ridges"
+        ],
+        "states": [
+          "Connecticut",
+          "Massachusetts"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

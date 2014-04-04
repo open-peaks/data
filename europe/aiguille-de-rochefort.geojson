@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0,
+      45.8333
+    ]
+  },
+  "properties": {
+    "feet": 13126,
+    "meters": 4001,
+    "latitude": 45.8333,
+    "longitude": 7.0,
+    "name": "Aiguille De Rochefort",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

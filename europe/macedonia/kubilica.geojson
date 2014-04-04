@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.433333,
+      42.016667
+    ]
+  },
+  "properties": {
+    "feet": 8294,
+    "meters": 2528,
+    "latitude": 42.016667,
+    "longitude": 21.433333,
+    "name": "Kubilica",
+    "regions": [
+      "Balkan Peninsula",
+      "Macedonia-Thrace"
+    ],
+    "countries": [
+      "Macedonia"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

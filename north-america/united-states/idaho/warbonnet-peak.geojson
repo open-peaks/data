@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.05,
+      44.0833
+    ]
+  },
+  "properties": {
+    "feet": 10250,
+    "meters": 3124,
+    "latitude": 44.0833,
+    "longitude": -115.05,
+    "name": "Warbonnet Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Idaho-Bitterroot Rockies"
+    ],
+    "states": [
+      "Idaho"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

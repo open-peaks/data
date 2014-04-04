@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.445922,
+      46.580309
+    ]
+  },
+  "properties": {
+    "feet": 8055,
+    "meters": 2456,
+    "latitude": 46.580309,
+    "longitude": 12.445922,
+    "name": "Aiarnola",
+    "regions": [
+      "Eastern Alps",
+      "Dolomites"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

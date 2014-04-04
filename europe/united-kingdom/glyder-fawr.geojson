@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.026833,
+      53.102476
+    ]
+  },
+  "properties": {
+    "feet": 3278,
+    "meters": 999,
+    "latitude": 53.102476,
+    "longitude": -4.026833,
+    "name": "Glyder Fawr",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Snowdonia"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

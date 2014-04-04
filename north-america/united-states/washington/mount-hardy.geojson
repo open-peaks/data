@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.755324,
+      48.581888
+    ]
+  },
+  "properties": {
+    "feet": 8080,
+    "meters": 2463,
+    "latitude": 48.581888,
+    "longitude": -120.755324,
+    "name": "Mount Hardy",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

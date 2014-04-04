@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.6833,
+      64.0167
+    ]
+  },
+  "properties": {
+    "feet": 6952,
+    "meters": 2119,
+    "latitude": 64.0167,
+    "longitude": -16.6833,
+    "name": "Hvannadalshnukur",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Iceland"
+    ],
+    "countries": [
+      "Iceland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

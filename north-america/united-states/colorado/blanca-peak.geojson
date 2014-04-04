@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.485,
+      37.5772
+    ]
+  },
+  "properties": {
+    "feet": 14345,
+    "meters": 4372,
+    "latitude": 37.5772,
+    "longitude": -105.485,
+    "name": "Blanca Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Sangre de Cristo Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

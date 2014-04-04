@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.443459,
+      48.260741
+    ]
+  },
+  "properties": {
+    "feet": 8392,
+    "meters": 2558,
+    "latitude": 48.260741,
+    "longitude": -120.443459,
+    "name": "Courtney Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

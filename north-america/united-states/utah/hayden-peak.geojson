@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.844,
+      40.7356
+    ]
+  },
+  "properties": {
+    "feet": 12479,
+    "meters": 3804,
+    "latitude": 40.7356,
+    "longitude": -110.844,
+    "name": "Hayden Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Uinta Range"
+    ],
+    "states": [
+      "Utah"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

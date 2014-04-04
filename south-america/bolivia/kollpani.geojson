@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.271919,
+      -16.215469
+    ]
+  },
+  "properties": {
+    "feet": 16161,
+    "meters": 4926,
+    "latitude": -16.215469,
+    "longitude": -68.271919,
+    "name": "Kollpani",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

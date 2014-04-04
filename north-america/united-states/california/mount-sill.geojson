@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.502,
+      37.0944
+    ]
+  },
+  "properties": {
+    "feet": 14153,
+    "meters": 4314,
+    "latitude": 37.0944,
+    "longitude": -118.502,
+    "name": "Mount Sill",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

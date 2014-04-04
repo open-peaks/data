@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.3464,
+      35.3689
+    ]
+  },
+  "properties": {
+    "feet": 2490,
+    "meters": 759,
+    "latitude": 35.3689,
+    "longitude": -82.3464,
+    "name": "Pilot Mountain",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

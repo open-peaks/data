@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13425,
+    "meters": 4092,
+    "name": "Tacana",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre del Sur"
+    ],
+    "countries": [
+      "Mexico",
+      "Guatemala"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

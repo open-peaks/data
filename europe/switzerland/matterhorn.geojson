@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.658333,
+      45.976389
+    ]
+  },
+  "properties": {
+    "feet": 14691,
+    "meters": 4478,
+    "latitude": 45.976389,
+    "longitude": 7.658333,
+    "name": "Matterhorn",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "Switzerland",
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

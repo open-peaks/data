@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.501255,
+      51.626649
+    ]
+  },
+  "properties": {
+    "feet": 9744,
+    "meters": 2970,
+    "latitude": 51.626649,
+    "longitude": -116.501255,
+    "name": "St. Nicholas Peak",
+    "regions": [
+      "Rocky Mountains",
+      "Canadian Rockies"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.564522,
+          42.584939
+        ]
+      },
+      "properties": {
+        "feet": 9006,
+        "meters": 2745,
+        "latitude": 42.584939,
+        "longitude": 1.564522,
+        "name": "Casamanya",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "Andorra"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.441956,
+          42.593027
+        ]
+      },
+      "properties": {
+        "feet": 9652,
+        "meters": 2942,
+        "latitude": 42.593027,
+        "longitude": 1.441956,
+        "name": "Coma Pedrosa",
+        "regions": [
+          "Iberian Peninsula",
+          "Pyrenees"
+        ],
+        "countries": [
+          "Andorra"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8333,
+      -32.6667
+    ]
+  },
+  "properties": {
+    "feet": 17920,
+    "meters": 5462,
+    "latitude": -32.6667,
+    "longitude": -69.8333,
+    "name": "Cerro Cuerno",
+    "regions": [
+      "Andes",
+      "Central Argentina-Chile"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

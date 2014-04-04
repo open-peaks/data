@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.541641,
+      -15.85427
+    ]
+  },
+  "properties": {
+    "feet": 21095,
+    "meters": 6430,
+    "latitude": -15.85427,
+    "longitude": -68.541641,
+    "name": "Ancohuma",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

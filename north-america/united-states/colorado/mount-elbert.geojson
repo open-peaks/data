@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.445,
+      39.1178
+    ]
+  },
+  "properties": {
+    "feet": 14433,
+    "meters": 4399,
+    "latitude": 39.1178,
+    "longitude": -106.445,
+    "name": "Mount Elbert",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

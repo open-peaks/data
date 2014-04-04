@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.124,
+      63.345
+    ]
+  },
+  "properties": {
+    "feet": 8828,
+    "meters": 2691,
+    "latitude": 63.345,
+    "longitude": -150.124,
+    "name": "Scott Peak",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

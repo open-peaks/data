@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.517,
+      37.0833
+    ]
+  },
+  "properties": {
+    "feet": 13510,
+    "meters": 4118,
+    "latitude": 37.0833,
+    "longitude": -118.517,
+    "name": "Mt. Gayley",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

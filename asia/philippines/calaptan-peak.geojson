@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.201807,
+      10.764448
+    ]
+  },
+  "properties": {
+    "feet": 4423,
+    "meters": 1348,
+    "latitude": 10.764448,
+    "longitude": 123.201807,
+    "name": "Calaptan Peak",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

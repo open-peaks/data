@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.634444,
+      54.529444
+    ]
+  },
+  "properties": {
+    "feet": 961,
+    "meters": 293,
+    "latitude": 54.529444,
+    "longitude": 25.634444,
+    "name": "Aukstojas",
+    "countries": [
+      "Lithuania"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

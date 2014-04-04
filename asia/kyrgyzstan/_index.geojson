@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0,
+          39.4333
+        ]
+      },
+      "properties": {
+        "feet": 16240,
+        "meters": 4950,
+        "latitude": 39.4333,
+        "longitude": 73.0,
+        "name": "Myra I",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0333,
+          39.4333
+        ]
+      },
+      "properties": {
+        "feet": 4750,
+        "meters": 1448,
+        "latitude": 39.4333,
+        "longitude": 73.0333,
+        "name": "Myra Ii",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17479,
+          42.21145
+        ]
+      },
+      "properties": {
+        "feet": 20902,
+        "meters": 6371,
+        "latitude": 42.21145,
+        "longitude": 80.17479,
+        "name": "Peak Chapayev",
+        "regions": [
+          "Tien Shan"
+        ],
+        "countries": [
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.884038,
+          39.458349
+        ]
+      },
+      "properties": {
+        "feet": 4910,
+        "meters": 1497,
+        "latitude": 39.458349,
+        "longitude": 72.884038,
+        "name": "Pik Petrovski",
+        "countries": [
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1833,
+          42.05
+        ]
+      },
+      "properties": {
+        "feet": 24407,
+        "meters": 7439,
+        "latitude": 42.05,
+        "longitude": 80.1833,
+        "name": "Pik Pobeda",
+        "regions": [
+          "Tien Shan",
+          "Central Tien Shan"
+        ],
+        "countries": [
+          "Kyrgyzstan",
+          "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          43.1
+        ]
+      },
+      "properties": {
+        "feet": 16470,
+        "meters": 5020,
+        "latitude": 43.1,
+        "longitude": 77.3,
+        "name": "Pik Talgar",
+        "regions": [
+          "Tien Shan"
+        ],
+        "countries": [
+          "Kyrgyzstan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

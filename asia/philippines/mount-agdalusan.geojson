@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.370665,
+      11.103097
+    ]
+  },
+  "properties": {
+    "feet": 2526,
+    "meters": 770,
+    "latitude": 11.103097,
+    "longitude": 122.370665,
+    "name": "Mount Agdalusan",
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

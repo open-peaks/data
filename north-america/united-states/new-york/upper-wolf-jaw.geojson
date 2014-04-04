@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.759941,
+      44.150593
+    ]
+  },
+  "properties": {
+    "feet": 4180,
+    "meters": 1274,
+    "latitude": 44.150593,
+    "longitude": -73.759941,
+    "name": "Upper Wolf Jaw",
+    "regions": [
+      "Appalachian Mountains",
+      "Adirondacks"
+    ],
+    "states": [
+      "New York"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

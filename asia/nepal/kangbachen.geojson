@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.1105,
+      27.7166
+    ]
+  },
+  "properties": {
+    "feet": 25781,
+    "meters": 7858,
+    "latitude": 27.7166,
+    "longitude": 88.1105,
+    "name": "Kangbachen",
+    "regions": [
+      "Himalaya "
+    ],
+    "countries": [
+      "Nepal"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

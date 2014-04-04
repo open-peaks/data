@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.178,
+      11.3963
+    ]
+  },
+  "properties": {
+    "feet": 6,
+    "meters": 2,
+    "latitude": 11.3963,
+    "longitude": 122.178,
+    "name": "Mount Madias",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "countries": [
+      "Philippines"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

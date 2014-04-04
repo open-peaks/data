@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.259239,
+      41.835757
+    ]
+  },
+  "properties": {
+    "feet": 3825,
+    "meters": 1166,
+    "latitude": 41.835757,
+    "longitude": 9.259239,
+    "name": "Punta di Malanda",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.075,
+      38.6335
+    ]
+  },
+  "properties": {
+    "feet": 1089,
+    "meters": 332,
+    "latitude": 38.6335,
+    "longitude": 0.075,
+    "name": "Penyal d'Ifach",
+    "regions": [
+      "Iberian Peninsula"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

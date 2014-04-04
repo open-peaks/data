@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.083392,
+      40.014732
+    ]
+  },
+  "properties": {
+    "feet": 12493,
+    "meters": 3808,
+    "latitude": 40.014732,
+    "longitude": -107.083392,
+    "name": "Flattop Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Flat Tops Area"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

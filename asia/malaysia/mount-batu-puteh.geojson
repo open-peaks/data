@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.441402,
+      4.222048
+    ]
+  },
+  "properties": {
+    "feet": 6994,
+    "meters": 2132,
+    "latitude": 4.222048,
+    "longitude": 101.441402,
+    "name": "Mount Batu Puteh",
+    "regions": [
+      "Malay Archipelago"
+    ],
+    "countries": [
+      "Malaysia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

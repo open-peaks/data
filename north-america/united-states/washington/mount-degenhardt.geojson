@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.294427,
+      48.771493
+    ]
+  },
+  "properties": {
+    "feet": 8020,
+    "meters": 2444,
+    "latitude": 48.771493,
+    "longitude": -121.294427,
+    "name": "Mount Degenhardt",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

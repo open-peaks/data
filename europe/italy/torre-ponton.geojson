@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.49456,
+      45.603845
+    ]
+  },
+  "properties": {
+    "feet": 10174,
+    "meters": 3101,
+    "latitude": 45.603845,
+    "longitude": 7.49456,
+    "name": "Torre Ponton",
+    "regions": [
+      "Western Alps"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

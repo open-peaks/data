@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.989,
+      39.0708
+    ]
+  },
+  "properties": {
+    "feet": 14156,
+    "meters": 4315,
+    "latitude": 39.0708,
+    "longitude": -106.989,
+    "name": "Maroon Bells",
+    "regions": [
+      "Rocky Mountains",
+      "Elk Range Area"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

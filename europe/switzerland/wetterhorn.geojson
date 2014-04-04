@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.11667,
+      46.6333
+    ]
+  },
+  "properties": {
+    "feet": 12142,
+    "meters": 3692,
+    "latitude": 46.6333,
+    "longitude": 8.11667,
+    "name": "Wetterhorn",
+    "regions": [
+      "Northern Alps",
+      "Berner Oberland"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

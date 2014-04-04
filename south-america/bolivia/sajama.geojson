@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.883076,
+      -18.108003
+    ]
+  },
+  "properties": {
+    "feet": 21463,
+    "meters": 6542,
+    "latitude": -18.108003,
+    "longitude": -68.883076,
+    "name": "Sajama",
+    "regions": [
+      "Andes",
+      "Bolivian Andes"
+    ],
+    "countries": [
+      "Bolivia"
+    ],
+    "continent": "South America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

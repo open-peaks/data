@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.723602,
+      48.640849
+    ]
+  },
+  "properties": {
+    "feet": 8750,
+    "meters": 2667,
+    "latitude": 48.640849,
+    "longitude": -113.723602,
+    "name": "Fusillade Mountain",
+    "regions": [
+      "Rocky Mountains",
+      "Central Montana Rockies"
+    ],
+    "states": [
+      "Montana"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

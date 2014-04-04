@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.255386,
+      41.105226
+    ]
+  },
+  "properties": {
+    "feet": 6719,
+    "meters": 2048,
+    "latitude": 41.105226,
+    "longitude": -3.255386,
+    "name": "Ocejon",
+    "regions": [
+      "Iberian Peninsula",
+      "Sistema Iberico"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

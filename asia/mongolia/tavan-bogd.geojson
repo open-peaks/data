@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "feet": 13392,
+    "meters": 4082,
+    "name": "Tavan Bogd",
+    "regions": [
+      "Mongolia Ranges",
+      "Altai"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "continent": "Asia",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

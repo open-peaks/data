@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.460853,
+      47.451279
+    ]
+  },
+  "properties": {
+    "feet": 5801,
+    "meters": 1768,
+    "latitude": 47.451279,
+    "longitude": -121.460853,
+    "name": "Bryant Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.31,
+      36.3
+    ]
+  },
+  "properties": {
+    "feet": 25466,
+    "meters": 7762,
+    "latitude": 36.3,
+    "longitude": 74.31,
+    "name": "Batura II",
+    "regions": [
+      "Central Asia Ranges",
+      "Karakoram "
+    ],
+    "countries": [
+      "Pakistan"
+    ],
+    "continent": "Asia",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

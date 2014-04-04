@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.851349,
+      46.024145
+    ]
+  },
+  "properties": {
+    "feet": 10168,
+    "meters": 3099,
+    "latitude": 46.024145,
+    "longitude": 6.851349,
+    "name": "Mont Buet",
+    "regions": [
+      "Western Alps",
+      "Savoy Alps"
+    ],
+    "countries": [
+      "France"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

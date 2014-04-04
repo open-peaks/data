@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.7936,
+      35.3036
+    ]
+  },
+  "properties": {
+    "feet": 3969,
+    "meters": 1210,
+    "latitude": 35.3036,
+    "longitude": -82.7936,
+    "name": "Looking Glass Rock",
+    "regions": [
+      "Appalachian Mountains",
+      "Blue Ridge Mountains"
+    ],
+    "states": [
+      "North Carolina"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

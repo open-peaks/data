@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.15,
+      47.15
+    ]
+  },
+  "properties": {
+    "feet": 2750,
+    "meters": 838,
+    "latitude": 47.15,
+    "longitude": 9.15,
+    "name": "Rockspitze",
+    "regions": [
+      "Northern Alps"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

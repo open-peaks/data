@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.534367,
+      48.892148
+    ]
+  },
+  "properties": {
+    "feet": 6187,
+    "meters": 1886,
+    "latitude": 48.892148,
+    "longitude": -121.534367,
+    "name": "Hannegan Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Cascade Range"
+    ],
+    "states": [
+      "Washington"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

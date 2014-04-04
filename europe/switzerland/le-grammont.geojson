@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.49162,
+      46.21269
+    ]
+  },
+  "properties": {
+    "feet": 7126,
+    "meters": 2172,
+    "latitude": 46.21269,
+    "longitude": 6.49162,
+    "name": "Le Grammont",
+    "regions": [
+      "Southern Alps",
+      "Pennine Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.417,
+      25.5667
+    ]
+  },
+  "properties": {
+    "feet": 7218,
+    "meters": 2200,
+    "latitude": 25.5667,
+    "longitude": -100.417,
+    "name": "Copete De Las Aguilas",
+    "regions": [
+      "Mexican Ranges",
+      "Sierra Madre Oriental"
+    ],
+    "countries": [
+      "Mexico"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

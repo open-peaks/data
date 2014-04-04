@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.267,
+      60.1333
+    ]
+  },
+  "properties": {
+    "feet": 5265,
+    "meters": 1605,
+    "latitude": 60.1333,
+    "longitude": -149.267,
+    "name": "Mount Alice",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Kenai Mountains "
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

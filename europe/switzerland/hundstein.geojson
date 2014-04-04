@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.402268,
+      47.252331
+    ]
+  },
+  "properties": {
+    "feet": 7073,
+    "meters": 2156,
+    "latitude": 47.252331,
+    "longitude": 9.402268,
+    "name": "Hundstein",
+    "regions": [
+      "Northern Alps",
+      "Saint Gallen Alps"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

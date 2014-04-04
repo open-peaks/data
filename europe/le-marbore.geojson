@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.011244,
+      42.693413
+    ]
+  },
+  "properties": {
+    "feet": 10656,
+    "meters": 3248,
+    "latitude": 42.693413,
+    "longitude": 0.011244,
+    "name": "Le Marbore",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

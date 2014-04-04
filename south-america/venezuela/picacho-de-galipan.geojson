@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.907768,
+      10.560764
+    ]
+  },
+  "properties": {
+    "feet": 6348,
+    "meters": 1935,
+    "latitude": 10.560764,
+    "longitude": -66.907768,
+    "name": "Picacho de Galipán",
+    "regions": [
+      "Coastal South America",
+      "Coastal Venezuela"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "continent": "South America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.249107,
+      54.155599
+    ]
+  },
+  "properties": {
+    "feet": 2288,
+    "meters": 697,
+    "latitude": 54.155599,
+    "longitude": -2.249107,
+    "name": "Pen-y-ghent",
+    "regions": [
+      "United Kingdom, Ireland, & Iceland",
+      "Pennine Chain"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

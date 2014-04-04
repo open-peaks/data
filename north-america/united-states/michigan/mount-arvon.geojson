@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.156,
+      46.7555
+    ]
+  },
+  "properties": {
+    "feet": 1979,
+    "meters": 603,
+    "latitude": 46.7555,
+    "longitude": -88.156,
+    "name": "Mount Arvon",
+    "regions": [
+      "North American Plains",
+      "Midwest-Great Lakes Area"
+    ],
+    "states": [
+      "Michigan"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

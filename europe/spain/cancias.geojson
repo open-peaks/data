@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.15604,
+      42.471274
+    ]
+  },
+  "properties": {
+    "feet": 6552,
+    "meters": 1997,
+    "latitude": 42.471274,
+    "longitude": -0.15604,
+    "name": "Cancias",
+    "regions": [
+      "Iberian Peninsula",
+      "Pyrenees"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

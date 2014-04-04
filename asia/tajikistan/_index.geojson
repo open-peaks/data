@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.718359,
+          38.924795
+        ]
+      },
+      "properties": {
+        "feet": 12139,
+        "meters": 3700,
+        "latitude": 38.924795,
+        "longitude": 68.718359,
+        "name": "Bivachnaya",
+        "regions": [
+          "Central Asia Ranges",
+          "Central Turkestan Ranges"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.199556,
+          39.18204
+        ]
+      },
+      "properties": {
+        "feet": 16798,
+        "meters": 5120,
+        "latitude": 39.18204,
+        "longitude": 68.199556,
+        "name": "Energia",
+        "regions": [
+          "Central Asia Ranges",
+          "Central Turkestan Ranges"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5556,
+          38.6028
+        ]
+      },
+      "properties": {
+        "feet": 19511,
+        "meters": 5947,
+        "latitude": 38.6028,
+        "longitude": 72.5556,
+        "name": "Kholodnaja Stena",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5222,
+          37.1667
+        ]
+      },
+      "properties": {
+        "feet": 21358,
+        "meters": 6510,
+        "latitude": 37.1667,
+        "longitude": 72.5222,
+        "name": "Pik Engels",
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0167,
+          38.95
+        ]
+      },
+      "properties": {
+        "feet": 24590,
+        "meters": 7495,
+        "latitude": 38.95,
+        "longitude": 72.0167,
+        "name": "Pik Imeni Ismail Samani",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4819,
+          37.15
+        ]
+      },
+      "properties": {
+        "feet": 22057,
+        "meters": 6723,
+        "latitude": 37.15,
+        "longitude": 72.4819,
+        "name": "Pik Karl Marx",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.01,
+          39.057
+        ]
+      },
+      "properties": {
+        "feet": 23310,
+        "meters": 7105,
+        "latitude": 39.057,
+        "longitude": 72.01,
+        "name": "Pik Korjenevskaya",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9167,
+          39.3333
+        ]
+      },
+      "properties": {
+        "feet": 23406,
+        "meters": 7134,
+        "latitude": 39.3333,
+        "longitude": 72.9167,
+        "name": "Pik Lenin",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8833,
+          39.3167
+        ]
+      },
+      "properties": {
+        "feet": 22447,
+        "meters": 6842,
+        "latitude": 39.3167,
+        "longitude": 72.8833,
+        "name": "Pik Marshal Zhukov",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3542,
+          38.5111
+        ]
+      },
+      "properties": {
+        "feet": 22769,
+        "meters": 6940,
+        "latitude": 38.5111,
+        "longitude": 72.3542,
+        "name": "Pik Revolution",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2,
+          39.216667
+        ]
+      },
+      "properties": {
+        "feet": 16634,
+        "meters": 5070,
+        "latitude": 39.216667,
+        "longitude": 68.2,
+        "name": "Zamok",
+        "regions": [
+          "Central Asia Ranges",
+          "Pamir"
+        ],
+        "countries": [
+          "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    }
+  ]
+}

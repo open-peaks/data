@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.15,
+      -28.9167
+    ]
+  },
+  "properties": {
+    "feet": 9856,
+    "meters": 3004,
+    "latitude": -28.9167,
+    "longitude": 29.15,
+    "name": "Cathedral Peak",
+    "regions": [
+      "Southern Africa",
+      "Drakensberg"
+    ],
+    "countries": [
+      "South Africa"
+    ],
+    "continent": "Africa",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      173.65,
+      -41.9833
+    ]
+  },
+  "properties": {
+    "feet": 9465,
+    "meters": 2885,
+    "latitude": -41.9833,
+    "longitude": 173.65,
+    "name": "Mt Tapuaenuku",
+    "regions": [
+      "New Zealand",
+      "South Island"
+    ],
+    "countries": [
+      "New Zealand"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

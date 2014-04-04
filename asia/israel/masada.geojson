@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.35383,
+      31.31639
+    ]
+  },
+  "properties": {
+    "feet": 1509,
+    "meters": 460,
+    "latitude": 31.31639,
+    "longitude": 35.35383,
+    "name": "Masada",
+    "countries": [
+      "Israel"
+    ],
+    "continent": "Asia",
+    "marker-size": "small",
+    "marker-symbol": "triangle"
+  }
+}

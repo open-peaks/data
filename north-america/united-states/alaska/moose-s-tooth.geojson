@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.611,
+      62.97
+    ]
+  },
+  "properties": {
+    "feet": 10335,
+    "meters": 3150,
+    "latitude": 62.97,
+    "longitude": -150.611,
+    "name": "Moose's Tooth",
+    "regions": [
+      "Alaska/Yukon Ranges",
+      "Alaska Range"
+    ],
+    "states": [
+      "Alaska"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.472,
+      37.075
+    ]
+  },
+  "properties": {
+    "feet": 13920,
+    "meters": 4243,
+    "latitude": 37.075,
+    "longitude": -118.472,
+    "name": "Norman Clyde Peak",
+    "regions": [
+      "Pacific Ranges",
+      "Sierra Nevada"
+    ],
+    "states": [
+      "California"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.833,
+      -37.25
+    ]
+  },
+  "properties": {
+    "feet": 3852,
+    "meters": 1174,
+    "latitude": -37.25,
+    "longitude": 148.833,
+    "name": "Black Jack Mountain",
+    "regions": [
+      "Great Dividing Range",
+      "South NSW Great Dividing Range"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

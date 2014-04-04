@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.239,
+      38.6189
+    ]
+  },
+  "properties": {
+    "feet": 14229,
+    "meters": 4337,
+    "latitude": 38.6189,
+    "longitude": -106.239,
+    "name": "Mount Shavano",
+    "regions": [
+      "Rocky Mountains",
+      "Sawatch Range"
+    ],
+    "states": [
+      "Colorado"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "large",
+    "marker-symbol": "triangle"
+  }
+}

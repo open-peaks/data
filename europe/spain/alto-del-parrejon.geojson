@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.404,
+      41.236
+    ]
+  },
+  "properties": {
+    "feet": 6604,
+    "meters": 2013,
+    "latitude": 41.236,
+    "longitude": 3.404,
+    "name": "Alto del Parrejon",
+    "regions": [
+      "Iberian Peninsula",
+      "Castile Ranges"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "continent": "Europe",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}
