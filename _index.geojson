@@ -14073,6 +14073,151 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -156.177,
+          20.7047
+        ]
+      },
+      "properties": {
+        "feet": 11500,
+        "meters": 3505,
+        "latitude": 20.7047,
+        "longitude": -156.177,
+        "name": "Haleakala",
+        "regions": [
+          "Hawaiian Islands"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.283333,
+          19.416667
+        ]
+      },
+      "properties": {
+        "feet": 4091,
+        "meters": 1247,
+        "latitude": 19.416667,
+        "longitude": -155.283333,
+        "name": "Kilauea",
+        "regions": [
+          "Hawaiian Islands"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.471,
+          19.8236
+        ]
+      },
+      "properties": {
+        "feet": 13796,
+        "meters": 4205,
+        "latitude": 19.8236,
+        "longitude": -155.471,
+        "name": "Mauna Kea",
+        "regions": [
+          "Hawaiian Islands"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.608,
+          19.4786
+        ]
+      },
+      "properties": {
+        "feet": 13677,
+        "meters": 4169,
+        "latitude": 19.4786,
+        "longitude": -155.608,
+        "name": "Mauna Loa",
+        "regions": [
+          "Hawaiian Islands"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.753611,
+          21.364167
+        ]
+      },
+      "properties": {
+        "feet": 1643,
+        "meters": 501,
+        "latitude": 21.364167,
+        "longitude": -157.753611,
+        "name": "Olomana",
+        "regions": [
+          "Hawaiian Islands"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "continent": "Australia/Oceania",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           169.2323,
           -19.3434
         ]
@@ -57200,151 +57345,6 @@
         ],
         "continent": "North America",
         "marker-size": "medium",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.177,
-          20.7047
-        ]
-      },
-      "properties": {
-        "feet": 11500,
-        "meters": 3505,
-        "latitude": 20.7047,
-        "longitude": -156.177,
-        "name": "Haleakala",
-        "regions": [
-          "Hawaiian Islands"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "medium",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.283333,
-          19.416667
-        ]
-      },
-      "properties": {
-        "feet": 4091,
-        "meters": 1247,
-        "latitude": 19.416667,
-        "longitude": -155.283333,
-        "name": "Kilauea",
-        "regions": [
-          "Hawaiian Islands"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "medium",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.471,
-          19.8236
-        ]
-      },
-      "properties": {
-        "feet": 13796,
-        "meters": 4205,
-        "latitude": 19.8236,
-        "longitude": -155.471,
-        "name": "Mauna Kea",
-        "regions": [
-          "Hawaiian Islands"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.608,
-          19.4786
-        ]
-      },
-      "properties": {
-        "feet": 13677,
-        "meters": 4169,
-        "latitude": 19.4786,
-        "longitude": -155.608,
-        "name": "Mauna Loa",
-        "regions": [
-          "Hawaiian Islands"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "medium",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.753611,
-          21.364167
-        ]
-      },
-      "properties": {
-        "feet": 1643,
-        "meters": 501,
-        "latitude": 21.364167,
-        "longitude": -157.753611,
-        "name": "Olomana",
-        "regions": [
-          "Hawaiian Islands"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "small",
         "marker-symbol": "triangle"
       }
     },
