@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.177,
+      20.7047
+    ]
+  },
+  "properties": {
+    "feet": 11500,
+    "meters": 3505,
+    "latitude": 20.7047,
+    "longitude": -156.177,
+    "name": "Haleakala",
+    "regions": [
+      "Hawaiian Islands"
+    ],
+    "states": [
+      "Hawaii"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "North America",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}

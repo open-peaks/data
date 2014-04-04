@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.608,
+      19.4786
+    ]
+  },
+  "properties": {
+    "feet": 13677,
+    "meters": 4169,
+    "latitude": 19.4786,
+    "longitude": -155.608,
+    "name": "Mauna Loa",
+    "regions": [
+      "Hawaiian Islands"
+    ],
+    "states": [
+      "Hawaii"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "continent": "Australia/Oceania",
+    "marker-size": "medium",
+    "marker-symbol": "triangle"
+  }
+}
