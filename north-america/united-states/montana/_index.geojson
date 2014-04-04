@@ -361,7 +361,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.365,
+          -111.365,
           45.3683
         ]
       },
@@ -369,7 +369,7 @@
         "feet": 11015,
         "meters": 3357,
         "latitude": 45.3683,
-        "longitude": 111.365,
+        "longitude": -111.365,
         "name": "Gallatin Peak",
         "regions": [
           "Rocky Mountains"

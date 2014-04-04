@@ -58823,7 +58823,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.365,
+          -111.365,
           45.3683
         ]
       },
@@ -58831,7 +58831,7 @@
         "feet": 11015,
         "meters": 3357,
         "latitude": 45.3683,
-        "longitude": 111.365,
+        "longitude": -111.365,
         "name": "Gallatin Peak",
         "regions": [
           "Rocky Mountains"
@@ -59962,32 +59962,6 @@
         "latitude": 41.007235,
         "longitude": -104.031264,
         "name": "Panorama Point",
-        "states": [
-          "Nebraska"
-        ],
-        "countries": [
-          "United States"
-        ],
-        "continent": "North America",
-        "marker-size": "medium",
-        "marker-symbol": "triangle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.035,
-          41.0225
-        ]
-      },
-      "properties": {
-        "feet": 5242,
-        "meters": 1598,
-        "latitude": 41.0225,
-        "longitude": 104.035,
-        "name": "Panorma Point",
         "states": [
           "Nebraska"
         ],
