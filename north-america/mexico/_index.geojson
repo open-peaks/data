@@ -87,15 +87,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.0,
-          0.0
+          -104.066667,
+          21.466667
         ]
       },
       "properties": {
         "feet": 7169,
         "meters": 2185,
-        "latitude": 0.0,
-        "longitude": -108.0,
+        "latitude": 21.466667,
+        "longitude": -104.066667,
         "name": "El Gigante",
         "regions": [
           "Mexican Ranges"
