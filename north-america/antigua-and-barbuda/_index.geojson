@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.465,
-          -90.743056
+          -90.743056,
+          14.465
         ]
       },
       "properties": {
         "feet": 11174,
         "meters": 3406,
-        "latitude": -90.743056,
-        "longitude": 14.465,
+        "latitude": 14.465,
+        "longitude": -90.743056,
         "name": "Volcan Antigua",
         "countries": [
           "Antigua and Barbuda"
