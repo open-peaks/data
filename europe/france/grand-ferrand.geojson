@@ -3,13 +3,13 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      5.815,
+      44.72194
     ]
   },
   "properties": {
-    "feet": 7,
-    "meters": 2,
+    "feet": 9 048,
+    "meters": 2758,
     "name": "Grand Ferrand",
     "regions": [
       "Southern Alps"

@@ -3,13 +3,13 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      5.83944,
+      44.77528
     ]
   },
   "properties": {
-    "feet": 7,
-    "meters": 2,
+    "feet": 9 150,
+    "meters": 2789,
     "name": "Obiou",
     "regions": [
       "Southern Alps"
