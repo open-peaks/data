@@ -3,15 +3,15 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      6.43333,
-      45.9833
+      6.97,
+      45.93472
     ]
   },
   "properties": {
     "feet": 13524,
     "meters": 4122,
-    "latitude": 45.9833,
-    "longitude": 6.43333,
+    "latitude": 45.93472,
+    "longitude": 6.97,
     "name": "Aiguille Verte",
     "regions": [
       "Western Alps",
