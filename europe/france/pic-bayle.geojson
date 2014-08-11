@@ -3,18 +3,14 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      5.52694,
-      44.87
+      6.13583,
+      45.13806
     ]
   },
   "properties": {
-    "feet": 7680,
-    "meters": 2341,
-    "name": "Grand Veymont",
-    "regions": [
-      "Western Alps",
-      "Dauphine Alps"
-    ],
+    "feet": 11365,
+    "meters": 3464,
+    "name": "Pic Bayle",
     "countries": [
       "France"
     ],

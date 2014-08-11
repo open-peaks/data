@@ -3,14 +3,14 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      5.64556,
+      43.53917
     ]
   },
   "properties": {
     "feet": 3317,
     "meters": 1011,
-    "name": "Mont Sainte Victoire",
+    "name": "Montagne Sainte Victoire",
     "countries": [
       "France"
     ],
