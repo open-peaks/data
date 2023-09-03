@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.2533,
+            20.7097
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 20.7097,
+        "longitude": -156.2533,
+        "name": "Haleakal\u0101",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Hawaii"
+        ]
+    }
+}

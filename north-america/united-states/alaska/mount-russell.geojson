@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -151.88444444444443,
+            62.79833333333333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 62.79833333333333,
+        "longitude": -151.88444444444443,
+        "name": "Mount Russell",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

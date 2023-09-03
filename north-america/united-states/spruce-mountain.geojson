@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.8217,
+            40.5522
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.5522,
+        "longitude": -114.8217,
+        "name": "Spruce Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nevada"
+        ]
+    }
+}

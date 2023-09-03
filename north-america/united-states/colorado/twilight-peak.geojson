@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.72694444444444,
+            37.66305555555555
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.66305555555555,
+        "longitude": -107.72694444444444,
+        "name": "Twilight Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

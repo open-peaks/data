@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -142.8675,
+            61.74388888888889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.74388888888889,
+        "longitude": -142.8675,
+        "name": "Regal Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

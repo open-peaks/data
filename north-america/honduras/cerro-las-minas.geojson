@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.6803,
+            14.5339
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.5339,
+        "longitude": -88.6803,
+        "name": "Cerro Las Minas",
+        "regions": [],
+        "countries": [
+            "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

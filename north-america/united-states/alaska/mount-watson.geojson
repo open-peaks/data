@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.55416666666667,
+            59.00888888888889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 59.00888888888889,
+        "longitude": -137.55416666666667,
+        "name": "Mount Watson",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1525,
+            48.9458
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.9458,
+        "longitude": -117.1525,
+        "name": "Gypsy Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

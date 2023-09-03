@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.29,
+            47.5072
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.5072,
+        "longitude": -121.29,
+        "name": "Chimney Rock",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

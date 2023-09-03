@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.1444,
+            38.8144
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.8144,
+        "longitude": -107.1444,
+        "name": "Anthracite Range High Point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Colorado"
+        ]
+    }
+}

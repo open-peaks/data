@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -134.98833333333332,
+            57.015
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 57.015,
+        "longitude": -134.98833333333332,
+        "name": "Veniaminof Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

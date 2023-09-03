@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.4861,
+            33.8806
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 33.8806,
+        "longitude": -107.4861,
+        "name": "Mount Withington",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

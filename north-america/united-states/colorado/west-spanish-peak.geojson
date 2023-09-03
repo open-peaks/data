@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.983,
-      37.3667
-    ]
-  },
-  "properties": {
-    "feet": 13625,
-    "meters": 4153,
-    "latitude": 37.3667,
-    "longitude": -104.983,
-    "name": "West Spanish Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Sangre de Cristo Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -104.99333333333334,
+            37.37555555555556
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.37555555555556,
+        "longitude": -104.99333333333334,
+        "name": "West Spanish Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

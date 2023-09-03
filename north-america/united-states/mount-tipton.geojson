@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.1928,
+            35.5389
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 35.5389,
+        "longitude": -114.1928,
+        "name": "Mount Tipton",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

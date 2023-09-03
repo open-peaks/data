@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.3847,
+            36.0072
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.0072,
+        "longitude": -106.3847,
+        "name": "Chicoma Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

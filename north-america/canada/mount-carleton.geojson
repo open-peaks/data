@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -66.8761,
+            47.3781
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.3781,
+        "longitude": -66.8761,
+        "name": "Mount Carleton",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

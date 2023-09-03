@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.3483,
+            39.6442
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.6442,
+        "longitude": -110.3483,
+        "name": "Bruin Point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Utah"
+        ]
+    }
+}

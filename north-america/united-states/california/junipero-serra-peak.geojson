@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.41916666666667,
+            36.145833333333336
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.145833333333336,
+        "longitude": -121.41916666666667,
+        "name": "Junipero Serra Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
+}

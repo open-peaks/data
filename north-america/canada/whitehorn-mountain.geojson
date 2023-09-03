@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.2667,
+            53.1369
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 53.1369,
+        "longitude": -119.2667,
+        "name": "Whitehorn Mountain",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

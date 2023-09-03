@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -105.758,
-      35.8322
-    ]
-  },
-  "properties": {
-    "feet": 12622,
-    "meters": 3847,
-    "latitude": 35.8322,
-    "longitude": -105.758,
-    "name": "Santa Fe Baldy",
-    "regions": [
-      "Rocky Mountains",
-      "Sangre de Cristo Range"
-    ],
-    "states": [
-      "New Mexico"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.75805555555556,
+            35.83222222222223
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 35.83222222222223,
+        "longitude": -105.75805555555556,
+        "name": "Santa Fe Baldy",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "New Mexico"
+    }
 }

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.3056,
+            41.1608
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.1608,
+        "longitude": -117.3056,
+        "name": "Adam Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nevada"
+        ]
+    }
+}

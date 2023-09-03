@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.5444,
+            15.5183
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.5183,
+        "longitude": -91.5444,
+        "name": "Alto Cuchumatanes",
+        "regions": [],
+        "countries": [
+            "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

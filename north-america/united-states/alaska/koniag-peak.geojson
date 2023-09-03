@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -153.32361111111112,
+            57.35472222222222
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 57.35472222222222,
+        "longitude": -153.32361111111112,
+        "name": "Koniag Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

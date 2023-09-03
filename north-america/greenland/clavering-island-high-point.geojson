@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -21.1833,
+            74.3667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 74.3667,
+        "longitude": -21.1833,
+        "name": "Clavering Island high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

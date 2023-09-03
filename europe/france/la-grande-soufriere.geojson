@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.6639,
+            16.045
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 16.045,
+        "longitude": -61.6639,
+        "name": "La Grande Soufri\u00e8re",
+        "regions": [],
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

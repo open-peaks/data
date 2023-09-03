@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.2364,
+            52.3189
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 52.3189,
+        "longitude": -126.2364,
+        "name": "The Horn",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

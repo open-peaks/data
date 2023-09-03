@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.1228,
+            39.0244
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.0244,
+        "longitude": -107.1228,
+        "name": "Treasure Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Colorado"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.5864,
+            40.1192
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.1192,
+        "longitude": -115.5864,
+        "name": "Sherman Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nevada"
+        ]
+    }
+}

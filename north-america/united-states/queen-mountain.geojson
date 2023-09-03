@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.215,
+            48.8783
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.8783,
+        "longitude": -116.215,
+        "name": "Queen Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

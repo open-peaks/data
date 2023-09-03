@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.395,
+            45.9625
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 45.9625,
+        "longitude": -113.395,
+        "name": "West Goat Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Montana"
+        ]
+    }
+}

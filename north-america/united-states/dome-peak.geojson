@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.0294,
+            48.3033
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.3033,
+        "longitude": -121.0294,
+        "name": "Dome Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.0144,
+            41.6356
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.6356,
+        "longitude": -112.0144,
+        "name": "Box Elder Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Utah"
+        ]
+    }
+}

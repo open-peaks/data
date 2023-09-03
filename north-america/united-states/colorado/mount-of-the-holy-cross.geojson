@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.479,
-      39.4681
-    ]
-  },
-  "properties": {
-    "feet": 14005,
-    "meters": 4269,
-    "latitude": 39.4681,
-    "longitude": -106.479,
-    "name": "Mount of the Holy Cross",
-    "regions": [
-      "Rocky Mountains",
-      "Sawatch Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.48166666666667,
+            39.46666666666667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.46666666666667,
+        "longitude": -106.48166666666667,
+        "name": "Mount of the Holy Cross",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -148.0947,
+            68.4433
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 68.4433,
+        "longitude": -148.0947,
+        "name": "Accomplishment Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

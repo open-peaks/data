@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.9192,
+            47.3825
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.3825,
+        "longitude": -113.9192,
+        "name": "McDonald Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Montana"
+        ]
+    }
+}

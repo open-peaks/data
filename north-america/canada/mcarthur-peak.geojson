@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -140.2144,
+            60.6069
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.6069,
+        "longitude": -140.2144,
+        "name": "McArthur Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

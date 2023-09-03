@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -147.2011,
+            61.3953
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.3953,
+        "longitude": -147.2011,
+        "name": "Mount Witherspoon",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

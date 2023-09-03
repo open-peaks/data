@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -58.4842,
+            48.8331
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.8331,
+        "longitude": -58.4842,
+        "name": "The Cabox",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

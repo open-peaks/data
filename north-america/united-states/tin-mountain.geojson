@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4561,
+            36.8867
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.8867,
+        "longitude": -117.4561,
+        "name": "Tin Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.59666666666666,
+            37.92388888888889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.92388888888889,
+        "longitude": -122.59666666666666,
+        "name": "Mount Tamalpais West Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
+}

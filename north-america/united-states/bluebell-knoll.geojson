@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.5003,
+            38.1594
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.1594,
+        "longitude": -111.5003,
+        "name": "Bluebell Knoll",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Utah"
+        ]
+    }
+}

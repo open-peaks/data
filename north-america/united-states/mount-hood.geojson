@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.6958,
+            45.3736
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 45.3736,
+        "longitude": -121.6958,
+        "name": "Mount Hood",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Oregon"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.9025,
+            47.475
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.475,
+        "longitude": -120.9025,
+        "name": "Mount Stuart",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

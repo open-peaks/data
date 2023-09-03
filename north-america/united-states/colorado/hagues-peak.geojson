@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.6463888888889,
+            40.48444444444444
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.48444444444444,
+        "longitude": -105.6463888888889,
+        "name": "Hagues Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

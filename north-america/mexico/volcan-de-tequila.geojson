@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -103.8467,
+            20.7872
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 20.7872,
+        "longitude": -103.8467,
+        "name": "Volc\u00e1n de Tequila",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

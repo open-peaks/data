@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -143.69722222222222,
+            60.651666666666664
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.651666666666664,
+        "longitude": -143.69722222222222,
+        "name": "Mount Tom White",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

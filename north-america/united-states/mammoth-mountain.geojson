@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.0325,
+            37.6306
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.6306,
+        "longitude": -119.0325,
+        "name": "Mammoth Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

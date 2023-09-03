@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.86833333333334,
+            21.10638888888889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 21.10638888888889,
+        "longitude": -156.86833333333334,
+        "name": "Kamakou",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Hawaii"
+    }
+}

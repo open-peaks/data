@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.38611111111112,
+            38.719722222222224
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.719722222222224,
+        "longitude": -107.38611111111112,
+        "name": "Mount Guero",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

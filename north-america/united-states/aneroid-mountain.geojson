@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.175,
+            45.2031
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 45.2031,
+        "longitude": -117.175,
+        "name": "Aneroid Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Oregon"
+        ]
+    }
+}

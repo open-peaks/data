@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.2472,
+            55.7064
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 55.7064,
+        "longitude": -131.2472,
+        "name": "Mount Reid",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

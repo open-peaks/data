@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -144.6419,
+            63.2389
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.2389,
+        "longitude": -144.6419,
+        "name": "Mount Kimball",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

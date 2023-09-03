@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -25.95,
+            72.25
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 72.25,
+        "longitude": -25.95,
+        "name": "Klosterbjerge",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

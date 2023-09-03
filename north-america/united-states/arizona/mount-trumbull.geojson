@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.13861111111112,
+            36.41
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.41,
+        "longitude": -113.13861111111112,
+        "name": "Mount Trumbull",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Arizona"
+    }
+}

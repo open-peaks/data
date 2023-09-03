@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -153.5353,
+            58.8597
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 58.8597,
+        "longitude": -153.5353,
+        "name": "Mount Douglas",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

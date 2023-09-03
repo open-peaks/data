@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -159.4052777777778,
+            67.70833333333334
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 67.70833333333334,
+        "longitude": -159.4052777777778,
+        "name": "Mount Angayukaqsraq",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -159.4972,
+            22.0586
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 22.0586,
+        "longitude": -159.4972,
+        "name": "Kawaikini",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Hawaii"
+        ]
+    }
+}

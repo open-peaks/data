@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -144.0186,
+            62.0058
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 62.0058,
+        "longitude": -144.0186,
+        "name": "Mount Wrangell",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

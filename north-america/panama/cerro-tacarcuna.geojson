@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.2958,
+            8.1658
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 8.1658,
+        "longitude": -77.2958,
+        "name": "Cerro Tacarcuna",
+        "regions": [],
+        "countries": [
+            "Panama"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

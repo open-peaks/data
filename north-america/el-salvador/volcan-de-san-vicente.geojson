@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.8375,
+            13.5964
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.5964,
+        "longitude": -88.8375,
+        "name": "Volc\u00e1n de San Vicente",
+        "regions": [],
+        "countries": [
+            "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.1325,
+            21.4308
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 21.4308,
+        "longitude": -99.1325,
+        "name": "Cerro la Joya",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

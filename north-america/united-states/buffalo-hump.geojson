@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.6992,
+            45.6206
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 45.6206,
+        "longitude": -115.6992,
+        "name": "Buffalo Hump",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

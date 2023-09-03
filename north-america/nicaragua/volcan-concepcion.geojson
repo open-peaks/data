@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -85.6225,
+            11.5381
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 11.5381,
+        "longitude": -85.6225,
+        "name": "Volc\u00e1n Concepci\u00f3n",
+        "regions": [],
+        "countries": [
+            "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

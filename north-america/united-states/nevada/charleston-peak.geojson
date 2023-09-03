@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.69555555555556,
+            36.27166666666667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.27166666666667,
+        "longitude": -115.69555555555556,
+        "name": "Charleston Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Nevada"
+    }
+}

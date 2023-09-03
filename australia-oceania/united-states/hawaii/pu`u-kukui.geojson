@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.5863888888889,
+            20.890277777777776
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 20.890277777777776,
+        "longitude": -156.5863888888889,
+        "name": "Pu\u02bbu Kukui",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Hawaii"
+    }
+}

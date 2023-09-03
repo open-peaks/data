@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -144.96,
+            61.3297
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.3297,
+        "longitude": -144.96,
+        "name": "Copper Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

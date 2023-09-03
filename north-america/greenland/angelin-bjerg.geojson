@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -24.3167,
+            73.1667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 73.1667,
+        "longitude": -24.3167,
+        "name": "Angelin Bjerg",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

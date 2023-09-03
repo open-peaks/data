@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.34083333333332,
+            39.76
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.76,
+        "longitude": -106.34083333333332,
+        "name": "Mount Powell",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

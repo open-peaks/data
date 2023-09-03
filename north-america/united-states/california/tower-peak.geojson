@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.54777777777778,
+            38.144444444444446
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.144444444444446,
+        "longitude": -119.54777777777778,
+        "name": "Tower Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
+}

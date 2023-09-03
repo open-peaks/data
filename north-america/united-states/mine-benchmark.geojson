@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.2558,
+            43.4433
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.4433,
+        "longitude": -107.2558,
+        "name": "Mine Benchmark",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

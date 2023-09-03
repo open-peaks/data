@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.2256,
+            19.4022
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.4022,
+        "longitude": -100.2256,
+        "name": "Cerro Pel\u00f3n massif high point",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

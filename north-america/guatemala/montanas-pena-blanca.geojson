@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.915,
+            15.4997
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.4997,
+        "longitude": -91.915,
+        "name": "Monta\u00f1as Pe\u00f1a Blanca",
+        "regions": [],
+        "countries": [
+            "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

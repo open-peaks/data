@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1122,
+            47.9236
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.9236,
+        "longitude": -117.1122,
+        "name": "Mount Spokane",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

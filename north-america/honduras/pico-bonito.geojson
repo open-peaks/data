@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.8756,
+            15.5575
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.5575,
+        "longitude": -86.8756,
+        "name": "Pico Bonito",
+        "regions": [],
+        "countries": [
+            "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

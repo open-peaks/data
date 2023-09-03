@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.10833333333333,
+            37.853611111111114
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.853611111111114,
+        "longitude": -108.10833333333333,
+        "name": "Middle Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

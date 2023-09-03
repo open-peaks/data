@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -136.7653,
+            59.4189
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 59.4189,
+        "longitude": -136.7653,
+        "name": "Buckwell Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

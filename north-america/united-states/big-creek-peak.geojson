@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.5431,
+            44.4717
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 44.4717,
+        "longitude": -113.5431,
+        "name": "Big Creek Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

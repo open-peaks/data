@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -143.09333333333333,
+            60.519999999999996
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.519999999999996,
+        "longitude": -143.09333333333333,
+        "name": "Mount Steller",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.487,
-      50.4883
-    ]
-  },
-  "properties": {
-    "feet": 11460,
-    "meters": 3493,
-    "latitude": 50.4883,
-    "longitude": -116.487,
-    "name": "Mount Farnham",
-    "regions": [
-      "Intermountain West",
-      "British Columbia Interior"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.4872,
+            50.4889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 50.4889,
+        "longitude": -116.4872,
+        "name": "Mount Farnham",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

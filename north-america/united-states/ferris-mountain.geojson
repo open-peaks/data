@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.2394,
+            42.2567
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 42.2567,
+        "longitude": -107.2394,
+        "name": "Ferris Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -141.1553,
+            60.3278
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.3278,
+        "longitude": -141.1553,
+        "name": "Mount Huxley",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

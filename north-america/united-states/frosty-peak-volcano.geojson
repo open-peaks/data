@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -162.835,
+            55.0672
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 55.0672,
+        "longitude": -162.835,
+        "name": "Frosty Peak Volcano",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

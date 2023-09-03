@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.8819,
+            41.2
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.2,
+        "longitude": -111.8819,
+        "name": "Mount Ogden",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Utah"
+        ]
+    }
+}

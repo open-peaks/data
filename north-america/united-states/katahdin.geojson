@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.9214,
+            45.9044
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 45.9044,
+        "longitude": -68.9214,
+        "name": "Katahdin",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Maine"
+        ]
+    }
+}

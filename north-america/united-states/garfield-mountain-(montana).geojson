@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.6211,
+            44.5203
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 44.5203,
+        "longitude": -112.6211,
+        "name": "Garfield Mountain (Montana)",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Montana"
+        ]
+    }
+}

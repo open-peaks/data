@@ -1,29 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.608,
-      19.4786
-    ]
-  },
-  "properties": {
-    "feet": 13677,
-    "meters": 4169,
-    "latitude": 19.4786,
-    "longitude": -155.608,
-    "name": "Mauna Loa",
-    "regions": [
-      "Hawaiian Islands"
-    ],
-    "states": [
-      "Hawaii"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "Australia/Oceania",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -155.6052777777778,
+            19.475555555555555
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.475555555555555,
+        "longitude": -155.6052777777778,
+        "name": "Mauna Loa",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Hawaii"
+    }
 }

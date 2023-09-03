@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.7331,
+            44.0819
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 44.0819,
+        "longitude": -113.7331,
+        "name": "Leatherman Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

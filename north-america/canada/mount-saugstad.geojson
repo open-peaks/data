@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.5147,
+            52.2542
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 52.2542,
+        "longitude": -126.5147,
+        "name": "Mount Saugstad",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

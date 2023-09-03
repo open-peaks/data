@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.11823,
-      36.26522
-    ]
-  },
-  "properties": {
-    "feet": 12123,
-    "meters": 3695,
-    "latitude": 36.26522,
-    "longitude": -118.11823,
-    "name": "Olancha Peak",
-    "regions": [
-      "Pacific Ranges",
-      "Sierra Nevada"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.11833333333333,
+            36.265277777777776
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.265277777777776,
+        "longitude": -118.11833333333333,
+        "name": "Olancha Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

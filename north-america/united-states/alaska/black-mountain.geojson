@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -160.32805555555555,
+            68.55972222222222
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 68.55972222222222,
+        "longitude": -160.32805555555555,
+        "name": "Black Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

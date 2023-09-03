@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -134.38,
+            56.80305555555555
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 56.80305555555555,
+        "longitude": -134.38,
+        "name": "Kuiu Island High Point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

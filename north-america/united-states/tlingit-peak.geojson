@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.3939,
+            58.8931
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 58.8931,
+        "longitude": -137.3939,
+        "name": "Tlingit Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

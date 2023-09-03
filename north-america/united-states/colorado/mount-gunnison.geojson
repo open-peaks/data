@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.3825,
+            38.81222222222222
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.81222222222222,
+        "longitude": -107.3825,
+        "name": "Mount Gunnison",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
+}

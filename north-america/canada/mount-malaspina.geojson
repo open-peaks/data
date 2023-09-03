@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -140.5719,
+            60.3183
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.3183,
+        "longitude": -140.5719,
+        "name": "Mount Malaspina",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -70.6267,
+            18.8125
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 18.8125,
+        "longitude": -70.6267,
+        "name": "Loma Alto de la Bandera",
+        "regions": [],
+        "countries": [
+            "Dominican Republic"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

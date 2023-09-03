@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -150.67555555555555,
+            63.115833333333335
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.115833333333335,
+        "longitude": -150.67555555555555,
+        "name": "Mount Silverthrone",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

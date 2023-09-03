@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -27.6667,
+            70.2
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 70.2,
+        "longitude": -27.6667,
+        "name": "Gaaseland high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

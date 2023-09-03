@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4206,
+            51.1517
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 51.1517,
+        "longitude": -117.4206,
+        "name": "Mount Dawson",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

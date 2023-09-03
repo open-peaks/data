@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.1708,
+            40.5225
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.5225,
+        "longitude": -118.1708,
+        "name": "Star Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nevada"
+        ]
+    }
+}

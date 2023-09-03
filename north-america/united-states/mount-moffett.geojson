@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -176.7408,
+            51.9364
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 51.9364,
+        "longitude": -176.7408,
+        "name": "Mount Moffett",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

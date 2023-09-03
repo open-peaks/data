@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -25.75,
+            71.3333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 71.3333,
+        "longitude": -25.75,
+        "name": "Kloftbjerge",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

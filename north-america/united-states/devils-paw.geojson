@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.8403,
+            58.7289
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 58.7289,
+        "longitude": -133.8403,
+        "name": "Devils Paw",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

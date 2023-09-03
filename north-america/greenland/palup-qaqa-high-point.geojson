@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -52.8167,
+            71.3333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 71.3333,
+        "longitude": -52.8167,
+        "name": "Palup Qaqa high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

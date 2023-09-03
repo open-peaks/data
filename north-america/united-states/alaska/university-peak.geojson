@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -141.78666666666666,
+            61.327222222222225
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.327222222222225,
+        "longitude": -141.78666666666666,
+        "name": "University Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

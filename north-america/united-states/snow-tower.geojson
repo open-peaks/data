@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.4008,
+            58.1725
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 58.1725,
+        "longitude": -133.4008,
+        "name": "Snow Tower",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

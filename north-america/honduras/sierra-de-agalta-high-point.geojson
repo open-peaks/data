@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -85.9164,
+            14.9575
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.9575,
+        "longitude": -85.9164,
+        "name": "Sierra de Agalta high point",
+        "regions": [],
+        "countries": [
+            "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

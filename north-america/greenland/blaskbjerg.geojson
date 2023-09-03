@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -24.0333,
+            73.3
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 73.3,
+        "longitude": -24.0333,
+        "name": "Blaskbjerg",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

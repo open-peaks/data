@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.7986,
+            59.9242
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 59.9242,
+        "longitude": -138.7986,
+        "name": "Mount Aylesworth",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

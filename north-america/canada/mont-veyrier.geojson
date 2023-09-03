@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.0764,
+            51.5308
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 51.5308,
+        "longitude": -68.0764,
+        "name": "Mont Veyrier",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

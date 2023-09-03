@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.5261,
+            41.6333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.6333,
+        "longitude": -106.5261,
+        "name": "Elk Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

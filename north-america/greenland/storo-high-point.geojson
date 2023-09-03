@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -27.4833,
+            70.8333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 70.8333,
+        "longitude": -27.4833,
+        "name": "Storo high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

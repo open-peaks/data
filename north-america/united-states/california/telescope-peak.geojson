@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.083,
-      36.1667
-    ]
-  },
-  "properties": {
-    "feet": 11049,
-    "meters": 3368,
-    "latitude": 36.1667,
-    "longitude": -117.083,
-    "name": "Telescope Peak",
-    "regions": [
-      "Intermountain West",
-      "Great Basin Ranges"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.08916666666666,
+            36.16972222222222
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.16972222222222,
+        "longitude": -117.08916666666666,
+        "name": "Telescope Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

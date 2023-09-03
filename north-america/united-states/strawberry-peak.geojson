@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9847,
+            40.0469
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.0469,
+        "longitude": -110.9847,
+        "name": "Strawberry Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Utah"
+        ]
+    }
+}

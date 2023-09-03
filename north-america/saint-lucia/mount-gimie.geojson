@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.0117,
+            13.8636
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.8636,
+        "longitude": -61.0117,
+        "name": "Mount Gimie",
+        "regions": [],
+        "countries": [
+            "Saint Lucia"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

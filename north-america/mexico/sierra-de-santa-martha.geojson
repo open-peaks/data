@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.8575,
+            18.3456
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 18.3456,
+        "longitude": -94.8575,
+        "name": "Sierra de Santa Martha",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

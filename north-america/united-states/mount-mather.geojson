@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -150.4361,
+            63.1947
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.1947,
+        "longitude": -150.4361,
+        "name": "Mount Mather",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

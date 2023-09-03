@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.292327,
-      36.578523
-    ]
-  },
-  "properties": {
-    "feet": 14494,
-    "meters": 4418,
-    "latitude": 36.578523,
-    "longitude": -118.292327,
-    "name": "Mount Whitney",
-    "regions": [
-      "Pacific Ranges",
-      "Sierra Nevada"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.29194444444444,
+            36.578611111111115
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 36.578611111111115,
+        "longitude": -118.29194444444444,
+        "name": "Mount Whitney",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

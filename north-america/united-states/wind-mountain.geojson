@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.5161,
+            32.0253
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 32.0253,
+        "longitude": -105.5161,
+        "name": "Wind Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.861,
-      39.0097
-    ]
-  },
-  "properties": {
-    "feet": 14265,
-    "meters": 4348,
-    "latitude": 39.0097,
-    "longitude": -106.861,
-    "name": "Castle Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Elk Range Area"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.86138888888888,
+            39.00972222222222
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.00972222222222,
+        "longitude": -106.86138888888888,
+        "name": "Castle Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

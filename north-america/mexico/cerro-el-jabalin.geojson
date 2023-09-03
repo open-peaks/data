@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.3775,
+            25.19
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 25.19,
+        "longitude": -101.3775,
+        "name": "Cerro El Jabal\u00edn",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

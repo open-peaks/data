@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -23.875,
+            77.9328
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 77.9328,
+        "longitude": -23.875,
+        "name": "Alabama Nunatak",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

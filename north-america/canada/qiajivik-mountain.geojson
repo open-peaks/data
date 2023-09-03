@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.9089,
+            72.1808
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 72.1808,
+        "longitude": -75.9089,
+        "name": "Qiajivik Mountain",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.6561,
+            42.4714
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 42.4714,
+        "longitude": -112.6561,
+        "name": "Deep Creek Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

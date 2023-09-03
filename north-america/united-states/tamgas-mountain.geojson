@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.4078,
+            55.0661
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 55.0661,
+        "longitude": -131.4078,
+        "name": "Tamgas Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

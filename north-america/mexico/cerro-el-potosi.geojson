@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.2328,
+            24.8719
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 24.8719,
+        "longitude": -100.2328,
+        "name": "Cerro El Potos\u00ed",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.6906,
+            32.0267
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 32.0267,
+        "longitude": -112.6906,
+        "name": "Mount Ajo",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

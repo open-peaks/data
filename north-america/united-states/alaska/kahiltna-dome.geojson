@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -151.23944444444444,
+            63.055
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.055,
+        "longitude": -151.23944444444444,
+        "name": "Kahiltna Dome",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

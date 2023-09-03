@@ -1,29 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -152.412,
-      61.4086
-    ]
-  },
-  "properties": {
-    "feet": 11413,
-    "latitude": 61.4086,
-    "longitude": -152.412,
-    "name": "Mount Torbert",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Alaska Range"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "small",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -152.4125,
+            61.40861111111111
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.40861111111111,
+        "longitude": -152.4125,
+        "name": "Mount Torbert",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

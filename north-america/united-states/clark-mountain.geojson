@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.5886,
+            35.5256
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 35.5256,
+        "longitude": -115.5886,
+        "name": "Clark Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

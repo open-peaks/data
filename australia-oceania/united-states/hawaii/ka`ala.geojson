@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -158.14249999999998,
+            21.50777777777778
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 21.50777777777778,
+        "longitude": -158.14249999999998,
+        "name": "Ka\u02bbala",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Hawaii"
+    }
+}

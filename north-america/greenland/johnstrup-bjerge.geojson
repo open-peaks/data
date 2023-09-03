@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -25.5333,
+            73.0
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 73.0,
+        "longitude": -25.5333,
+        "name": "Johnstrup Bjerge",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

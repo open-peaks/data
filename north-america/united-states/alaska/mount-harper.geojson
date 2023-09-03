@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -143.84416666666667,
+            64.23694444444445
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 64.23694444444445,
+        "longitude": -143.84416666666667,
+        "name": "Mount Harper",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.317,
-      41.3606
-    ]
-  },
-  "properties": {
-    "feet": 12013,
-    "meters": 3662,
-    "latitude": 41.3606,
-    "longitude": -106.317,
-    "name": "Medicine Bow Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Southern Wyoming Ranges"
-    ],
-    "states": [
-      "Wyoming"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.3175,
+            41.36027777777778
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.36027777777778,
+        "longitude": -106.3175,
+        "name": "Medicine Bow Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Wyoming"
+    }
 }

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.1311,
+            43.7494
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.7494,
+        "longitude": -114.1311,
+        "name": "Hyndman Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Idaho"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.0828,
+            75.3694
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 75.3694,
+        "longitude": -115.0828,
+        "name": "Melville Island high point",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

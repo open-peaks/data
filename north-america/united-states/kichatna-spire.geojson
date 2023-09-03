@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -152.7231,
+            62.4231
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 62.4231,
+        "longitude": -152.7231,
+        "name": "Kichatna Spire",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

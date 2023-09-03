@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.6186,
+            75.3428
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 75.3428,
+        "longitude": -82.6186,
+        "name": "Devon Ice Cap high point",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

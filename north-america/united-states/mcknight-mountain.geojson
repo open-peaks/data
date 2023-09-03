@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.8503,
+            33.0517
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 33.0517,
+        "longitude": -107.8503,
+        "name": "McKnight Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

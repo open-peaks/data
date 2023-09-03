@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -62.8028,
+            17.3686
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 17.3686,
+        "longitude": -62.8028,
+        "name": "Mount Liamuiga",
+        "regions": [],
+        "countries": [
+            "Saint Kitts and Nevis"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

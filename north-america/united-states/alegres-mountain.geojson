@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.1894,
+            34.1575
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 34.1575,
+        "longitude": -108.1894,
+        "name": "Alegres Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

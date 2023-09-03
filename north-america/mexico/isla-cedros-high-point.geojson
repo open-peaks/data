@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.2206,
+            28.13
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 28.13,
+        "longitude": -115.2206,
+        "name": "Isla Cedros high point",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -103.5325,
+            43.8658
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.8658,
+        "longitude": -103.5325,
+        "name": "Black Elk Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "South Dakota"
+        ]
+    }
+}

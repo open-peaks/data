@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.8464,
+            23.8008
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 23.8008,
+        "longitude": -99.8464,
+        "name": "Picacho San Onofre",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

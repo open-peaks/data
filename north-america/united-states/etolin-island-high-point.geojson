@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.3253,
+            56.1197
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 56.1197,
+        "longitude": -132.3253,
+        "name": "Etolin Island High Point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

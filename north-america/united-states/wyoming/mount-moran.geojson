@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -110.776,
-      43.8353
-    ]
-  },
-  "properties": {
-    "feet": 12605,
-    "meters": 3842,
-    "latitude": 43.8353,
-    "longitude": -110.776,
-    "name": "Mount Moran",
-    "regions": [
-      "Rocky Mountains",
-      "Teton Range - Yellowstone Area"
-    ],
-    "states": [
-      "Wyoming"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.77638888888889,
+            43.835
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.835,
+        "longitude": -110.77638888888889,
+        "name": "Mount Moran",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Wyoming"
+    }
 }

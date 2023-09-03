@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -140.467,
-      61.0167
-    ]
-  },
-  "properties": {
-    "feet": 17147,
-    "meters": 5226,
-    "latitude": 61.0167,
-    "longitude": -140.467,
-    "name": "Mount Lucania",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Saint Elias Mountains"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -140.4661,
+            61.0214
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.0214,
+        "longitude": -140.4661,
+        "name": "Mount Lucania",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

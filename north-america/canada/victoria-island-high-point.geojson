@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.6072,
+            71.8528
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 71.8528,
+        "longitude": -112.6072,
+        "name": "Victoria Island high point",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

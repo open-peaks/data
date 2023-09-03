@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.4508,
+            32.8836
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 32.8836,
+        "longitude": -118.4508,
+        "name": "Thirst Benchmark",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

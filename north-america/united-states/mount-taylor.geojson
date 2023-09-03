@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.6086,
+            35.2386
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 35.2386,
+        "longitude": -107.6086,
+        "name": "Mount Taylor",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6064,
+            46.9686
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 46.9686,
+        "longitude": -110.6064,
+        "name": "Big Baldy Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Montana"
+        ]
+    }
+}

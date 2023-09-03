@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.0881,
+            44.9756
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 44.9756,
+        "longitude": -110.0881,
+        "name": "Barronette Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

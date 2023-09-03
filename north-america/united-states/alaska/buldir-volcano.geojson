@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            175.91055555555556,
+            52.348333333333336
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 52.348333333333336,
+        "longitude": 175.91055555555556,
+        "name": "Buldir Volcano",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

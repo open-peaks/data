@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.5342,
+            33.7106
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 33.7106,
+        "longitude": -117.5342,
+        "name": "Santiago Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

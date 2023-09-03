@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.9036,
+            15.0431
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.0431,
+        "longitude": -91.9036,
+        "name": "Volc\u00e1n Tajumulco",
+        "regions": [],
+        "countries": [
+            "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

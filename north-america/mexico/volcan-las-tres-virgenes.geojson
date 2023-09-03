@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.5919,
+            27.47
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 27.47,
+        "longitude": -112.5919,
+        "name": "Volc\u00e1n Las Tres V\u00edrgenes",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

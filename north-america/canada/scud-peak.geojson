@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.1675,
+            57.2411
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 57.2411,
+        "longitude": -131.1675,
+        "name": "Scud Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

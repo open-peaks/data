@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.2583,
+            19.2075
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.2075,
+        "longitude": -99.2583,
+        "name": "Cerro Ajusco",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

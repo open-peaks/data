@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.4386,
+            28.4072
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 28.4072,
+        "longitude": -113.4386,
+        "name": "Cerro La Sand\u00eda",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6239,
+            42.6042
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 42.6042,
+        "longitude": -110.6239,
+        "name": "Wyoming Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

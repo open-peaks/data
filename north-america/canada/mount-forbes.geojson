@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.932125,
-      51.860168
-    ]
-  },
-  "properties": {
-    "feet": 11850,
-    "meters": 3612,
-    "latitude": 51.860168,
-    "longitude": -116.932125,
-    "name": "Mount Forbes",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.9317,
+            51.86
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 51.86,
+        "longitude": -116.9317,
+        "name": "Mount Forbes",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

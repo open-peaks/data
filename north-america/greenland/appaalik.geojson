@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.9917,
+            70.9475
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 70.9475,
+        "longitude": -51.9917,
+        "name": "Appaalik",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

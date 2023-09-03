@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.4472,
+            19.2647
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.2647,
+        "longitude": -97.4472,
+        "name": "Las Derrumbadas south summit",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

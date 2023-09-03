@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.6167,
+            30.5483
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 30.5483,
+        "longitude": -108.6167,
+        "name": "Cerro San Jos\u00e9",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -83.854381,
-      9.976497
-    ]
-  },
-  "properties": {
-    "feet": 11260,
-    "meters": 3432,
-    "latitude": 9.976497,
-    "longitude": -83.854381,
-    "name": "Volcan Irazu",
-    "regions": [
-      "Central American Ranges",
-      "Costa Rica - Panama Ranges"
-    ],
-    "countries": [
-      "Costa Rica"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.8533,
+            9.9764
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 9.9764,
+        "longitude": -83.8533,
+        "name": "Volc\u00e1n Iraz\u00fa",
+        "regions": [],
+        "countries": [
+            "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.8772,
+            42.4961
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 42.4961,
+        "longitude": -120.8772,
+        "name": "Gearhart Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Oregon"
+        ]
+    }
+}

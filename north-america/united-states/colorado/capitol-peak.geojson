@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -107.082,
-      39.1503
-    ]
-  },
-  "properties": {
-    "feet": 14130,
-    "meters": 4307,
-    "latitude": 39.1503,
-    "longitude": -107.082,
-    "name": "Capitol Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Elk Range Area"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.08277777777778,
+            39.150277777777774
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.150277777777774,
+        "longitude": -107.08277777777778,
+        "name": "Capitol Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.9611,
+            54.9081
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 54.9081,
+        "longitude": -121.9611,
+        "name": "Sentinel Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.905,
+            43.5672
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.5672,
+        "longitude": -110.905,
+        "name": "Rendezvous Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Wyoming"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.6692,
+            56.9686
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 56.9686,
+        "longitude": -61.6692,
+        "name": "Man O'War Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

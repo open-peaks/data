@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.2808,
+            33.2736
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 33.2736,
+        "longitude": -112.2808,
+        "name": "Sierra Estrella high point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

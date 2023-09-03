@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -62.3453,
+            76.3425
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 76.3425,
+        "longitude": -62.3453,
+        "name": "Haffner Bjerg",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

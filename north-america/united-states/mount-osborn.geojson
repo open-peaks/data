@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -165.3294,
+            64.9922
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 64.9922,
+        "longitude": -165.3294,
+        "name": "Mount Osborn",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

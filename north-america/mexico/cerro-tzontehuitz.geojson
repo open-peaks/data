@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.5894,
+            16.8358
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 16.8358,
+        "longitude": -92.5894,
+        "name": "Cerro Tzontehuitz",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

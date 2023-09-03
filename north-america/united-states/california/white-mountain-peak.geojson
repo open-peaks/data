@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.255,
-      37.6344
-    ]
-  },
-  "properties": {
-    "feet": 14246,
-    "meters": 4342,
-    "latitude": 37.6344,
-    "longitude": -118.255,
-    "name": "White Mountain Peak",
-    "regions": [
-      "Intermountain West",
-      "Great Basin Ranges"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.25583333333333,
+            37.634166666666665
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.634166666666665,
+        "longitude": -118.25583333333333,
+        "name": "White Mountain Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

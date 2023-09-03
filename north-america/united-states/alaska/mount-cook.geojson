@@ -1,31 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -139.968,
-      60.1836
-    ]
-  },
-  "properties": {
-    "feet": 13766,
-    "meters": 4196,
-    "latitude": 60.1836,
-    "longitude": -139.968,
-    "name": "Mount Cook",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Saint Elias Mountains"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States",
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -139.98111111111112,
+            60.181666666666665
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 60.181666666666665,
+        "longitude": -139.98111111111112,
+        "name": "Mount Cook",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

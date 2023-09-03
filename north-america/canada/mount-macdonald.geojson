@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.7781,
+            64.7256
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 64.7256,
+        "longitude": -132.7781,
+        "name": "Mount Macdonald",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.5667,
+            15.1833
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.1833,
+        "longitude": -87.5667,
+        "name": "Pico Pijol",
+        "regions": [],
+        "countries": [
+            "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

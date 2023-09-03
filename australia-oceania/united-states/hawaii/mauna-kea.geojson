@@ -1,29 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.471,
-      19.8236
-    ]
-  },
-  "properties": {
-    "feet": 13796,
-    "meters": 4205,
-    "latitude": 19.8236,
-    "longitude": -155.471,
-    "name": "Mauna Kea",
-    "regions": [
-      "Hawaiian Islands"
-    ],
-    "states": [
-      "Hawaii"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "Australia/Oceania",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -155.46805555555557,
+            19.820833333333333
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.820833333333333,
+        "longitude": -155.46805555555557,
+        "name": "Mauna Kea",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Hawaii"
+    }
 }

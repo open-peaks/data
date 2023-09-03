@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.5,
+            14.5
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.5,
+        "longitude": -87.5,
+        "name": "Monta\u00f1a los Comayagua",
+        "regions": [],
+        "countries": [
+            "Honduras"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

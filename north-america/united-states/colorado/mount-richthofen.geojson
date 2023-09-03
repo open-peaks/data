@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -105.894,
-      40.4694
-    ]
-  },
-  "properties": {
-    "feet": 12950,
-    "meters": 3947,
-    "latitude": 40.4694,
-    "longitude": -105.894,
-    "name": "Mount Richthofen",
-    "regions": [
-      "Rocky Mountains",
-      "Front Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.89444444444445,
+            40.46944444444445
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 40.46944444444445,
+        "longitude": -105.89444444444445,
+        "name": "Mount Richthofen",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

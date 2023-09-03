@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -89.6289,
+            13.8558
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.8558,
+        "longitude": -89.6289,
+        "name": "Volc\u00e1n de Santa Ana",
+        "regions": [],
+        "countries": [
+            "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

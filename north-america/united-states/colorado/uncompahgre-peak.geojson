@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -107.461,
-      38.0717
-    ]
-  },
-  "properties": {
-    "feet": 14309,
-    "meters": 4361,
-    "latitude": 38.0717,
-    "longitude": -107.461,
-    "name": "Uncompahgre Peak",
-    "regions": [
-      "Rocky Mountains",
-      "San Juan Mountains"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -107.46222222222222,
+            38.07166666666667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.07166666666667,
+        "longitude": -107.46222222222222,
+        "name": "Uncompahgre Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.4575,
+            26.8611
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 26.8611,
+        "longitude": -112.4575,
+        "name": "Cerro Las Palmas",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

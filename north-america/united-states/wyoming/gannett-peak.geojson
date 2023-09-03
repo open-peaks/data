@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -109.653,
-      43.1844
-    ]
-  },
-  "properties": {
-    "feet": 13804,
-    "meters": 4207,
-    "latitude": 43.1844,
-    "longitude": -109.653,
-    "name": "Gannett Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Wind River Range"
-    ],
-    "states": [
-      "Wyoming"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -109.65416666666667,
+            43.18416666666666
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.18416666666666,
+        "longitude": -109.65416666666667,
+        "name": "Gannett Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Wyoming"
+    }
 }

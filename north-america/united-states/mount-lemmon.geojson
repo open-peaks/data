@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7886,
+            32.4431
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 32.4431,
+        "longitude": -110.7886,
+        "name": "Mount Lemmon",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

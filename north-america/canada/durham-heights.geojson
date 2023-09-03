@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.9531,
+            71.1358
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 71.1358,
+        "longitude": -122.9531,
+        "name": "Durham Heights",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

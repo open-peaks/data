@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.4044,
+            34.415
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 34.415,
+        "longitude": -112.4044,
+        "name": "Mount Union",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

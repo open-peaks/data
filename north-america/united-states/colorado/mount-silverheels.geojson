@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.005,
-      39.3392
-    ]
-  },
-  "properties": {
-    "feet": 13822,
-    "meters": 4213,
-    "latitude": 39.3392,
-    "longitude": -106.005,
-    "name": "Mount Silverheels",
-    "regions": [
-      "Rocky Mountains",
-      "Central Colorado Ranges"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.00527777777778,
+            39.339444444444446
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.339444444444446,
+        "longitude": -106.00527777777778,
+        "name": "Mount Silverheels",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

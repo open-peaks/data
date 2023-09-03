@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -147.237,
-      63.6375
-    ]
-  },
-  "properties": {
-    "feet": 12339,
-    "meters": 3761,
-    "latitude": 63.6375,
-    "longitude": -147.237,
-    "name": "Mount Deborah",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Alaska Range"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -147.23833333333332,
+            63.63777777777778
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.63777777777778,
+        "longitude": -147.23833333333332,
+        "name": "Mount Deborah",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

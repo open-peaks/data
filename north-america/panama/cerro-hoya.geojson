@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.6811,
+            7.3178
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 7.3178,
+        "longitude": -80.6811,
+        "name": "Cerro Hoya",
+        "regions": [],
+        "countries": [
+            "Panama"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

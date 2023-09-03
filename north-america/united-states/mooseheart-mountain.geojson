@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -151.0514,
+            64.7453
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 64.7453,
+        "longitude": -151.0514,
+        "name": "Mooseheart Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

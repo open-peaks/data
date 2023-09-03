@@ -1,29 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -148.867,
-      61.3
-    ]
-  },
-  "properties": {
-    "feet": 8005,
-    "meters": 2440,
-    "latitude": 61.3,
-    "longitude": -148.867,
-    "name": "Bashful Peak",
-    "regions": [
-      "Alaska/Yukon Ranges"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -148.86972222222224,
+            61.3075
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 61.3075,
+        "longitude": -148.86972222222224,
+        "name": "Bashful Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

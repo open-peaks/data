@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -105.644,
-      35.9625
-    ]
-  },
-  "properties": {
-    "feet": 13103,
-    "meters": 3994,
-    "latitude": 35.9625,
-    "longitude": -105.644,
-    "name": "Truchas Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Sangre de Cristo Range"
-    ],
-    "states": [
-      "New Mexico"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.64500000000001,
+            35.962500000000006
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 35.962500000000006,
+        "longitude": -105.64500000000001,
+        "name": "Truchas Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "New Mexico"
+    }
 }

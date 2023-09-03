@@ -1,26 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -110.783,
-      32.4333
-    ]
-  },
-  "properties": {
-    "feet": 9157,
-    "meters": 2791,
-    "latitude": 32.4333,
-    "longitude": -110.783,
-    "name": "Mount Lemmon",
-    "states": [
-      "Arizona"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.78861111111111,
+            32.44305555555555
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 32.44305555555555,
+        "longitude": -110.78861111111111,
+        "name": "Mount Lemmon",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Arizona"
+    }
 }

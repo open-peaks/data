@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.1292,
+            50.5517
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 50.5517,
+        "longitude": -118.1292,
+        "name": "Mount Odin",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

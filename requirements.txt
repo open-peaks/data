@@ -1,0 +1,6 @@
+pycountry
+pycountry_convert
+requests
+beautifulsoup4
+geopy
+unidecode

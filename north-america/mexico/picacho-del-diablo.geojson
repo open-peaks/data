@@ -1,21 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 10157,
-    "meters": 3096,
-    "name": "Picacho del Diablo",
-    "countries": [
-      "Mexico"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.3753,
+            30.9925
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 30.9925,
+        "longitude": -115.3753,
+        "name": "Picacho del Diablo",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

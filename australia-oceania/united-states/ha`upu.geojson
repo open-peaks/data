@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -159.4017,
+            21.9253
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 21.9253,
+        "longitude": -159.4017,
+        "name": "H\u0101\u02bbupu",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "australia-oceania",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Hawaii"
+        ]
+    }
+}

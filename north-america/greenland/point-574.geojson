@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -59.1667,
+            82.0
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 82.0,
+        "longitude": -59.1667,
+        "name": "Point 574",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

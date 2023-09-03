@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.2319,
+            54.9678
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 54.9678,
+        "longitude": -128.2319,
+        "name": "Seven Sisters Peaks",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

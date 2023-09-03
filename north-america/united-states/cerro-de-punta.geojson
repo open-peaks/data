@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -66.5917,
+            18.1722
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 18.1722,
+        "longitude": -66.5917,
+        "name": "Cerro de Punta",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Puerto Rico"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1419,
+            49.7461
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 49.7461,
+        "longitude": -117.1419,
+        "name": "Cond Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

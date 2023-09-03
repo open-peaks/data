@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.7886,
+            31.5694
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 31.5694,
+        "longitude": -108.7886,
+        "name": "Animas Mountains high point",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

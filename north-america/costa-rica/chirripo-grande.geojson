@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.4889,
+            9.4842
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 9.4842,
+        "longitude": -83.4889,
+        "name": "Chirrip\u00f3 Grande",
+        "regions": [],
+        "countries": [
+            "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

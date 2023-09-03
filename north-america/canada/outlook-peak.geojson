@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.4061,
+            79.7397
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 79.7397,
+        "longitude": -91.4061,
+        "name": "Outlook Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

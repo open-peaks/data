@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.476463,
-      52.288008
-    ]
-  },
-  "properties": {
-    "feet": 11874,
-    "meters": 3619,
-    "latitude": 52.288008,
-    "longitude": -117.476463,
-    "name": "Mount Alberta",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4772,
+            52.285
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 52.285,
+        "longitude": -117.4772,
+        "name": "Mount Alberta",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

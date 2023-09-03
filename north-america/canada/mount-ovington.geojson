@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.5739,
+            54.1433
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 54.1433,
+        "longitude": -120.5739,
+        "name": "Mount Ovington",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

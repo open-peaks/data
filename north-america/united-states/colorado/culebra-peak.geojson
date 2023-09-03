@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -105.185,
-      37.1222
-    ]
-  },
-  "properties": {
-    "feet": 14047,
-    "meters": 4282,
-    "latitude": 37.1222,
-    "longitude": -105.185,
-    "name": "Culebra Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Sangre de Cristo Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.18583333333333,
+            37.1225
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.1225,
+        "longitude": -105.18583333333333,
+        "name": "Culebra Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

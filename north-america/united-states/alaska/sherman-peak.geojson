@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.04749999999999,
+            56.89694444444444
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 56.89694444444444,
+        "longitude": -133.04749999999999,
+        "name": "Sherman Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
+}

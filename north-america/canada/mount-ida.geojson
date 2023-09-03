@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.3267,
+            54.0581
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 54.0581,
+        "longitude": -120.3267,
+        "name": "Mount Ida",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

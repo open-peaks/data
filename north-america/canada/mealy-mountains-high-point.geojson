@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -58.5536,
+            53.6464
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 53.6464,
+        "longitude": -58.5536,
+        "name": "Mealy Mountains high point",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.475,
-      39.1872
-    ]
-  },
-  "properties": {
-    "feet": 14428,
-    "meters": 4398,
-    "latitude": 39.1872,
-    "longitude": -106.475,
-    "name": "Mount Massive",
-    "regions": [
-      "Rocky Mountains",
-      "Sawatch Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.47583333333334,
+            39.1875
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.1875,
+        "longitude": -106.47583333333334,
+        "name": "Mount Massive",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

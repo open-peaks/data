@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -119.032,
-      37.631
-    ]
-  },
-  "properties": {
-    "feet": 11053,
-    "meters": 3369,
-    "latitude": 37.631,
-    "longitude": -119.032,
-    "name": "Mammoth Mountain",
-    "regions": [
-      "Pacific Ranges",
-      "Sierra Nevada"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.0325,
+            37.63055555555555
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.63055555555555,
+        "longitude": -119.0325,
+        "name": "Mammoth Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

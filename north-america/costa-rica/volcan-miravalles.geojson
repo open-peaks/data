@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -85.1506,
+            10.7469
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 10.7469,
+        "longitude": -85.1506,
+        "name": "Volc\u00e1n Miravalles",
+        "regions": [],
+        "countries": [
+            "Costa Rica"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

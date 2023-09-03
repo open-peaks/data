@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -109.9542,
+            23.5392
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 23.5392,
+        "longitude": -109.9542,
+        "name": "Pico La Laguna",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

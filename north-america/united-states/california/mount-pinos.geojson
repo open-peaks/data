@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.14527777777778,
+            34.812777777777775
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 34.812777777777775,
+        "longitude": -119.14527777777778,
+        "name": "Mount Pinos",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
+}

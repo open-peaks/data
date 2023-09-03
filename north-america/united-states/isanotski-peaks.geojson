@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -163.7292,
+            54.7681
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 54.7681,
+        "longitude": -163.7292,
+        "name": "Isanotski Peaks",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

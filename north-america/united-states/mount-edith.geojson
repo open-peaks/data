@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.1861,
+            46.4317
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 46.4317,
+        "longitude": -111.1861,
+        "name": "Mount Edith",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Montana"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.2058,
+            50.0603
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 50.0603,
+        "longitude": -115.2058,
+        "name": "Mount Harrison",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

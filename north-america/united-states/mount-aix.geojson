@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.2558,
+            46.795
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 46.795,
+        "longitude": -121.2558,
+        "name": "Mount Aix",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

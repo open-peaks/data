@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.6639,
+            17.1344
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 17.1344,
+        "longitude": -97.6639,
+        "name": "Cerro la Muralla",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

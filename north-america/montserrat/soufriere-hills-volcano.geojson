@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -62.1756,
+            16.7122
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 16.7122,
+        "longitude": -62.1756,
+        "name": "Soufri\u00e8re Hills Volcano",
+        "regions": [],
+        "countries": [
+            "Montserrat"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

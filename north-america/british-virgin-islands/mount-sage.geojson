@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -64.6556,
+            18.4094
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 18.4094,
+        "longitude": -64.6556,
+        "name": "Mount Sage",
+        "regions": [],
+        "countries": [
+            "Virgin Islands, British"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

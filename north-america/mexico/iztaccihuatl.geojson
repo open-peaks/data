@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.6333,
-      19.1833
-    ]
-  },
-  "properties": {
-    "feet": 17342,
-    "meters": 5286,
-    "latitude": 19.1833,
-    "longitude": -98.6333,
-    "name": "Iztaccihuatl",
-    "regions": [
-      "Mexican Ranges",
-      "Cordillera Neovolcanica"
-    ],
-    "countries": [
-      "Mexico"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.6414,
+            19.1803
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.1803,
+        "longitude": -98.6414,
+        "name": "Iztacc\u00edhuatl",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

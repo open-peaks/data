@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.6503,
+            70.7992
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 70.7992,
+        "longitude": -71.6503,
+        "name": "Kisimngiuqtuq Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

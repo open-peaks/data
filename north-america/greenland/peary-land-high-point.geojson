@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.3333,
+            83.3167
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 83.3167,
+        "longitude": -35.3333,
+        "name": "Peary Land high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

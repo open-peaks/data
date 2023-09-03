@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.43183,
-      51.26315
-    ]
-  },
-  "properties": {
-    "feet": 10818,
-    "meters": 3297,
-    "latitude": 51.26315,
-    "longitude": -117.43183,
-    "name": "Mount Sir Donald",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4314,
+            51.2631
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 51.2631,
+        "longitude": -117.4314,
+        "name": "Mount Sir Donald",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.29305555555555,
+            31.392777777777777
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 31.392777777777777,
+        "longitude": -110.29305555555555,
+        "name": "Miller Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Arizona"
+    }
+}

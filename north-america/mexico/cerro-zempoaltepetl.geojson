@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.0125,
+            17.1325
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 17.1325,
+        "longitude": -96.0125,
+        "name": "Cerro Zempoalt\u00e9petl",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

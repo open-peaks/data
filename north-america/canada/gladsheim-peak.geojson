@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.6272,
+            49.7867
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 49.7867,
+        "longitude": -117.6272,
+        "name": "Gladsheim Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

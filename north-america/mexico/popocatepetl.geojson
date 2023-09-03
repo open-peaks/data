@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.6333,
-      19.0333
-    ]
-  },
-  "properties": {
-    "feet": 17887,
-    "meters": 5452,
-    "latitude": 19.0333,
-    "longitude": -98.6333,
-    "name": "Popocatepetl",
-    "regions": [
-      "Mexican Ranges",
-      "Cordillera Neovolcanica"
-    ],
-    "countries": [
-      "Mexico"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.6278,
+            19.0225
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 19.0225,
+        "longitude": -98.6278,
+        "name": "Popocat\u00e9petl",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

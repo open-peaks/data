@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.1864,
+            14.5833
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.5833,
+        "longitude": -91.1864,
+        "name": "Volc\u00e1n Atitl\u00e1n",
+        "regions": [],
+        "countries": [
+            "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

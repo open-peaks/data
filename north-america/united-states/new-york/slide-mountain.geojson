@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -74.386389,
-      41.998611
-    ]
-  },
-  "properties": {
-    "feet": 4180,
-    "meters": 1274,
-    "latitude": 41.998611,
-    "longitude": -74.386389,
-    "name": "Slide Mountain",
-    "regions": [
-      "Appalachian Mountains",
-      "Catskill Mountains"
-    ],
-    "states": [
-      "New York"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.38583333333334,
+            41.99916666666667
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 41.99916666666667,
+        "longitude": -74.38583333333334,
+        "name": "Slide Mountain",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "New York"
+    }
 }

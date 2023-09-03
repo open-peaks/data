@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.658,
-      37.3386
-    ]
-  },
-  "properties": {
-    "feet": 13652,
-    "meters": 4161,
-    "latitude": 37.3386,
-    "longitude": -118.658,
-    "name": "Mount Tom",
-    "regions": [
-      "Pacific Ranges",
-      "Sierra Nevada"
-    ],
-    "states": [
-      "California"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.65861111111111,
+            37.33861111111111
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 37.33861111111111,
+        "longitude": -118.65861111111111,
+        "name": "Mount Tom",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "California"
+    }
 }

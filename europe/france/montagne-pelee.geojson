@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.1653,
+            14.8092
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.8092,
+        "longitude": -61.1653,
+        "name": "Montagne Pel\u00e9e",
+        "regions": [],
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

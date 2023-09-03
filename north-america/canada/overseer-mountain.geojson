@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.3808,
+            50.5289
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 50.5289,
+        "longitude": -123.3808,
+        "name": "Overseer Mountain",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

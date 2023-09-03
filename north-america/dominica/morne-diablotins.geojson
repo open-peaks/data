@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.3981,
+            15.5039
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 15.5039,
+        "longitude": -61.3981,
+        "name": "Morne Diablotins",
+        "regions": [],
+        "countries": [
+            "Dominica"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

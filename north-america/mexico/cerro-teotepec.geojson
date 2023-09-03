@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.1364,
+            17.4683
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 17.4683,
+        "longitude": -100.1364,
+        "name": "Cerro Teotepec",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

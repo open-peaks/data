@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -105.817,
-      39.6339
-    ]
-  },
-  "properties": {
-    "feet": 14270,
-    "meters": 4350,
-    "latitude": 39.6339,
-    "longitude": -105.817,
-    "name": "Grays Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Front Range"
-    ],
-    "states": [
-      "Colorado"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -105.8175,
+            39.63388888888889
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 39.63388888888889,
+        "longitude": -105.8175,
+        "name": "Grays Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Colorado"
+    }
 }

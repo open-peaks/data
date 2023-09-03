@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.1967,
+            16.2114
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 16.2114,
+        "longitude": -96.1967,
+        "name": "Cerro el Nacimiento",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

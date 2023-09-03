@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -63.9125,
+            10.9975
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 10.9975,
+        "longitude": -63.9125,
+        "name": "Cerro El Copey",
+        "regions": [],
+        "countries": [
+            "Venezuela, Bolivarian Republic of"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

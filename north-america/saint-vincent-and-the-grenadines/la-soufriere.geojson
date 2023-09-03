@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.1761,
+            13.3478
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.3478,
+        "longitude": -61.1761,
+        "name": "La Soufri\u00e8re",
+        "regions": [],
+        "countries": [
+            "Saint Vincent and the Grenadines"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

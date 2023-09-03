@@ -1,25 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12336,
-    "meters": 3760,
-    "name": "Volcan de Agua",
-    "regions": [
-      "Central American Ranges",
-      "Guatemala Ranges"
-    ],
-    "countries": [
-      "Guatemala"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -90.7428,
+            14.4653
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.4653,
+        "longitude": -90.7428,
+        "name": "Volc\u00e1n de Agua",
+        "regions": [],
+        "countries": [
+            "Guatemala"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

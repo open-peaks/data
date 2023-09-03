@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -144.9108,
+            69.2775
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 69.2775,
+        "longitude": -144.9108,
+        "name": "Mount Chamberlin",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

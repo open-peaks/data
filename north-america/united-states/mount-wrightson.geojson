@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8483,
+            31.6958
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 31.6958,
+        "longitude": -110.8483,
+        "name": "Mount Wrightson",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Arizona"
+        ]
+    }
+}

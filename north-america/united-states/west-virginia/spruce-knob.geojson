@@ -1,27 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 4863,
-    "meters": 1482,
-    "name": "Spruce Knob",
-    "regions": [
-      "Appalachian Mountains"
-    ],
-    "states": [
-      "West Virginia"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.53277777777778,
+            38.7
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 38.7,
+        "longitude": -79.53277777777778,
+        "name": "Spruce Knob",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "West Virginia"
+    }
 }

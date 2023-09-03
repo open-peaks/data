@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.53,
-      8.8
-    ]
-  },
-  "properties": {
-    "feet": 11398,
-    "meters": 3474,
-    "latitude": 8.8,
-    "longitude": -82.53,
-    "name": "Volcan Baru",
-    "regions": [
-      "Central American Ranges",
-      "Costa Rica - Panama Ranges"
-    ],
-    "countries": [
-      "Panama"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.5428,
+            8.8089
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 8.8089,
+        "longitude": -82.5428,
+        "name": "Volc\u00e1n Bar\u00fa",
+        "regions": [],
+        "countries": [
+            "Panama"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

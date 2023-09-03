@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -144.129,
-      62.2139
-    ]
-  },
-  "properties": {
-    "feet": 16237,
-    "meters": 4949,
-    "latitude": 62.2139,
-    "longitude": -144.129,
-    "name": "Mount Sanford",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Wrangell Mountains"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -144.12916666666666,
+            62.21333333333334
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 62.21333333333334,
+        "longitude": -144.12916666666666,
+        "name": "Mount Sanford",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

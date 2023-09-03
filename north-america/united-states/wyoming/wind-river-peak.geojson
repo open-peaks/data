@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -109.128,
-      42.7085
-    ]
-  },
-  "properties": {
-    "feet": 13192,
-    "meters": 4021,
-    "latitude": 42.7085,
-    "longitude": -109.128,
-    "name": "Wind River Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Wind River Range"
-    ],
-    "states": [
-      "Wyoming"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -109.12833333333333,
+            42.70861111111111
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 42.70861111111111,
+        "longitude": -109.12833333333333,
+        "name": "Wind River Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Wyoming"
+    }
 }

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -23.2,
+            73.95
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 73.95,
+        "longitude": -23.2,
+        "name": "Favres Bjerg",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

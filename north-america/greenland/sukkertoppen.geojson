@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -52.35,
+            66.2
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 66.2,
+        "longitude": -52.35,
+        "name": "Sukkertoppen",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

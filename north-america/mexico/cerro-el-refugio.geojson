@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.1047,
+            24.5761
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 24.5761,
+        "longitude": -101.1047,
+        "name": "Cerro El Refugio",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.675,
+            12.1622
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 12.1622,
+        "longitude": -61.675,
+        "name": "Mount Saint Catherine",
+        "regions": [],
+        "countries": [
+            "Grenada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

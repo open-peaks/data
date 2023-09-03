@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.3983,
+            13.7631
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.7631,
+        "longitude": -86.3983,
+        "name": "Pico Mogot\u00f3n",
+        "regions": [],
+        "countries": [
+            "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

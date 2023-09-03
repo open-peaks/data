@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -53.1642,
+            71.6542
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 71.6542,
+        "longitude": -53.1642,
+        "name": "Snehaetten",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

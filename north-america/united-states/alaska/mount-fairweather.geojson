@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -137.527,
-      58.9072
-    ]
-  },
-  "properties": {
-    "feet": 15300,
-    "meters": 4663,
-    "latitude": 58.9072,
-    "longitude": -137.527,
-    "name": "Mount Fairweather",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Saint Elias Mountains"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.5263888888889,
+            58.906388888888884
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 58.906388888888884,
+        "longitude": -137.5263888888889,
+        "name": "Mount Fairweather",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

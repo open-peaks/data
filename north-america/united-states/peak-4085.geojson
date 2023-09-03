@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.0072,
+            66.2397
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 66.2397,
+        "longitude": -156.0072,
+        "name": "Peak 4085",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

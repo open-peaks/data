@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.5292,
+            78.8008
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 78.8008,
+        "longitude": -79.5292,
+        "name": "Beitstad Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

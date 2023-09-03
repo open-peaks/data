@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.5392,
+            69.2425
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 69.2425,
+        "longitude": -121.5392,
+        "name": "Melville Hills high point",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

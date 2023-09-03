@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -146.716,
-      63.62
-    ]
-  },
-  "properties": {
-    "feet": 13832,
-    "meters": 4216,
-    "latitude": 63.62,
-    "longitude": -146.716,
-    "name": "Mount Hayes",
-    "regions": [
-      "Alaska/Yukon Ranges",
-      "Alaska Range"
-    ],
-    "states": [
-      "Alaska"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -146.71777777777777,
+            63.62027777777778
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 63.62027777777778,
+        "longitude": -146.71777777777777,
+        "name": "Mount Hayes",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Alaska"
+    }
 }

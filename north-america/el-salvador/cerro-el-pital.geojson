@@ -1,24 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -89.0974,
-      14.3416
-    ]
-  },
-  "properties": {
-    "feet": 8957,
-    "meters": 2730,
-    "latitude": 14.3416,
-    "longitude": -89.0974,
-    "name": "Cerro El Pital",
-    "countries": [
-      "El Salvador",
-      "Honduras"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -89.1292,
+            14.3844
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 14.3844,
+        "longitude": -89.1292,
+        "name": "Cerro El Pital",
+        "regions": [],
+        "countries": [
+            "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

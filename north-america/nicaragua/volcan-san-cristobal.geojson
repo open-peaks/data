@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.0058,
+            12.7025
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 12.7025,
+        "longitude": -87.0058,
+        "name": "Volc\u00e1n San Crist\u00f3bal",
+        "regions": [],
+        "countries": [
+            "Nicaragua"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

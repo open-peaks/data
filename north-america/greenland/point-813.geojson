@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.7272,
+            76.4036
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 76.4036,
+        "longitude": -68.7272,
+        "name": "Point 813",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

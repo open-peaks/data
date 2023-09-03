@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -110.802,
-      43.7411
-    ]
-  },
-  "properties": {
-    "feet": 13770,
-    "meters": 4197,
-    "latitude": 43.7411,
-    "longitude": -110.802,
-    "name": "Grand Teton",
-    "regions": [
-      "Rocky Mountains",
-      "Teton Range - Yellowstone Area"
-    ],
-    "states": [
-      "Wyoming"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8025,
+            43.74111111111111
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 43.74111111111111,
+        "longitude": -110.8025,
+        "name": "Grand Teton",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Wyoming"
+    }
 }

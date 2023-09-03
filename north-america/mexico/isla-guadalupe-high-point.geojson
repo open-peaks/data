@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.3133,
+            29.1017
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 29.1017,
+        "longitude": -118.3133,
+        "name": "Isla Guadalupe high point",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

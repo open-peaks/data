@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -65.948393,
-      48.987655
-    ]
-  },
-  "properties": {
-    "feet": 4167,
-    "meters": 1270,
-    "latitude": 48.987655,
-    "longitude": -65.948393,
-    "name": "Mont Jacques Cartier",
-    "regions": [
-      "Appalachian Mountains",
-      "Canadian Appalachians"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -65.9483,
+            48.9878
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.9878,
+        "longitude": -65.9483,
+        "name": "Mont Jacques-Cartier",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

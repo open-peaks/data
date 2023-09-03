@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -113.8481,
-      48.925
-    ]
-  },
-  "properties": {
-    "feet": 10466,
-    "meters": 3190,
-    "latitude": 48.925,
-    "longitude": -113.8481,
-    "name": "Mount Cleveland",
-    "regions": [
-      "Rocky Mountains",
-      "Central Montana Rockies"
-    ],
-    "states": [
-      "Montana"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.84833333333333,
+            48.925
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.925,
+        "longitude": -113.84833333333333,
+        "name": "Mount Cleveland",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Montana"
+    }
 }

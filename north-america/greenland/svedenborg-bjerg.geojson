@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -24.3411,
+            72.9436
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 72.9436,
+        "longitude": -24.3411,
+        "name": "Svedenborg Bjerg",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

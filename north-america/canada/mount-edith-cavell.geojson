@@ -1,27 +1,24 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.056507,
-      52.667378
-    ]
-  },
-  "properties": {
-    "feet": 11033,
-    "meters": 3363,
-    "latitude": 52.667378,
-    "longitude": -118.056507,
-    "name": "Mount Edith Cavell",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.0569,
+            52.6672
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 52.6672,
+        "longitude": -118.0569,
+        "name": "Mount Edith Cavell",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

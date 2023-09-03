@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -61.25,
+            10.7231
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 10.7231,
+        "longitude": -61.25,
+        "name": "Aripo Peak",
+        "regions": [],
+        "countries": [
+            "Trinidad and Tobago"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

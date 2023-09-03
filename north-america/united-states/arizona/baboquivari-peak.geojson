@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -111.595,
-      31.7711
-    ]
-  },
-  "properties": {
-    "feet": 7730,
-    "meters": 2356,
-    "latitude": 31.7711,
-    "longitude": -111.595,
-    "name": "Baboquivari Peak",
-    "regions": [
-      "Intermountain West",
-      "Southwest Basins and Ranges"
-    ],
-    "states": [
-      "Arizona"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.59583333333333,
+            31.77111111111111
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 31.77111111111111,
+        "longitude": -111.59583333333333,
+        "name": "Baboquivari Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Arizona"
+    }
 }

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.5108,
+            18.6292
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 18.6292,
+        "longitude": -71.5108,
+        "name": "Loma Gajo en Medio",
+        "regions": [],
+        "countries": [
+            "Dominican Republic"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

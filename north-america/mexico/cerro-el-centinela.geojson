@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -103.2303,
+            25.1358
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 25.1358,
+        "longitude": -103.2303,
+        "name": "Cerro El Centinela",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

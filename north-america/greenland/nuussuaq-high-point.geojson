@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -52.9728,
+            70.6967
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 70.6967,
+        "longitude": -52.9728,
+        "name": "Nuussuaq high point",
+        "regions": [],
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

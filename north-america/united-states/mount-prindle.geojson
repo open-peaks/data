@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -146.4758,
+            65.4611
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 65.4611,
+        "longitude": -146.4758,
+        "name": "Mount Prindle",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.2692,
+            13.4347
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 13.4347,
+        "longitude": -88.2692,
+        "name": "Volc\u00e1n San Miguel",
+        "regions": [],
+        "countries": [
+            "El Salvador"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

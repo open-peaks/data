@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -102.6072,
+            22.2739
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 22.2739,
+        "longitude": -102.6072,
+        "name": "Sierra Fr\u00eda",
+        "regions": [],
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

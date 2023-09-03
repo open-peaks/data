@@ -1,0 +1,24 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -69.3058,
+            69.6525
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 69.6525,
+        "longitude": -69.3058,
+        "name": "McBeth-Inugsuin Peak",
+        "regions": [],
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

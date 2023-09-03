@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.3986,
+            31.6353
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 31.6353,
+        "longitude": -108.3986,
+        "name": "Big Hatchet Peak",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Mexico"
+        ]
+    }
+}

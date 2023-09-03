@@ -1,30 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -121.814532,
-      48.776895
-    ]
-  },
-  "properties": {
-    "feet": 10778,
-    "meters": 3284,
-    "latitude": 48.776895,
-    "longitude": -121.814532,
-    "name": "Mount Baker",
-    "regions": [
-      "Pacific Ranges",
-      "Cascade Range"
-    ],
-    "states": [
-      "Washington"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.81444444444445,
+            48.776666666666664
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 48.776666666666664,
+        "longitude": -121.81444444444445,
+        "name": "Mount Baker",
+        "regions": [],
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "state": "Washington"
+    }
 }
