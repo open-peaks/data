@@ -3,14 +3,16 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      -124.6,
+      49.2167
     ]
   },
   "properties": {
-    "feet": 7201,
-    "meters": 2195,
-    "name": "Elkhorn",
+    "feet": 5968,
+    "meters": 1819,
+    "latitude": 49.2167,
+    "longitude": -124.6,
+    "name": "Mount Arrowsmith",
     "regions": [
       "Pacific Ranges",
       "British Columbia Coast Ranges"
