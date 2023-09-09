@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -112.4619,
-            45.7425
+            -116.5883,
+            38.8117
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 45.7425,
-        "longitude": -112.4619,
+        "latitude": 38.8117,
+        "longitude": -116.5883,
         "name": "Table Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Montana"
+            "Nevada"
         ]
     }
 }

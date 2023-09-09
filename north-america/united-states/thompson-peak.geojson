@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -123.0483,
-            41.0006
+            -115.01,
+            44.1414
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 41.0006,
-        "longitude": -123.0483,
+        "latitude": 44.1414,
+        "longitude": -115.01,
         "name": "Thompson Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "California"
+            "Idaho"
         ]
     }
 }

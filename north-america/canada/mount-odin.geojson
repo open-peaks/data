@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.1292,
-            50.5517
+            -65.4289,
+            66.5467
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 50.5517,
-        "longitude": -118.1292,
+        "latitude": 66.5467,
+        "longitude": -65.4289,
         "name": "Mount Odin",
         "regions": [],
         "countries": [

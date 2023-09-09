@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.4169,
-            36.5569
+            -114.3139,
+            38.9858
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 36.5569,
-        "longitude": -105.4169,
+        "latitude": 38.9858,
+        "longitude": -114.3139,
         "name": "Wheeler Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "New Mexico"
+            "Nevada"
         ]
     }
 }

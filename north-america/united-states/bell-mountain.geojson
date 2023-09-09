@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -113.1939,
-            44.2361
+            -90.8661,
+            37.6261
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 44.2361,
-        "longitude": -113.1939,
+        "latitude": 37.6261,
+        "longitude": -90.8661,
         "name": "Bell Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Missouri"
         ]
     }
 }

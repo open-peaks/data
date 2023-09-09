@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -153.5353,
-            58.8597
+            -110.1394,
+            45.3067
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 58.8597,
-        "longitude": -153.5353,
+        "latitude": 45.3067,
+        "longitude": -110.1394,
         "name": "Mount Douglas",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Alaska"
+            "Montana"
         ]
     }
 }

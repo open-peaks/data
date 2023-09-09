@@ -48,6 +48,7 @@ def scrape_list_page(starting_url):
     visited_urls = set()
     queue = [starting_url]
     while queue:
+        print("visited", len(visited_urls), "queue", len(queue))
         url = queue.pop(0)
         if url in visited_urls:
             continue
@@ -60,18 +61,13 @@ def scrape_list_page(starting_url):
 
 
 def get_peaks():
-    visited_names = set()
     base_url = "https://en.wikipedia.org/wiki/Lists_of_mountains_by_region"
     for url in scrape_list_page(base_url):
         for peak_data in get_table_rows(url):
             name = peak_data.get("Mountain peak", "").split("[")[0]
             location = peak_data.get("Location", "")
-            if name in visited_names:
-                continue
             if not name or not location:
                 continue
-
-            visited_names.add(name)
             yield name, location
 
 

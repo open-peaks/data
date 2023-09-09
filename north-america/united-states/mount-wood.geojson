@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -90.4961,
-            37.4692
+            -109.8078,
+            45.275
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 37.4692,
-        "longitude": -90.4961,
-        "name": "Black Mountain",
+        "latitude": 45.275,
+        "longitude": -109.8078,
+        "name": "Mount Wood",
         "regions": [],
         "countries": [
             "United States"
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Missouri"
+            "Montana"
         ]
     }
 }

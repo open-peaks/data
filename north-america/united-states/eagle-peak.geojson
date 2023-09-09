@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.4086,
-            38.18
+            -120.2008,
+            41.2836
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 38.18,
-        "longitude": -119.4086,
+        "latitude": 41.2836,
+        "longitude": -120.2008,
         "name": "Eagle Peak",
         "regions": [],
         "countries": [

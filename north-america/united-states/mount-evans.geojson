@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.6439,
-            39.5883
+            -113.1903,
+            46.05
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 39.5883,
-        "longitude": -105.6439,
+        "latitude": 46.05,
+        "longitude": -113.1903,
         "name": "Mount Evans",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Colorado"
+            "Montana"
         ]
     }
 }

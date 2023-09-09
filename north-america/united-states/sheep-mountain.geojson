@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -114.36,
-            44.0647
+            -110.7008,
+            45.1131
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 44.0647,
-        "longitude": -114.36,
+        "latitude": 45.1131,
+        "longitude": -110.7008,
         "name": "Sheep Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Montana"
         ]
     }
 }

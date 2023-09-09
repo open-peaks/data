@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.2133,
-            36.63
+            -111.8708,
+            44.5683
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 36.63,
-        "longitude": -105.2133,
+        "latitude": 44.5683,
+        "longitude": -111.8708,
         "name": "Baldy Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "New Mexico"
+            "Montana"
         ]
     }
 }
