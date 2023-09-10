@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.86999999999999,
-            40.60722222222223
+            -108.8700588,
+            40.6072175
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.60722222222223,
-        "longitude": -108.86999999999999,
+        "feet": 9022.0,
+        "meters": 2749.9055120030234,
+        "latitude": 40.6072175,
+        "longitude": -108.8700588,
         "name": "Zenobia Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

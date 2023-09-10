@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.766051,
-            40.4259424
+            -121.771,
+            46.07
         ]
     },
     "properties": {
-        "feet": 8726.0,
-        "meters": 2659.6847148900893,
-        "latitude": 40.4259424,
-        "longitude": -108.766051,
-        "name": "Tanks Peak",
+        "feet": 5354.0,
+        "meters": 1631.8991477792272,
+        "latitude": 46.07,
+        "longitude": -121.771,
+        "name": "Sawtooth Mountain",
         "countries": [
             "United States"
         ],
@@ -20,7 +20,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Colorado"
+            "Washington"
         ]
     }
 }

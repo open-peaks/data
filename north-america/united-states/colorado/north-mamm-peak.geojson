@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -107.86611111111111,
-            39.38638888888889
+            -107.8660227,
+            39.3865217
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.38638888888889,
-        "longitude": -107.86611111111111,
+        "feet": 11129.0,
+        "meters": 3392.119091452189,
+        "latitude": 39.3865217,
+        "longitude": -107.8660227,
         "name": "North Mamm Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

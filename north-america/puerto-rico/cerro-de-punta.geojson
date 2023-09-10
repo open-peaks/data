@@ -3,18 +3,18 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.7786626,
-            37.284083
+            -66.59194,
+            18.1725
         ]
     },
     "properties": {
-        "feet": 9984.0,
-        "meters": 3043.1231026200608,
-        "latitude": 37.284083,
-        "longitude": -108.7786626,
-        "name": "Ute Peak",
+        "feet": 4390.0,
+        "meters": 1338.0719571816974,
+        "latitude": 18.1725,
+        "longitude": -66.59194,
+        "name": "Cerro de Punta",
         "countries": [
-            "United States"
+            "Puerto Rico"
         ],
         "continent": "North America",
         "marker-size": "large",

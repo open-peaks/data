@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.766051,
-            40.4259424
+            -114.4814481,
+            43.9121326
         ]
     },
     "properties": {
-        "feet": 8726.0,
-        "meters": 2659.6847148900893,
-        "latitude": 40.4259424,
-        "longitude": -108.766051,
-        "name": "Tanks Peak",
+        "feet": 11602.0,
+        "meters": 3536.2894868387366,
+        "latitude": 43.9121326,
+        "longitude": -114.4814481,
+        "name": "Glassford Peak",
         "countries": [
             "United States"
         ],
@@ -20,7 +20,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Colorado"
+            "Idaho"
         ]
     }
 }

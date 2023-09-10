@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -104.46277777777777,
-            37.098333333333336
+            -104.4627796,
+            37.0982085
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.098333333333336,
-        "longitude": -104.46277777777777,
+        "feet": 9633.0,
+        "meters": 2936.138306043574,
+        "latitude": 37.0982085,
+        "longitude": -104.4627796,
         "name": "Fishers Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.94361111111111,
-            38.88361111111111
+            -106.9436547,
+            38.8833256
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.88361111111111,
-        "longitude": -106.94361111111111,
+        "feet": 12168.0,
+        "meters": 3708.806281318199,
+        "latitude": 38.8833256,
+        "longitude": -106.9436547,
         "name": "Crested Butte",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }
