@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.74694,
-            49.66278
+            -125.549167,
+            49.431944
         ]
     },
     "properties": {
-        "feet": 7201.4438,
-        "meters": 2195.0,
-        "latitude": 49.66278,
-        "longitude": -125.74694,
-        "name": "Golden Hinde",
+        "feet": 6062.99232,
+        "meters": 1848.0,
+        "latitude": 49.431944,
+        "longitude": -125.549167,
+        "name": "Nine Peaks",
         "countries": [
             "Canada"
         ],

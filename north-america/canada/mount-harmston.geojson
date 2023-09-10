@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.74694,
-            49.66278
+            -125.398306,
+            49.548889
         ]
     },
     "properties": {
-        "feet": 7201.4438,
-        "meters": 2195.0,
-        "latitude": 49.66278,
-        "longitude": -125.74694,
-        "name": "Golden Hinde",
+        "feet": 6591.20756,
+        "meters": 2009.0,
+        "latitude": 49.548889,
+        "longitude": -125.398306,
+        "name": "Mount Harmston",
         "countries": [
             "Canada"
         ],

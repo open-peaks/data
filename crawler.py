@@ -282,6 +282,10 @@ class Peak:
         if "Location" in raw_text_data:
             self.location = raw_text_data["Location"]
 
+        if "(" in self.name:
+            self.name = self.name.split("(")[0].replace("_", " ").strip()
+
+
         for table in tables:
             for row in table.find_all('tr'):
                 key_element = row.find('th', class_="infobox-label")
@@ -325,6 +329,8 @@ class Peak:
             geomap = soup.find_all('div', class_="locmap")
             if len(geomap) > 0:
                 self.location = geomap[0].text.replace(self.name, "").split(" / ")[-1].strip()
+                if "Show map of " in self.location:
+                    self.location = self.location.split("Show map of ")[0].strip()
                 print("Found location from geomap: ", self.location)
 
         self.complete = True
@@ -437,8 +443,10 @@ class Peak:
     @property
     def _continent(self):
         if not self._country:
+            pprint.pprint(self.dict())
             return None
         country = self._country.split("[")[0]
+        print(self.dict())
         c = pycountry.countries.search_fuzzy(country)
         country_alpha2 = c[0].alpha_2
         continent_alpha2 = pycountry_convert.country_alpha2_to_continent_code(country_alpha2)
@@ -515,7 +523,21 @@ class Peak:
 
 if __name__ == "__main__":
     peak_count = 0
-    for name in get_peak_names():
+    # for name in get_peak_names():
+
+    qualifiers = [
+    "Mount Colonel Foster",
+    "Rugged Mountain",
+    "Warden Peak",
+    "Elkhorn Mountain",
+    "Golden_Hinde_(mountain)",
+    "Victoria_Peak_(British_Columbia)",
+    "Nine Peaks",
+    "Mount Harmston",
+    "Mount Septimus",
+    ]
+
+    for name in qualifiers:
         peak_count += 1
         peak = Peak(name)
         success = peak.flesh_out()
@@ -523,8 +545,5 @@ if __name__ == "__main__":
             print(f"Failed to flesh out {name}")
             continue
 
-        try:
-            print(f"{peak_count}\tSaving {name}")
-            peak.save()
-        except Exception as e:
-            print(f"Failed to save {name} because {e}")
+        print(f"{peak_count}\tSaving {name}")
+        peak.save()

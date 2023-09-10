@@ -1,27 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -125.867222,
-      49.749444
-    ]
-  },
-  "properties": {
-    "feet": 7201,
-    "meters": 2195,
-    "latitude": 49.749444,
-    "longitutde": -125.867222,
-    "name": "Mount Colonel Foster",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.86722,
+            49.74944
+        ]
+    },
+    "properties": {
+        "feet": 7004.5934,
+        "meters": 2135.0,
+        "latitude": 49.74944,
+        "longitude": -125.86722,
+        "name": "Mount Colonel Foster",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
 }

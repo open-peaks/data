@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.74694,
-            49.66278
+            -125.513611,
+            49.480556
         ]
     },
     "properties": {
-        "feet": 7201.4438,
-        "meters": 2195.0,
-        "latitude": 49.66278,
-        "longitude": -125.74694,
-        "name": "Golden Hinde",
+        "feet": 6391.07632,
+        "meters": 1948.0,
+        "latitude": 49.480556,
+        "longitude": -125.513611,
+        "name": "Mount Septimus",
         "countries": [
             "Canada"
         ],

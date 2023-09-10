@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.74694,
-            49.66278
+            -126.10111,
+            50.05444
         ]
     },
     "properties": {
-        "feet": 7201.4438,
-        "meters": 2195.0,
-        "latitude": 49.66278,
-        "longitude": -125.74694,
-        "name": "Golden Hinde",
+        "feet": 7096.45692,
+        "meters": 2163.0,
+        "latitude": 50.05444,
+        "longitude": -126.10111,
+        "name": "Victoria Peak",
         "countries": [
             "Canada"
         ],

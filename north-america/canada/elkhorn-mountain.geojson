@@ -3,16 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.74694,
-            49.66278
+            -125.82778,
+            49.78972
         ]
     },
     "properties": {
-        "feet": 7201.4438,
-        "meters": 2195.0,
-        "latitude": 49.66278,
-        "longitude": -125.74694,
-        "name": "Golden Hinde",
+        "feet": 7198.16296,
+        "meters": 2194.0,
+        "latitude": 49.78972,
+        "longitude": -125.82778,
+        "name": "Elkhorn Mountain",
         "countries": [
             "Canada"
         ],

@@ -1,27 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -126.096111,
-      50.061944
-    ]
-  },
-  "properties": {
-    "feet": 7201,
-    "meters": 2195,
-    "latitude": 50.061944, ,
-    "longitutde": -126.096111,
-    "name": "Warden Peak",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.09611,
+            50.06194
+        ]
+    },
+    "properties": {
+        "feet": 6463.2548,
+        "meters": 1970.0,
+        "latitude": 50.06194,
+        "longitude": -126.09611,
+        "name": "Warden Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
 }
