@@ -177,8 +177,10 @@ def peak_names():
 
 
 if __name__ == "__main__":
+    i = 1
     for name, url in peak_names():
         peak = Peak(name, url)
         peak.flesh_out()
-        print(peak)
+        print(f"{i}\t{peak}")
         peak.save()
+        i += 1
