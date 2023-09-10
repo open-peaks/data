@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.01751,
+            54.56105
+        ]
+    },
+    "properties": {
+        "feet": 2765.74812,
+        "meters": 843.0,
+        "latitude": 54.56105,
+        "longitude": -3.01751,
+        "name": "Stybarrow Dodd",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

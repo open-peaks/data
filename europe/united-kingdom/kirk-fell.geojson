@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.242,
+            54.483
+        ]
+    },
+    "properties": {
+        "feet": 2631.23368,
+        "meters": 802.0,
+        "latitude": 54.483,
+        "longitude": -3.242,
+        "name": "Kirk Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

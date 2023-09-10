@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.18024,
+            54.4661
+        ]
+    },
+    "properties": {
+        "feet": 2575.4594,
+        "meters": 785.0,
+        "latitude": 54.4661,
+        "longitude": -3.18024,
+        "name": "Allen Crags",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

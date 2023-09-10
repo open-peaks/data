@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -2.96751,
-      54.486345
-    ]
-  },
-  "properties": {
-    "feet": 2603,
-    "meters": 793,
-    "latitude": 54.486345,
-    "longitude": -2.96751,
-    "name": "Dove Crag",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.96777,
+            54.48506
+        ]
+    },
+    "properties": {
+        "feet": 2598.42528,
+        "meters": 792.0,
+        "latitude": 54.48506,
+        "longitude": -2.96777,
+        "name": "Dove Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

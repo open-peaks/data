@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.04978,
-      54.64
-    ]
-  },
-  "properties": {
-    "feet": 2847,
-    "meters": 868,
-    "latitude": 54.64,
-    "longitude": -3.04978,
-    "name": "Blencathra",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.05046,
+            54.63985
+        ]
+    },
+    "properties": {
+        "feet": 2847.76912,
+        "meters": 868.0,
+        "latitude": 54.63985,
+        "longitude": -3.05046,
+        "name": "Blencathra",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

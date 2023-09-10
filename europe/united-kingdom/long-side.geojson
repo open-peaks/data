@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.165,
+            54.645
+        ]
+    },
+    "properties": {
+        "feet": 2408.13656,
+        "meters": 734.0,
+        "latitude": 54.645,
+        "longitude": -3.165,
+        "name": "Long Side",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

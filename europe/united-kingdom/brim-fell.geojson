@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.12381,
+            54.37766
+        ]
+    },
+    "properties": {
+        "feet": 2611.54864,
+        "meters": 796.0,
+        "latitude": 54.37766,
+        "longitude": -3.12381,
+        "name": "Brim Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

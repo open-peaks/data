@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.01941,
+            54.57541
+        ]
+    },
+    "properties": {
+        "feet": 2811.67988,
+        "meters": 857.0,
+        "latitude": 54.57541,
+        "longitude": -3.01941,
+        "name": "Great Dodd",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.15588,
+            54.64159
+        ]
+    },
+    "properties": {
+        "feet": 2447.50664,
+        "meters": 746.0,
+        "latitude": 54.64159,
+        "longitude": -3.15588,
+        "name": "Carl Side",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

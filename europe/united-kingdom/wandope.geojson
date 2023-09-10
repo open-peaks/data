@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.25736,
+            54.56598
+        ]
+    },
+    "properties": {
+        "feet": 2532.80848,
+        "meters": 772.0,
+        "latitude": 54.56598,
+        "longitude": -3.25736,
+        "name": "Wandope",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

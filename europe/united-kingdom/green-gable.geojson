@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.21476,
+            54.48553
+        ]
+    },
+    "properties": {
+        "feet": 2627.95284,
+        "meters": 801.0,
+        "latitude": 54.48553,
+        "longitude": -3.21476,
+        "name": "Green Gable",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

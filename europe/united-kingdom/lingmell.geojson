@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.22178,
+            54.46209
+        ]
+    },
+    "properties": {
+        "feet": 2647.6378799999998,
+        "meters": 807.0,
+        "latitude": 54.46209,
+        "longitude": -3.22178,
+        "name": "Lingmell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

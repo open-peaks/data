@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.4513,
+            54.6831
+        ]
+    },
+    "properties": {
+        "feet": 2782.15232,
+        "meters": 848.0,
+        "latitude": 54.6831,
+        "longitude": -2.4513,
+        "name": "Little Dun Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

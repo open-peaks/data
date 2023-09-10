@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.26814,
+            54.51464
+        ]
+    },
+    "properties": {
+        "feet": 2440.94496,
+        "meters": 744.0,
+        "latitude": 54.51464,
+        "longitude": -3.26814,
+        "name": "High Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

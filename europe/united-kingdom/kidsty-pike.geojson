@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.85552,
+            54.50568
+        ]
+    },
+    "properties": {
+        "feet": 2559.0552,
+        "meters": 780.0,
+        "latitude": 54.50568,
+        "longitude": -2.85552,
+        "name": "Kidsty Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

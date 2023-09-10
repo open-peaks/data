@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.99297,
+            54.56934
+        ]
+    },
+    "properties": {
+        "feet": 1814.0,
+        "meters": 552.9071823069702,
+        "latitude": 54.56934,
+        "longitude": -2.99297,
+        "name": "Green Side",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

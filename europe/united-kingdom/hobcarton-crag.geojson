@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.241,
+            54.592
+        ]
+    },
+    "properties": {
+        "feet": 2595.14444,
+        "meters": 791.0,
+        "latitude": 54.592,
+        "longitude": -3.241,
+        "name": "Hobcarton Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

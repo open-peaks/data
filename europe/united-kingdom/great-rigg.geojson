@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.99709,
+            54.48483
+        ]
+    },
+    "properties": {
+        "feet": 2513.12344,
+        "meters": 766.0,
+        "latitude": 54.48483,
+        "longitude": -2.99709,
+        "name": "Great Rigg",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

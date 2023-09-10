@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.00909,
+            54.53326
+        ]
+    },
+    "properties": {
+        "feet": 2919.9476,
+        "meters": 890.0,
+        "latitude": 54.53326,
+        "longitude": -3.00909,
+        "name": "Catstycam",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

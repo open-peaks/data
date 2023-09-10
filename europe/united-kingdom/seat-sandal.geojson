@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.01585,
+            54.49456
+        ]
+    },
+    "properties": {
+        "feet": 2414.69824,
+        "meters": 736.0,
+        "latitude": 54.49456,
+        "longitude": -3.01585,
+        "name": "Seat Sandal",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

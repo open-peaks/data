@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.2998,
+            54.49004
+        ]
+    },
+    "properties": {
+        "feet": 2759.18644,
+        "meters": 841.0,
+        "latitude": 54.49004,
+        "longitude": -3.2998,
+        "name": "Black Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

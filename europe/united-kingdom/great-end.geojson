@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.19414,
-      54.4649
-    ]
-  },
-  "properties": {
-    "feet": 2985,
-    "meters": 910,
-    "latitude": 54.4649,
-    "longitude": -3.19414,
-    "name": "Great End",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.194,
+            54.464
+        ]
+    },
+    "properties": {
+        "feet": 2985.5644,
+        "meters": 910.0,
+        "latitude": 54.464,
+        "longitude": -3.194,
+        "name": "Great End",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.90133,
+            54.48198
+        ]
+    },
+    "properties": {
+        "feet": 2503.28092,
+        "meters": 763.0,
+        "latitude": 54.48198,
+        "longitude": -2.90133,
+        "name": "Stony Cove Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

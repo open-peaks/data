@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.19998,
+            54.45512
+        ]
+    },
+    "properties": {
+        "feet": 3067.5854,
+        "meters": 935.0,
+        "latitude": 54.45512,
+        "longitude": -3.19998,
+        "name": "Ill Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

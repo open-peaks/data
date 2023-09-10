@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.121662,
-      54.395151
-    ]
-  },
-  "properties": {
-    "feet": 2631,
-    "meters": 802,
-    "latitude": 54.395151,
-    "longitude": -3.121662,
-    "name": "Swirl How",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.12123,
+            54.39566
+        ]
+    },
+    "properties": {
+        "feet": 2632.6116328,
+        "meters": 802.42,
+        "latitude": 54.39566,
+        "longitude": -3.12123,
+        "name": "Swirl How",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

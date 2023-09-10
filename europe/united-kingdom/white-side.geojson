@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.02626,
+            54.5403
+        ]
+    },
+    "properties": {
+        "feet": 2831.36492,
+        "meters": 863.0,
+        "latitude": 54.5403,
+        "longitude": -3.02626,
+        "name": "White Side",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

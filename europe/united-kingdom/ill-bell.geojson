@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.87158,
+            54.46243
+        ]
+    },
+    "properties": {
+        "feet": 2483.59588,
+        "meters": 757.0,
+        "latitude": 54.46243,
+        "longitude": -2.87158,
+        "name": "Ill Bell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.05046,
+            54.63985
+        ]
+    },
+    "properties": {
+        "feet": 2847.76912,
+        "meters": 868.0,
+        "latitude": 54.63985,
+        "longitude": -3.05046,
+        "name": "Atkinson Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

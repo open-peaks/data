@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.16676,
-      54.4492
-    ]
-  },
-  "properties": {
-    "feet": 2959,
-    "meters": 902,
-    "latitude": 54.4492,
-    "longitude": -3.16676,
-    "name": "Bowfell",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.16582,
+            54.44737
+        ]
+    },
+    "properties": {
+        "feet": 2959.31768,
+        "meters": 902.0,
+        "latitude": 54.44737,
+        "longitude": -3.16582,
+        "name": "Bowfell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

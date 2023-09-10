@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.01646,
+            54.51882
+        ]
+    },
+    "properties": {
+        "feet": 2923.22844,
+        "meters": 891.0,
+        "latitude": 54.51882,
+        "longitude": -3.01646,
+        "name": "Nethermost Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

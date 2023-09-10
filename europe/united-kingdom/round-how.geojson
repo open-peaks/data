@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.194,
+            54.464
+        ]
+    },
+    "properties": {
+        "feet": 2985.5644,
+        "meters": 910.0,
+        "latitude": 54.464,
+        "longitude": -3.194,
+        "name": "Round How",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

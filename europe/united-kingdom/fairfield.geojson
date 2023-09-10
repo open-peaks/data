@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -2.99165,
-      54.4971
-    ]
-  },
-  "properties": {
-    "feet": 2864,
-    "meters": 873,
-    "latitude": 54.4971,
-    "longitude": -2.99165,
-    "name": "Fairfield",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.990594,
+            54.496883
+        ]
+    },
+    "properties": {
+        "feet": 2864.17332,
+        "meters": 873.0,
+        "latitude": 54.496883,
+        "longitude": -2.990594,
+        "name": "Fairfield",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

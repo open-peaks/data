@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.222942,
-      54.448385
-    ]
-  },
-  "properties": {
-    "feet": 3162,
-    "meters": 964,
-    "latitude": 54.448385,
-    "longitude": -3.222942,
-    "name": "Scafell",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.225,
+            54.448
+        ]
+    },
+    "properties": {
+        "feet": 3162.72976,
+        "meters": 964.0,
+        "latitude": 54.448,
+        "longitude": -3.225,
+        "name": "Scafell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.86173,
+            54.50744
+        ]
+    },
+    "properties": {
+        "feet": 2598.42528,
+        "meters": 792.0,
+        "latitude": 54.50744,
+        "longitude": -2.86173,
+        "name": "Rampsgill Head",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

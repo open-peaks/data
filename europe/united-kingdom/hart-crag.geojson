@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -2.975836,
-      54.492527
-    ]
-  },
-  "properties": {
-    "feet": 2698,
-    "meters": 822,
-    "latitude": 54.492527,
-    "longitude": -2.975836,
-    "name": "Hart Crag",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.97722,
+            54.49308
+        ]
+    },
+    "properties": {
+        "feet": 2696.85048,
+        "meters": 822.0,
+        "latitude": 54.49308,
+        "longitude": -2.97722,
+        "name": "Hart Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

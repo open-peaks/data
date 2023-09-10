@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.17831,
-      54.456468
-    ]
-  },
-  "properties": {
-    "feet": 2903,
-    "meters": 885,
-    "latitude": 54.456468,
-    "longitude": -3.17831,
-    "name": "Esk Pike",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.17995,
+            54.45622
+        ]
+    },
+    "properties": {
+        "feet": 2903.5434,
+        "meters": 885.0,
+        "latitude": 54.45622,
+        "longitude": -3.17995,
+        "name": "Esk Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

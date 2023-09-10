@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.97615,
+            54.51286
+        ]
+    },
+    "properties": {
+        "feet": 2759.18644,
+        "meters": 841.0,
+        "latitude": 54.51286,
+        "longitude": -2.97615,
+        "name": "St Sunday Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

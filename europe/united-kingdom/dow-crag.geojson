@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.13744,
+            54.36944
+        ]
+    },
+    "properties": {
+        "feet": 2552.49352,
+        "meters": 778.0,
+        "latitude": 54.36944,
+        "longitude": -3.13744,
+        "name": "Dow Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

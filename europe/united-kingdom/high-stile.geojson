@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.285599,
-      54.520683
-    ]
-  },
-  "properties": {
-    "feet": 2648,
-    "meters": 807,
-    "latitude": 54.520683,
-    "longitude": -3.285599,
-    "name": "High Stile",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.28381,
+            54.52167
+        ]
+    },
+    "properties": {
+        "feet": 2647.6378799999998,
+        "meters": 807.0,
+        "latitude": 54.52167,
+        "longitude": -3.28381,
+        "name": "High Stile",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.016054,
+            54.527232
+        ]
+    },
+    "properties": {
+        "feet": 3116.798,
+        "meters": 950.0,
+        "latitude": 54.527232,
+        "longitude": -3.016054,
+        "name": "Helvellyn Lower Man",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

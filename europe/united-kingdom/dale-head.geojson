@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.202,
-      54.527159
-    ]
-  },
-  "properties": {
-    "feet": 2471,
-    "meters": 753,
-    "latitude": 54.527159,
-    "longitude": -3.202,
-    "name": "Dale Head",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.20208,
+            54.527
+        ]
+    },
+    "properties": {
+        "feet": 2470.47252,
+        "meters": 753.0,
+        "latitude": 54.527,
+        "longitude": -3.20208,
+        "name": "Dale Head",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

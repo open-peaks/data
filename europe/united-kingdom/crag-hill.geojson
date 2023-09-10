@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.25,
+            54.572
+        ]
+    },
+    "properties": {
+        "feet": 2752.62476,
+        "meters": 839.0,
+        "latitude": 54.572,
+        "longitude": -3.25,
+        "name": "Crag Hill",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

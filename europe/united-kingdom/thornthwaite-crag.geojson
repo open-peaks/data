@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.8782,
+            54.48305
+        ]
+    },
+    "properties": {
+        "feet": 2572.17856,
+        "meters": 784.0,
+        "latitude": 54.48305,
+        "longitude": -2.8782,
+        "name": "Thornthwaite Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.147755,
-      54.648909
-    ]
-  },
-  "properties": {
-    "feet": 3054,
-    "meters": 931,
-    "latitude": 54.648909,
-    "longitude": -3.147755,
-    "name": "Skiddaw",
-    "regions": [
-      "United Kingdom, Ireland, & Iceland",
-      "Lake District"
-    ],
-    "countries": [
-      "United Kingdom"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.146,
+            54.647
+        ]
+    },
+    "properties": {
+        "feet": 3054.46204,
+        "meters": 931.0,
+        "latitude": 54.647,
+        "longitude": -3.146,
+        "name": "Skiddaw",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }
