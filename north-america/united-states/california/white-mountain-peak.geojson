@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.25583333333333,
-            37.634166666666665
+            -118.255655789,
+            37.634094761
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.634166666666665,
-        "longitude": -118.25583333333333,
+        "feet": 14252.0,
+        "meters": 4344.009460991697,
+        "latitude": 37.634094761,
+        "longitude": -118.255655789,
         "name": "White Mountain Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

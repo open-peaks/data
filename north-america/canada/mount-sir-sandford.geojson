@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.8675,
-            51.6567
+            -117.86778,
+            51.65667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.6567,
-        "longitude": -117.8675,
+        "feet": 11545.275959999999,
+        "meters": 3519.0,
+        "latitude": 51.65667,
+        "longitude": -117.86778,
         "name": "Mount Sir Sandford",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

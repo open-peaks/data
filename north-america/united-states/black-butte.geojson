@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.855,
-            44.9042
+            -121.6356,
+            44.3997
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 44.9042,
-        "longitude": -111.855,
+        "latitude": 44.3997,
+        "longitude": -121.6356,
         "name": "Black Butte",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Montana"
+            "Oregon"
         ]
     }
 }

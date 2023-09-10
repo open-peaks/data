@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -132.0856,
-            53.0192
+            -132.08556,
+            53.01917
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.0192,
-        "longitude": -132.0856,
+        "feet": 3818.89776,
+        "meters": 1164.0,
+        "latitude": 53.01917,
+        "longitude": -132.08556,
         "name": "Mount Moresby",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
     }
 }

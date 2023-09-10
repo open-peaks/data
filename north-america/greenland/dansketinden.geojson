@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -24.9511,
-            72.1261
+            -24.95528,
+            72.12639
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 72.1261,
-        "longitude": -24.9511,
+        "feet": 9324.14728,
+        "meters": 2842.0,
+        "latitude": 72.12639,
+        "longitude": -24.95528,
         "name": "Dansketinden",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -98.6414,
-            19.1803
+            -98.64167,
+            19.17889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.1803,
-        "longitude": -98.6414,
+        "feet": 17158.7932,
+        "meters": 5230.0,
+        "latitude": 19.17889,
+        "longitude": -98.64167,
         "name": "Iztacc\u00edhuatl",
-        "regions": [],
         "countries": [
             "Mexico"
         ],

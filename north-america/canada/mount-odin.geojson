@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -65.4289,
-            66.5467
+            -65.42889,
+            66.54694
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 66.5467,
-        "longitude": -65.4289,
+        "feet": 7043.96348,
+        "meters": 2147.0,
+        "latitude": 66.54694,
+        "longitude": -65.42889,
         "name": "Mount Odin",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

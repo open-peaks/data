@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.9578,
+            -117.95778,
             52.2475
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 12020.99776,
+        "meters": 3664.0,
         "latitude": 52.2475,
-        "longitude": -117.9578,
+        "longitude": -117.95778,
         "name": "Mount Clemenceau",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

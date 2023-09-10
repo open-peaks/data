@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.44250000000001,
-            42.268055555555556
+            -105.44194,
+            42.26778
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 42.268055555555556,
-        "longitude": -105.44250000000001,
+        "feet": 10275.0,
+        "meters": 3131.819899781763,
+        "latitude": 42.26778,
+        "longitude": -105.44194,
         "name": "Laramie Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -131.485,
+            -131.485277,
             57.395
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 9688.32052,
+        "meters": 2953.0,
         "latitude": 57.395,
-        "longitude": -131.485,
+        "longitude": -131.485277,
         "name": "Ambition Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

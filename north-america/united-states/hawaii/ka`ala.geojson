@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -158.14278,
+            21.50694
+        ]
+    },
+    "properties": {
+        "feet": 4025.0,
+        "meters": 1226.8199607417612,
+        "latitude": 21.50694,
+        "longitude": -158.14278,
+        "name": "Ka\u02bbala",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Hawaii"
+        ]
+    }
+}

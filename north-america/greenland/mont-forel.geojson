@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -36.7872,
-            66.9353
+            -36.7875,
+            66.935
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 66.9353,
-        "longitude": -36.7872,
+        "feet": 11099.08172,
+        "meters": 3383.0,
+        "latitude": 66.935,
+        "longitude": -36.7875,
         "name": "Mont Forel",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.65027777777779,
-            40.02638888888889
+            -105.65035,
+            40.026524
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.02638888888889,
-        "longitude": -105.65027777777779,
+        "feet": 13508.0,
+        "meters": 4117.238268248376,
+        "latitude": 40.026524,
+        "longitude": -105.65035,
         "name": "North Arapaho Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

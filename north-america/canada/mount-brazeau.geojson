@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.355,
-            52.5514
+            -117.35472,
+            52.55111
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.5514,
-        "longitude": -117.355,
+        "feet": 11384.5148,
+        "meters": 3470.0,
+        "latitude": 52.55111,
+        "longitude": -117.35472,
         "name": "Mount Brazeau",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

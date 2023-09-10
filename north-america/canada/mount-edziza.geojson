@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -130.6344,
-            57.7156
+            -130.63472,
+            57.71556
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 57.7156,
-        "longitude": -130.6344,
+        "feet": 9120.7352,
+        "meters": 2780.0,
+        "latitude": 57.71556,
+        "longitude": -130.63472,
         "name": "Mount Edziza",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -4,21 +4,20 @@
         "type": "Point",
         "coordinates": [
             -123.79,
-            50.9925
+            50.99167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.9925,
+        "feet": 10439.63288,
+        "meters": 3182.0,
+        "latitude": 50.99167,
         "longitude": -123.79,
         "name": "Monmouth Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

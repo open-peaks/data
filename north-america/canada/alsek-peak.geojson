@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -137.5914,
+            -137.59139,
             60.0325
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 8910.76144,
+        "meters": 2716.0,
         "latitude": 60.0325,
-        "longitude": -137.5914,
+        "longitude": -137.59139,
         "name": "Alsek Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

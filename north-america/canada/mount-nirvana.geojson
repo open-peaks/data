@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -127.6808,
-            61.8753
+            -127.68028,
+            61.87472
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.8753,
-        "longitude": -127.6808,
+        "feet": 9097.76932,
+        "meters": 2773.0,
+        "latitude": 61.87472,
+        "longitude": -127.68028,
         "name": "Mount Nirvana",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

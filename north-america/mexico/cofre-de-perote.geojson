@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -97.1481,
-            19.4939
+            -97.15,
+            19.492
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.4939,
-        "longitude": -97.1481,
+        "feet": 14048.55688,
+        "meters": 4282.0,
+        "latitude": 19.492,
+        "longitude": -97.15,
         "name": "Cofre de Perote",
-        "regions": [],
         "countries": [
             "Mexico"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-symbol": "triangle",
+        "states": [
+            "Veracruz"
+        ]
     }
 }

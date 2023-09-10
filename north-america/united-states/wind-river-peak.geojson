@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.1283,
-            42.7086
+            -109.12806,
+            42.70861
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 42.7086,
-        "longitude": -109.1283,
+        "feet": 13197.0,
+        "meters": 4022.445471281745,
+        "latitude": 42.70861,
+        "longitude": -109.12806,
         "name": "Wind River Peak",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

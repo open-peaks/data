@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -115.2069,
-            50.5286
+            -115.20667,
+            50.52806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.5286,
-        "longitude": -115.2069,
+        "feet": 11318.898,
+        "meters": 3450.0,
+        "latitude": 50.52806,
+        "longitude": -115.20667,
         "name": "Mount Joffre",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.9625,
-            36.7075
+            -117.962338,
+            36.7075305
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.7075,
-        "longitude": -117.9625,
+        "feet": 11105.0,
+        "meters": 3384.8038916862756,
+        "latitude": 36.7075305,
+        "longitude": -117.962338,
         "name": "Keynot Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

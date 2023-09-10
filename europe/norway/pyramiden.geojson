@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            null,
+            null
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": null,
+        "longitude": null,
+        "name": "Pyramiden",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": null,
+        "marker-symbol": "triangle"
+    }
+}

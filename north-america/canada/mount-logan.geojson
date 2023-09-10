@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.4056,
-            60.5672
+            -140.40528,
+            60.56722
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.5672,
-        "longitude": -140.4056,
+        "feet": 19550.52556,
+        "meters": 5959.0,
+        "latitude": 60.56722,
+        "longitude": -140.40528,
         "name": "Mount Logan",
-        "regions": [],
         "countries": [
             "Canada"
         ],

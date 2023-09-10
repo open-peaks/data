@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.32583333333334,
-            33.68444444444444
+            -111.325686994,
+            33.684357033
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.68444444444444,
-        "longitude": -111.32583333333334,
+        "feet": 7659.0,
+        "meters": 2334.46312529718,
+        "latitude": 33.684357033,
+        "longitude": -111.325686994,
         "name": "Browns Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Arizona"
+        "states": [
+            "Arizona"
+        ]
     }
 }

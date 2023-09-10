@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -104.92,
-            37.39333333333333
+            -104.9200632,
+            37.393404
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.39333333333333,
-        "longitude": -104.92,
+        "feet": 12688.0,
+        "meters": 3867.302276246327,
+        "latitude": 37.393404,
+        "longitude": -104.9200632,
         "name": "East Spanish Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

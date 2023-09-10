@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -65.9483,
-            48.9878
+            -65.9425,
+            48.99056
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.9878,
-        "longitude": -65.9483,
+        "feet": 4160.10512,
+        "meters": 1268.0,
+        "latitude": 48.99056,
+        "longitude": -65.9425,
         "name": "Mont Jacques-Cartier",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Quebec"
+        ]
     }
 }

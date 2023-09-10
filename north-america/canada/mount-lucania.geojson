@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.4661,
-            61.0214
+            -140.4655556,
+            61.0233333
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.0214,
-        "longitude": -140.4661,
+        "feet": 17191.601599999998,
+        "meters": 5240.0,
+        "latitude": 61.0233333,
+        "longitude": -140.4655556,
         "name": "Mount Lucania",
-        "regions": [],
         "countries": [
             "Canada"
         ],

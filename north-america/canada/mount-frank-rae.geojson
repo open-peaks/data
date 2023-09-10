@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -138.5553,
-            64.4706
+            -138.555,
+            64.47028
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 64.4706,
-        "longitude": -138.5553,
+        "feet": 7742.7824,
+        "meters": 2360.0,
+        "latitude": 64.47028,
+        "longitude": -138.555,
         "name": "Mount Frank Rae",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

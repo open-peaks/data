@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.80444444444444,
-            39.72027777777778
+            -105.8038971,
+            39.7202648
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.72027777777778,
-        "longitude": -105.80444444444444,
+        "feet": 13647.0,
+        "meters": 4159.605466892625,
+        "latitude": 39.7202648,
+        "longitude": -105.8038971,
         "name": "Bard Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

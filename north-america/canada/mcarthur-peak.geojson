@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.2144,
-            60.6069
+            -140.21361,
+            60.60639
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.6069,
-        "longitude": -140.2144,
+        "feet": 14251.96896,
+        "meters": 4344.0,
+        "latitude": 60.60639,
+        "longitude": -140.21361,
         "name": "McArthur Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],

@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -99.7678,
-            19.1019
+            -99.7675,
+            19.10167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.1019,
-        "longitude": -99.7678,
+        "feet": 15354.3312,
+        "meters": 4680.0,
+        "latitude": 19.10167,
+        "longitude": -99.7675,
         "name": "Nevado de Toluca",
-        "regions": [],
         "countries": [
             "Mexico"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-symbol": "triangle",
+        "states": [
+            "M\u00e9xico"
+        ]
     }
 }

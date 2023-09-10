@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -83.4889,
-            9.4842
+            -83.488667,
+            9.484083
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 9.4842,
-        "longitude": -83.4889,
+        "feet": 12536.08964,
+        "meters": 3821.0,
+        "latitude": 9.484083,
+        "longitude": -83.488667,
         "name": "Chirrip\u00f3 Grande",
-        "regions": [],
         "countries": [
             "Costa Rica"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -139.18916666666667,
-            60.06805555555556
+            -139.19833,
+            60.08861
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.06805555555556,
-        "longitude": -139.18916666666667,
+        "feet": 10350.0,
+        "meters": 3154.6798990502434,
+        "latitude": 60.08861,
+        "longitude": -139.19833,
         "name": "Mount Seattle",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

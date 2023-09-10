@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.7556,
-            38.5436
+            -114.5786,
+            37.8939
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 38.5436,
-        "longitude": -119.7556,
+        "latitude": 37.8939,
+        "longitude": -114.5786,
         "name": "Highland Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "California"
+            "Nevada"
         ]
     }
 }

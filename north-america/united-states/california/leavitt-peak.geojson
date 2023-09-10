@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.65138888888889,
-            38.28611111111111
+            -119.651263039,
+            38.286192556
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.28611111111111,
-        "longitude": -119.65138888888889,
+        "feet": 11573.0,
+        "meters": 3527.450287121591,
+        "latitude": 38.286192556,
+        "longitude": -119.651263039,
         "name": "Leavitt Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

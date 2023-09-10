@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -110.8025,
-            43.7411
+            -110.802413942,
+            43.741207756
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.7411,
-        "longitude": -110.8025,
+        "feet": 13775.0,
+        "meters": 4198.619865644165,
+        "latitude": 43.741207756,
+        "longitude": -110.802413942,
         "name": "Grand Teton",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

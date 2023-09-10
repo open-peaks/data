@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -128.2319,
-            54.9678
+            -128.23216,
+            54.96737
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 54.9678,
-        "longitude": -128.2319,
+        "feet": 9012.46748,
+        "meters": 2747.0,
+        "latitude": 54.96737,
+        "longitude": -128.23216,
         "name": "Seven Sisters Peaks",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

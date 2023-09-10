@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -159.49667,
+            22.05667
+        ]
+    },
+    "properties": {
+        "feet": 5243.0,
+        "meters": 1598.0663488618768,
+        "latitude": 22.05667,
+        "longitude": -159.49667,
+        "name": "Kawaikini",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

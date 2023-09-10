@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.49777777777778,
-            39.23833333333334
+            -105.4978115,
+            39.2383526
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.23833333333334,
-        "longitude": -105.49777777777778,
+        "feet": 12432.0,
+        "meters": 3789.2734787432487,
+        "latitude": 39.2383526,
+        "longitude": -105.4978115,
         "name": "Bison Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

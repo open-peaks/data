@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -83.1572,
-            64.7403
+            -83.60222,
+            64.83028
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 64.7403,
-        "longitude": -83.1572,
+        "feet": 2004.59324,
+        "meters": 611.0,
+        "latitude": 64.83028,
+        "longitude": -83.60222,
         "name": "Mathiassen Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

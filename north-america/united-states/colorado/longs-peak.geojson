@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.615,
-            40.255
+            -105.6151153,
+            40.2550135
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.255,
-        "longitude": -105.615,
+        "feet": 14259.0,
+        "meters": 4346.143060923422,
+        "latitude": 40.2550135,
+        "longitude": -105.6151153,
         "name": "Longs Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

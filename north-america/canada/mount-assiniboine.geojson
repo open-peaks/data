@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -115.6508,
-            50.8697
+            -115.65083,
+            50.86944
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.8697,
-        "longitude": -115.6508,
+        "feet": 11870.07912,
+        "meters": 3618.0,
+        "latitude": 50.86944,
+        "longitude": -115.65083,
         "name": "Mount Assiniboine",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

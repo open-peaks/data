@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -113.7225,
-            48.6006
+            -106.5367,
+            39.4853
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 48.6006,
-        "longitude": -113.7225,
+        "latitude": 39.4853,
+        "longitude": -106.5367,
         "name": "Mount Jackson",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Montana"
+            "Colorado"
         ]
     }
 }

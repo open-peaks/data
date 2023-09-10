@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.4172,
-            53.3972
+            -119.4175,
+            53.39694
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.3972,
-        "longitude": -119.4172,
+        "feet": 10879.26544,
+        "meters": 3316.0,
+        "latitude": 53.39694,
+        "longitude": -119.4175,
         "name": "Mount Chown",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

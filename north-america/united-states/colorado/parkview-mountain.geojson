@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.1363888888889,
-            40.33027777777778
+            -106.1362661,
+            40.3303237
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.33027777777778,
-        "longitude": -106.1363888888889,
+        "feet": 12301.0,
+        "meters": 3749.3446800209704,
+        "latitude": 40.3303237,
+        "longitude": -106.1362661,
         "name": "Parkview Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

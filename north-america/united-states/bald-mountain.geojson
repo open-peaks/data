@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -114.3442,
-            44.3672
+            -105.9706,
+            39.4447
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 44.3672,
-        "longitude": -114.3442,
+        "latitude": 39.4447,
+        "longitude": -105.9706,
         "name": "Bald Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Colorado"
         ]
     }
 }

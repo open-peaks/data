@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.42583333333334,
-            33.52361111111111
+            -116.4255689,
+            33.5233623
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.52361111111111,
-        "longitude": -116.42583333333334,
+        "feet": 8717.0,
+        "meters": 2656.9415149778715,
+        "latitude": 33.5233623,
+        "longitude": -116.4255689,
         "name": "Toro Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

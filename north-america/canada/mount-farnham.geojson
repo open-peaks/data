@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.4872,
-            50.4889
+            -116.486944,
+            50.488889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.4889,
-        "longitude": -116.4872,
+        "feet": 11459.97412,
+        "meters": 3493.0,
+        "latitude": 50.488889,
+        "longitude": -116.486944,
         "name": "Mount Farnham",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

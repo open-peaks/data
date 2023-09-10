@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -112.9544,
-            43.9375
+            -109.9839,
+            44.7106
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 43.9375,
-        "longitude": -112.9544,
+        "latitude": 44.7106,
+        "longitude": -109.9839,
         "name": "Saddle Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Wyoming"
         ]
     }
 }

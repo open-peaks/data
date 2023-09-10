@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.8175,
-            39.63388888888889
+            -105.8175704,
+            39.6338834
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.63388888888889,
-        "longitude": -105.8175,
+        "feet": 14278.0,
+        "meters": 4351.934260738104,
+        "latitude": 39.6338834,
+        "longitude": -105.8175704,
         "name": "Grays Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

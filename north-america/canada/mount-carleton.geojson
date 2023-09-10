@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -66.8761,
-            47.3781
+            -66.87583,
+            47.37806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 47.3781,
-        "longitude": -66.8761,
+        "feet": 2690.2888,
+        "meters": 820.0,
+        "latitude": 47.37806,
+        "longitude": -66.87583,
         "name": "Mount Carleton",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "New Brunswick"
+        ]
     }
 }

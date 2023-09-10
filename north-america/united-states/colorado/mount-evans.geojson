@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.6438888888889,
-            39.58833333333334
+            -105.6438064,
+            39.5883155
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.58833333333334,
-        "longitude": -105.6438888888889,
+        "feet": 14267.0,
+        "meters": 4348.581460845393,
+        "latitude": 39.5883155,
+        "longitude": -105.6438064,
         "name": "Mount Evans",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

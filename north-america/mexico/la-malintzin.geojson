@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -98.0322,
-            19.2311
+            -98.03194,
+            19.23083
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.2311,
-        "longitude": -98.0322,
+        "feet": 14635.82724,
+        "meters": 4461.0,
+        "latitude": 19.23083,
+        "longitude": -98.03194,
         "name": "La Malintzin",
-        "regions": [],
         "countries": [
             "Mexico"
         ],

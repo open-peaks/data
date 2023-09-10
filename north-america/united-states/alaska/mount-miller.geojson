@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -142.3011111111111,
-            60.46055555555556
+            -142.301174,
+            60.46051
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.46055555555556,
-        "longitude": -142.3011111111111,
+        "feet": 10700.0,
+        "meters": 3261.3598956364835,
+        "latitude": 60.46051,
+        "longitude": -142.301174,
         "name": "Mount Miller",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

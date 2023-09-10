@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -44.5292,
-            60.1364
+            -44.52889,
+            60.13556
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.1364,
-        "longitude": -44.5292,
+        "feet": 5720.800708,
+        "meters": 1743.7,
+        "latitude": 60.13556,
+        "longitude": -44.52889,
         "name": "Agdleruussakasit",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

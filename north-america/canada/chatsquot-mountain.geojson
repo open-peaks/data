@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -127.4772,
-            53.1422
+            -127.47722,
+            53.14222
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.1422,
-        "longitude": -127.4772,
+        "feet": 7759.1866,
+        "meters": 2365.0,
+        "latitude": 53.14222,
+        "longitude": -127.47722,
         "name": "Chatsquot Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

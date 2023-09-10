@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -141.74944444444444,
-            61.385555555555555
+            -141.74861,
+            61.38556
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.385555555555555,
-        "longitude": -141.74944444444444,
+        "feet": 16550.0,
+        "meters": 5044.439838577925,
+        "latitude": 61.38556,
+        "longitude": -141.74861,
         "name": "Mount Bona",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

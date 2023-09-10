@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.58639,
+            20.89056
+        ]
+    },
+    "properties": {
+        "feet": 5788.0,
+        "meters": 1764.182343546165,
+        "latitude": 20.89056,
+        "longitude": -156.58639,
+        "name": "Pu\u02bbu Kukui",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

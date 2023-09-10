@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.4506,
-            45.2783
+            -117.4944,
+            38.0244
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 45.2783,
-        "longitude": -111.4506,
+        "latitude": 38.0244,
+        "longitude": -117.4944,
         "name": "Lone Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Montana"
+            "Nevada"
         ]
     }
 }

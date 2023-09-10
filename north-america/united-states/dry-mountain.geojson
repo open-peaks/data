@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.5978,
-            36.9089
+            -111.7317,
+            39.9406
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 36.9089,
-        "longitude": -117.5978,
+        "latitude": 39.9406,
+        "longitude": -111.7317,
         "name": "Dry Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "California"
+            "Utah"
         ]
     }
 }

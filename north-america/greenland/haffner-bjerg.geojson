@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -62.3453,
-            76.3425
+            -62.345347,
+            76.34265
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 76.3425,
-        "longitude": -62.3453,
+        "feet": 4865.48572,
+        "meters": 1483.0,
+        "latitude": 76.34265,
+        "longitude": -62.345347,
         "name": "Haffner Bjerg",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

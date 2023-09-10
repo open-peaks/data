@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.9888888888889,
-            39.07083333333334
+            -106.9889921,
+            39.0708492
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.07083333333334,
-        "longitude": -106.9888888888889,
+        "feet": 14163.38628,
+        "meters": 4317.0,
+        "latitude": 39.0708492,
+        "longitude": -106.9889921,
         "name": "Maroon Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

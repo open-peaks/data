@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.29194444444444,
-            36.578611111111115
+            -118.29199495,
+            36.578580925
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.578611111111115,
-        "longitude": -118.29194444444444,
+        "feet": 14505.0,
+        "meters": 4421.123858524036,
+        "latitude": 36.578580925,
+        "longitude": -118.29199495,
         "name": "Mount Whitney",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

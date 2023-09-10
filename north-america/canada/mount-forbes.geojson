@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.9317,
-            51.86
+            -116.93167,
+            51.85972
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.86,
-        "longitude": -116.9317,
+        "feet": 11850.39408,
+        "meters": 3612.0,
+        "latitude": 51.85972,
+        "longitude": -116.93167,
         "name": "Mount Forbes",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

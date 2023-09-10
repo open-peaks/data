@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.81444444444445,
-            48.776666666666664
+            -121.8144732,
+            48.7766298
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.776666666666664,
-        "longitude": -121.81444444444445,
+        "feet": 10786.0,
+        "meters": 3287.5726947976736,
+        "latitude": 48.7766298,
+        "longitude": -121.8144732,
         "name": "Mount Baker",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Washington"
+        "states": [
+            "Washington"
+        ]
     }
 }

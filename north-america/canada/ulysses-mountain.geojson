@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -124.0928,
-            57.3464
+            -124.09278,
+            57.34639
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 57.3464,
-        "longitude": -124.0928,
+        "feet": 9921.26016,
+        "meters": 3024.0,
+        "latitude": 57.34639,
+        "longitude": -124.09278,
         "name": "Ulysses Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

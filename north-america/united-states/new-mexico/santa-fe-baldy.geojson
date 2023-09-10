@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.75805555555556,
-            35.83222222222223
+            -105.758073833,
+            35.832199494
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.83222222222223,
-        "longitude": -105.75805555555556,
+        "feet": 12632.0,
+        "meters": 3850.2334767925286,
+        "latitude": 35.832199494,
+        "longitude": -105.758073833,
         "name": "Santa Fe Baldy",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "New Mexico"
+        "states": [
+            "New Mexico"
+        ]
     }
 }

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      22.35,
-      40.0833
-    ]
-  },
-  "properties": {
-    "feet": 9570,
-    "meters": 2917,
-    "latitude": 40.0833,
-    "longitude": 22.35,
-    "name": "Mount Olympus",
-    "regions": [
-      "Balkan Peninsula",
-      "Greek-Albanian Ranges"
-    ],
-    "countries": [
-      "Greece"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.35861,
+            40.08556
+        ]
+    },
+    "properties": {
+        "feet": 9572.595450679999,
+        "meters": 2917.727,
+        "latitude": 40.08556,
+        "longitude": 22.35861,
+        "name": "Mount Olympus",
+        "countries": [
+            "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

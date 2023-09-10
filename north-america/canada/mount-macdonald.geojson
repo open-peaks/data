@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -132.7781,
-            64.7256
+            -117.47167,
+            51.30833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 64.7256,
-        "longitude": -132.7781,
+        "feet": 9458.66172,
+        "meters": 2883.0,
+        "latitude": 51.30833,
+        "longitude": -117.47167,
         "name": "Mount Macdonald",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

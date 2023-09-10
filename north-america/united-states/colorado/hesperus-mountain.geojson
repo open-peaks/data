@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.08888888888889,
-            37.44499999999999
+            -108.0889642,
+            37.4449971
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.44499999999999,
-        "longitude": -108.08888888888889,
+        "feet": 13237.0,
+        "meters": 4034.637470891601,
+        "latitude": 37.4449971,
+        "longitude": -108.0889642,
         "name": "Hesperus Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

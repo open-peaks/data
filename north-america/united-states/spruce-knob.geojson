@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -79.5328,
-            38.7
+            -79.53278,
+            38.69972
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.7,
-        "longitude": -79.5328,
+        "feet": 4863.0,
+        "meters": 1482.2423525682448,
+        "latitude": 38.69972,
+        "longitude": -79.53278,
         "name": "Spruce Knob",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "West Virginia"
-        ]
+        "marker-symbol": "triangle"
     }
 }

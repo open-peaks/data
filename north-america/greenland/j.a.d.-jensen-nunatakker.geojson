@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -48.8483,
-            62.7919
+            -48.917,
+            62.817
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 62.7919,
-        "longitude": -48.8483,
+        "feet": 5469.16028,
+        "meters": 1667.0,
+        "latitude": 62.817,
+        "longitude": -48.917,
         "name": "J.A.D. Jensen Nunatakker",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

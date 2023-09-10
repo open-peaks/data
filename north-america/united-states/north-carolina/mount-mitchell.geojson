@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -82.265,
-            35.765
+            -82.2651221,
+            35.764839
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.765,
-        "longitude": -82.265,
+        "feet": 6684.0,
+        "meters": 2037.2831348069396,
+        "latitude": 35.764839,
+        "longitude": -82.2651221,
         "name": "Mount Mitchell",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "North Carolina"
+        "states": [
+            "North Carolina"
+        ]
     }
 }

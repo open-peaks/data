@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -139.872,
+            64.675
+        ]
+    },
+    "properties": {
+        "feet": 6053.1498,
+        "meters": 1845.0,
+        "latitude": 64.675,
+        "longitude": -139.872,
+        "name": "Mount Harper",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

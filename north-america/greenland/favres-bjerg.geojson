@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -23.2,
-            73.95
+            -23.295,
+            73.9383
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 73.95,
-        "longitude": -23.2,
+        "feet": 6233.596,
+        "meters": 1900.0,
+        "latitude": 73.9383,
+        "longitude": -23.295,
         "name": "Favres Bjerg",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

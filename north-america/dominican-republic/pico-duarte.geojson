@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -70.9978,
-            19.0231
+            -70.99806,
+            19.02306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.0231,
-        "longitude": -70.9978,
+        "feet": 10173.88484,
+        "meters": 3101.0,
+        "latitude": 19.02306,
+        "longitude": -70.99806,
         "name": "Pico Duarte",
-        "regions": [],
         "countries": [
             "Dominican Republic"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

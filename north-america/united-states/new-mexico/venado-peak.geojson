@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.49333333333334,
-            36.791666666666664
+            -105.4933387,
+            36.7916939
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.791666666666664,
-        "longitude": -105.49333333333334,
+        "feet": 12739.0,
+        "meters": 3882.8470757488935,
+        "latitude": 36.7916939,
+        "longitude": -105.4933387,
         "name": "Venado Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "New Mexico"
+        "states": [
+            "New Mexico"
+        ]
     }
 }

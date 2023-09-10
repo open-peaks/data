@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -120.3869,
-            53.9361
+            -120.386389,
+            53.935833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.9361,
-        "longitude": -120.3869,
+        "feet": 10744.751,
+        "meters": 3275.0,
+        "latitude": 53.935833,
+        "longitude": -120.386389,
         "name": "Mount Sir Alexander",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

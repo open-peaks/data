@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.7314,
-            52.8014
+            -119.73167,
+            52.80139
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.8014,
-        "longitude": -119.7314,
+        "feet": 11535.43344,
+        "meters": 3516.0,
+        "latitude": 52.80139,
+        "longitude": -119.73167,
         "name": "Mount Sir Wilfrid Laurier",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

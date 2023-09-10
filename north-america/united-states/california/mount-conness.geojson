@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.32138888888889,
-            37.966944444444444
+            -119.321287011,
+            37.967040447
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.966944444444444,
-        "longitude": -119.32138888888889,
+        "feet": 12590.0,
+        "meters": 3837.4318772021797,
+        "latitude": 37.967040447,
+        "longitude": -119.321287011,
         "name": "Mount Conness",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

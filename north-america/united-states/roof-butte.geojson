@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.0931,
-            36.4603
+            -109.096319086,
+            36.461408697
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.4603,
-        "longitude": -109.0931,
+        "feet": 9787.0,
+        "meters": 2983.07750454152,
+        "latitude": 36.461408697,
+        "longitude": -109.096319086,
         "name": "Roof Butte",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Arizona"
-        ]
+        "marker-symbol": "triangle"
     }
 }

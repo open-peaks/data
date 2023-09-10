@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -23.875,
-            77.9328
+            -24.0,
+            78.0
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 77.9328,
-        "longitude": -23.875,
+        "feet": 4986.8768,
+        "meters": 1520.0,
+        "latitude": 78.0,
+        "longitude": -24.0,
         "name": "Alabama Nunatak",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.2228,
-            36.8336
+            -105.2227735,
+            36.8334591
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.8336,
-        "longitude": -105.2228,
+        "feet": 12589.0,
+        "meters": 3837.1270772119337,
+        "latitude": 36.8334591,
+        "longitude": -105.2227735,
         "name": "Little Costilla Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "New Mexico"
-        ]
+        "marker-symbol": "triangle"
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.33916666666666,
-            43.96138888888889
+            -109.33083,
+            43.96139
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.96138888888889,
-        "longitude": -109.33916666666666,
+        "feet": 13158.0,
+        "meters": 4010.558271662135,
+        "latitude": 43.96139,
+        "longitude": -109.33083,
         "name": "Francs Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

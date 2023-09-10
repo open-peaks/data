@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -110.62388888888889,
-            42.60416666666667
+            -110.62444,
+            42.60444
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 42.60416666666667,
-        "longitude": -110.62388888888889,
+        "feet": 11383.0,
+        "meters": 3469.538288974775,
+        "latitude": 42.60444,
+        "longitude": -110.62444,
         "name": "Wyoming Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

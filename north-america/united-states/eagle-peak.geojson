@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -120.2008,
-            41.2836
+            -110.0267,
+            44.3203
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 41.2836,
-        "longitude": -120.2008,
+        "latitude": 44.3203,
+        "longitude": -110.0267,
         "name": "Eagle Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "California"
+            "Wyoming"
         ]
     }
 }

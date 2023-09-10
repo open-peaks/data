@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -124.1719,
+            -124.17167,
             51.1425
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 10636.48328,
+        "meters": 3242.0,
         "latitude": 51.1425,
-        "longitude": -124.1719,
+        "longitude": -124.17167,
         "name": "Good Hope Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

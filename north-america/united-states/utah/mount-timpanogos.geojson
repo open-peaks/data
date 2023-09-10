@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.64583333333334,
-            40.39083333333333
+            -111.645947125,
+            40.390838842
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.39083333333333,
-        "longitude": -111.64583333333334,
+        "feet": 11753.0,
+        "meters": 3582.314285365943,
+        "latitude": 40.390838842,
+        "longitude": -111.645947125,
         "name": "Mount Timpanogos",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Utah"
+        "states": [
+            "Utah"
+        ]
     }
 }

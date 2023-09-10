@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -123.8642,
-            51.3842
+            -123.86417,
+            51.38417
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.3842,
-        "longitude": -123.8642,
+        "feet": 10049.21292,
+        "meters": 3063.0,
+        "latitude": 51.38417,
+        "longitude": -123.86417,
         "name": "Mount Tatlow",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

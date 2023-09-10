@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.63555555555556,
-            38.35388888888889
+            -119.6351721,
+            38.3538016
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.35388888888889,
-        "longitude": -119.63555555555556,
+        "feet": 11464.0,
+        "meters": 3494.227088184733,
+        "latitude": 38.3538016,
+        "longitude": -119.6351721,
         "name": "Sonora Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -65.317,
+            66.533
+        ]
+    },
+    "properties": {
+        "feet": 5495.407,
+        "meters": 1675.0,
+        "latitude": 66.533,
+        "longitude": -65.317,
+        "name": "Mount Thor",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

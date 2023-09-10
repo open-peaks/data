@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.4453,
-            39.1178
+            -106.445333,
+            39.11775
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 39.1178,
-        "longitude": -106.4453,
+        "latitude": 39.11775,
+        "longitude": -106.445333,
         "name": "Mount Elbert",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Colorado"
-        ]
+        "marker-symbol": "triangle"
     }
 }

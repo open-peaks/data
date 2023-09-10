@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -112.3286,
-            42.3339
+            -117.3967,
+            45.2222
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 42.3339,
-        "longitude": -112.3286,
+        "latitude": 45.2222,
+        "longitude": -117.3967,
         "name": "Elkhorn Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Oregon"
         ]
     }
 }

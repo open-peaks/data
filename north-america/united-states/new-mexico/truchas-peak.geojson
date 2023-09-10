@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.64500000000001,
-            35.962500000000006
+            -105.644964742,
+            35.962525883
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.962500000000006,
-        "longitude": -105.64500000000001,
+        "feet": 13108.0,
+        "meters": 3995.318272149815,
+        "latitude": 35.962525883,
+        "longitude": -105.644964742,
         "name": "Truchas Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "New Mexico"
+        "states": [
+            "New Mexico"
+        ]
     }
 }

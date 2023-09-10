@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.1825,
+            45.90056
+        ]
+    },
+    "properties": {
+        "feet": 4235.56444,
+        "meters": 1291.0,
+        "latitude": 45.90056,
+        "longitude": 6.1825,
+        "name": "Mont Veyrier",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

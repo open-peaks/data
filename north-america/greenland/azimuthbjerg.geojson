@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -41.8508,
-            63.4553
+            -41.84944,
+            63.45583
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 63.4553,
-        "longitude": -41.8508,
+        "feet": 5702.09992,
+        "meters": 1738.0,
+        "latitude": 63.45583,
+        "longitude": -41.84944,
         "name": "Azimuthbjerg",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

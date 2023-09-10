@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.25333,
+            20.70972
+        ]
+    },
+    "properties": {
+        "feet": 10023.0,
+        "meters": 3055.01030223967,
+        "latitude": 20.70972,
+        "longitude": -156.25333,
+        "name": "Haleakal\u0101",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

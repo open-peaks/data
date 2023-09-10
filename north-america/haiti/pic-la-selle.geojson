@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -71.9767,
-            18.3603
+            -71.983,
+            18.367
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 18.3603,
-        "longitude": -71.9767,
+        "feet": 8792.6512,
+        "meters": 2680.0,
+        "latitude": 18.367,
+        "longitude": -71.983,
         "name": "Pic la Selle",
-        "regions": [],
         "countries": [
             "Haiti"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

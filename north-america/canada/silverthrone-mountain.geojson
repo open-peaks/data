@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -126.1133,
-            51.5181
+            -126.11333,
+            51.51778
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.5181,
-        "longitude": -126.1133,
+        "feet": 9396.32576,
+        "meters": 2864.0,
+        "latitude": 51.51778,
+        "longitude": -126.11333,
         "name": "Silverthrone Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

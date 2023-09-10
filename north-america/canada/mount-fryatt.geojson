@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.9103,
-            52.5503
+            -117.91028,
+            52.55
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.5503,
-        "longitude": -117.9103,
+        "feet": 11026.90324,
+        "meters": 3361.0,
+        "latitude": 52.55,
+        "longitude": -117.91028,
         "name": "Mount Fryatt",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -140.46028,
+            60.30528
+        ]
+    },
+    "properties": {
+        "feet": 14071.52276,
+        "meters": 4289.0,
+        "latitude": 60.30528,
+        "longitude": -140.46028,
+        "name": "Mount Augusta",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

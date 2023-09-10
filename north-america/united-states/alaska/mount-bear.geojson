@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -141.14333333333332,
-            61.28333333333333
+            -141.1422222,
+            61.2838889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.28333333333333,
-        "longitude": -141.14333333333332,
+        "feet": 14831.0,
+        "meters": 4520.488655344363,
+        "latitude": 61.2838889,
+        "longitude": -141.1422222,
         "name": "Mount Bear",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.15722,
+            -22.94861
+        ]
+    },
+    "properties": {
+        "feet": 1299.21264,
+        "meters": 396.0,
+        "latitude": -22.94861,
+        "longitude": -43.15722,
+        "name": "Sugarloaf Mountain",
+        "countries": [
+            "Rio de Janeiro"
+        ],
+        "continent": "South America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

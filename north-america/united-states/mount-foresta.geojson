@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -139.4322,
-            60.1911
+            -139.4336117,
+            60.190682
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.1911,
-        "longitude": -139.4322,
+        "feet": 11000.0,
+        "meters": 3352.7998927104036,
+        "latitude": 60.190682,
+        "longitude": -139.4336117,
         "name": "Mount Foresta",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

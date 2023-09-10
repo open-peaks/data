@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.5106,
-            37.8469
+            -119.510539344,
+            37.846914097
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.8469,
-        "longitude": -119.5106,
+        "feet": 10855.0,
+        "meters": 3308.603894124675,
+        "latitude": 37.846914097,
+        "longitude": -119.510539344,
         "name": "Mount Hoffmann",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-symbol": "triangle"
     }
 }

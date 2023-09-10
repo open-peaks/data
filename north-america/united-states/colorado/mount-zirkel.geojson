@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.66305555555556,
-            40.831388888888895
+            -106.663105,
+            40.831208
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.831388888888895,
-        "longitude": -106.66305555555556,
+        "feet": 12185.0,
+        "meters": 3713.9878811523877,
+        "latitude": 40.831208,
+        "longitude": -106.663105,
         "name": "Mount Zirkel",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.67527777777778,
-            41.91138888888889
+            -111.67534,
+            41.91142
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 41.91138888888889,
-        "longitude": -111.67527777777778,
+        "feet": 9983.0,
+        "meters": 3042.8183026298143,
+        "latitude": 41.91142,
+        "longitude": -111.67534,
         "name": "Naomi Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Utah"
+        "states": [
+            "Utah"
+        ]
     }
 }

@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -78.6231,
-            73.2297
+            -78.62083,
+            73.22833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 73.2297,
-        "longitude": -78.6231,
+        "feet": 6400.91884,
+        "meters": 1951.0,
+        "latitude": 73.22833,
+        "longitude": -78.62083,
         "name": "Angilaaq Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

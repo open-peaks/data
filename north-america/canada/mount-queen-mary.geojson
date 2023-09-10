@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -139.7247,
-            60.6286
+            -139.72389,
+            60.62806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.6286,
-        "longitude": -139.7247,
+        "feet": 12887.13952,
+        "meters": 3928.0,
+        "latitude": 60.62806,
+        "longitude": -139.72389,
         "name": "Mount Queen Mary",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

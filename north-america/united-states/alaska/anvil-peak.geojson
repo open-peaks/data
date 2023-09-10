@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            179.60222222222222,
-            51.98583333333333
+            179.60313,
+            51.98605
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.98583333333333,
-        "longitude": 179.60222222222222,
+        "feet": 4005.90564,
+        "meters": 1221.0,
+        "latitude": 51.98605,
+        "longitude": 179.60313,
         "name": "Anvil Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

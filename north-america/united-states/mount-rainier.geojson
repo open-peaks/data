@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.7603,
-            46.8528
+            -121.7604408,
+            46.8528267
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 46.8528,
-        "longitude": -121.7603,
+        "feet": 14411.0,
+        "meters": 4392.472659440875,
+        "latitude": 46.8528267,
+        "longitude": -121.7604408,
         "name": "Mount Rainier",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Washington"
-        ]
+        "marker-symbol": "triangle"
     }
 }

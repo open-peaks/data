@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -91.4061,
-            79.7397
+            -91.4,
+            79.74
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 79.7397,
-        "longitude": -91.4061,
+        "feet": 7250.6564,
+        "meters": 2210.0,
+        "latitude": 79.74,
+        "longitude": -91.4,
         "name": "Outlook Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

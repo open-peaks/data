@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.2636,
-            51.3736
+            -125.26333,
+            51.37361
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.3736,
-        "longitude": -125.2636,
+        "feet": 13185.69596,
+        "meters": 4019.0,
+        "latitude": 51.37361,
+        "longitude": -125.26333,
         "name": "Mount Waddington",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -127.7442,
-            54.4186
+            -127.74389,
+            54.41833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 54.4186,
-        "longitude": -127.7442,
+        "feet": 9051.83756,
+        "meters": 2759.0,
+        "latitude": 54.41833,
+        "longitude": -127.74389,
         "name": "Howson Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

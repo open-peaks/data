@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -107.1738888888889,
-            44.382222222222225
+            -107.173914436,
+            44.3821
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.382222222222225,
-        "longitude": -107.1738888888889,
+        "feet": 13171.0,
+        "meters": 4014.5206715353384,
+        "latitude": 44.3821,
+        "longitude": -107.173914436,
         "name": "Cloud Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

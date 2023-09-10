@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.22111111111111,
-            37.9
+            -119.2210926,
+            37.899901553
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.9,
-        "longitude": -119.22111111111111,
+        "feet": 13061.0,
+        "meters": 3980.9926726082344,
+        "latitude": 37.899901553,
+        "longitude": -119.2210926,
         "name": "Mount Dana",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

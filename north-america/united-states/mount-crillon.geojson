@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -137.1711,
-            58.6625
+            -137.17194,
+            58.66278
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 58.6625,
-        "longitude": -137.1711,
+        "feet": 12726.0,
+        "meters": 3878.8846758756904,
+        "latitude": 58.66278,
+        "longitude": -137.17194,
         "name": "Mount Crillon",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

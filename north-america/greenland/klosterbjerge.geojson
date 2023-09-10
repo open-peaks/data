@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -25.95,
-            72.25
+            null,
+            null
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 72.25,
-        "longitude": -25.95,
+        "feet": 7906.8243999999995,
+        "meters": 2410.0,
+        "latitude": null,
+        "longitude": null,
         "name": "Klosterbjerge",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

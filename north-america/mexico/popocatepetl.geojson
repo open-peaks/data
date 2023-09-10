@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -98.6278,
-            19.0225
+            -98.62778,
+            19.02222
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.0225,
-        "longitude": -98.6278,
+        "feet": 17693.57012,
+        "meters": 5393.0,
+        "latitude": 19.02222,
+        "longitude": -98.62778,
         "name": "Popocat\u00e9petl",
-        "regions": [],
         "countries": [
             "Mexico"
         ],

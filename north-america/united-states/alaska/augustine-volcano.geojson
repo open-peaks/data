@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -153.43305555555554,
-            59.36222222222222
+            -153.43333,
+            59.36333
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 59.36222222222222,
-        "longitude": -153.43305555555554,
+        "feet": 4134.0,
+        "meters": 1260.0431596786188,
+        "latitude": 59.36333,
+        "longitude": -153.43333,
         "name": "Augustine Volcano",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

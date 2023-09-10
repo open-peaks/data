@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -114.5886,
-            44.0403
+            -106.8614,
+            39.0097
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 44.0403,
-        "longitude": -114.5886,
+        "latitude": 39.0097,
+        "longitude": -106.8614,
         "name": "Castle Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Idaho"
+            "Colorado"
         ]
     }
 }

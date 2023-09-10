@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -75.9089,
-            72.1808
+            -75.90667,
+            72.1825
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 72.1808,
-        "longitude": -75.9089,
+        "feet": 6440.28892,
+        "meters": 1963.0,
+        "latitude": 72.1825,
+        "longitude": -75.90667,
         "name": "Qiajivik Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

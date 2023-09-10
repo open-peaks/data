@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            170.14194,
+            -43.595
+        ]
+    },
+    "properties": {
+        "feet": 12217.84816,
+        "meters": 3724.0,
+        "latitude": -43.595,
+        "longitude": 170.14194,
+        "name": "Mount Cook",
+        "countries": [
+            "New Zealand"
+        ],
+        "continent": "Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

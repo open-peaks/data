@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.86833,
+            21.10639
+        ]
+    },
+    "properties": {
+        "feet": 4961.0,
+        "meters": 1512.112751612392,
+        "latitude": 21.10639,
+        "longitude": -156.86833,
+        "name": "Kamakou",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

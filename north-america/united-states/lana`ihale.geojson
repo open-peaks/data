@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -156.872376,
+            20.811151
+        ]
+    },
+    "properties": {
+        "feet": 3477.6904,
+        "meters": 1060.0,
+        "latitude": 20.811151,
+        "longitude": -156.872376,
+        "name": "L\u0101na\u02bbihale",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

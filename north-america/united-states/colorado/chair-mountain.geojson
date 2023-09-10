@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -107.28222222222222,
-            39.058055555555555
+            -107.2821637,
+            39.0580739
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.058055555555555,
-        "longitude": -107.28222222222222,
+        "feet": 12727.0,
+        "meters": 3879.189475865937,
+        "latitude": 39.0580739,
+        "longitude": -107.2821637,
         "name": "Chair Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

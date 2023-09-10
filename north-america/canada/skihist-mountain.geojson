@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.9033,
-            50.1878
+            -121.90306,
+            50.1875
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.1878,
-        "longitude": -121.9033,
+        "feet": 9737.53312,
+        "meters": 2968.0,
+        "latitude": 50.1875,
+        "longitude": -121.90306,
         "name": "Skihist Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

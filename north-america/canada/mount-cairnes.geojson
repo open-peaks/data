@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -138.2764,
-            60.8683
+            -138.27694,
+            60.86833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.8683,
-        "longitude": -138.2764,
+        "feet": 9219.1604,
+        "meters": 2810.0,
+        "latitude": 60.86833,
+        "longitude": -138.27694,
         "name": "Mount Cairnes",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

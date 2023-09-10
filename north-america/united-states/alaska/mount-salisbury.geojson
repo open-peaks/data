@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -137.37194444444447,
-            58.85055555555556
+            -137.37222,
+            58.85083
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 58.85055555555556,
-        "longitude": -137.37194444444447,
+        "feet": 12170.0,
+        "meters": 3709.4158812986916,
+        "latitude": 58.85083,
+        "longitude": -137.37222,
         "name": "Mount Salisbury",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

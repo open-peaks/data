@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.8086111111111,
-            33.37416666666667
+            -105.808719667,
+            33.374323178
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.37416666666667,
-        "longitude": -105.8086111111111,
+        "feet": 11981.0,
+        "meters": 3651.8086831421224,
+        "latitude": 33.374323178,
+        "longitude": -105.808719667,
         "name": "Sierra Blanca Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "New Mexico"
+        "states": [
+            "New Mexico"
+        ]
     }
 }

@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.0014,
-            42.6164
+            -109.00111,
+            42.61639
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 42.6164,
-        "longitude": -109.0014,
+        "feet": 12495.0,
+        "meters": 3808.475878128772,
+        "latitude": 42.61639,
+        "longitude": -109.00111,
         "name": "Atlantic Peak",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

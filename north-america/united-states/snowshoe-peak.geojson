@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -115.6889,
-            48.2231
+            -115.68944,
+            48.22306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.2231,
-        "longitude": -115.6889,
+        "feet": 8738.0,
+        "meters": 2663.342314773046,
+        "latitude": 48.22306,
+        "longitude": -115.68944,
         "name": "Snowshoe Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Montana"
-        ]
+        "marker-symbol": "triangle"
     }
 }

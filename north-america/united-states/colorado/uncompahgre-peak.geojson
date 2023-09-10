@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -107.46222222222222,
-            38.07166666666667
+            -107.4620893,
+            38.0716581
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.07166666666667,
-        "longitude": -107.46222222222222,
+        "feet": 14321.0,
+        "meters": 4365.040660318699,
+        "latitude": 38.0716581,
+        "longitude": -107.4620893,
         "name": "Uncompahgre Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

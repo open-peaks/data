@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.71333333333334,
-            39.838055555555556
+            -105.7133381,
+            39.8380428
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 39.838055555555556,
-        "longitude": -105.71333333333334,
+        "feet": 13397.0,
+        "meters": 4083.405469331025,
+        "latitude": 39.8380428,
+        "longitude": -105.7133381,
         "name": "Parry Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

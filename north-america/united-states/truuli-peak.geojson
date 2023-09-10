@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -150.4347,
-            59.9128
+            -150.43361,
+            59.91333
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 59.9128,
-        "longitude": -150.4347,
+        "feet": 6612.0,
+        "meters": 2015.337535509199,
+        "latitude": 59.91333,
+        "longitude": -150.43361,
         "name": "Truuli Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

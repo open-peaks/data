@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -126.64,
-            53.0211
+            -126.6425,
+            53.02111
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.0211,
-        "longitude": -126.64,
+        "feet": 9048.55672,
+        "meters": 2758.0,
+        "latitude": 53.02111,
+        "longitude": -126.6425,
         "name": "Tsaydaychuz Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

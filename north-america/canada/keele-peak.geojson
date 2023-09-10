@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -130.3242,
-            63.4314
+            -130.32389,
+            63.43139
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 63.4314,
-        "longitude": -130.3242,
+        "feet": 9750.65648,
+        "meters": 2972.0,
+        "latitude": 63.43139,
+        "longitude": -130.32389,
         "name": "Keele Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

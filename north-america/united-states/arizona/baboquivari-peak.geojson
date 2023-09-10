@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.59583333333333,
-            31.77111111111111
+            -111.5756642,
+            31.7914724
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 31.77111111111111,
-        "longitude": -111.59583333333333,
+        "latitude": 31.7914724,
+        "longitude": -111.5756642,
         "name": "Baboquivari Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": null,
         "marker-symbol": "triangle",
-        "state": "Arizona"
+        "states": [
+            "Arizona"
+        ]
     }
 }

@@ -4,21 +4,20 @@
         "type": "Point",
         "coordinates": [
             -127.48,
-            55.9392
+            55.93917
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 55.9392,
+        "feet": 8490.81392,
+        "meters": 2588.0,
+        "latitude": 55.93917,
         "longitude": -127.48,
         "name": "Shedin Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

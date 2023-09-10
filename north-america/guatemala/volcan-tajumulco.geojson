@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -91.9036,
-            15.0431
+            -91.903308,
+            15.043685
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 15.0431,
-        "longitude": -91.9036,
+        "feet": 13789.37052,
+        "meters": 4203.0,
+        "latitude": 15.043685,
+        "longitude": -91.903308,
         "name": "Volc\u00e1n Tajumulco",
-        "regions": [],
         "countries": [
             "Guatemala"
         ],

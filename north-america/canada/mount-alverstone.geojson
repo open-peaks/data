@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -139.07528,
+            60.35167
+        ]
+    },
+    "properties": {
+        "feet": 14501.3128,
+        "meters": 4420.0,
+        "latitude": 60.35167,
+        "longitude": -139.07528,
+        "name": "Mount Alverstone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

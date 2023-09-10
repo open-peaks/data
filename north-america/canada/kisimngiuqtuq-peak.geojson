@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -71.6503,
-            70.7992
+            -71.651694,
+            70.799194
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 70.7992,
-        "longitude": -71.6503,
+        "feet": 6250.0002,
+        "meters": 1905.0,
+        "latitude": 70.799194,
+        "longitude": -71.651694,
         "name": "Kisimngiuqtuq Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

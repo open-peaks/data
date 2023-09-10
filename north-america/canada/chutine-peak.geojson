@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -132.3347,
-            57.7753
+            -132.33333,
+            57.77667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 57.7753,
-        "longitude": -132.3347,
+        "feet": 9547.2444,
+        "meters": 2910.0,
+        "latitude": 57.77667,
+        "longitude": -132.33333,
         "name": "Chutine Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

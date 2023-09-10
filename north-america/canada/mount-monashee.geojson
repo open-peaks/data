@@ -4,21 +4,20 @@
         "type": "Point",
         "coordinates": [
             -118.94,
-            52.3853
+            52.38528
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.3853,
+        "feet": 10741.47016,
+        "meters": 3274.0,
+        "latitude": 52.38528,
         "longitude": -118.94,
         "name": "Mount Monashee",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

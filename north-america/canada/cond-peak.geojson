@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.1419,
-            49.7461
+            -117.14194,
+            49.74611
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 49.7461,
-        "longitude": -117.1419,
+        "feet": 9189.63284,
+        "meters": 2801.0,
+        "latitude": 49.74611,
+        "longitude": -117.14194,
         "name": "Cond Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

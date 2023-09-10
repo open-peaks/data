@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      18.4167,
-      -33.95
-    ]
-  },
-  "properties": {
-    "feet": 3566,
-    "meters": 1087,
-    "latitude": -33.95,
-    "longitude": 18.4167,
-    "name": "Table Mountain",
-    "regions": [
-      "Southern Africa",
-      "Cape Ranges"
-    ],
-    "countries": [
-      "South Africa"
-    ],
-    "continent": "Africa",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.4031083,
+            -33.9573139
+        ]
+    },
+    "properties": {
+        "feet": 3558.3990639999997,
+        "meters": 1084.6,
+        "latitude": -33.9573139,
+        "longitude": 18.4031083,
+        "name": "Table Mountain",
+        "countries": [
+            "South Africa"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.23,
+            24.38333
+        ]
+    },
+    "properties": {
+        "feet": 12749.34424,
+        "meters": 3886.0,
+        "latitude": 24.38333,
+        "longitude": 121.23,
+        "name": "Mount Sylvia",
+        "countries": [
+            "Taiwan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

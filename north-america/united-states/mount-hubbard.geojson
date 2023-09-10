@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -139.0725,
-            60.3194
+            -139.07222,
+            60.31861
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.3194,
-        "longitude": -139.0725,
+        "feet": 14950.78788,
+        "meters": 4557.0,
+        "latitude": 60.31861,
+        "longitude": -139.07222,
         "name": "Mount Hubbard",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

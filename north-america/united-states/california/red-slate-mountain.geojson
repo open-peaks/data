@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.86916666666666,
-            37.5075
+            -118.869293842,
+            37.507549114
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.5075,
-        "longitude": -118.86916666666666,
+        "feet": 13129.0,
+        "meters": 4001.7190719449895,
+        "latitude": 37.507549114,
+        "longitude": -118.869293842,
         "name": "Red Slate Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

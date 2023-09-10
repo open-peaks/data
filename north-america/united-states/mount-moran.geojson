@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -110.7764,
-            43.835
+            -110.77639,
+            43.83528
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.835,
-        "longitude": -110.7764,
+        "feet": 12610.0,
+        "meters": 3843.527877007108,
+        "latitude": 43.83528,
+        "longitude": -110.77639,
         "name": "Mount Moran",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

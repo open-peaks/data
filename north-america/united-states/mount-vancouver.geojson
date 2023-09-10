@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -139.698032,
+            60.358918
+        ]
+    },
+    "properties": {
+        "feet": 15787.40208,
+        "meters": 4812.0,
+        "latitude": 60.358918,
+        "longitude": -139.698032,
+        "name": "Mount Vancouver",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

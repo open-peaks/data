@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.12166666666666,
-            33.947222222222216
+            -109.1251923,
+            33.955291
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.947222222222216,
-        "longitude": -109.12166666666666,
+        "feet": 10916.0,
+        "meters": 3327.196693529706,
+        "latitude": 33.955291,
+        "longitude": -109.1251923,
         "name": "Escudilla Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Arizona"
+        "states": [
+            "Arizona"
+        ]
     }
 }

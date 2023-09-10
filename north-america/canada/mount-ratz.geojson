@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -132.3031,
-            57.3931
+            -132.30333,
+            57.39306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 57.3931,
-        "longitude": -132.3031,
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 57.39306,
+        "longitude": -132.30333,
         "name": "Mount Ratz",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

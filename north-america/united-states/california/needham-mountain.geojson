@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.53722222222223,
-            36.45444444444445
+            -118.53722,
+            36.45444
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.45444444444445,
-        "longitude": -118.53722222222223,
+        "feet": 12536.0,
+        "meters": 3820.9726777288743,
+        "latitude": 36.45444,
+        "longitude": -118.53722,
         "name": "Needham Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

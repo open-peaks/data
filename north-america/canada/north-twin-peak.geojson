@@ -4,21 +4,20 @@
         "type": "Point",
         "coordinates": [
             -117.4344,
-            52.2239
+            52.2237
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.2239,
+        "feet": 12237.5332,
+        "meters": 3730.0,
+        "latitude": 52.2237,
         "longitude": -117.4344,
         "name": "North Twin Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

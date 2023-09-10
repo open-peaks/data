@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -146.6025,
-            63.5561
+            null,
+            null
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 63.5561,
-        "longitude": -146.6025,
+        "latitude": null,
+        "longitude": null,
         "name": "Moby Dick",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": null,
+        "marker-symbol": "triangle"
     }
 }

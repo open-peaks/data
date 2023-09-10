@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.11833333333333,
-            36.265277777777776
+            -118.11815035,
+            36.265179578
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.265277777777776,
-        "longitude": -118.11833333333333,
+        "feet": 12132.0,
+        "meters": 3697.8334816693286,
+        "latitude": 36.265179578,
+        "longitude": -118.11815035,
         "name": "Olancha Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

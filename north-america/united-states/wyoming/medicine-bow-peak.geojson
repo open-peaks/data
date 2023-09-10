@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -106.3175,
-            41.36027777777778
+            -106.3199972,
+            41.3599972
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 41.36027777777778,
-        "longitude": -106.3175,
+        "feet": 12018.0,
+        "meters": 3663.086282781239,
+        "latitude": 41.3599972,
+        "longitude": -106.3199972,
         "name": "Medicine Bow Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -75.0092,
-            81.9147
+            -74.98667,
+            81.92667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 81.9147,
-        "longitude": -75.0092,
+        "feet": 8582.67744,
+        "meters": 2616.0,
+        "latitude": 81.92667,
+        "longitude": -74.98667,
         "name": "Barbeau Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
     }
 }

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.8133,
-            50.7297
+            -116.81333,
+            50.72972
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.7297,
-        "longitude": -116.8133,
+        "feet": 11194.22608,
+        "meters": 3412.0,
+        "latitude": 50.72972,
+        "longitude": -116.81333,
         "name": "Howser Spire",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

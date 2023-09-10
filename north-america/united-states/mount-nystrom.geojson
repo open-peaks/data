@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.0939,
-            42.6417
+            -109.09417,
+            42.63889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 42.6417,
-        "longitude": -109.0939,
+        "feet": 12361.0,
+        "meters": 3767.632679435754,
+        "latitude": 42.63889,
+        "longitude": -109.09417,
         "name": "Mount Nystrom",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

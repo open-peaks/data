@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -97.2697,
-            19.0306
+            -97.27,
+            19.03
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.0306,
-        "longitude": -97.2697,
+        "feet": 18490.81424,
+        "meters": 5636.0,
+        "latitude": 19.03,
+        "longitude": -97.27,
         "name": "Pico de Orizaba",
-        "regions": [],
         "countries": [
             "Mexico"
         ],

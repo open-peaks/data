@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.2367,
-            51.3939
+            -125.23611,
+            51.39361
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.3939,
-        "longitude": -125.2367,
+        "feet": 12591.86392,
+        "meters": 3838.0,
+        "latitude": 51.39361,
+        "longitude": -125.23611,
         "name": "Mount Tiedemann",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

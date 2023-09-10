@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.9,
-            38.8575
+            -119.900142906,
+            38.857537042
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 38.8575,
-        "longitude": -119.9,
+        "feet": 10886.0,
+        "meters": 3318.052693822314,
+        "latitude": 38.857537042,
+        "longitude": -119.900142906,
         "name": "Freel Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

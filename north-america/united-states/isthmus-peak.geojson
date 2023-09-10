@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -148.8914,
-            60.5772
+            -148.891452,
+            60.577202
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 60.5772,
-        "longitude": -148.8914,
+        "feet": 6532.0,
+        "meters": 1990.953536289487,
+        "latitude": 60.577202,
+        "longitude": -148.891452,
         "name": "Isthmus Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -25.7067,
-            76.6606
+            -25.70778,
+            76.66139
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 76.6606,
-        "longitude": -25.7067,
+        "feet": 7601.70628,
+        "meters": 2317.0,
+        "latitude": 76.66139,
+        "longitude": -25.70778,
         "name": "Reval Toppen",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

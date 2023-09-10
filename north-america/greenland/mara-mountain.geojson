@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -30.4783,
-            83.5714
+            -30.4784111,
+            83.571472
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 83.5714,
-        "longitude": -30.4783,
+        "feet": 3789.9935596,
+        "meters": 1155.19,
+        "latitude": 83.571472,
+        "longitude": -30.4784111,
         "name": "Mara Mountain",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

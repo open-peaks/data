@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -143.80194444444444,
+            -143.80222,
             69.2025
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 8976.0,
+        "meters": 2735.884712451689,
         "latitude": 69.2025,
-        "longitude": -143.80194444444444,
+        "longitude": -143.80222,
         "name": "Mount Isto",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

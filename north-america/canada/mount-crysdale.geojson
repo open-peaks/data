@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -123.4211,
-            55.9383
+            -123.42111,
+            55.93833
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 55.9383,
-        "longitude": -123.4211,
+        "feet": 7962.59868,
+        "meters": 2427.0,
+        "latitude": 55.93833,
+        "longitude": -123.42111,
         "name": "Mount Crysdale",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

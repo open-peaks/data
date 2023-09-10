@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -129.0594,
-            54.9289
+            -129.05944,
+            54.92889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 54.9289,
-        "longitude": -129.0594,
+        "feet": 7664.04224,
+        "meters": 2336.0,
+        "latitude": 54.92889,
+        "longitude": -129.05944,
         "name": "Oscar Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

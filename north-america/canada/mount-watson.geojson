@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.71278,
+            50.88972
+        ]
+    },
+    "properties": {
+        "feet": 9694.8822,
+        "meters": 2955.0,
+        "latitude": 50.88972,
+        "longitude": -115.71278,
+        "name": "Mount Watson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

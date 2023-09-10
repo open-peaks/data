@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.41111111111111,
-            44.197222222222216
+            -109.41889,
+            44.19472
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.197222222222216,
-        "longitude": -109.41111111111111,
+        "feet": 12324.0,
+        "meters": 3756.3550797966373,
+        "latitude": 44.19472,
+        "longitude": -109.41889,
         "name": "Carter Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Wyoming"
+        "states": [
+            "Wyoming"
+        ]
     }
 }

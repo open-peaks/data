@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -155.60278,
+            19.47944
+        ]
+    },
+    "properties": {
+        "feet": 13679.0,
+        "meters": 4169.3590665805095,
+        "latitude": 19.47944,
+        "longitude": -155.60278,
+        "name": "Mauna Loa",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

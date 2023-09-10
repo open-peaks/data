@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -105.89444444444445,
-            40.46944444444445
+            -105.8950133,
+            40.4694275
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.46944444444445,
-        "longitude": -105.89444444444445,
+        "feet": 12945.0,
+        "meters": 3945.635873739652,
+        "latitude": 40.4694275,
+        "longitude": -105.8950133,
         "name": "Mount Richthofen",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

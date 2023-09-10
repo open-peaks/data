@@ -3,22 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -100.2328,
-            24.8719
+            -100.2325,
+            24.87167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 24.8719,
-        "longitude": -100.2328,
+        "feet": 12208.00564,
+        "meters": 3721.0,
+        "latitude": 24.87167,
+        "longitude": -100.2325,
         "name": "Cerro El Potos\u00ed",
-        "regions": [],
         "countries": [
             "Mexico"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nuevo Le\u00f3n"
+        ]
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.85111111111111,
-            35.408055555555556
+            -111.850989053,
+            35.408077619
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.408055555555556,
-        "longitude": -111.85111111111111,
+        "feet": 10425.0,
+        "meters": 3177.5398983187233,
+        "latitude": 35.408077619,
+        "longitude": -111.850989053,
         "name": "Kendrick Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Arizona"
+        "states": [
+            "Arizona"
+        ]
     }
 }

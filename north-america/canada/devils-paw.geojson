@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.83972,
+            58.73083
+        ]
+    },
+    "properties": {
+        "feet": 8584.0,
+        "meters": 2616.4031162751003,
+        "latitude": 58.73083,
+        "longitude": -133.83972,
+        "name": "Devils Paw",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

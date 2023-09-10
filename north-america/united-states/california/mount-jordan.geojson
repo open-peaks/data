@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.449785,
+            36.6822482
+        ]
+    },
+    "properties": {
+        "feet": 13343.0,
+        "meters": 4066.9462698577195,
+        "latitude": 36.6822482,
+        "longitude": -118.449785,
+        "name": "Mount Jordan",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "California"
+        ]
+    }
+}

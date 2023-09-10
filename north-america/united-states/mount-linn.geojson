@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -122.8542,
-            40.0364
+            -122.8550076,
+            40.0368197
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.0364,
-        "longitude": -122.8542,
+        "feet": 8098.0,
+        "meters": 2468.27032101535,
+        "latitude": 40.0368197,
+        "longitude": -122.8550076,
         "name": "Mount Linn",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-symbol": "triangle"
     }
 }

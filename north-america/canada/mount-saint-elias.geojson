@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -140.93139,
+            60.29222
+        ]
+    },
+    "properties": {
+        "feet": 18008.0,
+        "meters": 5488.838224357177,
+        "latitude": 60.29222,
+        "longitude": -140.93139,
+        "name": "Mount Saint Elias",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

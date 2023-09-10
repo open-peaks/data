@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.3589,
-            38.0836
+            -111.6567,
+            40.5517
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 38.0836,
-        "longitude": -119.3589,
+        "latitude": 40.5517,
+        "longitude": -111.6567,
         "name": "Twin Peaks",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "California"
+            "Utah"
         ]
     }
 }

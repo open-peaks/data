@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -103.6086,
-            19.5633
+            -103.617241,
+            19.512727
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.5633,
-        "longitude": -103.6086,
+        "feet": 12532.8088,
+        "meters": 3820.0,
+        "latitude": 19.512727,
+        "longitude": -103.617241,
         "name": "Nevado de Colima",
-        "regions": [],
         "countries": [
             "Mexico"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

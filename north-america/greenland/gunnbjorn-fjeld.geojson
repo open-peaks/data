@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -29.8992,
-            68.9183
+            -29.8985333,
+            68.9195
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 68.9183,
-        "longitude": -29.8992,
+        "feet": 12119.42296,
+        "meters": 3694.0,
+        "latitude": 68.9195,
+        "longitude": -29.8985333,
         "name": "Gunnbj\u00f8rn Fjeld",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

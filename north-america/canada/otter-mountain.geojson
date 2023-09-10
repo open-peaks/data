@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -129.6928,
-            56.0067
+            -129.69278,
+            56.00667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 56.0067,
-        "longitude": -129.6928,
+        "feet": 8835.30212,
+        "meters": 2693.0,
+        "latitude": 56.00667,
+        "longitude": -129.69278,
         "name": "Otter Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

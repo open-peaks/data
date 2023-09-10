@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -104.99333333333334,
-            37.37555555555556
+            -104.9936101,
+            37.3755699
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.37555555555556,
-        "longitude": -104.99333333333334,
+        "feet": 13631.0,
+        "meters": 4154.728667048683,
+        "latitude": 37.3755699,
+        "longitude": -104.9936101,
         "name": "West Spanish Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Colorado"
+        "states": [
+            "Colorado"
+        ]
     }
 }

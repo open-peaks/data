@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.33111111111111,
-            35.93138888888889
+            -118.33139,
+            35.93167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.93138888888889,
-        "longitude": -118.33111111111111,
+        "feet": 9980.0,
+        "meters": 3041.9039026590754,
+        "latitude": 35.93167,
+        "longitude": -118.33139,
         "name": "Peak 9980",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "California"
+        "states": [
+            "California"
+        ]
     }
 }

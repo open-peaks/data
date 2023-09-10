@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.2878,
-            36.3086
+            -118.2875,
+            36.30778
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 36.3086,
-        "longitude": -118.2878,
+        "feet": 11510.0,
+        "meters": 3508.2478877360677,
+        "latitude": 36.30778,
+        "longitude": -118.2875,
         "name": "Kern Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-symbol": "triangle"
     }
 }

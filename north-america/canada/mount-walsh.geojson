@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.0172,
-            61.0036
+            -140.017,
+            61.0
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.0036,
-        "longitude": -140.0172,
+        "feet": 14786.74588,
+        "meters": 4507.0,
+        "latitude": 61.0,
+        "longitude": -140.017,
         "name": "Mount Walsh",
-        "regions": [],
         "countries": [
             "Canada"
         ],

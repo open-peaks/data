@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -114.0775,
-            41.0211
+            -109.8814,
+            44.9761
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 41.0211,
-        "longitude": -114.0775,
+        "latitude": 44.9761,
+        "longitude": -109.8814,
         "name": "Pilot Peak",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Nevada"
+            "Wyoming"
         ]
     }
 }

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -80.1328,
+            -80.1327,
             21.9853
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 3740.1576,
+        "meters": 1140.0,
         "latitude": 21.9853,
-        "longitude": -80.1328,
+        "longitude": -80.1327,
         "name": "Pico San Juan",
-        "regions": [],
         "countries": [
             "Cuba"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

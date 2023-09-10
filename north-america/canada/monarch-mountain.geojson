@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.8761,
-            51.8994
+            -125.875,
+            51.90167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.8994,
-        "longitude": -125.8761,
+        "feet": 11663.3862,
+        "meters": 3555.0,
+        "latitude": 51.90167,
+        "longitude": -125.875,
         "name": "Monarch Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.11388888888888,
-            48.112500000000004
+            -121.113804642,
+            48.11251395
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.112500000000004,
-        "longitude": -121.11388888888888,
+        "feet": 10525.0,
+        "meters": 3208.0198973433635,
+        "latitude": 48.11251395,
+        "longitude": -121.113804642,
         "name": "Glacier Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Washington"
+        "states": [
+            "Washington"
+        ]
     }
 }

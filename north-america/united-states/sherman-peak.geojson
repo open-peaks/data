@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -133.0475,
-            56.8969
+            -120.326268,
+            48.734363
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 56.8969,
-        "longitude": -133.0475,
+        "feet": 8204.0,
+        "meters": 2500.579119981468,
+        "latitude": 48.734363,
+        "longitude": -120.326268,
         "name": "Sherman Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

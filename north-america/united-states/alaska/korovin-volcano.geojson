@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -174.1652777777778,
-            52.38166666666667
+            -174.16833,
+            52.38028
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.38166666666667,
-        "longitude": -174.1652777777778,
+        "feet": 5030.0,
+        "meters": 1533.1439509393936,
+        "latitude": 52.38028,
+        "longitude": -174.16833,
         "name": "Korovin Volcano",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Alaska"
+        "states": [
+            "Alaska"
+        ]
     }
 }

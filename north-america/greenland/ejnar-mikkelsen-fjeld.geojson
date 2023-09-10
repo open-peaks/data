@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -28.6278,
-            68.8958
+            null,
+            null
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 68.8958,
-        "longitude": -28.6278,
+        "feet": 10767.71688,
+        "meters": 3282.0,
+        "latitude": null,
+        "longitude": null,
         "name": "Ejnar Mikkelsen Fjeld",
-        "regions": [],
         "countries": [
             "Greenland"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

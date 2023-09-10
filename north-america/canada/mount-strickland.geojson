@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.6756,
-            61.2364
+            -140.675,
+            61.23556
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.2364,
-        "longitude": -140.6756,
+        "feet": 13976.3784,
+        "meters": 4260.0,
+        "latitude": 61.23556,
+        "longitude": -140.675,
         "name": "Mount Strickland",
-        "regions": [],
         "countries": [
             "Canada"
         ],

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.4772,
-            52.285
+            -117.47667,
+            52.28722
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.285,
-        "longitude": -117.4772,
+        "feet": 11873.35996,
+        "meters": 3619.0,
+        "latitude": 52.28722,
+        "longitude": -117.47667,
         "name": "Mount Alberta",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

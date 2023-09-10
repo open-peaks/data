@@ -8,17 +8,19 @@
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 10016.40452,
+        "meters": 3053.0,
         "latitude": 57.045,
         "longitude": -132.045,
         "name": "Kates Needle",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "U.S. and northwestern British Columbia"
+        ]
     }
 }

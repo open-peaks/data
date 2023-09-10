@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -155.86722,
+            19.69222
+        ]
+    },
+    "properties": {
+        "feet": 8271.0,
+        "meters": 2521.000719327977,
+        "latitude": 19.69222,
+        "longitude": -155.86722,
+        "name": "Hual\u0101lai",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

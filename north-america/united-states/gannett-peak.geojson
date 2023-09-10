@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.6542,
-            43.1842
+            -109.654233614,
+            43.184202022
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.1842,
-        "longitude": -109.6542,
+        "feet": 13810.0,
+        "meters": 4209.287865302788,
+        "latitude": 43.184202022,
+        "longitude": -109.654233614,
         "name": "Gannett Peak",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

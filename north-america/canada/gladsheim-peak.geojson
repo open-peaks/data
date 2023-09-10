@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.6272,
-            49.7867
+            -117.62722,
+            49.78667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 49.7867,
-        "longitude": -117.6272,
+        "feet": 9284.7772,
+        "meters": 2830.0,
+        "latitude": 49.78667,
+        "longitude": -117.62722,
         "name": "Gladsheim Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

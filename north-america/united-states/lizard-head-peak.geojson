@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.1978,
+            -109.19694,
             42.79
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 12847.0,
+        "meters": 3915.765474695505,
         "latitude": 42.79,
-        "longitude": -109.1978,
+        "longitude": -109.19694,
         "name": "Lizard Head Peak",
-        "regions": [],
         "countries": [
-            "United States"
+            "Wyoming"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Wyoming"
-        ]
+        "marker-symbol": "triangle"
     }
 }

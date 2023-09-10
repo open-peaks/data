@@ -3,17 +3,16 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -140.585,
-            61.1728
+            -140.58444,
+            61.17278
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.1728,
-        "longitude": -140.585,
+        "feet": 15557.74328,
+        "meters": 4742.0,
+        "latitude": 61.17278,
+        "longitude": -140.58444,
         "name": "Mount Slaggard",
-        "regions": [],
         "countries": [
             "Canada"
         ],

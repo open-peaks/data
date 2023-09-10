@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -58.4842,
-            48.8331
+            -58.48417,
+            48.83306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.8331,
-        "longitude": -58.4842,
+        "feet": 2664.04208,
+        "meters": 812.0,
+        "latitude": 48.83306,
+        "longitude": -58.48417,
         "name": "The Cabox",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

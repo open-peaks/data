@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -148.6044,
-            62.1311
+            -148.6048688,
+            62.13113
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 62.1311,
-        "longitude": -148.6044,
+        "feet": 8731.0,
+        "meters": 2661.208714841321,
+        "latitude": 62.13113,
+        "longitude": -148.6048688,
         "name": "Sovereign Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

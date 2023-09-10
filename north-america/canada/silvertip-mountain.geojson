@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.2161,
-            49.1633
+            -121.21611,
+            49.16306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 49.1633,
-        "longitude": -121.2161,
+        "feet": 8517.06064,
+        "meters": 2596.0,
+        "latitude": 49.16306,
+        "longitude": -121.21611,
         "name": "Silvertip Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

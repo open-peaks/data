@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -90.4961,
-            37.4692
+            -160.3281,
+            68.5597
         ]
     },
     "properties": {
         "feet": null,
         "meters": null,
-        "latitude": 37.4692,
-        "longitude": -90.4961,
+        "latitude": 68.5597,
+        "longitude": -160.3281,
         "name": "Black Mountain",
         "regions": [],
         "countries": [
@@ -21,7 +21,7 @@
         "marker-size": "large",
         "marker-symbol": "triangle",
         "states": [
-            "Missouri"
+            "Alaska"
         ]
     }
 }

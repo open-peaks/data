@@ -3,23 +3,24 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.45916666666668,
-            44.916666666666664
+            -111.46056,
+            44.91639
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.916666666666664,
-        "longitude": -111.45916666666668,
+        "feet": 11321.0,
+        "meters": 3450.640689579498,
+        "latitude": 44.91639,
+        "longitude": -111.46056,
         "name": "Hilgard Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
         "marker-symbol": "triangle",
-        "state": "Montana"
+        "states": [
+            "Montana"
+        ]
     }
 }
