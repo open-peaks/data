@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.43806,
+            52.27389
+        ]
+    },
+    "properties": {
+        "feet": 9698.16304,
+        "meters": 2956.0,
+        "latitude": 52.27389,
+        "longitude": -117.43806,
+        "name": "Little Alberta",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

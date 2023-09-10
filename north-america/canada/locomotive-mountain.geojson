@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.05861,
+            50.58278
+        ]
+    },
+    "properties": {
+        "feet": 7677.1656,
+        "meters": 2340.0,
+        "latitude": 50.58278,
+        "longitude": -123.05861,
+        "name": "Locomotive Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

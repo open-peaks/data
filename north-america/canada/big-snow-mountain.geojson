@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.6875,
+            52.23806
+        ]
+    },
+    "properties": {
+        "feet": 7732.93988,
+        "meters": 2357.0,
+        "latitude": 52.23806,
+        "longitude": -126.6875,
+        "name": "Big Snow Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

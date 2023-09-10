@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.08167,
+            51.80944
+        ]
+    },
+    "properties": {
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 51.80944,
+        "longitude": -117.08167,
+        "name": "Arras Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

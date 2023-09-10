@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.22668,
+            54.57439
+        ]
+    },
+    "properties": {
+        "feet": 2204.72448,
+        "meters": 672.0,
+        "latitude": 54.57439,
+        "longitude": -3.22668,
+        "name": "Scar Crags",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

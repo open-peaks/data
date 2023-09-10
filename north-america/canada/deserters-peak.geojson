@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.90528,
+            56.96806
+        ]
+    },
+    "properties": {
+        "feet": 7460.63016,
+        "meters": 2274.0,
+        "latitude": 56.96806,
+        "longitude": -124.90528,
+        "name": "Deserters Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

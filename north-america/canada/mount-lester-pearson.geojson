@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.545,
+            52.77972
+        ]
+    },
+    "properties": {
+        "feet": 10124.67224,
+        "meters": 3086.0,
+        "latitude": 52.77972,
+        "longitude": -119.545,
+        "name": "Mount Lester Pearson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

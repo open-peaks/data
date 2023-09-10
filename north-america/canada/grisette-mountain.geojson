@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.93,
+            52.94556
+        ]
+    },
+    "properties": {
+        "feet": 8595.800799999999,
+        "meters": 2620.0,
+        "latitude": 52.94556,
+        "longitude": -117.93,
+        "name": "Grisette Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

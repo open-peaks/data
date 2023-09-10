@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.06778,
+            53.03333
+        ]
+    },
+    "properties": {
+        "feet": 5508.53036,
+        "meters": 1679.0,
+        "latitude": 53.03333,
+        "longitude": -118.06778,
+        "name": "Morro Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

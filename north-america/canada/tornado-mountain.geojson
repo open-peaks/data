@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.65444,
+            49.96694
+        ]
+    },
+    "properties": {
+        "feet": 10167.32316,
+        "meters": 3099.0,
+        "latitude": 49.96694,
+        "longitude": -114.65444,
+        "name": "Tornado Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

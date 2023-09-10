@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.35056,
+            55.25806
+        ]
+    },
+    "properties": {
+        "feet": 6624.01596,
+        "meters": 2019.0,
+        "latitude": 55.25806,
+        "longitude": -122.35056,
+        "name": "Milburn Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

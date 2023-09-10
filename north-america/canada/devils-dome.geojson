@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.71417,
+            49.82806
+        ]
+    },
+    "properties": {
+        "feet": 9084.64596,
+        "meters": 2769.0,
+        "latitude": 49.82806,
+        "longitude": -117.71417,
+        "name": "Devils Dome",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

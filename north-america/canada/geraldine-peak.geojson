@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.95694,
+            52.60722
+        ]
+    },
+    "properties": {
+        "feet": 9612.8612,
+        "meters": 2930.0,
+        "latitude": 52.60722,
+        "longitude": -117.95694,
+        "name": "Geraldine Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

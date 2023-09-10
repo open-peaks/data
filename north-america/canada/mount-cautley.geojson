@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.572395,
-      50.907363
-    ]
-  },
-  "properties": {
-    "feet": 9357,
-    "meters": 2852,
-    "latitude": 50.907363,
-    "longitude": -115.572395,
-    "name": "Mount Cautley",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.5725,
+            50.90778
+        ]
+    },
+    "properties": {
+        "feet": 9448.8192,
+        "meters": 2880.0,
+        "latitude": 50.90778,
+        "longitude": -115.5725,
+        "name": "Mount Cautley",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.95528,
+            51.50778
+        ]
+    },
+    "properties": {
+        "feet": 10875.9846,
+        "meters": 3315.0,
+        "latitude": 51.50778,
+        "longitude": -115.95528,
+        "name": "Sawback Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

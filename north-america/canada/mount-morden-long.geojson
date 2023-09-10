@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.53778,
+            52.4225
+        ]
+    },
+    "properties": {
+        "feet": 9973.7536,
+        "meters": 3040.0,
+        "latitude": 52.4225,
+        "longitude": -117.53778,
+        "name": "Mount Morden Long",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

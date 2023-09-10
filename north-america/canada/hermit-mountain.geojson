@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.51806,
+            51.35667
+        ]
+    },
+    "properties": {
+        "feet": 10006.562,
+        "meters": 3050.0,
+        "latitude": 51.35667,
+        "longitude": -117.51806,
+        "name": "Hermit Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

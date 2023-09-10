@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.58139,
+            49.85389
+        ]
+    },
+    "properties": {
+        "feet": 3343.17596,
+        "meters": 1019.0,
+        "latitude": 49.85389,
+        "longitude": -119.58139,
+        "name": "Mount Nkwala",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

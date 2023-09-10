@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.565714,
-      51.684104
-    ]
-  },
-  "properties": {
-    "feet": 9744,
-    "meters": 2970,
-    "latitude": 51.684104,
-    "longitude": -116.565714,
-    "name": "Peyto Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.56556,
+            51.68417
+        ]
+    },
+    "properties": {
+        "feet": 9776.9032,
+        "meters": 2980.0,
+        "latitude": 51.68417,
+        "longitude": -116.56556,
+        "name": "Peyto Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

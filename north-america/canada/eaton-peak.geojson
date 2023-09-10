@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.34694,
+            49.2375
+        ]
+    },
+    "properties": {
+        "feet": 6945.53828,
+        "meters": 2117.0,
+        "latitude": 49.2375,
+        "longitude": -121.34694,
+        "name": "Eaton Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

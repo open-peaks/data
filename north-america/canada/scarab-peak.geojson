@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.93278,
+            51.09611
+        ]
+    },
+    "properties": {
+        "feet": 9573.49112,
+        "meters": 2918.0,
+        "latitude": 51.09611,
+        "longitude": -115.93278,
+        "name": "Scarab Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

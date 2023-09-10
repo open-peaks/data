@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -2.835,
-            54.476
+            -3.20417,
+            54.38833
         ]
     },
     "properties": {
-        "feet": 2552.49352,
-        "meters": 778.0,
-        "latitude": 54.476,
-        "longitude": -2.835,
+        "feet": 2142.38852,
+        "meters": 653.0,
+        "latitude": 54.38833,
+        "longitude": -3.20417,
         "name": "Harter Fell",
         "countries": [
             "United Kingdom"

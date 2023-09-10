@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.31944,
+            70.68611
+        ]
+    },
+    "properties": {
+        "feet": 5935.03956,
+        "meters": 1809.0,
+        "latitude": 70.68611,
+        "longitude": -71.31944,
+        "name": "Ukpik Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
+    }
+}

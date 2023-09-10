@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.9611,
-            54.9081
+            -121.96111,
+            54.90806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 54.9081,
-        "longitude": -121.9611,
+        "feet": 8244.75092,
+        "meters": 2513.0,
+        "latitude": 54.90806,
+        "longitude": -121.96111,
         "name": "Sentinel Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

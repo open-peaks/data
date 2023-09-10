@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.86,
+            58.3967
+        ]
+    },
+    "properties": {
+        "feet": 7588.58292,
+        "meters": 2313.0,
+        "latitude": 58.3967,
+        "longitude": -124.86,
+        "name": "Hermitage Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

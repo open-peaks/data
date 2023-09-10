@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.0025,
+            51.81389
+        ]
+    },
+    "properties": {
+        "feet": 10334.646,
+        "meters": 3150.0,
+        "latitude": 51.81389,
+        "longitude": -117.0025,
+        "name": "Valenciennes Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

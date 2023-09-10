@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.1375,
+            50.62083
+        ]
+    },
+    "properties": {
+        "feet": 9222.44124,
+        "meters": 2811.0,
+        "latitude": 50.62083,
+        "longitude": -123.1375,
+        "name": "Mount Sampson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

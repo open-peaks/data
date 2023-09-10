@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.13333,
+            52.84361
+        ]
+    },
+    "properties": {
+        "feet": 8484.25224,
+        "meters": 2586.0,
+        "latitude": 52.84361,
+        "longitude": -119.13333,
+        "name": "Mount McKirdy",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

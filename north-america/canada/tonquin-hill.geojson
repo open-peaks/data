@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.327778,
+            52.737777
+        ]
+    },
+    "properties": {
+        "feet": 7860.89264,
+        "meters": 2396.0,
+        "latitude": 52.737777,
+        "longitude": -118.327778,
+        "name": "Tonquin Hill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

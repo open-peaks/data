@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.22889,
+            52.50972
+        ]
+    },
+    "properties": {
+        "feet": 9281.49636,
+        "meters": 2829.0,
+        "latitude": 52.50972,
+        "longitude": -120.22889,
+        "name": "Mount Hugh Neave",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

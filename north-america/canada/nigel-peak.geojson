@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.171,
-      52.239
-    ]
-  },
-  "properties": {
-    "feet": 10535,
-    "meters": 3211,
-    "latitude": 52.239,
-    "longitude": -117.171,
-    "name": "Nigel Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.17167,
+            52.23944
+        ]
+    },
+    "properties": {
+        "feet": 10534.77724,
+        "meters": 3211.0,
+        "latitude": 52.23944,
+        "longitude": -117.17167,
+        "name": "Nigel Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

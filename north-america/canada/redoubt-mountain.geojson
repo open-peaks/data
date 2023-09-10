@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.08111,
+            51.46722
+        ]
+    },
+    "properties": {
+        "feet": 9520.99768,
+        "meters": 2902.0,
+        "latitude": 51.46722,
+        "longitude": -116.08111,
+        "name": "Redoubt Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

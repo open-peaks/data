@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.854,
-      50.0693
-    ]
-  },
-  "properties": {
-    "feet": 7943,
-    "meters": 2421,
-    "latitude": 50.0693,
-    "longitude": -122.854,
-    "name": "Decker Mountain",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.85417,
+            50.06944
+        ]
+    },
+    "properties": {
+        "feet": 7942.91364,
+        "meters": 2421.0,
+        "latitude": 50.06944,
+        "longitude": -122.85417,
+        "name": "Decker Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

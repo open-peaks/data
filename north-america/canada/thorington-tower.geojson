@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.50278,
+            52.3575
+        ]
+    },
+    "properties": {
+        "feet": 10351.0502,
+        "meters": 3155.0,
+        "latitude": 52.3575,
+        "longitude": -117.50278,
+        "name": "Thorington Tower",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

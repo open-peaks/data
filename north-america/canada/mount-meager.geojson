@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.50417,
+            50.63167
+        ]
+    },
+    "properties": {
+        "feet": 8694.226,
+        "meters": 2650.0,
+        "latitude": 50.63167,
+        "longitude": -123.50417,
+        "name": "Mount Meager",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

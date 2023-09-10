@@ -1,25 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 7810,
-    "meters": 2381,
-    "name": "Mount Alfred",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.07667,
+            50.20611
+        ]
+    },
+    "properties": {
+        "feet": 7939.6328,
+        "meters": 2420.0,
+        "latitude": 50.20611,
+        "longitude": -124.07667,
+        "name": "Mount Alfred",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
 }

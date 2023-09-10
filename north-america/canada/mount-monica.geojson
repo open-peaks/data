@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.68278,
+            50.43028
+        ]
+    },
+    "properties": {
+        "feet": 10078.74048,
+        "meters": 3072.0,
+        "latitude": 50.43028,
+        "longitude": -116.68278,
+        "name": "Mount Monica",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.04444,
+            51.50417
+        ]
+    },
+    "properties": {
+        "feet": 9665.35464,
+        "meters": 2946.0,
+        "latitude": 51.50417,
+        "longitude": -116.04444,
+        "name": "Fossil Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

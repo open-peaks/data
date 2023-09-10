@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.48694,
+            50.48889
+        ]
+    },
+    "properties": {
+        "feet": 11459.97412,
+        "meters": 3493.0,
+        "latitude": 50.48889,
+        "longitude": -116.48694,
+        "name": "Farnham Group",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

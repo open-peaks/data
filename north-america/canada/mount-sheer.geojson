@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.07306,
+            49.61806
+        ]
+    },
+    "properties": {
+        "feet": 5748.03168,
+        "meters": 1752.0,
+        "latitude": 49.61806,
+        "longitude": -123.07306,
+        "name": "Mount Sheer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

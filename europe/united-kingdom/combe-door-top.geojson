@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.1653,
+            54.48332
+        ]
+    },
+    "properties": {
+        "feet": 2568.89772,
+        "meters": 783.0,
+        "latitude": 54.48332,
+        "longitude": -3.1653,
+        "name": "Combe Door Top",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.88056,
+            51.79361
+        ]
+    },
+    "properties": {
+        "feet": 8750.00028,
+        "meters": 2667.0,
+        "latitude": 51.79361,
+        "longitude": -117.88056,
+        "name": "Doubletop Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

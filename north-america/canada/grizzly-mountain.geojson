@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.56111,
+            51.31611
+        ]
+    },
+    "properties": {
+        "feet": 9035.433359999999,
+        "meters": 2754.0,
+        "latitude": 51.31611,
+        "longitude": -117.56111,
+        "name": "Grizzly Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

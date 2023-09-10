@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.33222,
+            51.03778
+        ]
+    },
+    "properties": {
+        "feet": 10538.05808,
+        "meters": 3212.0,
+        "latitude": 51.03778,
+        "longitude": -117.33222,
+        "name": "Beaver Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

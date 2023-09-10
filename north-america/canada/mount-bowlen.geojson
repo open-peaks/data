@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.1889,
-      51.3009
-    ]
-  },
-  "properties": {
-    "feet": 10079,
-    "meters": 3072,
-    "latitude": 51.3009,
-    "longitude": -116.1889,
-    "name": "Mount Bowlen",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.18944,
+            51.30167
+        ]
+    },
+    "properties": {
+        "feet": 10518.37304,
+        "meters": 3206.0,
+        "latitude": 51.30167,
+        "longitude": -116.18944,
+        "name": "Mount Bowlen",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

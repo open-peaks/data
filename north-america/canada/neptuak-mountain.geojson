@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.25778,
+            51.30806
+        ]
+    },
+    "properties": {
+        "feet": 10606.95572,
+        "meters": 3233.0,
+        "latitude": 51.30806,
+        "longitude": -116.25778,
+        "name": "Neptuak Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

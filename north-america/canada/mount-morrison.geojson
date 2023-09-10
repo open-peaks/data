@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.47917,
+            50.83778
+        ]
+    },
+    "properties": {
+        "feet": 9071.5226,
+        "meters": 2765.0,
+        "latitude": 50.83778,
+        "longitude": -115.47917,
+        "name": "Mount Morrison",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

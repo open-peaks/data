@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.29083,
+            50.12028
+        ]
+    },
+    "properties": {
+        "feet": 7824.8034,
+        "meters": 2385.0,
+        "latitude": 50.12028,
+        "longitude": -123.29083,
+        "name": "Mount Cayley",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

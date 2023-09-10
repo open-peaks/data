@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78917,
+            50.74583
+        ]
+    },
+    "properties": {
+        "feet": 11194.22608,
+        "meters": 3412.0,
+        "latitude": 50.74583,
+        "longitude": -116.78917,
+        "name": "The Bugaboos",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

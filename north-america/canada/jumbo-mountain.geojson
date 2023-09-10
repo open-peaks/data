@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.565,
+            50.40306
+        ]
+    },
+    "properties": {
+        "feet": 11276.24708,
+        "meters": 3437.0,
+        "latitude": 50.40306,
+        "longitude": -116.565,
+        "name": "Jumbo Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

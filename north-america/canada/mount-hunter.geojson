@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.41944,
+            55.2825
+        ]
+    },
+    "properties": {
+        "feet": 6666.66688,
+        "meters": 2032.0,
+        "latitude": 55.2825,
+        "longitude": -122.41944,
+        "name": "Mount Hunter",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.51083,
+            50.30111
+        ]
+    },
+    "properties": {
+        "feet": 7280.18396,
+        "meters": 2219.0,
+        "latitude": 50.30111,
+        "longitude": -122.51083,
+        "name": "Duffey Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

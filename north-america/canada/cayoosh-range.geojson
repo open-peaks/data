@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.26028,
+            50.62361
+        ]
+    },
+    "properties": {
+        "feet": 9366.7982,
+        "meters": 2855.0,
+        "latitude": 50.62361,
+        "longitude": -122.26028,
+        "name": "Cayoosh Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

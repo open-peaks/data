@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.65611,
+            51.79333
+        ]
+    },
+    "properties": {
+        "feet": 9839.23916,
+        "meters": 2999.0,
+        "latitude": 51.79333,
+        "longitude": -116.65611,
+        "name": "Stairway Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

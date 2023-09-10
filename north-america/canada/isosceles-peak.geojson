@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.90167,
+            49.89861
+        ]
+    },
+    "properties": {
+        "feet": 8162.72992,
+        "meters": 2488.0,
+        "latitude": 49.89861,
+        "longitude": -122.90167,
+        "name": "Isosceles Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

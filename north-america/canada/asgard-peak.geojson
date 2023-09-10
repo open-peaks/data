@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.65667,
+            49.78417
+        ]
+    },
+    "properties": {
+        "feet": 9268.373,
+        "meters": 2825.0,
+        "latitude": 49.78417,
+        "longitude": -117.65667,
+        "name": "Asgard Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

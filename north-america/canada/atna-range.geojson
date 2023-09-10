@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.48,
+            55.939194
+        ]
+    },
+    "properties": {
+        "feet": 8490.81392,
+        "meters": 2588.0,
+        "latitude": 55.939194,
+        "longitude": -127.48,
+        "name": "Atna Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

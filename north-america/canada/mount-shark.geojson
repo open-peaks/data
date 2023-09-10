@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.41,
-      50.8281
-    ]
-  },
-  "properties": {
-    "feet": 9140,
-    "meters": 2786,
-    "latitude": 50.8281,
-    "longitude": -115.41,
-    "name": "Mount Shark",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.41,
+            50.82806
+        ]
+    },
+    "properties": {
+        "feet": 9140.42024,
+        "meters": 2786.0,
+        "latitude": 50.82806,
+        "longitude": -115.41,
+        "name": "Mount Shark",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

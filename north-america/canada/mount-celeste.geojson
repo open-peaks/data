@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.4,
+            49.567
+        ]
+    },
+    "properties": {
+        "feet": 6709.3178,
+        "meters": 2045.0,
+        "latitude": 49.567,
+        "longitude": -125.4,
+        "name": "Mount Celeste",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

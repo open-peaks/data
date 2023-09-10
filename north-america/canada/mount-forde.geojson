@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.17583,
+            59.03222
+        ]
+    },
+    "properties": {
+        "feet": 6883.0,
+        "meters": 2097.9383328659733,
+        "latitude": 59.03222,
+        "longitude": -137.17583,
+        "name": "Mount Forde",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "United StatesCassiar Land DistrictBritish Columbia"
+        ]
+    }
+}

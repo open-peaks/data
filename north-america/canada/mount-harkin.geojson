@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.86444,
+            50.79694
+        ]
+    },
+    "properties": {
+        "feet": 9773.62236,
+        "meters": 2979.0,
+        "latitude": 50.79694,
+        "longitude": -115.86444,
+        "name": "Mount Harkin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

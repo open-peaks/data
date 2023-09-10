@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.08639,
+            49.63472
+        ]
+    },
+    "properties": {
+        "feet": 6663.38604,
+        "meters": 2031.0,
+        "latitude": 49.63472,
+        "longitude": -123.08639,
+        "name": "Sky Pilot Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

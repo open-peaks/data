@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.89028,
+            53.20667
+        ]
+    },
+    "properties": {
+        "feet": 8910.76144,
+        "meters": 2716.0,
+        "latitude": 53.20667,
+        "longitude": -118.89028,
+        "name": "Treadmill Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

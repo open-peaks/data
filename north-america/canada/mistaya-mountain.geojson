@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.585,
+            51.71139
+        ]
+    },
+    "properties": {
+        "feet": 10098.42552,
+        "meters": 3078.0,
+        "latitude": 51.71139,
+        "longitude": -116.585,
+        "name": "Mistaya Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

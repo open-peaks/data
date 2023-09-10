@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.35444,
+            53.30528
+        ]
+    },
+    "properties": {
+        "feet": 8805.77456,
+        "meters": 2684.0,
+        "latitude": 53.30528,
+        "longitude": -119.35444,
+        "name": "Whiteshield Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

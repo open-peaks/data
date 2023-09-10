@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.8075,
+            50.08472
+        ]
+    },
+    "properties": {
+        "feet": 8612.205,
+        "meters": 2625.0,
+        "latitude": 50.08472,
+        "longitude": -121.8075,
+        "name": "Kwoiek Needle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

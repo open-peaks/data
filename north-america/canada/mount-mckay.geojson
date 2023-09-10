@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -89.28667,
+            48.34472
+        ]
+    },
+    "properties": {
+        "feet": 1604.33076,
+        "meters": 489.0,
+        "latitude": 48.34472,
+        "longitude": -89.28667,
+        "name": "Mount McKay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Ontario"
+        ]
+    }
+}

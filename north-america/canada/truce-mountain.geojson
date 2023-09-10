@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.68778,
+            50.30639
+        ]
+    },
+    "properties": {
+        "feet": 10702.10008,
+        "meters": 3262.0,
+        "latitude": 50.30639,
+        "longitude": -116.68778,
+        "name": "Truce Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

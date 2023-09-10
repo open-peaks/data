@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.44167,
+            52.57222
+        ]
+    },
+    "properties": {
+        "feet": 9084.64596,
+        "meters": 2769.0,
+        "latitude": 52.57222,
+        "longitude": -117.44167,
+        "name": "Mount Julian",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

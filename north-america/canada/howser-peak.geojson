@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78361,
+            50.70472
+        ]
+    },
+    "properties": {
+        "feet": 10150.918959999999,
+        "meters": 3094.0,
+        "latitude": 50.70472,
+        "longitude": -116.78361,
+        "name": "Howser Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

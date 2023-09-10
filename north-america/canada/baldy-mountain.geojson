@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.72833,
+            51.46861
+        ]
+    },
+    "properties": {
+        "feet": 2729.65888,
+        "meters": 832.0,
+        "latitude": 51.46861,
+        "longitude": -100.72833,
+        "name": "Baldy Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

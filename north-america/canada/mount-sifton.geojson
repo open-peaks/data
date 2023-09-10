@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.55278,
+            51.33639
+        ]
+    },
+    "properties": {
+        "feet": 9586.61448,
+        "meters": 2922.0,
+        "latitude": 51.33639,
+        "longitude": -117.55278,
+        "name": "Mount Sifton",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

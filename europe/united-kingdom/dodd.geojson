@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.3,
+            54.526
+        ]
+    },
+    "properties": {
+        "feet": 2477.0342,
+        "meters": 755.0,
+        "latitude": 54.526,
+        "longitude": -3.3,
+        "name": "Dodd",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

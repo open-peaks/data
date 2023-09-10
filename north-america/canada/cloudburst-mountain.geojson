@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.23611,
+            49.93361
+        ]
+    },
+    "properties": {
+        "feet": 6138.45164,
+        "meters": 1871.0,
+        "latitude": 49.93361,
+        "longitude": -123.23611,
+        "name": "Cloudburst Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

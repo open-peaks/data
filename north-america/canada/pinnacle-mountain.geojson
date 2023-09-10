@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.2275,
+            51.33889
+        ]
+    },
+    "properties": {
+        "feet": 10072.1788,
+        "meters": 3070.0,
+        "latitude": 51.33889,
+        "longitude": -116.2275,
+        "name": "Pinnacle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

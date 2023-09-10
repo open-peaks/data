@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.1992,
-            50.1797
+            -117.19917,
+            50.17972
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.1797,
-        "longitude": -117.1992,
+        "feet": 10150.918959999999,
+        "meters": 3094.0,
+        "latitude": 50.17972,
+        "longitude": -117.19917,
         "name": "Mount Cooper",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

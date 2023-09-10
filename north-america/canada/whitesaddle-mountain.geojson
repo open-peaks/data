@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.84833,
+            51.63917
+        ]
+    },
+    "properties": {
+        "feet": 9809.7116,
+        "meters": 2990.0,
+        "latitude": 51.63917,
+        "longitude": -124.84833,
+        "name": "Whitesaddle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

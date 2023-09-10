@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.6075,
+            49.412778
+        ]
+    },
+    "properties": {
+        "feet": 8533.46484,
+        "meters": 2601.0,
+        "latitude": 49.412778,
+        "longitude": -114.6075,
+        "name": "Centre Mountain",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

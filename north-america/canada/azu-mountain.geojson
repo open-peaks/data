@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.6475,
+            55.35917
+        ]
+    },
+    "properties": {
+        "feet": 5406.82432,
+        "meters": 1648.0,
+        "latitude": 55.35917,
+        "longitude": -122.6475,
+        "name": "Azu Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

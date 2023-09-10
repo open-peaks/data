@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.26361,
+            49.76583
+        ]
+    },
+    "properties": {
+        "feet": 6610.8926,
+        "meters": 2015.0,
+        "latitude": 49.76583,
+        "longitude": -123.26361,
+        "name": "Mount Pelops",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

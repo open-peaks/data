@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.71667,
+            53.61556
+        ]
+    },
+    "properties": {
+        "feet": 7785.43332,
+        "meters": 2373.0,
+        "latitude": 53.61556,
+        "longitude": -119.71667,
+        "name": "Mount Talbot",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

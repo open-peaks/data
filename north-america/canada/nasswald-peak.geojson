@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.65194,
+            50.99888
+        ]
+    },
+    "properties": {
+        "feet": 9980.31528,
+        "meters": 3042.0,
+        "latitude": 50.99888,
+        "longitude": -115.65194,
+        "name": "Nasswald Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.35611,
+            49.43194
+        ]
+    },
+    "properties": {
+        "feet": 6873.3598,
+        "meters": 2095.0,
+        "latitude": 49.43194,
+        "longitude": -122.35611,
+        "name": "Mount Robie Reid",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

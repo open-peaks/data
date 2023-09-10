@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.40111,
+            53.60194
+        ]
+    },
+    "properties": {
+        "feet": 8149.60656,
+        "meters": 2484.0,
+        "latitude": 53.60194,
+        "longitude": -118.40111,
+        "name": "Mount Campion",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

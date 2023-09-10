@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.47333,
+            50.3275
+        ]
+    },
+    "properties": {
+        "feet": 8704.06852,
+        "meters": 2653.0,
+        "latitude": 50.3275,
+        "longitude": -122.47333,
+        "name": "Slalok Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.3175,
+            52.81472
+        ]
+    },
+    "properties": {
+        "feet": 9580.0528,
+        "meters": 2920.0,
+        "latitude": 52.81472,
+        "longitude": -118.3175,
+        "name": "Roche Noire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

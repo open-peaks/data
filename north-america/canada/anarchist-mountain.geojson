@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.33611,
+            49.03833
+        ]
+    },
+    "properties": {
+        "feet": 4891.73244,
+        "meters": 1491.0,
+        "latitude": 49.03833,
+        "longitude": -119.33611,
+        "name": "Anarchist Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

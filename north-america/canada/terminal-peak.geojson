@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.41972,
+            51.25389
+        ]
+    },
+    "properties": {
+        "feet": 9832.67748,
+        "meters": 2997.0,
+        "latitude": 51.25389,
+        "longitude": -117.41972,
+        "name": "Terminal Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

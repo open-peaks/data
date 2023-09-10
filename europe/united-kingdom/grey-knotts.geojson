@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.208,
+            54.503
+        ]
+    },
+    "properties": {
+        "feet": 2286.74548,
+        "meters": 697.0,
+        "latitude": 54.503,
+        "longitude": -3.208,
+        "name": "Grey Knotts",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

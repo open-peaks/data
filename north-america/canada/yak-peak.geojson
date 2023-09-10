@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.10528,
+            49.60667
+        ]
+    },
+    "properties": {
+        "feet": 6689.6327599999995,
+        "meters": 2039.0,
+        "latitude": 49.60667,
+        "longitude": -121.10528,
+        "name": "Yak Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

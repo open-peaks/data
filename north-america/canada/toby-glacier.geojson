@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.60833,
+            50.22167
+        ]
+    },
+    "properties": {
+        "feet": 10741.47016,
+        "meters": 3274.0,
+        "latitude": 50.22167,
+        "longitude": -116.60833,
+        "name": "Toby Glacier",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

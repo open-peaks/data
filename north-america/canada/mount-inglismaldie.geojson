@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.4217,
-      51.2417
-    ]
-  },
-  "properties": {
-    "feet": 9724,
-    "meters": 2964,
-    "latitude": 51.2417,
-    "longitude": -115.4217,
-    "name": "Mount Inglismaldie",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.42083,
+            51.24167
+        ]
+    },
+    "properties": {
+        "feet": 9724.40976,
+        "meters": 2964.0,
+        "latitude": 51.24167,
+        "longitude": -115.42083,
+        "name": "Mount Inglismaldie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

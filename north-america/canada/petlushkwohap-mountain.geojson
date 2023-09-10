@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.86694,
+            50.22194
+        ]
+    },
+    "properties": {
+        "feet": 9642.38876,
+        "meters": 2939.0,
+        "latitude": 50.22194,
+        "longitude": -121.86694,
+        "name": "Petlushkwohap Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

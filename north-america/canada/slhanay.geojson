@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.11583,
+            49.69556
+        ]
+    },
+    "properties": {
+        "feet": 2181.7586,
+        "meters": 665.0,
+        "latitude": 49.69556,
+        "longitude": -123.11583,
+        "name": "Slhanay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

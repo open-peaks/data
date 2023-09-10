@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.11,
+            51.9
+        ]
+    },
+    "properties": {
+        "feet": 2542.651,
+        "meters": 775.0,
+        "latitude": 51.9,
+        "longitude": -120.11,
+        "name": "White Horse Bluff",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

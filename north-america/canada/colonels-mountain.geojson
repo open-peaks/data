@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -66.39722,
+            47.20361
+        ]
+    },
+    "properties": {
+        "feet": 1968.504,
+        "meters": 600.0,
+        "latitude": 47.20361,
+        "longitude": -66.39722,
+        "name": "Colonels Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

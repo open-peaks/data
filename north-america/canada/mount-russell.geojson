@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.36306,
+            50.38472
+        ]
+    },
+    "properties": {
+        "feet": 5715.22328,
+        "meters": 1742.0,
+        "latitude": 50.38472,
+        "longitude": -126.36306,
+        "name": "Mount Russell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

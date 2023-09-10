@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.11778,
+            51.16194
+        ]
+    },
+    "properties": {
+        "feet": 8684.38348,
+        "meters": 2647.0,
+        "latitude": 51.16194,
+        "longitude": -116.11778,
+        "name": "Vermilion Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

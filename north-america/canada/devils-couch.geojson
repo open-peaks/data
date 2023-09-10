@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.65056,
+            49.83361
+        ]
+    },
+    "properties": {
+        "feet": 9019.02916,
+        "meters": 2749.0,
+        "latitude": 49.83361,
+        "longitude": -117.65056,
+        "name": "Devils Couch",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

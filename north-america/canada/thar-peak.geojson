@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.08444,
+            49.61083
+        ]
+    },
+    "properties": {
+        "feet": 6364.8296,
+        "meters": 1940.0,
+        "latitude": 49.61083,
+        "longitude": -121.08444,
+        "name": "Thar Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.29806,
+            51.18333
+        ]
+    },
+    "properties": {
+        "feet": 9442.25752,
+        "meters": 2878.0,
+        "latitude": 51.18333,
+        "longitude": -116.29806,
+        "name": "Limestone Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.92111,
+            51.74389
+        ]
+    },
+    "properties": {
+        "feet": 9875.3284,
+        "meters": 3010.0,
+        "latitude": 51.74389,
+        "longitude": -117.92111,
+        "name": "Unicorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.52778,
+            52.40444
+        ]
+    },
+    "properties": {
+        "feet": 10150.918959999999,
+        "meters": 3094.0,
+        "latitude": 52.40444,
+        "longitude": -117.52778,
+        "name": "Mount Adam Joachim",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

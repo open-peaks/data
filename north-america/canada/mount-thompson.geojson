@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.523056,
-      51.663611
-    ]
-  },
-  "properties": {
-    "feet": 10118,
-    "meters": 3084,
-    "latitude": 51.663611,
-    "longitude": -116.523056,
-    "name": "Mount Thompson",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.52278,
+            51.66389
+        ]
+    },
+    "properties": {
+        "feet": 10134.51476,
+        "meters": 3089.0,
+        "latitude": 51.66389,
+        "longitude": -116.52278,
+        "name": "Mount Thompson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

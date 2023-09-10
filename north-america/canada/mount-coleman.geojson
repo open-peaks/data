@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.92139,
+            52.11889
+        ]
+    },
+    "properties": {
+        "feet": 10285.4334,
+        "meters": 3135.0,
+        "latitude": 52.11889,
+        "longitude": -116.92139,
+        "name": "Mount Coleman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

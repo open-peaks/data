@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.21722,
+            49.75472
+        ]
+    },
+    "properties": {
+        "feet": 5567.58548,
+        "meters": 1697.0,
+        "latitude": 49.75472,
+        "longitude": -123.21722,
+        "name": "Mount Thyestes",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

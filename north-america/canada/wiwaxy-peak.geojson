@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.31861,
+            51.36667
+        ]
+    },
+    "properties": {
+        "feet": 8877.95304,
+        "meters": 2706.0,
+        "latitude": 51.36667,
+        "longitude": -116.31861,
+        "name": "Wiwaxy Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.59167,
+            51.61722
+        ]
+    },
+    "properties": {
+        "feet": 10311.680119999999,
+        "meters": 3143.0,
+        "latitude": 51.61722,
+        "longitude": -116.59167,
+        "name": "Mount Collie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

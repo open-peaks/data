@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.36722,
+            49.86333
+        ]
+    },
+    "properties": {
+        "feet": 7417.97924,
+        "meters": 2261.0,
+        "latitude": 49.86333,
+        "longitude": -123.36722,
+        "name": "Ossa Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

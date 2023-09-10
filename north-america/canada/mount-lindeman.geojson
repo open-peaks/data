@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.45389,
+            49.01333
+        ]
+    },
+    "properties": {
+        "feet": 7585.30208,
+        "meters": 2312.0,
+        "latitude": 49.01333,
+        "longitude": -121.45389,
+        "name": "Mount Lindeman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

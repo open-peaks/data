@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.88194,
+            51.70444
+        ]
+    },
+    "properties": {
+        "feet": 10688.97672,
+        "meters": 3258.0,
+        "latitude": 51.70444,
+        "longitude": -116.88194,
+        "name": "Mount Trutch",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

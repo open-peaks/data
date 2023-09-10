@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -57.7833,
-      49.5833
-    ]
-  },
-  "properties": {
-    "feet": 2648,
-    "meters": 807,
-    "latitude": 49.5833,
-    "longitude": -57.7833,
-    "name": "Gros Morne",
-    "regions": [
-      "Appalachian Mountains",
-      "Canadian Appalachians"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -57.78361,
+            49.59361
+        ]
+    },
+    "properties": {
+        "feet": 2644.35704,
+        "meters": 806.0,
+        "latitude": 49.59361,
+        "longitude": -57.78361,
+        "name": "Gros Morne",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.31833,
+            52.65667
+        ]
+    },
+    "properties": {
+        "feet": 10898.95048,
+        "meters": 3322.0,
+        "latitude": 52.65667,
+        "longitude": -118.31833,
+        "name": "Simon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

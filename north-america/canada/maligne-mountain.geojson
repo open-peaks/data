@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.39972,
+            52.65167
+        ]
+    },
+    "properties": {
+        "feet": 10498.688,
+        "meters": 3200.0,
+        "latitude": 52.65167,
+        "longitude": -117.39972,
+        "name": "Maligne Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

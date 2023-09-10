@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.7225,
+            50.11667
+        ]
+    },
+    "properties": {
+        "feet": 8868.11052,
+        "meters": 2703.0,
+        "latitude": 50.11667,
+        "longitude": -122.7225,
+        "name": "Mount James Turner",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

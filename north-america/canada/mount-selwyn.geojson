@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.40694,
+            51.15306
+        ]
+    },
+    "properties": {
+        "feet": 10941.6014,
+        "meters": 3335.0,
+        "latitude": 51.15306,
+        "longitude": -117.40694,
+        "name": "Mount Selwyn",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

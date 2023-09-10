@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.08306,
+            49.65861
+        ]
+    },
+    "properties": {
+        "feet": 5879.26528,
+        "meters": 1792.0,
+        "latitude": 49.65861,
+        "longitude": -123.08306,
+        "name": "Mount Habrich",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

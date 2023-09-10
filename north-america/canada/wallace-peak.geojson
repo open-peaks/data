@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.81389,
+            50.76806
+        ]
+    },
+    "properties": {
+        "feet": 9645.6696,
+        "meters": 2940.0,
+        "latitude": 50.76806,
+        "longitude": -116.81389,
+        "name": "Wallace Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

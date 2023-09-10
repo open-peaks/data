@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.60194,
+            51.29806
+        ]
+    },
+    "properties": {
+        "feet": 8874.672199999999,
+        "meters": 2705.0,
+        "latitude": 51.29806,
+        "longitude": -117.60194,
+        "name": "Ursus Major Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

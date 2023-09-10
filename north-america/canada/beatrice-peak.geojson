@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.02639,
+            51.16278
+        ]
+    },
+    "properties": {
+        "feet": 10252.625,
+        "meters": 3125.0,
+        "latitude": 51.16278,
+        "longitude": -116.02639,
+        "name": "Beatrice Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

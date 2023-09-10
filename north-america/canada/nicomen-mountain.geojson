@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.12028,
+            49.20528
+        ]
+    },
+    "properties": {
+        "feet": 4005.90564,
+        "meters": 1221.0,
+        "latitude": 49.20528,
+        "longitude": -122.12028,
+        "name": "Nicomen Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

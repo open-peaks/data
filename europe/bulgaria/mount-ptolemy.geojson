@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.63111,
+            49.54917
+        ]
+    },
+    "properties": {
+        "feet": 9235.5646,
+        "meters": 2815.0,
+        "latitude": 49.54917,
+        "longitude": -114.63111,
+        "name": "Mount Ptolemy",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

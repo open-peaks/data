@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.35583,
+            52.63306
+        ]
+    },
+    "properties": {
+        "feet": 9842.52,
+        "meters": 3000.0,
+        "latitude": 52.63306,
+        "longitude": -118.35583,
+        "name": "Scarp Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

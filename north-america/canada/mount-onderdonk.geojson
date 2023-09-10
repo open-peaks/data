@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.1325,
+            51.76083
+        ]
+    },
+    "properties": {
+        "feet": 8809.0554,
+        "meters": 2685.0,
+        "latitude": 51.76083,
+        "longitude": -118.1325,
+        "name": "Mount Onderdonk",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

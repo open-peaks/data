@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.91388,
+            51.79888
+        ]
+    },
+    "properties": {
+        "feet": 9983.59612,
+        "meters": 3043.0,
+        "latitude": 51.79888,
+        "longitude": -116.91388,
+        "name": "Mount Garth",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

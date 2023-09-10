@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.777279,
+            51.289993
+        ]
+    },
+    "properties": {
+        "feet": 9711.286399999999,
+        "meters": 2960.0,
+        "latitude": 51.289993,
+        "longitude": -115.777279,
+        "name": "Mystic Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

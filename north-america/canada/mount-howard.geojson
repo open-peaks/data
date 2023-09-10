@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.43,
+            50.31944
+        ]
+    },
+    "properties": {
+        "feet": 8369.42284,
+        "meters": 2551.0,
+        "latitude": 50.31944,
+        "longitude": -122.43,
+        "name": "Mount Howard",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

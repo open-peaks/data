@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.943444,
+            55.398528
+        ]
+    },
+    "properties": {
+        "feet": 6876.64064,
+        "meters": 2096.0,
+        "latitude": 55.398528,
+        "longitude": -127.943444,
+        "name": "Kispiox Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

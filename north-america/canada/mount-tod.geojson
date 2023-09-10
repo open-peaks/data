@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.94083,
+            50.91667
+        ]
+    },
+    "properties": {
+        "feet": 7070.2101999999995,
+        "meters": 2155.0,
+        "latitude": 50.91667,
+        "longitude": -119.94083,
+        "name": "Mount Tod",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.2602778,
+            53.1775
+        ]
+    },
+    "properties": {
+        "feet": 10649.60664,
+        "meters": 3246.0,
+        "latitude": 53.1775,
+        "longitude": -119.2602778,
+        "name": "Mount Phillips",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -66.09138,
+            48.78944
+        ]
+    },
+    "properties": {
+        "feet": 3070.86624,
+        "meters": 936.0,
+        "latitude": 48.78944,
+        "longitude": -66.09138,
+        "name": "Mount Lyall",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

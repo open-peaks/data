@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.15111,
+            52.65083
+        ]
+    },
+    "properties": {
+        "feet": 9842.52,
+        "meters": 3000.0,
+        "latitude": 52.65083,
+        "longitude": -118.15111,
+        "name": "Blackhorn Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

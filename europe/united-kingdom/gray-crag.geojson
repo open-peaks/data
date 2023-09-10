@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.88622,
+            54.49737
+        ]
+    },
+    "properties": {
+        "feet": 2293.30716,
+        "meters": 699.0,
+        "latitude": 54.49737,
+        "longitude": -2.88622,
+        "name": "Gray Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

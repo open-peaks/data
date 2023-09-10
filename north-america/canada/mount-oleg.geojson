@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.6275,
+            50.40889
+        ]
+    },
+    "properties": {
+        "feet": 8487.53308,
+        "meters": 2587.0,
+        "latitude": 50.40889,
+        "longitude": -122.6275,
+        "name": "Mount Oleg",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

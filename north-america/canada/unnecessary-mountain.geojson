@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.19806,
+            49.44833
+        ]
+    },
+    "properties": {
+        "feet": 5078.74032,
+        "meters": 1548.0,
+        "latitude": 49.44833,
+        "longitude": -123.19806,
+        "name": "Unnecessary Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

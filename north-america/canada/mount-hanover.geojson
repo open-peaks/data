@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.18389,
+            49.49917
+        ]
+    },
+    "properties": {
+        "feet": 5734.90832,
+        "meters": 1748.0,
+        "latitude": 49.49917,
+        "longitude": -123.18389,
+        "name": "Mount Hanover",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

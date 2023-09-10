@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.74611,
+            49.79972
+        ]
+    },
+    "properties": {
+        "feet": 8546.5882,
+        "meters": 2605.0,
+        "latitude": 49.79972,
+        "longitude": -117.74611,
+        "name": "Gregorio Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

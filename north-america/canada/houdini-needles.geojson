@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.84444,
+            51.75611
+        ]
+    },
+    "properties": {
+        "feet": 8736.87692,
+        "meters": 2663.0,
+        "latitude": 51.75611,
+        "longitude": -117.84444,
+        "name": "Houdini Needles",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

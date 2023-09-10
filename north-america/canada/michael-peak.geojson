@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.51306,
+            51.48278
+        ]
+    },
+    "properties": {
+        "feet": 8861.54884,
+        "meters": 2701.0,
+        "latitude": 51.48278,
+        "longitude": -116.51306,
+        "name": "Michael Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

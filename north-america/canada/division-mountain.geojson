@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.00861,
+            51.88917
+        ]
+    },
+    "properties": {
+        "feet": 9908.1368,
+        "meters": 3020.0,
+        "latitude": 51.88917,
+        "longitude": -117.00861,
+        "name": "Division Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

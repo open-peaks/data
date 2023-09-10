@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.13861,
+            51.32111
+        ]
+    },
+    "properties": {
+        "feet": 9996.71948,
+        "meters": 3047.0,
+        "latitude": 51.32111,
+        "longitude": -125.13861,
+        "name": "Grenelle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.99861,
+            53.05444
+        ]
+    },
+    "properties": {
+        "feet": 7401.57504,
+        "meters": 2256.0,
+        "latitude": 53.05444,
+        "longitude": -117.99861,
+        "name": "Cinquefoil Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

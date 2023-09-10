@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -121.679163,
-      49.004518
-    ]
-  },
-  "properties": {
-    "feet": 7516,
-    "meters": 2291,
-    "latitude": 49.004518,
-    "longitude": -121.679163,
-    "name": "Canadian Border Peak",
-    "regions": [
-      "Pacific Ranges",
-      "Cascade Range"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.67944,
+            49.00417
+        ]
+    },
+    "properties": {
+        "feet": 7516.40444,
+        "meters": 2291.0,
+        "latitude": 49.00417,
+        "longitude": -121.67944,
+        "name": "Canadian Border Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

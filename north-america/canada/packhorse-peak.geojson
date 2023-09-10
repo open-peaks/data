@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.52472,
+            49.28417
+        ]
+    },
+    "properties": {
+        "feet": 7913.38608,
+        "meters": 2412.0,
+        "latitude": 49.28417,
+        "longitude": -114.52472,
+        "name": "Packhorse Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

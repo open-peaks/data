@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.57639,
+            51.54361
+        ]
+    },
+    "properties": {
+        "feet": 9333.9898,
+        "meters": 2845.0,
+        "latitude": 51.54361,
+        "longitude": -116.57639,
+        "name": "Isolated Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.47028,
+            51.14972
+        ]
+    },
+    "properties": {
+        "feet": 9645.6696,
+        "meters": 2940.0,
+        "latitude": 51.14972,
+        "longitude": -117.47028,
+        "name": "Mount Donkin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

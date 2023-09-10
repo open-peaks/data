@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.65583,
+            52.185
+        ]
+    },
+    "properties": {
+        "feet": 10200.13156,
+        "meters": 3109.0,
+        "latitude": 52.185,
+        "longitude": -117.65583,
+        "name": "Wales Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

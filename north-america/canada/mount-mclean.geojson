@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.06444,
+            50.73111
+        ]
+    },
+    "properties": {
+        "feet": 7962.59868,
+        "meters": 2427.0,
+        "latitude": 50.73111,
+        "longitude": -122.06444,
+        "name": "Mount McLean",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

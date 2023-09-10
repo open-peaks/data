@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.64861,
+            51.34056
+        ]
+    },
+    "properties": {
+        "feet": 9409.44912,
+        "meters": 2868.0,
+        "latitude": 51.34056,
+        "longitude": -116.64861,
+        "name": "Mount King",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

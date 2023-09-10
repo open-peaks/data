@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.45694,
+            52.83056
+        ]
+    },
+    "properties": {
+        "feet": 9517.71684,
+        "meters": 2901.0,
+        "latitude": 52.83056,
+        "longitude": -118.45694,
+        "name": "Mount Fitzwilliam",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

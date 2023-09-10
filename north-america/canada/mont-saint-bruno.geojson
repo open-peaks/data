@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.309944,
+            45.555094
+        ]
+    },
+    "properties": {
+        "feet": 715.22312,
+        "meters": 218.0,
+        "latitude": 45.555094,
+        "longitude": -73.309944,
+        "name": "Mont Saint-Bruno",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

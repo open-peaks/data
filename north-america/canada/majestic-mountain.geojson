@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.21556,
+            52.7575
+        ]
+    },
+    "properties": {
+        "feet": 10124.67224,
+        "meters": 3086.0,
+        "latitude": 52.7575,
+        "longitude": -118.21556,
+        "name": "Majestic Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

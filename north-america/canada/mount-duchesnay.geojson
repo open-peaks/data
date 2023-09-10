@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.45417,
+            51.35694
+        ]
+    },
+    "properties": {
+        "feet": 9603.01868,
+        "meters": 2927.0,
+        "latitude": 51.35694,
+        "longitude": -116.45417,
+        "name": "Mount Duchesnay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

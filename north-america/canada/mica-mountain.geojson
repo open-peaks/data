@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.52806,
+            52.88722
+        ]
+    },
+    "properties": {
+        "feet": 9366.7982,
+        "meters": 2855.0,
+        "latitude": 52.88722,
+        "longitude": -119.52806,
+        "name": "Mica Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

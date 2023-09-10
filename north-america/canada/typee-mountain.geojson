@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.37778,
+            50.95806
+        ]
+    },
+    "properties": {
+        "feet": 9504.59348,
+        "meters": 2897.0,
+        "latitude": 50.95806,
+        "longitude": -117.37778,
+        "name": "Typee Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

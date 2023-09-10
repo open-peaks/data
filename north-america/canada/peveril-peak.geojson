@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.15028,
+            52.75667
+        ]
+    },
+    "properties": {
+        "feet": 8812.33624,
+        "meters": 2686.0,
+        "latitude": 52.75667,
+        "longitude": -118.15028,
+        "name": "Peveril Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

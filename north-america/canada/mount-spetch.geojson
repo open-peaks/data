@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.45722,
+            50.32639
+        ]
+    },
+    "properties": {
+        "feet": 8461.28636,
+        "meters": 2579.0,
+        "latitude": 50.32639,
+        "longitude": -122.45722,
+        "name": "Mount Spetch",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

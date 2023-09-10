@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.825,
-      51.1878
-    ]
-  },
-  "properties": {
-    "feet": 9692,
-    "meters": 2954,
-    "latitude": 51.1878,
-    "longitude": -115.825,
-    "name": "Pilot Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.825,
+            51.18778
+        ]
+    },
+    "properties": {
+        "feet": 9629.2654,
+        "meters": 2935.0,
+        "latitude": 51.18778,
+        "longitude": -115.825,
+        "name": "Pilot Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

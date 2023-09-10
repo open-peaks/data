@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.283,
-      51.3333
-    ]
-  },
-  "properties": {
-    "feet": 11457,
-    "meters": 3492,
-    "latitude": 51.3333,
-    "longitude": -116.283,
-    "name": "Mount Hungabee",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.28389,
+            51.33278
+        ]
+    },
+    "properties": {
+        "feet": 11456.69328,
+        "meters": 3492.0,
+        "latitude": 51.33278,
+        "longitude": -116.28389,
+        "name": "Mount Hungabee",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

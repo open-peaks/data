@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.88972,
+            50.50611
+        ]
+    },
+    "properties": {
+        "feet": 7513.1236,
+        "meters": 2290.0,
+        "latitude": 50.50611,
+        "longitude": -122.88972,
+        "name": "Mount Barbour",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

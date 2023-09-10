@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.26306,
+            51.12944
+        ]
+    },
+    "properties": {
+        "feet": 9468.50424,
+        "meters": 2886.0,
+        "latitude": 51.12944,
+        "longitude": -116.26306,
+        "name": "Mount Gray",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

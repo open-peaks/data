@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -126.0158,
+            -126.0159,
             52.0919
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 9963.91108,
+        "meters": 3037.0,
         "latitude": 52.0919,
-        "longitude": -126.0158,
+        "longitude": -126.0159,
         "name": "Talchako Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

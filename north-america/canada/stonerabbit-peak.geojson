@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.13611,
+            49.48361
+        ]
+    },
+    "properties": {
+        "feet": 6092.51988,
+        "meters": 1857.0,
+        "latitude": 49.48361,
+        "longitude": -122.13611,
+        "name": "Stonerabbit Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

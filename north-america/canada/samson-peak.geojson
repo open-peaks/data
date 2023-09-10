@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.510967,
-      52.680129
-    ]
-  },
-  "properties": {
-    "feet": 10095,
-    "meters": 3077,
-    "latitude": 52.680129,
-    "longitude": -117.510967,
-    "name": "Samson Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.51056,
+            52.68028
+        ]
+    },
+    "properties": {
+        "feet": 10108.26804,
+        "meters": 3081.0,
+        "latitude": 52.68028,
+        "longitude": -117.51056,
+        "name": "Samson Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

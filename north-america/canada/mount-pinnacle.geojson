@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -72.73944,
+            45.04667
+        ]
+    },
+    "properties": {
+        "feet": 2335.95808,
+        "meters": 712.0,
+        "latitude": 45.04667,
+        "longitude": -72.73944,
+        "name": "Mount Pinnacle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Quebec"
+        ]
+    }
+}

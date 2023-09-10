@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.62389,
+            50.425
+        ]
+    },
+    "properties": {
+        "feet": 7893.70104,
+        "meters": 2406.0,
+        "latitude": 50.425,
+        "longitude": -122.62389,
+        "name": "Mount Gardiner",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

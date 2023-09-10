@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.10694,
+            49.00944
+        ]
+    },
+    "properties": {
+        "feet": 8530.184,
+        "meters": 2600.0,
+        "latitude": 49.00944,
+        "longitude": -114.10694,
+        "name": "Akamina Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

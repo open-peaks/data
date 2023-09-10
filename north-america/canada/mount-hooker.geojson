@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.0947222,
+            52.4055556
+        ]
+    },
+    "properties": {
+        "feet": 10784.12108,
+        "meters": 3287.0,
+        "latitude": 52.4055556,
+        "longitude": -118.0947222,
+        "name": "Mount Hooker",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

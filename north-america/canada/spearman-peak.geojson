@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.24139,
+            51.35972
+        ]
+    },
+    "properties": {
+        "feet": 11040.0266,
+        "meters": 3365.0,
+        "latitude": 51.35972,
+        "longitude": -125.24139,
+        "name": "Spearman Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

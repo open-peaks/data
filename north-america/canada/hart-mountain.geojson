@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.42417,
+            52.48139
+        ]
+    },
+    "properties": {
+        "feet": 2700.13132,
+        "meters": 823.0,
+        "latitude": 52.48139,
+        "longitude": -101.42417,
+        "name": "Hart Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

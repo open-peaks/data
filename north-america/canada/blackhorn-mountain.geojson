@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.79889,
+            51.60722
+        ]
+    },
+    "properties": {
+        "feet": 9914.69848,
+        "meters": 3022.0,
+        "latitude": 51.60722,
+        "longitude": -124.79889,
+        "name": "Blackhorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

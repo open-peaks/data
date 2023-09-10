@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.60667,
+            51.59472
+        ]
+    },
+    "properties": {
+        "feet": 10370.73524,
+        "meters": 3161.0,
+        "latitude": 51.59472,
+        "longitude": -116.60667,
+        "name": "Mont des Poilus",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

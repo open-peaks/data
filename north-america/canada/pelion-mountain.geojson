@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.35639,
+            49.86472
+        ]
+    },
+    "properties": {
+        "feet": 7585.30208,
+        "meters": 2312.0,
+        "latitude": 49.86472,
+        "longitude": -123.35639,
+        "name": "Pelion Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

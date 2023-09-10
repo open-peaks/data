@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.8813889,
+            52.9383333
+        ]
+    },
+    "properties": {
+        "feet": 8727.0344,
+        "meters": 2660.0,
+        "latitude": 52.9383333,
+        "longitude": -117.8813889,
+        "name": "Mount Dromore",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

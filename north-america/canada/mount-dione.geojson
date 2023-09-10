@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.32917,
+            49.81583
+        ]
+    },
+    "properties": {
+        "feet": 8494.09476,
+        "meters": 2589.0,
+        "latitude": 49.81583,
+        "longitude": -123.32917,
+        "name": "Mount Dione",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

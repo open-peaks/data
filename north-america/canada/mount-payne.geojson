@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.27472,
+            49.16778
+        ]
+    },
+    "properties": {
+        "feet": 8097.11312,
+        "meters": 2468.0,
+        "latitude": 49.16778,
+        "longitude": -121.27472,
+        "name": "Mount Payne",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.41417,
+            52.805
+        ]
+    },
+    "properties": {
+        "feet": 8825.4596,
+        "meters": 2690.0,
+        "latitude": 52.805,
+        "longitude": -118.41417,
+        "name": "Mount Clairvaux",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

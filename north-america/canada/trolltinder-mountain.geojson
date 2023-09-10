@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.48194,
+            51.55722
+        ]
+    },
+    "properties": {
+        "feet": 9553.80608,
+        "meters": 2912.0,
+        "latitude": 51.55722,
+        "longitude": -116.48194,
+        "name": "Trolltinder Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

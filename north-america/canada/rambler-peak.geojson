@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.83028,
+            49.73361
+        ]
+    },
+    "properties": {
+        "feet": 6863.51728,
+        "meters": 2092.0,
+        "latitude": 49.73361,
+        "longitude": -125.83028,
+        "name": "Rambler Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

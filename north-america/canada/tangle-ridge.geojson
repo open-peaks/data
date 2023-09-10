@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.28167,
+            52.3
+        ]
+    },
+    "properties": {
+        "feet": 9845.80084,
+        "meters": 3001.0,
+        "latitude": 52.3,
+        "longitude": -117.28167,
+        "name": "Tangle Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.05583,
+            52.44833
+        ]
+    },
+    "properties": {
+        "feet": 10826.771999999999,
+        "meters": 3300.0,
+        "latitude": 52.44833,
+        "longitude": -118.05583,
+        "name": "Mount Scott",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

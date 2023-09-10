@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.32083,
+            50.98306
+        ]
+    },
+    "properties": {
+        "feet": 9393.04492,
+        "meters": 2863.0,
+        "latitude": 50.98306,
+        "longitude": -117.32083,
+        "name": "Mainmast Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.84861,
+            50.01861
+        ]
+    },
+    "properties": {
+        "feet": 8001.96876,
+        "meters": 2439.0,
+        "latitude": 50.01861,
+        "longitude": -122.84861,
+        "name": "Fissile Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

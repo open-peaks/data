@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.71667,
+            51.22083
+        ]
+    },
+    "properties": {
+        "feet": 8349.7378,
+        "meters": 2545.0,
+        "latitude": 51.22083,
+        "longitude": -115.71667,
+        "name": "The Finger",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

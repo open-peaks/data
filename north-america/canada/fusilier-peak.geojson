@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.868809,
+            58.34552
+        ]
+    },
+    "properties": {
+        "feet": 9012.46748,
+        "meters": 2747.0,
+        "latitude": 58.34552,
+        "longitude": -124.868809,
+        "name": "Fusilier Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

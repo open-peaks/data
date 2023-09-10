@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.81083,
+            52.53111
+        ]
+    },
+    "properties": {
+        "feet": 10180.44652,
+        "meters": 3103.0,
+        "latitude": 52.53111,
+        "longitude": -117.81083,
+        "name": "Mount Christie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

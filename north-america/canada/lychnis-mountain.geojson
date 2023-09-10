@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.96944,
+            51.48194
+        ]
+    },
+    "properties": {
+        "feet": 10249.34416,
+        "meters": 3124.0,
+        "latitude": 51.48194,
+        "longitude": -115.96944,
+        "name": "Lychnis Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.2,
+            51.2975
+        ]
+    },
+    "properties": {
+        "feet": 10016.40452,
+        "meters": 3053.0,
+        "latitude": 51.2975,
+        "longitude": -116.2,
+        "name": "Tonsa",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

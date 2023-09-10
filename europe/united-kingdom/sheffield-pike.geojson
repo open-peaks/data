@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.9787,
+            54.55508
+        ]
+    },
+    "properties": {
+        "feet": 2214.567,
+        "meters": 675.0,
+        "latitude": 54.55508,
+        "longitude": -2.9787,
+        "name": "Sheffield Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

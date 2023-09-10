@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.82639,
+            50.46917
+        ]
+    },
+    "properties": {
+        "feet": 7513.1236,
+        "meters": 2290.0,
+        "latitude": 50.46917,
+        "longitude": -122.82639,
+        "name": "Mount Ronayne",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

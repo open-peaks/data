@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.70139,
+            49.514389
+        ]
+    },
+    "properties": {
+        "feet": 5954.7246,
+        "meters": 1815.0,
+        "latitude": 49.514389,
+        "longitude": -122.70139,
+        "name": "The Thumb",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

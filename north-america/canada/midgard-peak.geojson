@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.665,
+            49.77778
+        ]
+    },
+    "properties": {
+        "feet": 9209.31788,
+        "meters": 2807.0,
+        "latitude": 49.77778,
+        "longitude": -117.665,
+        "name": "Midgard Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

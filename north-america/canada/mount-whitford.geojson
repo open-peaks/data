@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.87194,
+            54.86778
+        ]
+    },
+    "properties": {
+        "feet": 6519.02908,
+        "meters": 1987.0,
+        "latitude": 54.86778,
+        "longitude": -121.87194,
+        "name": "Mount Whitford",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

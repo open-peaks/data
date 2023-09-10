@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.79694,
+            50.03778
+        ]
+    },
+    "properties": {
+        "feet": 8658.13676,
+        "meters": 2639.0,
+        "latitude": 50.03778,
+        "longitude": -122.79694,
+        "name": "Mount Macbeth",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.32982,
+            54.46365
+        ]
+    },
+    "properties": {
+        "feet": 2270.34128,
+        "meters": 692.0,
+        "latitude": 54.46365,
+        "longitude": -3.32982,
+        "name": "Seatallan",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.48611,
+            51.3
+        ]
+    },
+    "properties": {
+        "feet": 9412.72996,
+        "meters": 2869.0,
+        "latitude": 51.3,
+        "longitude": -115.48611,
+        "name": "Mount Astley",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.90417,
+            49.94778
+        ]
+    },
+    "properties": {
+        "feet": 8254.59344,
+        "meters": 2516.0,
+        "latitude": 49.94778,
+        "longitude": -122.90417,
+        "name": "Mount Davidson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

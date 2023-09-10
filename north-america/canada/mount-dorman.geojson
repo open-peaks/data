@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.4275,
+            50.285
+        ]
+    },
+    "properties": {
+        "feet": 9268.373,
+        "meters": 2825.0,
+        "latitude": 50.285,
+        "longitude": -115.4275,
+        "name": "Mount Dorman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

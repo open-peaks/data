@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.38667,
+            49.53861
+        ]
+    },
+    "properties": {
+        "feet": 6541.99496,
+        "meters": 1994.0,
+        "latitude": 49.53861,
+        "longitude": -125.38667,
+        "name": "Argus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

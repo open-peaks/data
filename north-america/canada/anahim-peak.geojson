@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.62528,
+            52.75778
+        ]
+    },
+    "properties": {
+        "feet": 6223.75348,
+        "meters": 1897.0,
+        "latitude": 52.75778,
+        "longitude": -125.62528,
+        "name": "Anahim Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

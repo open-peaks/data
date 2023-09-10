@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.95861,
+            50.09083
+        ]
+    },
+    "properties": {
+        "feet": 8976.37824,
+        "meters": 2736.0,
+        "latitude": 50.09083,
+        "longitude": -121.95861,
+        "name": "Kwoiek Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

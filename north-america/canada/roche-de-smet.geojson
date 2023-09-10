@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.11639,
+            53.13417
+        ]
+    },
+    "properties": {
+        "feet": 8330.05276,
+        "meters": 2539.0,
+        "latitude": 53.13417,
+        "longitude": -118.11639,
+        "name": "Roche de Smet",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

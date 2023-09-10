@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.59444,
+            52.75278
+        ]
+    },
+    "properties": {
+        "feet": 9317.5856,
+        "meters": 2840.0,
+        "latitude": 52.75278,
+        "longitude": -117.59444,
+        "name": "Opal Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

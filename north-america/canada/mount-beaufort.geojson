@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -63.5,
+            81.9
+        ]
+    },
+    "properties": {
+        "feet": 1312.336,
+        "meters": 400.0,
+        "latitude": 81.9,
+        "longitude": -63.5,
+        "name": "Mount Beaufort",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.591917,
+            49.025611
+        ]
+    },
+    "properties": {
+        "feet": 8001.96876,
+        "meters": 2439.0,
+        "latitude": 49.025611,
+        "longitude": -121.591917,
+        "name": "Slesse Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

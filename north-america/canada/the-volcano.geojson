@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.85,
+            56.42278
+        ]
+    },
+    "properties": {
+        "feet": 5433.07104,
+        "meters": 1656.0,
+        "latitude": 56.42278,
+        "longitude": -130.85,
+        "name": "The Volcano",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

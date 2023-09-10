@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.40889,
+            50.39778
+        ]
+    },
+    "properties": {
+        "feet": 7949.47532,
+        "meters": 2423.0,
+        "latitude": 50.39778,
+        "longitude": -122.40889,
+        "name": "Mount Rohr",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

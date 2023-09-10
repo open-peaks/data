@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.651694,
+            76.385
+        ]
+    },
+    "properties": {
+        "feet": 1351.70608,
+        "meters": 412.0,
+        "latitude": 76.385,
+        "longitude": -101.651694,
+        "name": "Stokes Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

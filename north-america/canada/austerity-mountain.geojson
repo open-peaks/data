@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.91056,
+            51.73444
+        ]
+    },
+    "properties": {
+        "feet": 10948.16308,
+        "meters": 3337.0,
+        "latitude": 51.73444,
+        "longitude": -117.91056,
+        "name": "Austerity Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

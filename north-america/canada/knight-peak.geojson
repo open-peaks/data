@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.63778,
+            49.16861
+        ]
+    },
+    "properties": {
+        "feet": 7332.6774,
+        "meters": 2235.0,
+        "latitude": 49.16861,
+        "longitude": -121.63778,
+        "name": "Knight Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

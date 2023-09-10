@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.05139,
+            51.4725
+        ]
+    },
+    "properties": {
+        "feet": 8648.29424,
+        "meters": 2636.0,
+        "latitude": 51.4725,
+        "longitude": -116.05139,
+        "name": "Heather Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

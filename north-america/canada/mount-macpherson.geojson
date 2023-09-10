@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.28778,
+            50.93194
+        ]
+    },
+    "properties": {
+        "feet": 7962.59868,
+        "meters": 2427.0,
+        "latitude": 50.93194,
+        "longitude": -118.28778,
+        "name": "Mount Macpherson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

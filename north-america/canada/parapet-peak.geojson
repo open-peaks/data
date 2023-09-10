@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.29416,
+            52.66694
+        ]
+    },
+    "properties": {
+        "feet": 9940.9452,
+        "meters": 3030.0,
+        "latitude": 52.66694,
+        "longitude": -118.29416,
+        "name": "Parapet Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

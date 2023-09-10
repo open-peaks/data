@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.84167,
+            50.00889
+        ]
+    },
+    "properties": {
+        "feet": 7962.59868,
+        "meters": 2427.0,
+        "latitude": 50.00889,
+        "longitude": -122.84167,
+        "name": "Whirlwind Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

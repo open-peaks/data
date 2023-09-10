@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.3575,
+            49.26306
+        ]
+    },
+    "properties": {
+        "feet": 7152.2312,
+        "meters": 2180.0,
+        "latitude": 49.26306,
+        "longitude": -121.3575,
+        "name": "Mount Grant",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

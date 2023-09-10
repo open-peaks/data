@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.76417,
+            50.23472
+        ]
+    },
+    "properties": {
+        "feet": 8900.91892,
+        "meters": 2713.0,
+        "latitude": 50.23472,
+        "longitude": -114.76417,
+        "name": "Mount Holcroft",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

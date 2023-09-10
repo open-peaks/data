@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.12634,
+            54.42327
+        ]
+    },
+    "properties": {
+        "feet": 2204.72448,
+        "meters": 672.0,
+        "latitude": 54.42327,
+        "longitude": -2.12634,
+        "name": "Rogan%27s Seat",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

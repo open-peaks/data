@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.59889,
+            51.52972
+        ]
+    },
+    "properties": {
+        "feet": 9238.84544,
+        "meters": 2816.0,
+        "latitude": 51.52972,
+        "longitude": -116.59889,
+        "name": "Mount Pollinger",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

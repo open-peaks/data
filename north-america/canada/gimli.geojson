@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.60917,
+            49.76611
+        ]
+    },
+    "properties": {
+        "feet": 9002.62496,
+        "meters": 2744.0,
+        "latitude": 49.76611,
+        "longitude": -117.60917,
+        "name": "Gimli",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

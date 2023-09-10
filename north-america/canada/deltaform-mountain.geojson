@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.24528,
+            51.30167
+        ]
+    },
+    "properties": {
+        "feet": 11233.59616,
+        "meters": 3424.0,
+        "latitude": 51.30167,
+        "longitude": -116.24528,
+        "name": "Deltaform Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

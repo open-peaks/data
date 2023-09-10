@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.98028,
+            51.83306
+        ]
+    },
+    "properties": {
+        "feet": 10383.8586,
+        "meters": 3165.0,
+        "latitude": 51.83306,
+        "longitude": -116.98028,
+        "name": "Cambrai Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

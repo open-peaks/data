@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.39889,
+            50.96194
+        ]
+    },
+    "properties": {
+        "feet": 9773.62236,
+        "meters": 2979.0,
+        "latitude": 50.96194,
+        "longitude": -117.39889,
+        "name": "Pequod Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.141666,
+            53.115
+        ]
+    },
+    "properties": {
+        "feet": 11220.4728,
+        "meters": 3420.0,
+        "latitude": 53.115,
+        "longitude": -119.141666,
+        "name": "The Helmet",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.243253,
+            46.488448
+        ]
+    },
+    "properties": {
+        "feet": 1742.1260399999999,
+        "meters": 531.0,
+        "latitude": 46.488448,
+        "longitude": -67.243253,
+        "name": "Mount Frederick Clarke",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

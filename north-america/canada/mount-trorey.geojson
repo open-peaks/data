@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.83972,
+            50.05972
+        ]
+    },
+    "properties": {
+        "feet": 8074.14724,
+        "meters": 2461.0,
+        "latitude": 50.05972,
+        "longitude": -122.83972,
+        "name": "Mount Trorey",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

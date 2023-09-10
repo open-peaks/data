@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.71139,
+            50.60667
+        ]
+    },
+    "properties": {
+        "feet": 7808.3992,
+        "meters": 2380.0,
+        "latitude": 50.60667,
+        "longitude": -122.71139,
+        "name": "Tolkien Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

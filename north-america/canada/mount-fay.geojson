@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.16194,
+            51.29944
+        ]
+    },
+    "properties": {
+        "feet": 10613.5174,
+        "meters": 3235.0,
+        "latitude": 51.29944,
+        "longitude": -116.16194,
+        "name": "Mount Fay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

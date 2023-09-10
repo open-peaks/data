@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.92611,
+            51.72388
+        ]
+    },
+    "properties": {
+        "feet": 10777.5594,
+        "meters": 3285.0,
+        "latitude": 51.72388,
+        "longitude": -116.92611,
+        "name": "Mount Pilkington",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.38444,
+            56.83583
+        ]
+    },
+    "properties": {
+        "feet": 6719.16032,
+        "meters": 2048.0,
+        "latitude": 56.83583,
+        "longitude": -125.38444,
+        "name": "Pelly Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

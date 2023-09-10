@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.113,
+            54.476
+        ]
+    },
+    "properties": {
+        "feet": 2500.00008,
+        "meters": 762.0,
+        "latitude": 54.476,
+        "longitude": -3.113,
+        "name": "Codale Head",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

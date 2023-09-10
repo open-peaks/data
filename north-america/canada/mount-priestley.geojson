@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -128.8758,
-            55.2297
+            -128.87583,
+            55.22944
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 55.2297,
-        "longitude": -128.8758,
+        "feet": 7762.46744,
+        "meters": 2366.0,
+        "latitude": 55.22944,
+        "longitude": -128.87583,
         "name": "Mount Priestley",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

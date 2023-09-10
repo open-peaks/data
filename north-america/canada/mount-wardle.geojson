@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.02,
+            50.95917
+        ]
+    },
+    "properties": {
+        "feet": 9202.7562,
+        "meters": 2805.0,
+        "latitude": 50.95917,
+        "longitude": -116.02,
+        "name": "Mount Wardle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

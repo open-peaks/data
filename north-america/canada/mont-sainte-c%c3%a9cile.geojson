@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -70.96278,
+            45.69778
+        ]
+    },
+    "properties": {
+        "feet": 2910.10508,
+        "meters": 887.0,
+        "latitude": 45.69778,
+        "longitude": -70.96278,
+        "name": "Mont Sainte-C%C3%A9cile",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

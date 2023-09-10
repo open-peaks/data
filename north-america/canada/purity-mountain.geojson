@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.46917,
+            51.09472
+        ]
+    },
+    "properties": {
+        "feet": 10331.36516,
+        "meters": 3149.0,
+        "latitude": 51.09472,
+        "longitude": -117.46917,
+        "name": "Purity Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

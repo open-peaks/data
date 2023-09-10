@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.45959,
-      51.27646
-    ]
-  },
-  "properties": {
-    "feet": 9363,
-    "meters": 2854,
-    "latitude": 51.27646,
-    "longitude": -117.45959,
-    "name": "Eagle Peak",
-    "regions": [
-      "Intermountain West",
-      "Columbia Mountains"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.45972,
+            51.27667
+        ]
+    },
+    "properties": {
+        "feet": 9337.27064,
+        "meters": 2846.0,
+        "latitude": 51.27667,
+        "longitude": -117.45972,
+        "name": "Eagle Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

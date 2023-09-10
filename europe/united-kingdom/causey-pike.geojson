@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.21127,
+            54.57634
+        ]
+    },
+    "properties": {
+        "feet": 2089.89508,
+        "meters": 637.0,
+        "latitude": 54.57634,
+        "longitude": -3.21127,
+        "name": "Causey Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

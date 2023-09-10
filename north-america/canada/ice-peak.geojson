@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.63556,
+            57.69056
+        ]
+    },
+    "properties": {
+        "feet": 8287.40184,
+        "meters": 2526.0,
+        "latitude": 57.69056,
+        "longitude": -130.63556,
+        "name": "Ice Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.69806,
+            49.46278
+        ]
+    },
+    "properties": {
+        "feet": 5600.39388,
+        "meters": 1707.0,
+        "latitude": 49.46278,
+        "longitude": -122.69806,
+        "name": "Peneplain Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

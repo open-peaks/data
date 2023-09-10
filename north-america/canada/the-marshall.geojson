@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.69361,
+            50.87944
+        ]
+    },
+    "properties": {
+        "feet": 10433.0712,
+        "meters": 3180.0,
+        "latitude": 50.87944,
+        "longitude": -115.69361,
+        "name": "The Marshall",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

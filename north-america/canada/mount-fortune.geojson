@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.41278,
+            50.89167
+        ]
+    },
+    "properties": {
+        "feet": 7677.1656,
+        "meters": 2340.0,
+        "latitude": 50.89167,
+        "longitude": -115.41278,
+        "name": "Mount Fortune",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

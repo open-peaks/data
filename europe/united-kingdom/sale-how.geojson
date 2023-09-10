@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.146,
+            54.647
+        ]
+    },
+    "properties": {
+        "feet": 3054.46204,
+        "meters": 931.0,
+        "latitude": 54.647,
+        "longitude": -3.146,
+        "name": "Sale How",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

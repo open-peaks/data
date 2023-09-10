@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.16417,
+            51.06556
+        ]
+    },
+    "properties": {
+        "feet": 10511.81136,
+        "meters": 3204.0,
+        "latitude": 51.06556,
+        "longitude": -116.16417,
+        "name": "Vermilion Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

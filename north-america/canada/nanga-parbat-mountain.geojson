@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.86556,
+            51.70583
+        ]
+    },
+    "properties": {
+        "feet": 10629.9216,
+        "meters": 3240.0,
+        "latitude": 51.70583,
+        "longitude": -116.86556,
+        "name": "Nanga Parbat Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

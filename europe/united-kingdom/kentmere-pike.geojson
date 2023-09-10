@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.82685,
+            54.46274
+        ]
+    },
+    "properties": {
+        "feet": 2395.0132,
+        "meters": 730.0,
+        "latitude": 54.46274,
+        "longitude": -2.82685,
+        "name": "Kentmere Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

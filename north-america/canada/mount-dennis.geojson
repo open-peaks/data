@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.48056,
+            51.37444
+        ]
+    },
+    "properties": {
+        "feet": 8362.86116,
+        "meters": 2549.0,
+        "latitude": 51.37444,
+        "longitude": -116.48056,
+        "name": "Mount Dennis",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

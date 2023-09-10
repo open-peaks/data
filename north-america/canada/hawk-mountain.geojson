@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.01806,
+            53.01444
+        ]
+    },
+    "properties": {
+        "feet": 8375.98452,
+        "meters": 2553.0,
+        "latitude": 53.01444,
+        "longitude": -118.01806,
+        "name": "Hawk Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

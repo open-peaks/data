@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.94583,
+            51.74278
+        ]
+    },
+    "properties": {
+        "feet": 10944.88224,
+        "meters": 3336.0,
+        "latitude": 51.74278,
+        "longitude": -116.94583,
+        "name": "Mount Freshfield",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

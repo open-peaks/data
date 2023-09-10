@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.03611,
+            52.13861
+        ]
+    },
+    "properties": {
+        "feet": 8707.34936,
+        "meters": 2654.0,
+        "latitude": 52.13861,
+        "longitude": -126.03611,
+        "name": "Horribilis Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

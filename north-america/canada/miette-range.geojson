@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.76889,
+            53.09722
+        ]
+    },
+    "properties": {
+        "feet": 8536.74568,
+        "meters": 2602.0,
+        "latitude": 53.09722,
+        "longitude": -117.76889,
+        "name": "Miette Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

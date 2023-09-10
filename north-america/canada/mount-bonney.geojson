@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.54111,
+            51.20472
+        ]
+    },
+    "properties": {
+        "feet": 10170.604,
+        "meters": 3100.0,
+        "latitude": 51.20472,
+        "longitude": -117.54111,
+        "name": "Mount Bonney",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

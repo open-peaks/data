@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.23546,
+            54.37008
+        ]
+    },
+    "properties": {
+        "feet": 2349.08144,
+        "meters": 716.0,
+        "latitude": 54.37008,
+        "longitude": -2.23546,
+        "name": "Great Shunner Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

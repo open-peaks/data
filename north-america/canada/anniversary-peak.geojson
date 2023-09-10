@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.7675,
+            50.71583
+        ]
+    },
+    "properties": {
+        "feet": 9668.63548,
+        "meters": 2947.0,
+        "latitude": 50.71583,
+        "longitude": -116.7675,
+        "name": "Anniversary Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

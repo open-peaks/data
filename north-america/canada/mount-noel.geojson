@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.85722,
+            50.71278
+        ]
+    },
+    "properties": {
+        "feet": 8336.61444,
+        "meters": 2541.0,
+        "latitude": 50.71278,
+        "longitude": -122.85722,
+        "name": "Mount Noel",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

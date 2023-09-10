@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.09354,
+            54.68621
+        ]
+    },
+    "properties": {
+        "feet": 2329.3964,
+        "meters": 710.0,
+        "latitude": 54.68621,
+        "longitude": -3.09354,
+        "name": "Knott, Caldbeck",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

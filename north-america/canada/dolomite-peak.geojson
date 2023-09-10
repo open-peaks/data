@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.375,
-      51.675
-    ]
-  },
-  "properties": {
-    "feet": 9127,
-    "meters": 2782,
-    "latitude": 51.675,
-    "longitude": -116.375,
-    "name": "Dolomite Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.3725,
+            51.67583
+        ]
+    },
+    "properties": {
+        "feet": 9835.95832,
+        "meters": 2998.0,
+        "latitude": 51.67583,
+        "longitude": -116.3725,
+        "name": "Dolomite Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

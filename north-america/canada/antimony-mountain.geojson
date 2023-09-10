@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.89306,
+            50.16778
+        ]
+    },
+    "properties": {
+        "feet": 8753.28112,
+        "meters": 2668.0,
+        "latitude": 50.16778,
+        "longitude": -121.89306,
+        "name": "Antimony Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

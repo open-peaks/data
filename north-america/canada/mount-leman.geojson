@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.41333,
+            50.73389
+        ]
+    },
+    "properties": {
+        "feet": 8956.6932,
+        "meters": 2730.0,
+        "latitude": 50.73389,
+        "longitude": -115.41333,
+        "name": "Mount Leman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.73167,
+            52.80139
+        ]
+    },
+    "properties": {
+        "feet": 11535.43344,
+        "meters": 3516.0,
+        "latitude": 52.80139,
+        "longitude": -119.73167,
+        "name": "Premier Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.66833,
+            51.51167
+        ]
+    },
+    "properties": {
+        "feet": 9655.51212,
+        "meters": 2943.0,
+        "latitude": 51.51167,
+        "longitude": -115.66833,
+        "name": "Panther Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

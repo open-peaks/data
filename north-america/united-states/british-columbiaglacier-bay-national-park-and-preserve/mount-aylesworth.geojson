@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.79861,
+            59.92389
+        ]
+    },
+    "properties": {
+        "feet": 9285.0,
+        "meters": 2830.067909437827,
+        "latitude": 59.92389,
+        "longitude": -138.79861,
+        "name": "Mount Aylesworth",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "British ColumbiaGlacier Bay National Park and Preserve"
+        ]
+    }
+}

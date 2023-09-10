@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.41778,
+            49.3475
+        ]
+    },
+    "properties": {
+        "feet": 6049.86896,
+        "meters": 1844.0,
+        "latitude": 49.3475,
+        "longitude": -121.41778,
+        "name": "Hope Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

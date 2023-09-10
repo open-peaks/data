@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.58889,
+            45.50639
+        ]
+    },
+    "properties": {
+        "feet": 764.43572,
+        "meters": 233.0,
+        "latitude": 45.50639,
+        "longitude": -73.58889,
+        "name": "Mount Royal",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

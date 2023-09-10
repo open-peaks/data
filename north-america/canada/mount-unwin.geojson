@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.5278,
-      52.6097
-    ]
-  },
-  "properties": {
-    "feet": 10722,
-    "meters": 3268,
-    "latitude": 52.6097,
-    "longitude": -117.5278,
-    "name": "Mount Unwin",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.52833,
+            52.61083
+        ]
+    },
+    "properties": {
+        "feet": 10721.78512,
+        "meters": 3268.0,
+        "latitude": 52.61083,
+        "longitude": -117.52833,
+        "name": "Mount Unwin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

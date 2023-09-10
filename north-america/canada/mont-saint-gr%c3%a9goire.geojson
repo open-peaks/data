@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.15222,
+            45.35806
+        ]
+    },
+    "properties": {
+        "feet": 823.49084,
+        "meters": 251.0,
+        "latitude": 45.35806,
+        "longitude": -73.15222,
+        "name": "Mont Saint-Gr%C3%A9goire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

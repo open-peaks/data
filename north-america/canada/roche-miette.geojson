@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.91972,
+            53.16333
+        ]
+    },
+    "properties": {
+        "feet": 7598.42544,
+        "meters": 2316.0,
+        "latitude": 53.16333,
+        "longitude": -117.91972,
+        "name": "Roche Miette",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

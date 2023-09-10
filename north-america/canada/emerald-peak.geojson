@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.57028,
+            51.45972
+        ]
+    },
+    "properties": {
+        "feet": 8418.63544,
+        "meters": 2566.0,
+        "latitude": 51.45972,
+        "longitude": -116.57028,
+        "name": "Emerald Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

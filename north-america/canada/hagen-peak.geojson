@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.71806,
+            51.58528
+        ]
+    },
+    "properties": {
+        "feet": 8645.0134,
+        "meters": 2635.0,
+        "latitude": 51.58528,
+        "longitude": -116.71806,
+        "name": "Hagen Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

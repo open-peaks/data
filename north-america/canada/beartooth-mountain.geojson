@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.29306,
+            50.10528
+        ]
+    },
+    "properties": {
+        "feet": 6243.43852,
+        "meters": 1903.0,
+        "latitude": 50.10528,
+        "longitude": -124.29306,
+        "name": "Beartooth Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

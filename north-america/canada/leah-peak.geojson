@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.55389,
+            52.71222
+        ]
+    },
+    "properties": {
+        "feet": 9189.63284,
+        "meters": 2801.0,
+        "latitude": 52.71222,
+        "longitude": -117.55389,
+        "name": "Leah Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

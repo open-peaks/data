@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.26951,
+            54.55867
+        ]
+    },
+    "properties": {
+        "feet": 2165.3544,
+        "meters": 660.0,
+        "latitude": 54.55867,
+        "longitude": -3.26951,
+        "name": "Whiteless Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

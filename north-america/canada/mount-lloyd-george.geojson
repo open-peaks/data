@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.998056,
+            57.895556
+        ]
+    },
+    "properties": {
+        "feet": 9639.10792,
+        "meters": 2938.0,
+        "latitude": 57.895556,
+        "longitude": -124.998056,
+        "name": "Mount Lloyd George",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

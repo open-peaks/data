@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.13167,
+            51.96583
+        ]
+    },
+    "properties": {
+        "feet": 10515.0922,
+        "meters": 3205.0,
+        "latitude": 51.96583,
+        "longitude": -117.13167,
+        "name": "Farbus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

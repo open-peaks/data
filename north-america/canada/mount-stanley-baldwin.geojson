@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.60583,
+            52.82444
+        ]
+    },
+    "properties": {
+        "feet": 10682.41504,
+        "meters": 3256.0,
+        "latitude": 52.82444,
+        "longitude": -119.60583,
+        "name": "Mount Stanley Baldwin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

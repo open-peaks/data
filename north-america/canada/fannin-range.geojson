@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.9775,
+            49.56944
+        ]
+    },
+    "properties": {
+        "feet": 5164.04216,
+        "meters": 1574.0,
+        "latitude": 49.56944,
+        "longitude": -122.9775,
+        "name": "Fannin Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.60139,
+            45.08222
+        ]
+    },
+    "properties": {
+        "feet": 2870.735,
+        "meters": 875.0,
+        "latitude": 45.08222,
+        "longitude": -71.60139,
+        "name": "Mount Hereford",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

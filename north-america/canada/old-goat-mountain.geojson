@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.3717,
-      50.94
-    ]
-  },
-  "properties": {
-    "feet": 10236,
-    "meters": 3120,
-    "latitude": 50.94,
-    "longitude": -115.3717,
-    "name": "Old Goat Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.3725,
+            50.94444
+        ]
+    },
+    "properties": {
+        "feet": 10236.2208,
+        "meters": 3120.0,
+        "latitude": 50.94444,
+        "longitude": -115.3725,
+        "name": "Old Goat Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

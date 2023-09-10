@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.861667,
+            53.187778
+        ]
+    },
+    "properties": {
+        "feet": 9770.34152,
+        "meters": 2978.0,
+        "latitude": 53.187778,
+        "longitude": -118.861667,
+        "name": "Upright Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

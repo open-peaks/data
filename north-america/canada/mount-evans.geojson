@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.1294444,
+            52.4419444
+        ]
+    },
+    "properties": {
+        "feet": 10531.4964,
+        "meters": 3210.0,
+        "latitude": 52.4419444,
+        "longitude": -118.1294444,
+        "name": "Mount Evans",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

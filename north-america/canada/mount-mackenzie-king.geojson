@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.750806,
+            52.775806
+        ]
+    },
+    "properties": {
+        "feet": 10610.23656,
+        "meters": 3234.0,
+        "latitude": 52.775806,
+        "longitude": -119.750806,
+        "name": "Mount Mackenzie King",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

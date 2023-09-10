@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.98441,
+            54.53526
+        ]
+    },
+    "properties": {
+        "feet": 2355.64312,
+        "meters": 718.0,
+        "latitude": 54.53526,
+        "longitude": -2.98441,
+        "name": "Birkhouse Moor",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.95472,
+            51.43722
+        ]
+    },
+    "properties": {
+        "feet": 8648.29424,
+        "meters": 2636.0,
+        "latitude": 51.43722,
+        "longitude": -119.95472,
+        "name": "Dunn Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.80167,
+            51.71667
+        ]
+    },
+    "properties": {
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 51.71667,
+        "longitude": -116.80167,
+        "name": "Mount Low",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.45139,
+            58.90889
+        ]
+    },
+    "properties": {
+        "feet": 13615.486,
+        "meters": 4150.0,
+        "latitude": 58.90889,
+        "longitude": -137.45139,
+        "name": "Mount Quincy Adams",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

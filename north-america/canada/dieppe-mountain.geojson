@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.485833,
+            58.475278
+        ]
+    },
+    "properties": {
+        "feet": 9393.04492,
+        "meters": 2863.0,
+        "latitude": 58.475278,
+        "longitude": -125.485833,
+        "name": "Dieppe Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.86389,
+            54.93
+        ]
+    },
+    "properties": {
+        "feet": 7860.89264,
+        "meters": 2396.0,
+        "latitude": 54.93,
+        "longitude": -126.86389,
+        "name": "Mount Cronin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.49944,
+            50.32889
+        ]
+    },
+    "properties": {
+        "feet": 7604.98712,
+        "meters": 2318.0,
+        "latitude": 50.32889,
+        "longitude": -122.49944,
+        "name": "Mount Taylor",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.23,
+            52.38028
+        ]
+    },
+    "properties": {
+        "feet": 9156.82444,
+        "meters": 2791.0,
+        "latitude": 52.38028,
+        "longitude": -118.23,
+        "name": "Mount Brown",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

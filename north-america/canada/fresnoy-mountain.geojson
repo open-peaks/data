@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.2169,
+            51.9966
+        ]
+    },
+    "properties": {
+        "feet": 10629.9216,
+        "meters": 3240.0,
+        "latitude": 51.9966,
+        "longitude": -117.2169,
+        "name": "Fresnoy Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

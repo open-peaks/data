@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.17,
+            52.81222
+        ]
+    },
+    "properties": {
+        "feet": 9251.9688,
+        "meters": 2820.0,
+        "latitude": 52.81222,
+        "longitude": -118.17,
+        "name": "Indian Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

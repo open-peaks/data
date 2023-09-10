@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.9975,
+            51.48472
+        ]
+    },
+    "properties": {
+        "feet": 8500.65644,
+        "meters": 2591.0,
+        "latitude": 51.48472,
+        "longitude": -115.9975,
+        "name": "Tilted Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

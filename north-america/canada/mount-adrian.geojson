@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.529417,
+            49.756389
+        ]
+    },
+    "properties": {
+        "feet": 6135.1708,
+        "meters": 1870.0,
+        "latitude": 49.756389,
+        "longitude": -125.529417,
+        "name": "Mount Adrian",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

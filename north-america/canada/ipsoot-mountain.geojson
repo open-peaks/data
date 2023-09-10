@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.99167,
+            50.32556
+        ]
+    },
+    "properties": {
+        "feet": 8451.44384,
+        "meters": 2576.0,
+        "latitude": 50.32556,
+        "longitude": -122.99167,
+        "name": "Ipsoot Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

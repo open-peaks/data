@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.08806,
+            58.85694
+        ]
+    },
+    "properties": {
+        "feet": 6469.81648,
+        "meters": 1972.0,
+        "latitude": 58.85694,
+        "longitude": -132.08806,
+        "name": "Nahlin Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

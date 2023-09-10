@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.26333,
+            51.37361
+        ]
+    },
+    "properties": {
+        "feet": 13185.69596,
+        "meters": 4019.0,
+        "latitude": 51.37361,
+        "longitude": -125.26333,
+        "name": "Waddington Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

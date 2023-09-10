@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.35028,
+            52.35444
+        ]
+    },
+    "properties": {
+        "feet": 1043.30712,
+        "meters": 318.0,
+        "latitude": 52.35444,
+        "longitude": -128.35028,
+        "name": "Helmet Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

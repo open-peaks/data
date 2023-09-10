@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.55194,
+            51.28306
+        ]
+    },
+    "properties": {
+        "feet": 8467.84804,
+        "meters": 2581.0,
+        "latitude": 51.28306,
+        "longitude": -117.55194,
+        "name": "Cheops Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

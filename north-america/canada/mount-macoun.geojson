@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.38361,
+            51.19361
+        ]
+    },
+    "properties": {
+        "feet": 9940.9452,
+        "meters": 3030.0,
+        "latitude": 51.19361,
+        "longitude": -117.38361,
+        "name": "Mount Macoun",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

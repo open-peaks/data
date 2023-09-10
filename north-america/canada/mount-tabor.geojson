@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.45194,
+            53.91333
+        ]
+    },
+    "properties": {
+        "feet": 4091.20748,
+        "meters": 1247.0,
+        "latitude": 53.91333,
+        "longitude": -122.45194,
+        "name": "Mount Tabor",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

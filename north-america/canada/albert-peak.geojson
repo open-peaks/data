@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.85056,
+            51.03806
+        ]
+    },
+    "properties": {
+        "feet": 9990.157799999999,
+        "meters": 3045.0,
+        "latitude": 51.03806,
+        "longitude": -117.85056,
+        "name": "Albert Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

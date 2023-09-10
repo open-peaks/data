@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.29611,
+            56.77167
+        ]
+    },
+    "properties": {
+        "feet": 6069.554,
+        "meters": 1850.0,
+        "latitude": 56.77167,
+        "longitude": -131.29611,
+        "name": "Hoodoo Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

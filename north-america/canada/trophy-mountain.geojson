@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.87556,
+            51.79944
+        ]
+    },
+    "properties": {
+        "feet": 8454.72468,
+        "meters": 2577.0,
+        "latitude": 51.79944,
+        "longitude": -119.87556,
+        "name": "Trophy Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.34,
+            51.34444
+        ]
+    },
+    "properties": {
+        "feet": 8828.74044,
+        "meters": 2691.0,
+        "latitude": 51.34444,
+        "longitude": -116.34,
+        "name": "Mount Schaffer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

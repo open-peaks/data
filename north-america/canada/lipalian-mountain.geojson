@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.09722,
+            51.42694
+        ]
+    },
+    "properties": {
+        "feet": 8799.21288,
+        "meters": 2682.0,
+        "latitude": 51.42694,
+        "longitude": -116.09722,
+        "name": "Lipalian Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

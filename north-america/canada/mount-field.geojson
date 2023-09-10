@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.46278,
+            51.43083
+        ]
+    },
+    "properties": {
+        "feet": 8671.26012,
+        "meters": 2643.0,
+        "latitude": 51.43083,
+        "longitude": -116.46278,
+        "name": "Mount Field",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

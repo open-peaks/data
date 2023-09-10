@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.69306,
+            51.22306
+        ]
+    },
+    "properties": {
+        "feet": 8599.08164,
+        "meters": 2621.0,
+        "latitude": 51.22306,
+        "longitude": -115.69306,
+        "name": "Mount Fifi",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

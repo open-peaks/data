@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.15694,
+            53.10167
+        ]
+    },
+    "properties": {
+        "feet": 8835.30212,
+        "meters": 2693.0,
+        "latitude": 53.10167,
+        "longitude": -118.15694,
+        "name": "Gargoyle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

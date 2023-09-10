@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -129.93694,
+            55.90972
+        ]
+    },
+    "properties": {
+        "feet": 6505.90572,
+        "meters": 1983.0,
+        "latitude": 55.90972,
+        "longitude": -129.93694,
+        "name": "Mount Rainey",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

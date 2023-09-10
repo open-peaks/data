@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.75028,
+            50.93
+        ]
+    },
+    "properties": {
+        "feet": 9816.27328,
+        "meters": 2992.0,
+        "latitude": 50.93,
+        "longitude": -115.75028,
+        "name": "Indian Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

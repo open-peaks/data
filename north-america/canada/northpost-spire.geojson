@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.76806,
+            50.76861
+        ]
+    },
+    "properties": {
+        "feet": 9550.525239999999,
+        "meters": 2911.0,
+        "latitude": 50.76861,
+        "longitude": -116.76806,
+        "name": "Northpost Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

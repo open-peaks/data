@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -122.7933,
-            50.1331
+            -122.79333,
+            50.13306
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.1331,
-        "longitude": -122.7933,
+        "feet": 9498.0318,
+        "meters": 2895.0,
+        "latitude": 50.13306,
+        "longitude": -122.79333,
         "name": "Wedge Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

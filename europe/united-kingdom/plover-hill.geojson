@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.23281,
+            54.17237
+        ]
+    },
+    "properties": {
+        "feet": 2230.9712,
+        "meters": 680.0,
+        "latitude": 54.17237,
+        "longitude": -2.23281,
+        "name": "Plover Hill",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

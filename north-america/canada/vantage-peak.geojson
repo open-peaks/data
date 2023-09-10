@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.40306,
+            50.33222
+        ]
+    },
+    "properties": {
+        "feet": 7332.6774,
+        "meters": 2235.0,
+        "latitude": 50.33222,
+        "longitude": -122.40306,
+        "name": "Vantage Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

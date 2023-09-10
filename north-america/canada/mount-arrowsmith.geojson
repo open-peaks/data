@@ -1,27 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -124.6,
-      49.2167
-    ]
-  },
-  "properties": {
-    "feet": 5968,
-    "meters": 1819,
-    "latitude": 49.2167,
-    "longitude": -124.6,
-    "name": "Mount Arrowsmith",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.59444,
+            49.22361
+        ]
+    },
+    "properties": {
+        "feet": 5967.84796,
+        "meters": 1819.0,
+        "latitude": 49.22361,
+        "longitude": -124.59444,
+        "name": "Mount Arrowsmith",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
 }

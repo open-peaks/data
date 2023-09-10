@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.48694,
+            49.90972
+        ]
+    },
+    "properties": {
+        "feet": 7244.09472,
+        "meters": 2208.0,
+        "latitude": 49.90972,
+        "longitude": -123.48694,
+        "name": "Mount Jimmy Jimmy",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

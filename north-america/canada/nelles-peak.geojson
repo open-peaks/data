@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.91472,
+            58.80417
+        ]
+    },
+    "properties": {
+        "feet": 8303.80604,
+        "meters": 2531.0,
+        "latitude": 58.80417,
+        "longitude": -133.91472,
+        "name": "Nelles Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.36778,
+            50.89306
+        ]
+    },
+    "properties": {
+        "feet": 9412.72996,
+        "meters": 2869.0,
+        "latitude": 50.89306,
+        "longitude": -117.36778,
+        "name": "Wrong Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

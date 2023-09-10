@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.71611,
+            51.89917
+        ]
+    },
+    "properties": {
+        "feet": 9845.80084,
+        "meters": 3001.0,
+        "latitude": 51.89917,
+        "longitude": -117.71611,
+        "name": "Sophist Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

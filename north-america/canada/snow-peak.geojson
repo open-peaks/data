@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.38556,
+            50.77278
+        ]
+    },
+    "properties": {
+        "feet": 9150.26276,
+        "meters": 2789.0,
+        "latitude": 50.77278,
+        "longitude": -115.38556,
+        "name": "Snow Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

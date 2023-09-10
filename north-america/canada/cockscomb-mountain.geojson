@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.724788,
-      51.236933
-    ]
-  },
-  "properties": {
-    "feet": 9108,
-    "meters": 2776,
-    "latitude": 51.236933,
-    "longitude": -115.724788,
-    "name": "Cockscomb Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.725,
+            51.23667
+        ]
+    },
+    "properties": {
+        "feet": 9107.61184,
+        "meters": 2776.0,
+        "latitude": 51.23667,
+        "longitude": -115.725,
+        "name": "Cockscomb Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

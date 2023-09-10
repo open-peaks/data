@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.11139,
+            52.14833
+        ]
+    },
+    "properties": {
+        "feet": 9199.47536,
+        "meters": 2804.0,
+        "latitude": 52.14833,
+        "longitude": -117.11139,
+        "name": "Big Bend Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

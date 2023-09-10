@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.37389,
+            50.88944
+        ]
+    },
+    "properties": {
+        "feet": 8792.6512,
+        "meters": 2680.0,
+        "latitude": 50.88944,
+        "longitude": -118.37389,
+        "name": "Mount English",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

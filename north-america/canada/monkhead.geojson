@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.392006,
-      52.582296
-    ]
-  },
-  "properties": {
-    "feet": 10561,
-    "meters": 3219,
-    "latitude": 52.582296,
-    "longitude": -117.392006,
-    "name": "Monkhead",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.38917,
+            52.57944
+        ]
+    },
+    "properties": {
+        "feet": 10662.73,
+        "meters": 3250.0,
+        "latitude": 52.57944,
+        "longitude": -117.38917,
+        "name": "Monkhead",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

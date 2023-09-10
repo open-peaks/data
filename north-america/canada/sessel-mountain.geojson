@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.17667,
+            50.65083
+        ]
+    },
+    "properties": {
+        "feet": 9009.18664,
+        "meters": 2746.0,
+        "latitude": 50.65083,
+        "longitude": -123.17667,
+        "name": "Sessel Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

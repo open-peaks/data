@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.36444,
+            53.9325
+        ]
+    },
+    "properties": {
+        "feet": 6860.23644,
+        "meters": 2091.0,
+        "latitude": 53.9325,
+        "longitude": -121.36444,
+        "name": "Longworth Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

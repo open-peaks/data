@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.74417,
+            49.8275
+        ]
+    },
+    "properties": {
+        "feet": 8996.06328,
+        "meters": 2742.0,
+        "latitude": 49.8275,
+        "longitude": -117.74417,
+        "name": "Black Prince Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

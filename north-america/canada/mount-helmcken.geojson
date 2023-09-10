@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.57806,
+            48.40917
+        ]
+    },
+    "properties": {
+        "feet": 1076.11552,
+        "meters": 328.0,
+        "latitude": 48.40917,
+        "longitude": -123.57806,
+        "name": "Mount Helmcken",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

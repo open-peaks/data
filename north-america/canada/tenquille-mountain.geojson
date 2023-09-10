@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.94278,
+            50.55
+        ]
+    },
+    "properties": {
+        "feet": 7844.48844,
+        "meters": 2391.0,
+        "latitude": 50.55,
+        "longitude": -122.94278,
+        "name": "Tenquille Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.3383333,
+            52.7958333
+        ]
+    },
+    "properties": {
+        "feet": 9425.85332,
+        "meters": 2873.0,
+        "latitude": 52.7958333,
+        "longitude": -118.3383333,
+        "name": "Curia Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

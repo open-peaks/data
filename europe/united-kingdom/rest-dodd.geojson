@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.87889,
+            54.5154
+        ]
+    },
+    "properties": {
+        "feet": 2283.46464,
+        "meters": 696.0,
+        "latitude": 54.5154,
+        "longitude": -2.87889,
+        "name": "Rest Dodd",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

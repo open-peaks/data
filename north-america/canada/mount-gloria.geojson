@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.6075,
+            50.84583
+        ]
+    },
+    "properties": {
+        "feet": 9540.68272,
+        "meters": 2908.0,
+        "latitude": 50.84583,
+        "longitude": -115.6075,
+        "name": "Mount Gloria",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

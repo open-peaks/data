@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.61806,
+            51.72472
+        ]
+    },
+    "properties": {
+        "feet": 10078.74048,
+        "meters": 3072.0,
+        "latitude": 51.72472,
+        "longitude": -116.61806,
+        "name": "Barbette Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

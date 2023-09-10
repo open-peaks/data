@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.52583,
+            52.95306
+        ]
+    },
+    "properties": {
+        "feet": 9612.8612,
+        "meters": 2930.0,
+        "latitude": 52.95306,
+        "longitude": -118.52583,
+        "name": "Mount Bridgland",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

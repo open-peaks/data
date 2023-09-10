@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.26222,
+            51.36333
+        ]
+    },
+    "properties": {
+        "feet": 9350.394,
+        "meters": 2850.0,
+        "latitude": 51.36333,
+        "longitude": -116.26222,
+        "name": "The Mitre",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

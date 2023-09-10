@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.5,
+            49.34333
+        ]
+    },
+    "properties": {
+        "feet": 5085.302,
+        "meters": 1550.0,
+        "latitude": 49.34333,
+        "longitude": -122.5,
+        "name": "Blanshard Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

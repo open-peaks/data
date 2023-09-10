@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.15611,
+            50.57278
+        ]
+    },
+    "properties": {
+        "feet": 10479.00296,
+        "meters": 3194.0,
+        "latitude": 50.57278,
+        "longitude": -115.15611,
+        "name": "Mount Foch",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

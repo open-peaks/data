@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -119.2667,
-            53.1369
+            -119.26667,
+            53.13694
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.1369,
-        "longitude": -119.2667,
+        "feet": 11151.57516,
+        "meters": 3399.0,
+        "latitude": 53.13694,
+        "longitude": -119.26667,
         "name": "Whitehorn Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

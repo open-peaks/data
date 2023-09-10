@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.43722,
+            58.47861
+        ]
+    },
+    "properties": {
+        "feet": 7099.73776,
+        "meters": 2164.0,
+        "latitude": 58.47861,
+        "longitude": -131.43722,
+        "name": "Level Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

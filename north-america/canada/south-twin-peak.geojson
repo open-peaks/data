@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4347222,
+            52.2038889
+        ]
+    },
+    "properties": {
+        "feet": 11699.47544,
+        "meters": 3566.0,
+        "latitude": 52.2038889,
+        "longitude": -117.4347222,
+        "name": "South Twin Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

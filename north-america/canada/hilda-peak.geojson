@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.177086,
-      52.191088
-    ]
-  },
-  "properties": {
-    "feet": 10039,
-    "meters": 3060,
-    "latitude": 52.191088,
-    "longitude": -117.177086,
-    "name": "Hilda Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1775,
+            52.23944
+        ]
+    },
+    "properties": {
+        "feet": 10032.808719999999,
+        "meters": 3058.0,
+        "latitude": 52.23944,
+        "longitude": -117.1775,
+        "name": "Hilda Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

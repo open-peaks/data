@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.43639,
+            51.39889
+        ]
+    },
+    "properties": {
+        "feet": 10495.40716,
+        "meters": 3199.0,
+        "latitude": 51.39889,
+        "longitude": -116.43639,
+        "name": "Mount Stephen",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

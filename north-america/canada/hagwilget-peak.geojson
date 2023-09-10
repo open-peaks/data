@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.60111,
+            55.19833
+        ]
+    },
+    "properties": {
+        "feet": 6811.02384,
+        "meters": 2076.0,
+        "latitude": 55.19833,
+        "longitude": -127.60111,
+        "name": "Hagwilget Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

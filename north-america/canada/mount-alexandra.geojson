@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.19833,
+            51.98083
+        ]
+    },
+    "properties": {
+        "feet": 11158.13684,
+        "meters": 3401.0,
+        "latitude": 51.98083,
+        "longitude": -117.19833,
+        "name": "Mount Alexandra",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

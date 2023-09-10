@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.28972,
+            50.66944
+        ]
+    },
+    "properties": {
+        "feet": 9855.64336,
+        "meters": 3004.0,
+        "latitude": 50.66944,
+        "longitude": -115.28972,
+        "name": "Mount Beatty",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

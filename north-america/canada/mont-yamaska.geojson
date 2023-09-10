@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -72.87194,
+            45.45694
+        ]
+    },
+    "properties": {
+        "feet": 1348.42524,
+        "meters": 411.0,
+        "latitude": 45.45694,
+        "longitude": -72.87194,
+        "name": "Mont Yamaska",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

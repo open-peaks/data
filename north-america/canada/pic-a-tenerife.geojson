@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -57.92306,
+            49.43611
+        ]
+    },
+    "properties": {
+        "feet": 1788.0578,
+        "meters": 545.0,
+        "latitude": 49.43611,
+        "longitude": -57.92306,
+        "name": "Pic a Tenerife",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

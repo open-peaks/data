@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.404511,
-      51.236987
-    ]
-  },
-  "properties": {
-    "feet": 9826,
-    "meters": 2995,
-    "latitude": 51.236987,
-    "longitude": -115.404511,
-    "name": "Mount Girouard",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.40306,
+            51.23611
+        ]
+    },
+    "properties": {
+        "feet": 9826.1158,
+        "meters": 2995.0,
+        "latitude": 51.23611,
+        "longitude": -115.40306,
+        "name": "Mount Girouard",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

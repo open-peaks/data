@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.98556,
+            49.90861
+        ]
+    },
+    "properties": {
+        "feet": 7142.38868,
+        "meters": 2177.0,
+        "latitude": 49.90861,
+        "longitude": -122.98556,
+        "name": "Guard Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

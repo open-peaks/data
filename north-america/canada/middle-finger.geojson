@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.705,
+            49.51611
+        ]
+    },
+    "properties": {
+        "feet": 6200.7876,
+        "meters": 1890.0,
+        "latitude": 49.51611,
+        "longitude": -122.705,
+        "name": "Middle Finger",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

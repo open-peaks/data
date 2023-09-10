@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.84,
+            50.36139
+        ]
+    },
+    "properties": {
+        "feet": 9327.42812,
+        "meters": 2843.0,
+        "latitude": 50.36139,
+        "longitude": -121.84,
+        "name": "Siwhe Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

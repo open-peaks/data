@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.0725,
+            50.59917
+        ]
+    },
+    "properties": {
+        "feet": 8152.8874,
+        "meters": 2485.0,
+        "latitude": 50.59917,
+        "longitude": -123.0725,
+        "name": "Face Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

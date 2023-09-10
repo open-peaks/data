@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.85472,
+            51.9525
+        ]
+    },
+    "properties": {
+        "feet": 7772.30996,
+        "meters": 2369.0,
+        "latitude": 51.9525,
+        "longitude": -119.85472,
+        "name": "Battle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

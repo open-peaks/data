@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.434307,
-      51.62537
-    ]
-  },
-  "properties": {
-    "feet": 10007,
-    "meters": 3050,
-    "latitude": 51.62537,
-    "longitude": -116.434307,
-    "name": "Crowfoot Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.43333,
+            51.625
+        ]
+    },
+    "properties": {
+        "feet": 10022.9662,
+        "meters": 3055.0,
+        "latitude": 51.625,
+        "longitude": -116.43333,
+        "name": "Crowfoot Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

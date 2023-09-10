@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.724417,
+            49.504389
+        ]
+    },
+    "properties": {
+        "feet": 5711.94244,
+        "meters": 1741.0,
+        "latitude": 49.504389,
+        "longitude": -122.724417,
+        "name": "The Forefinger",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

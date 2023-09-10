@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.51333,
+            49.95833
+        ]
+    },
+    "properties": {
+        "feet": 9009.18664,
+        "meters": 2746.0,
+        "latitude": 49.95833,
+        "longitude": -117.51333,
+        "name": "Mount Denver",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

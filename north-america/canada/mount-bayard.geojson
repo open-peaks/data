@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.10361,
+            56.12278
+        ]
+    },
+    "properties": {
+        "feet": 6558.39916,
+        "meters": 1999.0,
+        "latitude": 56.12278,
+        "longitude": -130.10361,
+        "name": "Mount Bayard",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

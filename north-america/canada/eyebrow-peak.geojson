@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.68139,
+            50.4825
+        ]
+    },
+    "properties": {
+        "feet": 11030.184079999999,
+        "meters": 3362.0,
+        "latitude": 50.4825,
+        "longitude": -116.68139,
+        "name": "Eyebrow Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

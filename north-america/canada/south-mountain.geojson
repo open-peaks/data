@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -64.583,
+            44.833
+        ]
+    },
+    "properties": {
+        "feet": 917.9790320000001,
+        "meters": 279.8,
+        "latitude": 44.833,
+        "longitude": -64.583,
+        "name": "South Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

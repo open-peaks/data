@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.06639,
+            53.23833
+        ]
+    },
+    "properties": {
+        "feet": 8077.42808,
+        "meters": 2462.0,
+        "latitude": 53.23833,
+        "longitude": -118.06639,
+        "name": "Coronach Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

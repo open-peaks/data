@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.397327,
-      52.311942
-    ]
-  },
-  "properties": {
-    "feet": 10531,
-    "meters": 3210,
-    "latitude": 52.311942,
-    "longitude": -117.397327,
-    "name": "Mushroom Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.39722,
+            52.31167
+        ]
+    },
+    "properties": {
+        "feet": 10531.4964,
+        "meters": 3210.0,
+        "latitude": 52.31167,
+        "longitude": -117.39722,
+        "name": "Mushroom Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

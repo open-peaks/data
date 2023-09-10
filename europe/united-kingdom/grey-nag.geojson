@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.54897,
+            54.79324
+        ]
+    },
+    "properties": {
+        "feet": 2178.4777599999998,
+        "meters": 664.0,
+        "latitude": 54.79324,
+        "longitude": -2.54897,
+        "name": "Grey Nag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

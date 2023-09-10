@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.6716667,
+            52.1977778
+        ]
+    },
+    "properties": {
+        "feet": 10538.05808,
+        "meters": 3212.0,
+        "latitude": 52.1977778,
+        "longitude": -117.6716667,
+        "name": "Chaba Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

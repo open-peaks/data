@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.60083,
+            49.16
+        ]
+    },
+    "properties": {
+        "feet": 7975.72204,
+        "meters": 2431.0,
+        "latitude": 49.16,
+        "longitude": -121.60083,
+        "name": "Welch Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

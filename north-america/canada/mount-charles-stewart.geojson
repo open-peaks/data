@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.333306,
+            51.155
+        ]
+    },
+    "properties": {
+        "feet": 9215.87956,
+        "meters": 2809.0,
+        "latitude": 51.155,
+        "longitude": -115.333306,
+        "name": "Mount Charles Stewart",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.49194,
+            46.67917
+        ]
+    },
+    "properties": {
+        "feet": 1410.7612,
+        "meters": 430.0,
+        "latitude": 46.67917,
+        "longitude": -60.49194,
+        "name": "Franey Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nova Scotia"
+        ]
+    }
+}

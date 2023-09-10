@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.64861,
+            50.86472
+        ]
+    },
+    "properties": {
+        "feet": 11246.71952,
+        "meters": 3428.0,
+        "latitude": 50.86472,
+        "longitude": -115.64861,
+        "name": "Lunette Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

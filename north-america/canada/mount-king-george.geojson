@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.405,
+            50.59639
+        ]
+    },
+    "properties": {
+        "feet": 11197.50692,
+        "meters": 3413.0,
+        "latitude": 50.59639,
+        "longitude": -115.405,
+        "name": "Mount King George",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

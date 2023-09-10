@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.31222,
+            51.37028
+        ]
+    },
+    "properties": {
+        "feet": 10984.25232,
+        "meters": 3348.0,
+        "latitude": 51.37028,
+        "longitude": -116.31222,
+        "name": "Mount Huber",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

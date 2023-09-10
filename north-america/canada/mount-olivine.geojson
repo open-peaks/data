@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -66.11364,
+            48.91272
+        ]
+    },
+    "properties": {
+        "feet": 2198.1628,
+        "meters": 670.0,
+        "latitude": 48.91272,
+        "longitude": -66.11364,
+        "name": "Mount Olivine",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

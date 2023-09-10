@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.98167,
+            52.03694
+        ]
+    },
+    "properties": {
+        "feet": 10921.91636,
+        "meters": 3329.0,
+        "latitude": 52.03694,
+        "longitude": -116.98167,
+        "name": "Mount Amery",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

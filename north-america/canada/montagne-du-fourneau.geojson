@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.86833,
+            47.70944
+        ]
+    },
+    "properties": {
+        "feet": 1213.91,
+        "meters": 369.99975616000785,
+        "latitude": 47.70944,
+        "longitude": -68.86833,
+        "name": "Montagne du Fourneau",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

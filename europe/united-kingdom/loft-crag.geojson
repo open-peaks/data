@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.11665,
+            54.45412
+        ]
+    },
+    "properties": {
+        "feet": 2237.53288,
+        "meters": 682.0,
+        "latitude": 54.45412,
+        "longitude": -3.11665,
+        "name": "Loft Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

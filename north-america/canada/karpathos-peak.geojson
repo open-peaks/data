@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.91083,
+            52.48278
+        ]
+    },
+    "properties": {
+        "feet": 9799.86908,
+        "meters": 2987.0,
+        "latitude": 52.48278,
+        "longitude": -117.91083,
+        "name": "Karpathos Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

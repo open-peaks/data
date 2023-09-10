@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.795,
+            50.71278
+        ]
+    },
+    "properties": {
+        "feet": 10049.21292,
+        "meters": 3063.0,
+        "latitude": 50.71278,
+        "longitude": -116.795,
+        "name": "Flattop Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

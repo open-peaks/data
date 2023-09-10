@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.03556,
+            49.9175
+        ]
+    },
+    "properties": {
+        "feet": 6722.44116,
+        "meters": 2049.0,
+        "latitude": 49.9175,
+        "longitude": -123.03556,
+        "name": "Mount Price",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

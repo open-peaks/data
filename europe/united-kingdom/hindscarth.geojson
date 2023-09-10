@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.21476,
+            54.53766
+        ]
+    },
+    "properties": {
+        "feet": 2385.17068,
+        "meters": 727.0,
+        "latitude": 54.53766,
+        "longitude": -3.21476,
+        "name": "Hindscarth",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

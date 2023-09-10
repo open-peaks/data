@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.8936111,
+            52.8288889
+        ]
+    },
+    "properties": {
+        "feet": 8858.268,
+        "meters": 2700.0,
+        "latitude": 52.8288889,
+        "longitude": -117.8936111,
+        "name": "Centre Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

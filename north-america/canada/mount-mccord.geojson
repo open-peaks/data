@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.6675,
+            53.043055
+        ]
+    },
+    "properties": {
+        "feet": 8238.18924,
+        "meters": 2511.0,
+        "latitude": 53.043055,
+        "longitude": -118.6675,
+        "name": "Mount McCord",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

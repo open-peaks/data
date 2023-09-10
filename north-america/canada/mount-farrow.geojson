@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.11,
+            51.09722
+        ]
+    },
+    "properties": {
+        "feet": 9481.6276,
+        "meters": 2890.0,
+        "latitude": 51.09722,
+        "longitude": -124.11,
+        "name": "Mount Farrow",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

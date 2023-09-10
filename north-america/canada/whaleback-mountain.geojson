@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.56056,
+            51.53944
+        ]
+    },
+    "properties": {
+        "feet": 8618.76668,
+        "meters": 2627.0,
+        "latitude": 51.53944,
+        "longitude": -116.56056,
+        "name": "Whaleback Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.41417,
+            53.17222
+        ]
+    },
+    "properties": {
+        "feet": 9340.55148,
+        "meters": 2847.0,
+        "latitude": 53.17222,
+        "longitude": -118.41417,
+        "name": "Mount Rutherford",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

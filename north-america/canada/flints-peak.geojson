@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.76056,
+            51.43944
+        ]
+    },
+    "properties": {
+        "feet": 9678.478,
+        "meters": 2950.0,
+        "latitude": 51.43944,
+        "longitude": -115.76056,
+        "name": "Flints Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

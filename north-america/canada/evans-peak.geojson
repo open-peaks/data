@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.47778,
+            49.33778
+        ]
+    },
+    "properties": {
+        "feet": 3713.91088,
+        "meters": 1132.0,
+        "latitude": 49.33778,
+        "longitude": -122.47778,
+        "name": "Evans Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

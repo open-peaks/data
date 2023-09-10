@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.88778,
+            52.48639
+        ]
+    },
+    "properties": {
+        "feet": 9744.0948,
+        "meters": 2970.0,
+        "latitude": 52.48639,
+        "longitude": -117.88778,
+        "name": "Xerxes Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

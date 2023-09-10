@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.23306,
+            52.04139
+        ]
+    },
+    "properties": {
+        "feet": 9872.047559999999,
+        "meters": 3009.0,
+        "latitude": 52.04139,
+        "longitude": -117.23306,
+        "name": "Watchman Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

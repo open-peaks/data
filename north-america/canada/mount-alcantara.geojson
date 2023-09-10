@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.60806,
+            50.80111
+        ]
+    },
+    "properties": {
+        "feet": 9937.66436,
+        "meters": 3029.0,
+        "latitude": 50.80111,
+        "longitude": -115.60806,
+        "name": "Mount Alcantara",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

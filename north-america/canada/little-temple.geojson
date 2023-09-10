@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.18667,
+            51.37
+        ]
+    },
+    "properties": {
+        "feet": 8704.06852,
+        "meters": 2653.0,
+        "latitude": 51.37,
+        "longitude": -116.18667,
+        "name": "Little Temple",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

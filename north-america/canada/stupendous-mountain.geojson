@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.19528,
+            52.38528
+        ]
+    },
+    "properties": {
+        "feet": 8799.21288,
+        "meters": 2682.0,
+        "latitude": 52.38528,
+        "longitude": -126.19528,
+        "name": "Stupendous Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

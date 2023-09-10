@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.317162,
-      52.189615
-    ]
-  },
-  "properties": {
-    "feet": 11549,
-    "meters": 3520,
-    "latitude": 52.189615,
-    "longitude": -117.317162,
-    "name": "Snow Dome",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.31694,
+            52.18694
+        ]
+    },
+    "properties": {
+        "feet": 11338.58304,
+        "meters": 3456.0,
+        "latitude": 52.18694,
+        "longitude": -117.31694,
+        "name": "Snow Dome",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

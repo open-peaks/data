@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.81333,
+            52.22277
+        ]
+    },
+    "properties": {
+        "feet": 10649.60664,
+        "meters": 3246.0,
+        "latitude": 52.22277,
+        "longitude": -117.81333,
+        "name": "Apex Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

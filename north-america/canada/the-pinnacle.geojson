@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.77278,
+            46.68389
+        ]
+    },
+    "properties": {
+        "feet": 1738.8452,
+        "meters": 530.0,
+        "latitude": 46.68389,
+        "longitude": -60.77278,
+        "name": "The Pinnacle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nova Scotia"
+        ]
+    }
+}

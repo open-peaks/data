@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.12556,
+            52.05917
+        ]
+    },
+    "properties": {
+        "feet": 9461.94256,
+        "meters": 2884.0,
+        "latitude": 52.05917,
+        "longitude": -117.12556,
+        "name": "The Castelets",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

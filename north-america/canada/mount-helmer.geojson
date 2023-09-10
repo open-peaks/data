@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.83916,
+            51.705
+        ]
+    },
+    "properties": {
+        "feet": 9940.9452,
+        "meters": 3030.0,
+        "latitude": 51.705,
+        "longitude": -116.83916,
+        "name": "Mount Helmer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

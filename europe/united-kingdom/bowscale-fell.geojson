@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.03406,
+            54.66516
+        ]
+    },
+    "properties": {
+        "feet": 2303.14968,
+        "meters": 702.0,
+        "latitude": 54.66516,
+        "longitude": -3.03406,
+        "name": "Bowscale Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

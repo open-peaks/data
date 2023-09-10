@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.05111,
+            49.14972
+        ]
+    },
+    "properties": {
+        "feet": 3356.29932,
+        "meters": 1023.0,
+        "latitude": 49.14972,
+        "longitude": -124.05111,
+        "name": "Mount Benson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.60056,
+            50.37083
+        ]
+    },
+    "properties": {
+        "feet": 6814.30468,
+        "meters": 2077.0,
+        "latitude": 50.37083,
+        "longitude": -121.60056,
+        "name": "Botanie Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

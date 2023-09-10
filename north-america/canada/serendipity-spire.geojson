@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.01528,
+            51.74472
+        ]
+    },
+    "properties": {
+        "feet": 9373.35988,
+        "meters": 2857.0,
+        "latitude": 51.74472,
+        "longitude": -118.01528,
+        "name": "Serendipity Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

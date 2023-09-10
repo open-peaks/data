@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.14333,
+            49.66194
+        ]
+    },
+    "properties": {
+        "feet": 6978.34668,
+        "meters": 2127.0,
+        "latitude": 49.66194,
+        "longitude": -121.14333,
+        "name": "Guanaco Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

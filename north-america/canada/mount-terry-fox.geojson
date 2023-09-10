@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.235555,
+            52.932778
+        ]
+    },
+    "properties": {
+        "feet": 8677.8218,
+        "meters": 2645.0,
+        "latitude": 52.932778,
+        "longitude": -119.235555,
+        "name": "Mount Terry Fox",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

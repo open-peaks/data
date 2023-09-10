@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.51333,
+            51.60611
+        ]
+    },
+    "properties": {
+        "feet": 10370.73524,
+        "meters": 3161.0,
+        "latitude": 51.60611,
+        "longitude": -116.51333,
+        "name": "Mount Gordon",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

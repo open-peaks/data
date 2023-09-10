@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.304,
+            54.3969
+        ]
+    },
+    "properties": {
+        "feet": 2280.1838,
+        "meters": 695.0,
+        "latitude": 54.3969,
+        "longitude": -2.304,
+        "name": "Archy Styrigg",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Cumbria"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.92556,
+            52.4925
+        ]
+    },
+    "properties": {
+        "feet": 9350.394,
+        "meters": 2850.0,
+        "latitude": 52.4925,
+        "longitude": -117.92556,
+        "name": "Kleodora Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

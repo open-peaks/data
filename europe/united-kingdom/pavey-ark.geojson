@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.10451,
+            54.46142
+        ]
+    },
+    "properties": {
+        "feet": 2296.588,
+        "meters": 700.0,
+        "latitude": 54.46142,
+        "longitude": -3.10451,
+        "name": "Pavey Ark",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

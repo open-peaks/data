@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.381865,
-      51.358544
-    ]
-  },
-  "properties": {
-    "feet": 10364,
-    "meters": 3159,
-    "latitude": 51.358544,
-    "longitude": -116.381865,
-    "name": "Odaray Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.38417,
+            51.36028
+        ]
+    },
+    "properties": {
+        "feet": 10291.99508,
+        "meters": 3137.0,
+        "latitude": 51.36028,
+        "longitude": -116.38417,
+        "name": "Odaray Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

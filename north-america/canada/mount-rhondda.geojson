@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.56111,
+            51.64333
+        ]
+    },
+    "properties": {
+        "feet": 10045.93208,
+        "meters": 3062.0,
+        "latitude": 51.64333,
+        "longitude": -116.56111,
+        "name": "Mount Rhondda",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

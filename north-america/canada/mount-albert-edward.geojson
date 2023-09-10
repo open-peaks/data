@@ -1,27 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -125.417,
-      49.6667
-    ]
-  },
-  "properties": {
-    "feet": 6870,
-    "meters": 2094,
-    "latitude": 49.6667,
-    "longitude": -125.417,
-    "name": "Mount Albert Edward",
-    "regions": [
-      "Pacific Ranges",
-      "British Columbia Coast Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.43167,
+            49.67778
+        ]
+    },
+    "properties": {
+        "feet": 6866.79812,
+        "meters": 2093.0,
+        "latitude": 49.67778,
+        "longitude": -125.43167,
+        "name": "Mount Albert Edward",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
 }

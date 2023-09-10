@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.12287,
+            54.45586
+        ]
+    },
+    "properties": {
+        "feet": 2326.11556,
+        "meters": 709.0,
+        "latitude": 54.45586,
+        "longitude": -3.12287,
+        "name": "Pike of Stickle",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.51028,
+            51.22417
+        ]
+    },
+    "properties": {
+        "feet": 10715.22344,
+        "meters": 3266.0,
+        "latitude": 51.22417,
+        "longitude": -116.51028,
+        "name": "Chancellor Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

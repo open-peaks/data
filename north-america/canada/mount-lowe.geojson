@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.48694,
+            51.12611
+        ]
+    },
+    "properties": {
+        "feet": 7198.16296,
+        "meters": 2194.0,
+        "latitude": 51.12611,
+        "longitude": -125.48694,
+        "name": "Mount Lowe",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

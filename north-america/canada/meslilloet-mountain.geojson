@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.82722,
+            49.57167
+        ]
+    },
+    "properties": {
+        "feet": 6528.8716,
+        "meters": 1990.0,
+        "latitude": 49.57167,
+        "longitude": -122.82722,
+        "name": "Meslilloet Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

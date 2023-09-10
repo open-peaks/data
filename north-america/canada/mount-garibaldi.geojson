@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -123.004818,
-      49.850657
-    ]
-  },
-  "properties": {
-    "feet": 8786,
-    "meters": 2678,
-    "latitude": 49.850657,
-    "longitude": -123.004818,
-    "name": "Mount Garibaldi",
-    "regions": [
-      "Pacific Ranges",
-      "Cascade Range"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.00472,
+            49.85028
+        ]
+    },
+    "properties": {
+        "feet": 8786.08952,
+        "meters": 2678.0,
+        "latitude": 49.85028,
+        "longitude": -123.00472,
+        "name": "Mount Garibaldi",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.3505556,
+            52.5291667
+        ]
+    },
+    "properties": {
+        "feet": 10875.9846,
+        "meters": 3315.0,
+        "latitude": 52.5291667,
+        "longitude": -117.3505556,
+        "name": "Mount Henry MacLeod",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

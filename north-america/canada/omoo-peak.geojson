@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.34972,
+            50.96611
+        ]
+    },
+    "properties": {
+        "feet": 8772.96616,
+        "meters": 2674.0,
+        "latitude": 50.96611,
+        "longitude": -117.34972,
+        "name": "Omoo Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

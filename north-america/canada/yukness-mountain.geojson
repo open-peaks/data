@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.305,
+            51.34472
+        ]
+    },
+    "properties": {
+        "feet": 9353.67484,
+        "meters": 2851.0,
+        "latitude": 51.34472,
+        "longitude": -116.305,
+        "name": "Yukness Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

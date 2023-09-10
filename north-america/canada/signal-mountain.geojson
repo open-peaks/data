@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.97889,
+            52.86472
+        ]
+    },
+    "properties": {
+        "feet": 7398.2942,
+        "meters": 2255.0,
+        "latitude": 52.86472,
+        "longitude": -117.97889,
+        "name": "Signal Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

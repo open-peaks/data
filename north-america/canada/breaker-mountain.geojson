@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.65139,
+            51.76333
+        ]
+    },
+    "properties": {
+        "feet": 10032.808719999999,
+        "meters": 3058.0,
+        "latitude": 51.76333,
+        "longitude": -116.65139,
+        "name": "Breaker Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

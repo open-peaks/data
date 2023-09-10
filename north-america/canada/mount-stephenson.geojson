@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.29861,
+            55.41472
+        ]
+    },
+    "properties": {
+        "feet": 6683.07108,
+        "meters": 2037.0,
+        "latitude": 55.41472,
+        "longitude": -122.29861,
+        "name": "Mount Stephenson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

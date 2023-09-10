@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.87861,
+            54.09528
+        ]
+    },
+    "properties": {
+        "feet": 6925.85324,
+        "meters": 2111.0,
+        "latitude": 54.09528,
+        "longitude": -126.87861,
+        "name": "Nadina Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

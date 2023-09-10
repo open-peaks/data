@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.76528,
+            50.23778
+        ]
+    },
+    "properties": {
+        "feet": 8038.058,
+        "meters": 2450.0,
+        "latitude": 50.23778,
+        "longitude": -121.76528,
+        "name": "Akasik Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

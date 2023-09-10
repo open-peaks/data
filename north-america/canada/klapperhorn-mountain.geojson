@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.21833,
+            53.00139
+        ]
+    },
+    "properties": {
+        "feet": 7549.21284,
+        "meters": 2301.0,
+        "latitude": 53.00139,
+        "longitude": -119.21833,
+        "name": "Klapperhorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.15528,
+            49.61694
+        ]
+    },
+    "properties": {
+        "feet": 6020.3414,
+        "meters": 1835.0,
+        "latitude": 49.61694,
+        "longitude": -121.15528,
+        "name": "Zupjok Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

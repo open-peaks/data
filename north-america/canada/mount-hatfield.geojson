@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.18306,
+            49.32694
+        ]
+    },
+    "properties": {
+        "feet": 7306.43068,
+        "meters": 2227.0,
+        "latitude": 49.32694,
+        "longitude": -121.18306,
+        "name": "Mount Hatfield",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

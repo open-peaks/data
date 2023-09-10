@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.35506,
+            54.495142
+        ]
+    },
+    "properties": {
+        "feet": 2099.7376,
+        "meters": 640.0,
+        "latitude": 54.495142,
+        "longitude": -3.35506,
+        "name": "Iron Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

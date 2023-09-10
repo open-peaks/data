@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.15333,
+            53.07639
+        ]
+    },
+    "properties": {
+        "feet": 7549.21284,
+        "meters": 2301.0,
+        "latitude": 53.07639,
+        "longitude": -118.15333,
+        "name": "Esplanade Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

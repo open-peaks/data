@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.71778,
+            59.90639
+        ]
+    },
+    "properties": {
+        "feet": 8773.0,
+        "meters": 2674.01031443167,
+        "latitude": 59.90639,
+        "longitude": -138.71778,
+        "name": "Mount Armour",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "British ColumbiaGlacier Bay National Park and Preserve"
+        ]
+    }
+}

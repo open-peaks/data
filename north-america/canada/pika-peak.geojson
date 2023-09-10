@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.10667,
+            51.49639
+        ]
+    },
+    "properties": {
+        "feet": 10016.40452,
+        "meters": 3053.0,
+        "latitude": 51.49639,
+        "longitude": -116.10667,
+        "name": "Pika Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

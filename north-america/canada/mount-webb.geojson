@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.45667,
+            49.05111
+        ]
+    },
+    "properties": {
+        "feet": 7099.73776,
+        "meters": 2164.0,
+        "latitude": 49.05111,
+        "longitude": -121.45667,
+        "name": "Mount Webb",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

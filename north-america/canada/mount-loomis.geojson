@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.91972,
+            50.4625
+        ]
+    },
+    "properties": {
+        "feet": 9179.79032,
+        "meters": 2798.0,
+        "latitude": 50.4625,
+        "longitude": -114.91972,
+        "name": "Mount Loomis",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

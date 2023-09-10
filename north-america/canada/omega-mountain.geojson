@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.24111,
+            49.77139
+        ]
+    },
+    "properties": {
+        "feet": 6292.6511199999995,
+        "meters": 1918.0,
+        "latitude": 49.77139,
+        "longitude": -123.24111,
+        "name": "Omega Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

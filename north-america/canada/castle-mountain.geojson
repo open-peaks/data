@@ -3,24 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -115.9225,
-            51.29972
+            -116.44861,
+            51.03944
         ]
     },
     "properties": {
-        "feet": 9074.80344,
-        "meters": 2766.0,
-        "latitude": 51.29972,
-        "longitude": -115.9225,
+        "feet": 8353.01864,
+        "meters": 2546.0,
+        "latitude": 51.03944,
+        "longitude": -116.44861,
         "name": "Castle Mountain",
         "countries": [
             "Canada"
         ],
         "continent": "North America",
         "marker-size": "medium",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alberta"
-        ]
+        "marker-symbol": "triangle"
     }
 }

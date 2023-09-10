@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.71222,
+            49.78778
+        ]
+    },
+    "properties": {
+        "feet": 8477.69056,
+        "meters": 2584.0,
+        "latitude": 49.78778,
+        "longitude": -117.71222,
+        "name": "Drinnan Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

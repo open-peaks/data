@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.93528,
+            49.74444
+        ]
+    },
+    "properties": {
+        "feet": 7595.1446,
+        "meters": 2315.0,
+        "latitude": 49.74444,
+        "longitude": -118.93528,
+        "name": "Big White Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

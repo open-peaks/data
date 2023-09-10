@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.148889,
+            51.973334
+        ]
+    },
+    "properties": {
+        "feet": 10941.6014,
+        "meters": 3335.0,
+        "latitude": 51.973334,
+        "longitude": -117.148889,
+        "name": "Oppy Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

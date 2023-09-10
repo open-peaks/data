@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.62222,
+            51.2875
+        ]
+    },
+    "properties": {
+        "feet": 8966.53572,
+        "meters": 2733.0,
+        "latitude": 51.2875,
+        "longitude": -117.62222,
+        "name": "Catamount Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

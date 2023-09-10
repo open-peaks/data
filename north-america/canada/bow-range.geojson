@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.20667,
+            51.35056
+        ]
+    },
+    "properties": {
+        "feet": 11624.01612,
+        "meters": 3543.0,
+        "latitude": 51.35056,
+        "longitude": -116.20667,
+        "name": "Bow Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

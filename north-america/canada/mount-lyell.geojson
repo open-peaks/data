@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.10333,
+            51.95667
+        ]
+    },
+    "properties": {
+        "feet": 11476.37832,
+        "meters": 3498.0,
+        "latitude": 51.95667,
+        "longitude": -117.10333,
+        "name": "Mount Lyell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

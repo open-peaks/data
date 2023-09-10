@@ -1,26 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -123.329389,
-      49.818111
-    ]
-  },
-  "properties": {
-    "feet": 8540,
-    "meters": 2603,
-    "latitude": 49.818111,
-    "longitude": -123.329389,
-    "name": "Mount Tantalus",
-    "regions": [
-      "Pacific Ranges"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.329389,
+            49.818111
+        ]
+    },
+    "properties": {
+        "feet": 8556.43072,
+        "meters": 2608.0,
+        "latitude": 49.818111,
+        "longitude": -123.329389,
+        "name": "Mount Tantalus",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

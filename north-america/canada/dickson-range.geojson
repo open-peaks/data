@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.98861,
+            50.89361
+        ]
+    },
+    "properties": {
+        "feet": 9232.28376,
+        "meters": 2814.0,
+        "latitude": 50.89361,
+        "longitude": -122.98861,
+        "name": "Dickson Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

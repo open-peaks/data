@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.4375,
+            50.75639
+        ]
+    },
+    "properties": {
+        "feet": 8900.91892,
+        "meters": 2713.0,
+        "latitude": 50.75639,
+        "longitude": -115.4375,
+        "name": "Mount Leval",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

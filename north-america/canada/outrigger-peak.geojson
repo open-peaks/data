@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.36306,
+            50.95972
+        ]
+    },
+    "properties": {
+        "feet": 9350.394,
+        "meters": 2850.0,
+        "latitude": 50.95972,
+        "longitude": -117.36306,
+        "name": "Outrigger Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

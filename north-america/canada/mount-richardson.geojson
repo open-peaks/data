@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.121626,
-      51.495011
-    ]
-  },
-  "properties": {
-    "feet": 10125,
-    "meters": 3086,
-    "latitude": 51.495011,
-    "longitude": -116.121626,
-    "name": "Mount Richardson",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.1225,
+            51.49583
+        ]
+    },
+    "properties": {
+        "feet": 10124.67224,
+        "meters": 3086.0,
+        "latitude": 51.49583,
+        "longitude": -116.1225,
+        "name": "Mount Richardson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.44722,
+            49.28889
+        ]
+    },
+    "properties": {
+        "feet": 8562.9924,
+        "meters": 2610.0,
+        "latitude": 49.28889,
+        "longitude": -114.44722,
+        "name": "Mount Haig",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

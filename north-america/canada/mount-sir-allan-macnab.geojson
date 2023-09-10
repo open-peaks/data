@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.20361,
+            52.52056
+        ]
+    },
+    "properties": {
+        "feet": 7536.08948,
+        "meters": 2297.0,
+        "latitude": 52.52056,
+        "longitude": -119.20361,
+        "name": "Mount Sir Allan MacNab",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

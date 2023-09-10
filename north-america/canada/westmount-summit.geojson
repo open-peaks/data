@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.606943,
+            45.491954
+        ]
+    },
+    "properties": {
+        "feet": 659.44884,
+        "meters": 201.0,
+        "latitude": 45.491954,
+        "longitude": -73.606943,
+        "name": "Westmount Summit",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Quebec"
+        ]
+    }
+}

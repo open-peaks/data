@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.68556,
+            50.23167
+        ]
+    },
+    "properties": {
+        "feet": 5219.81644,
+        "meters": 1591.0,
+        "latitude": 50.23167,
+        "longitude": -124.68556,
+        "name": "Mount Addenbroke",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

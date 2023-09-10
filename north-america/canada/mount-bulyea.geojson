@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.92333,
+            51.71667
+        ]
+    },
+    "properties": {
+        "feet": 10931.75888,
+        "meters": 3332.0,
+        "latitude": 51.71667,
+        "longitude": -116.92333,
+        "name": "Mount Bulyea",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

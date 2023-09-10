@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.62083,
+            50.51111
+        ]
+    },
+    "properties": {
+        "feet": 8221.78504,
+        "meters": 2506.0,
+        "latitude": 50.51111,
+        "longitude": -122.62083,
+        "name": "Birkenhead Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

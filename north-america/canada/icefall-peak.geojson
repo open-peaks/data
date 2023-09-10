@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.18111,
+            51.8475
+        ]
+    },
+    "properties": {
+        "feet": 10482.2838,
+        "meters": 3195.0,
+        "latitude": 51.8475,
+        "longitude": -117.18111,
+        "name": "Icefall Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

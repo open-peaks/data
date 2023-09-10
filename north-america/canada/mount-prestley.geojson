@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.68889,
+            49.77583
+        ]
+    },
+    "properties": {
+        "feet": 8963.25488,
+        "meters": 2732.0,
+        "latitude": 49.77583,
+        "longitude": -117.68889,
+        "name": "Mount Prestley",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

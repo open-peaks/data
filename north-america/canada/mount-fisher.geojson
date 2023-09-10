@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.48444,
+            49.64639
+        ]
+    },
+    "properties": {
+        "feet": 9327.42812,
+        "meters": 2843.0,
+        "latitude": 49.64639,
+        "longitude": -115.48444,
+        "name": "Mount Fisher",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

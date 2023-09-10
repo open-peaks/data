@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.47944,
+            51.37333
+        ]
+    },
+    "properties": {
+        "feet": 10055.7746,
+        "meters": 3065.0,
+        "latitude": 51.37333,
+        "longitude": -115.47944,
+        "name": "Revenant Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

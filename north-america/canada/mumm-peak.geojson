@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.14778,
+            53.19111
+        ]
+    },
+    "properties": {
+        "feet": 9717.84808,
+        "meters": 2962.0,
+        "latitude": 53.19111,
+        "longitude": -119.14778,
+        "name": "Mumm Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

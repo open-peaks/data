@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.07861,
+            51.25111
+        ]
+    },
+    "properties": {
+        "feet": 9048.55672,
+        "meters": 2758.0,
+        "latitude": 51.25111,
+        "longitude": -116.07861,
+        "name": "Boom Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

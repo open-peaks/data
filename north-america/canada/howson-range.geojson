@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.743889,
+            54.418611
+        ]
+    },
+    "properties": {
+        "feet": 9051.83756,
+        "meters": 2759.0,
+        "latitude": 54.418611,
+        "longitude": -127.743889,
+        "name": "Howson Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

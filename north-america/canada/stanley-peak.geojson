@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.054163,
-      51.170249
-    ]
-  },
-  "properties": {
-    "feet": 10351,
-    "meters": 3155,
-    "latitude": 51.170249,
-    "longitude": -116.054163,
-    "name": "Stanley Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.05417,
+            51.17056
+        ]
+    },
+    "properties": {
+        "feet": 10351.0502,
+        "meters": 3155.0,
+        "latitude": 51.17056,
+        "longitude": -116.05417,
+        "name": "Stanley Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

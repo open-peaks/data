@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.70111,
+            52.44611
+        ]
+    },
+    "properties": {
+        "feet": 9448.8192,
+        "meters": 2880.0,
+        "latitude": 52.44611,
+        "longitude": -117.70111,
+        "name": "Dragon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

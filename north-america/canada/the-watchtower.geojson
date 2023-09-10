@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.83333,
+            52.81667
+        ]
+    },
+    "properties": {
+        "feet": 9156.82444,
+        "meters": 2791.0,
+        "latitude": 52.81667,
+        "longitude": -117.83333,
+        "name": "The Watchtower",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

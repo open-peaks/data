@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.54778,
+            51.82278
+        ]
+    },
+    "properties": {
+        "feet": 10121.3914,
+        "meters": 3085.0,
+        "latitude": 51.82278,
+        "longitude": -116.54778,
+        "name": "Mount Noyes",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

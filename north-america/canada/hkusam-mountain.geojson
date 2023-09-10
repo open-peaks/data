@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.84083,
+            50.33472
+        ]
+    },
+    "properties": {
+        "feet": 5482.28364,
+        "meters": 1671.0,
+        "latitude": 50.33472,
+        "longitude": -125.84083,
+        "name": "Hkusam Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

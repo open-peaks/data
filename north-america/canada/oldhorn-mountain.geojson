@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.17806,
+            52.68972
+        ]
+    },
+    "properties": {
+        "feet": 9842.52,
+        "meters": 3000.0,
+        "latitude": 52.68972,
+        "longitude": -118.17806,
+        "name": "Oldhorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

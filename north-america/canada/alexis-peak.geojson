@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.02972,
+            55.04889
+        ]
+    },
+    "properties": {
+        "feet": 6965.22332,
+        "meters": 2123.0,
+        "latitude": 55.04889,
+        "longitude": -121.02972,
+        "name": "Alexis Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

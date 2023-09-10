@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.095555,
+            53.119445
+        ]
+    },
+    "properties": {
+        "feet": 7851.05012,
+        "meters": 2393.0,
+        "latitude": 53.119445,
+        "longitude": -119.095555,
+        "name": "Extinguisher Tower",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

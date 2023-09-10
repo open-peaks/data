@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.272087,
-      51.417088
-    ]
-  },
-  "properties": {
-    "feet": 9764,
-    "meters": 2976,
-    "latitude": 51.417088,
-    "longitude": -116.272087,
-    "name": "Mount Niblock",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.27139,
+            51.4175
+        ]
+    },
+    "properties": {
+        "feet": 9763.77984,
+        "meters": 2976.0,
+        "latitude": 51.4175,
+        "longitude": -116.27139,
+        "name": "Mount Niblock",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

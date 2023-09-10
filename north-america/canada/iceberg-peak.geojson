@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.39139,
+            49.57194
+        ]
+    },
+    "properties": {
+        "feet": 6502.62488,
+        "meters": 1982.0,
+        "latitude": 49.57194,
+        "longitude": -125.39139,
+        "name": "Iceberg Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

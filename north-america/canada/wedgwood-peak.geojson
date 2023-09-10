@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.66,
+            50.88917
+        ]
+    },
+    "properties": {
+        "feet": 9921.26016,
+        "meters": 3024.0,
+        "latitude": 50.88917,
+        "longitude": -115.66,
+        "name": "Wedgwood Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

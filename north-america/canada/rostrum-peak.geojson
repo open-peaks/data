@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.17389,
+            51.83167
+        ]
+    },
+    "properties": {
+        "feet": 10774.27856,
+        "meters": 3284.0,
+        "latitude": 51.83167,
+        "longitude": -117.17389,
+        "name": "Rostrum Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

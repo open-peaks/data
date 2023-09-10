@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.89889,
+            53.535
+        ]
+    },
+    "properties": {
+        "feet": 8704.06852,
+        "meters": 2653.0,
+        "latitude": 53.535,
+        "longitude": -119.89889,
+        "name": "Mount Pauline",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

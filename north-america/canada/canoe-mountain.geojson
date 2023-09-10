@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.16306,
+            52.70389
+        ]
+    },
+    "properties": {
+        "feet": 8697.50684,
+        "meters": 2651.0,
+        "latitude": 52.70389,
+        "longitude": -119.16306,
+        "name": "Canoe Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

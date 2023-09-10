@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.418,
-      51.7
-    ]
-  },
-  "properties": {
-    "feet": 9819,
-    "meters": 2993,
-    "latitude": 51.7,
-    "longitude": -116.418,
-    "name": "Cirque Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.41778,
+            51.69972
+        ]
+    },
+    "properties": {
+        "feet": 9819.55412,
+        "meters": 2993.0,
+        "latitude": 51.69972,
+        "longitude": -116.41778,
+        "name": "Cirque Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.40917,
+            51.46194
+        ]
+    },
+    "properties": {
+        "feet": 8864.82968,
+        "meters": 2702.0,
+        "latitude": 51.46194,
+        "longitude": -116.40917,
+        "name": "Mount Ogden",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

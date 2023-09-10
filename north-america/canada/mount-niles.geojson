@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.42111,
+            51.505
+        ]
+    },
+    "properties": {
+        "feet": 9734.25228,
+        "meters": 2967.0,
+        "latitude": 51.505,
+        "longitude": -116.42111,
+        "name": "Mount Niles",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

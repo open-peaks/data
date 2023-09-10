@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.19167,
+            52.7775
+        ]
+    },
+    "properties": {
+        "feet": 9986.87696,
+        "meters": 3044.0,
+        "latitude": 52.7775,
+        "longitude": -118.19167,
+        "name": "Manx Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

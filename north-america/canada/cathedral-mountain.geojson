@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.39,
-      51.3958
-    ]
-  },
-  "properties": {
-    "feet": 10463,
-    "meters": 3189,
-    "latitude": 51.3958,
-    "longitude": -116.39,
-    "name": "Cathedral Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.39028,
+            51.39667
+        ]
+    },
+    "properties": {
+        "feet": 10462.59876,
+        "meters": 3189.0,
+        "latitude": 51.39667,
+        "longitude": -116.39028,
+        "name": "Cathedral Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

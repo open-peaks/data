@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.30667,
+            52.32167
+        ]
+    },
+    "properties": {
+        "feet": 5508.53036,
+        "meters": 1679.0,
+        "latitude": 52.32167,
+        "longitude": -127.30667,
+        "name": "Farquhar Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

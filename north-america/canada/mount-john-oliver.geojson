@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.68528,
+            52.88389
+        ]
+    },
+    "properties": {
+        "feet": 10246.06332,
+        "meters": 3123.0,
+        "latitude": 52.88389,
+        "longitude": -119.68528,
+        "name": "Mount John Oliver",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

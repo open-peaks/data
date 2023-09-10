@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.21611,
+            51.32861
+        ]
+    },
+    "properties": {
+        "feet": 11010.49904,
+        "meters": 3356.0,
+        "latitude": 51.32861,
+        "longitude": -125.21611,
+        "name": "Mount Munday",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

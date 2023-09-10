@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.75278,
+            49.84167
+        ]
+    },
+    "properties": {
+        "feet": 9117.45436,
+        "meters": 2779.0,
+        "latitude": 49.84167,
+        "longitude": -116.75278,
+        "name": "Mount Loki",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

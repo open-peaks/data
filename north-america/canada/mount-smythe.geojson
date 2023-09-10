@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.48083,
+            52.35611
+        ]
+    },
+    "properties": {
+        "feet": 10649.60664,
+        "meters": 3246.0,
+        "latitude": 52.35611,
+        "longitude": -117.48083,
+        "name": "Mount Smythe",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

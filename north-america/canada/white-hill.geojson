@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -60.5989,
-            46.7022
+            -60.6,
+            46.7
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 46.7022,
-        "longitude": -60.5989,
+        "feet": 1755.2494,
+        "meters": 535.0,
+        "latitude": 46.7,
+        "longitude": -60.6,
         "name": "White Hill",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-symbol": "triangle"
     }
 }

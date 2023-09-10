@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.48667,
+            55.54333
+        ]
+    },
+    "properties": {
+        "feet": 8041.33884,
+        "meters": 2451.0,
+        "latitude": 55.54333,
+        "longitude": -127.48667,
+        "name": "Mount Thomlinson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

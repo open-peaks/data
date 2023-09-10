@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.969167,
+            51.755556
+        ]
+    },
+    "properties": {
+        "feet": 10718.50428,
+        "meters": 3267.0,
+        "latitude": 51.755556,
+        "longitude": -116.969167,
+        "name": "Mount Dent",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.03694,
+            51.48139
+        ]
+    },
+    "properties": {
+        "feet": 8750.00028,
+        "meters": 2667.0,
+        "latitude": 51.48139,
+        "longitude": -116.03694,
+        "name": "Brachiopod Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

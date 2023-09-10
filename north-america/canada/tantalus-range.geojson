@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.32944,
+            49.81806
+        ]
+    },
+    "properties": {
+        "feet": 8540.02652,
+        "meters": 2603.0,
+        "latitude": 49.81806,
+        "longitude": -123.32944,
+        "name": "Tantalus Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

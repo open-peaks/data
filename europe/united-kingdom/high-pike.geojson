@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.06,
+            54.705
+        ]
+    },
+    "properties": {
+        "feet": 2158.79272,
+        "meters": 658.0,
+        "latitude": 54.705,
+        "longitude": -3.06,
+        "name": "High Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

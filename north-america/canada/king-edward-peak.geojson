@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.27,
+            49.02444
+        ]
+    },
+    "properties": {
+        "feet": 9150.26276,
+        "meters": 2789.0,
+        "latitude": 49.02444,
+        "longitude": -114.27,
+        "name": "King Edward Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

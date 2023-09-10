@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.134,
+            54.421
+        ]
+    },
+    "properties": {
+        "feet": 2299.86884,
+        "meters": 701.0,
+        "latitude": 54.421,
+        "longitude": -3.134,
+        "name": "Cold Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

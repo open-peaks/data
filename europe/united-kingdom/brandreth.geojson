@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.212,
+            54.496
+        ]
+    },
+    "properties": {
+        "feet": 2345.8006,
+        "meters": 715.0,
+        "latitude": 54.496,
+        "longitude": -3.212,
+        "name": "Brandreth",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.47222,
+            50.08917
+        ]
+    },
+    "properties": {
+        "feet": 6581.36504,
+        "meters": 2006.0,
+        "latitude": 50.08917,
+        "longitude": -121.47222,
+        "name": "Jackass Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

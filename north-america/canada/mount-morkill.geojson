@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.84083,
+            53.695
+        ]
+    },
+    "properties": {
+        "feet": 7500.00024,
+        "meters": 2286.0,
+        "latitude": 53.695,
+        "longitude": -119.84083,
+        "name": "Mount Morkill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

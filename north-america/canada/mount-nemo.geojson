@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.25306,
+            50.94833
+        ]
+    },
+    "properties": {
+        "feet": 9517.71684,
+        "meters": 2901.0,
+        "latitude": 50.94833,
+        "longitude": -117.25306,
+        "name": "Mount Nemo",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

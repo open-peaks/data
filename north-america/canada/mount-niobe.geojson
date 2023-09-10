@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.26556,
+            49.76778
+        ]
+    },
+    "properties": {
+        "feet": 6630.5776399999995,
+        "meters": 2021.0,
+        "latitude": 49.76778,
+        "longitude": -123.26556,
+        "name": "Mount Niobe",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

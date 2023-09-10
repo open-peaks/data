@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.26333,
+            49.16306
+        ]
+    },
+    "properties": {
+        "feet": 8021.6538,
+        "meters": 2445.0,
+        "latitude": 49.16306,
+        "longitude": -121.26333,
+        "name": "Mount Rideout",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

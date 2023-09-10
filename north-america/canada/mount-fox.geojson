@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.11917,
+            50.57056
+        ]
+    },
+    "properties": {
+        "feet": 9753.937319999999,
+        "meters": 2973.0,
+        "latitude": 50.57056,
+        "longitude": -115.11917,
+        "name": "Mount Fox",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

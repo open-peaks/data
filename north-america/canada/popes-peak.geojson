@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.294918,
-      51.402633
-    ]
-  },
-  "properties": {
-    "feet": 10377,
-    "meters": 3163,
-    "latitude": 51.402633,
-    "longitude": -116.294918,
-    "name": "Popes Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.29444,
+            51.40222
+        ]
+    },
+    "properties": {
+        "feet": 10377.29692,
+        "meters": 3163.0,
+        "latitude": 51.40222,
+        "longitude": -116.29444,
+        "name": "Popes Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

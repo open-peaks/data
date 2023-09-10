@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.67833,
+            45.57472
+        ]
+    },
+    "properties": {
+        "feet": 2158.79272,
+        "meters": 658.0,
+        "latitude": 45.57472,
+        "longitude": -71.67833,
+        "name": "Mont Chapman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

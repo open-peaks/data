@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.34306,
+            51.71556
+        ]
+    },
+    "properties": {
+        "feet": 10154.1998,
+        "meters": 3095.0,
+        "latitude": 51.71556,
+        "longitude": -116.34306,
+        "name": "Watermelon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.152225,
-      51.287071
-    ]
-  },
-  "properties": {
-    "feet": 10410,
-    "meters": 3173,
-    "latitude": 51.287071,
-    "longitude": -116.152225,
-    "name": "Quadra Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.15333,
+            51.28694
+        ]
+    },
+    "properties": {
+        "feet": 10410.10532,
+        "meters": 3173.0,
+        "latitude": 51.28694,
+        "longitude": -116.15333,
+        "name": "Quadra Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.424167,
+            49.649166
+        ]
+    },
+    "properties": {
+        "feet": 6181.10256,
+        "meters": 1884.0,
+        "latitude": 49.649166,
+        "longitude": -125.424167,
+        "name": "Mount George V",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

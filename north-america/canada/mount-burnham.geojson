@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.06944,
+            50.53306
+        ]
+    },
+    "properties": {
+        "feet": 9412.72996,
+        "meters": 2869.0,
+        "latitude": 50.53306,
+        "longitude": -118.06944,
+        "name": "Mount Burnham",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.80111,
+            50.33
+        ]
+    },
+    "properties": {
+        "feet": 8877.95304,
+        "meters": 2706.0,
+        "latitude": 50.33,
+        "longitude": -114.80111,
+        "name": "Mount Bolton",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.29917,
+            52.68944
+        ]
+    },
+    "properties": {
+        "feet": 10219.8166,
+        "meters": 3115.0,
+        "latitude": 52.68944,
+        "longitude": -118.29917,
+        "name": "Redoubt Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

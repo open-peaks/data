@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.4775,
+            51.45139
+        ]
+    },
+    "properties": {
+        "feet": 9114.17352,
+        "meters": 2778.0,
+        "latitude": 51.45139,
+        "longitude": -116.4775,
+        "name": "Wapta Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

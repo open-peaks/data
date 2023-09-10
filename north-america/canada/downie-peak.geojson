@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.30222,
+            51.55861
+        ]
+    },
+    "properties": {
+        "feet": 9599.73784,
+        "meters": 2926.0,
+        "latitude": 51.55861,
+        "longitude": -118.30222,
+        "name": "Downie Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -72.62583,
+            45.36361
+        ]
+    },
+    "properties": {
+        "feet": 1725.72184,
+        "meters": 526.0,
+        "latitude": 45.36361,
+        "longitude": -72.62583,
+        "name": "Mont Shefford",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

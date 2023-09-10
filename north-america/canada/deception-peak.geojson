@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.97222,
+            49.90083
+        ]
+    },
+    "properties": {
+        "feet": 7326.11572,
+        "meters": 2233.0,
+        "latitude": 49.90083,
+        "longitude": -122.97222,
+        "name": "Deception Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

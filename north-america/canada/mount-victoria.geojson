@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.307106,
-      51.376924
-    ]
-  },
-  "properties": {
-    "feet": 11365,
-    "meters": 3464,
-    "latitude": 51.376924,
-    "longitude": -116.307106,
-    "name": "Mount Victoria",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.98333,
+            50.24778
+        ]
+    },
+    "properties": {
+        "feet": 6850.3939199999995,
+        "meters": 2088.0,
+        "latitude": 50.24778,
+        "longitude": -123.98333,
+        "name": "Mount Victoria",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

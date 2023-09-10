@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.8875,
+            51.73417
+        ]
+    },
+    "properties": {
+        "feet": 10646.3258,
+        "meters": 3245.0,
+        "latitude": 51.73417,
+        "longitude": -117.8875,
+        "name": "Pioneer Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.19083,
+            52.93306
+        ]
+    },
+    "properties": {
+        "feet": 8562.9924,
+        "meters": 2610.0,
+        "latitude": 52.93306,
+        "longitude": -118.19083,
+        "name": "Cairngorm",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

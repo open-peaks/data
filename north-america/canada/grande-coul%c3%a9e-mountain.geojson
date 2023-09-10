@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -70.35278,
+            46.6775
+        ]
+    },
+    "properties": {
+        "feet": 2798.55652,
+        "meters": 853.0,
+        "latitude": 46.6775,
+        "longitude": -70.35278,
+        "name": "Grande Coul%C3%A9e Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.875834,
+            59.5325
+        ]
+    },
+    "properties": {
+        "feet": 6712.59864,
+        "meters": 2046.0,
+        "latitude": 59.5325,
+        "longitude": -133.875834,
+        "name": "Atlin Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

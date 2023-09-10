@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.49889,
+            51.7625
+        ]
+    },
+    "properties": {
+        "feet": 9550.525239999999,
+        "meters": 2911.0,
+        "latitude": 51.7625,
+        "longitude": -116.49889,
+        "name": "Silverhorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

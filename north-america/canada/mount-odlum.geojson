@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.93806,
+            50.48611
+        ]
+    },
+    "properties": {
+        "feet": 8910.76144,
+        "meters": 2716.0,
+        "latitude": 50.48611,
+        "longitude": -114.93806,
+        "name": "Mount Odlum",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

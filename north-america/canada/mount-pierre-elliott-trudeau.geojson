@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.42528,
+            52.80278
+        ]
+    },
+    "properties": {
+        "feet": 8694.226,
+        "meters": 2650.0,
+        "latitude": 52.80278,
+        "longitude": -119.42528,
+        "name": "Mount Pierre Elliott Trudeau",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

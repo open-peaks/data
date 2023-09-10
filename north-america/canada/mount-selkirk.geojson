@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.90833,
+            50.86639
+        ]
+    },
+    "properties": {
+        "feet": 9612.8612,
+        "meters": 2930.0,
+        "latitude": 50.86639,
+        "longitude": -115.90833,
+        "name": "Mount Selkirk",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.85028,
+            51.95444
+        ]
+    },
+    "properties": {
+        "feet": 8750.00028,
+        "meters": 2667.0,
+        "latitude": 51.95444,
+        "longitude": -116.85028,
+        "name": "Survey Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

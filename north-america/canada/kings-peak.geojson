@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.8367,
+            49.8117
+        ]
+    },
+    "properties": {
+        "feet": 6761.81124,
+        "meters": 2061.0,
+        "latitude": 49.8117,
+        "longitude": -125.8367,
+        "name": "Kings Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

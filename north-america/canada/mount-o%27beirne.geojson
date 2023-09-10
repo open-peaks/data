@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.62139,
+            52.91361
+        ]
+    },
+    "properties": {
+        "feet": 8651.57508,
+        "meters": 2637.0,
+        "latitude": 52.91361,
+        "longitude": -118.62139,
+        "name": "Mount O%27Beirne",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

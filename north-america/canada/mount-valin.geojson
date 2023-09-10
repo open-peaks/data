@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -70.79667,
+            48.61306
+        ]
+    },
+    "properties": {
+        "feet": 3215.2232,
+        "meters": 980.0,
+        "latitude": 48.61306,
+        "longitude": -70.79667,
+        "name": "Mount Valin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Le Fjord-du-Saguenay Regional County Municipality"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.14917,
+            52.95111
+        ]
+    },
+    "properties": {
+        "feet": 9074.80344,
+        "meters": 2766.0,
+        "latitude": 52.95111,
+        "longitude": -118.14917,
+        "name": "Pyramid Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

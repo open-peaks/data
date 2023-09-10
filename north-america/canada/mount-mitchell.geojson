@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.50361,
+            52.40333
+        ]
+    },
+    "properties": {
+        "feet": 9973.7536,
+        "meters": 3040.0,
+        "latitude": 52.40333,
+        "longitude": -117.50361,
+        "name": "Mount Mitchell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.00333,
+            54.17861
+        ]
+    },
+    "properties": {
+        "feet": 7808.3992,
+        "meters": 2380.0,
+        "latitude": 54.17861,
+        "longitude": -120.00333,
+        "name": "Mount Gorman",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

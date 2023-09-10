@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.84778,
+            49.01333
+        ]
+    },
+    "properties": {
+        "feet": 7959.31784,
+        "meters": 2426.0,
+        "latitude": 49.01333,
+        "longitude": -120.84778,
+        "name": "Frosty Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

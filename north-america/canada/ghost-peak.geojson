@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.02806,
+            50.93
+        ]
+    },
+    "properties": {
+        "feet": 8202.1,
+        "meters": 2500.0,
+        "latitude": 50.93,
+        "longitude": -118.02806,
+        "name": "Ghost Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -57.93944,
+            47.89917
+        ]
+    },
+    "properties": {
+        "feet": 1627.29664,
+        "meters": 496.0,
+        "latitude": 47.89917,
+        "longitude": -57.93944,
+        "name": "Peter Snout",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

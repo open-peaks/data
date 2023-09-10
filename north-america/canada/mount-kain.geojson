@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.04028,
+            53.05222
+        ]
+    },
+    "properties": {
+        "feet": 9448.8192,
+        "meters": 2880.0,
+        "latitude": 53.05222,
+        "longitude": -119.04028,
+        "name": "Mount Kain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

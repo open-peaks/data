@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.26722,
+            52.63278
+        ]
+    },
+    "properties": {
+        "feet": 10209.97408,
+        "meters": 3112.0,
+        "latitude": 52.63278,
+        "longitude": -118.26722,
+        "name": "Mount Erebus",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

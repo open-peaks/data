@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.60611,
+            49.04389
+        ]
+    },
+    "properties": {
+        "feet": 7135.827,
+        "meters": 2175.0,
+        "latitude": 49.04389,
+        "longitude": -121.60611,
+        "name": "Crossover Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

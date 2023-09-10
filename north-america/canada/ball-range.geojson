@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.00639,
+            51.15639
+        ]
+    },
+    "properties": {
+        "feet": 10862.86124,
+        "meters": 3311.0,
+        "latitude": 51.15639,
+        "longitude": -116.00639,
+        "name": "Ball Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.18583,
+            49.02667
+        ]
+    },
+    "properties": {
+        "feet": 8645.0134,
+        "meters": 2635.0,
+        "latitude": 49.02667,
+        "longitude": -120.18583,
+        "name": "Grimface Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.95556,
+            51.57222
+        ]
+    },
+    "properties": {
+        "feet": 10013.12368,
+        "meters": 3052.0,
+        "latitude": 51.57222,
+        "longitude": -116.95556,
+        "name": "Mount Laussedat",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

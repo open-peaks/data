@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.225,
+            52.82639
+        ]
+    },
+    "properties": {
+        "feet": 8615.48584,
+        "meters": 2626.0,
+        "latitude": 52.82639,
+        "longitude": -118.225,
+        "name": "Muhigan Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

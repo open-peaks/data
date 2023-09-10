@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.44778,
+            51.20556
+        ]
+    },
+    "properties": {
+        "feet": 9235.5646,
+        "meters": 2815.0,
+        "latitude": 51.20556,
+        "longitude": -117.44778,
+        "name": "Youngs Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

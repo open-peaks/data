@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.53278,
+            50.93944
+        ]
+    },
+    "properties": {
+        "feet": 9826.1158,
+        "meters": 2995.0,
+        "latitude": 50.93944,
+        "longitude": -115.53278,
+        "name": "Mount Allenby",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

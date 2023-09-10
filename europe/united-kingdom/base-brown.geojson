@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.19797,
+            54.49199
+        ]
+    },
+    "properties": {
+        "feet": 2119.42264,
+        "meters": 646.0,
+        "latitude": 54.49199,
+        "longitude": -3.19797,
+        "name": "Base Brown",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

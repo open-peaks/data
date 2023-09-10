@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.8525,
+            49.96861
+        ]
+    },
+    "properties": {
+        "feet": 6548.55664,
+        "meters": 1996.0,
+        "latitude": 49.96861,
+        "longitude": -123.8525,
+        "name": "Mount Churchill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

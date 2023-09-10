@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.40778,
+            50.90139
+        ]
+    },
+    "properties": {
+        "feet": 9580.0528,
+        "meters": 2920.0,
+        "latitude": 50.90139,
+        "longitude": -117.40778,
+        "name": "Scylla Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

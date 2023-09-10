@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.59694,
+            51.54056
+        ]
+    },
+    "properties": {
+        "feet": 9911.41764,
+        "meters": 3021.0,
+        "latitude": 51.54056,
+        "longitude": -116.59694,
+        "name": "Mount McArthur",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

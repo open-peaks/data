@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.58639,
+            49.97333
+        ]
+    },
+    "properties": {
+        "feet": 10000.00032,
+        "meters": 3048.0,
+        "latitude": 49.97333,
+        "longitude": -116.58639,
+        "name": "Hall Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.4775,
+            50.85444
+        ]
+    },
+    "properties": {
+        "feet": 9206.03704,
+        "meters": 2806.0,
+        "latitude": 50.85444,
+        "longitude": -115.4775,
+        "name": "Mount Turner",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

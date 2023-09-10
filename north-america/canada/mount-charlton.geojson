@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.5111111,
+            52.6113889
+        ]
+    },
+    "properties": {
+        "feet": 10554.46228,
+        "meters": 3217.0,
+        "latitude": 52.6113889,
+        "longitude": -117.5111111,
+        "name": "Mount Charlton",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

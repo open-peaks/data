@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.9,
+            51.7025
+        ]
+    },
+    "properties": {
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 51.7025,
+        "longitude": -116.9,
+        "name": "Waitabit Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.45917,
+            52.36972
+        ]
+    },
+    "properties": {
+        "feet": 10236.2208,
+        "meters": 3120.0,
+        "latitude": 52.36972,
+        "longitude": -117.45917,
+        "name": "Gong Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

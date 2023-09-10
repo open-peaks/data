@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.382965,
+            54.615757
+        ]
+    },
+    "properties": {
+        "feet": 2214.567,
+        "meters": 675.0,
+        "latitude": 54.615757,
+        "longitude": -2.382965,
+        "name": "Murton Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

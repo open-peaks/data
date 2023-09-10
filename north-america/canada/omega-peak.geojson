@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.57888,
+            52.12916
+        ]
+    },
+    "properties": {
+        "feet": 10039.3704,
+        "meters": 3060.0,
+        "latitude": 52.12916,
+        "longitude": -117.57888,
+        "name": "Omega Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

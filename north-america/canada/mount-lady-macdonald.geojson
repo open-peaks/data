@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.317,
-      51.1167
-    ]
-  },
-  "properties": {
-    "feet": 8546,
-    "meters": 2605,
-    "latitude": 51.1167,
-    "longitude": -115.317,
-    "name": "Mount Lady MacDonald",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.31778,
+            51.12139
+        ]
+    },
+    "properties": {
+        "feet": 8549.86904,
+        "meters": 2606.0,
+        "latitude": 51.12139,
+        "longitude": -115.31778,
+        "name": "Mount Lady Macdonald",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

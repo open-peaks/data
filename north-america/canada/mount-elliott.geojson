@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.494444,
+            50.290833
+        ]
+    },
+    "properties": {
+        "feet": 5108.26788,
+        "meters": 1557.0,
+        "latitude": 50.290833,
+        "longitude": -126.494444,
+        "name": "Mount Elliott",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

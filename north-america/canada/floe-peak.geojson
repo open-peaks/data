@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.14214,
+            51.04245
+        ]
+    },
+    "properties": {
+        "feet": 9862.20504,
+        "meters": 3006.0,
+        "latitude": 51.04245,
+        "longitude": -116.14214,
+        "name": "Floe Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

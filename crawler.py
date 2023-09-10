@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import traceback
 from typing import List, Set
 
 from bs4 import BeautifulSoup
@@ -51,7 +52,7 @@ def get_list_urls(url: str, good_keys: List[str], bad_keys:List[str], visited_ur
     if url in visited_urls:
         return
     visited_urls.add(url)
-    yield "https://en.wikipedia.org/wiki/List_of_Nuttall_mountains_in_England"
+    yield "https://en.wikipedia.org/wiki/List_of_mountains_of_British_Columbia"
 
     content = get_cache(url)
     if content is None:
@@ -163,11 +164,13 @@ def get_peak_urls(base_list_url: str):
             "Main_Page",
         ]
     ):
-        for peak_url in _strip_peak_urls_from_list_page(list_url):
+        urls = _strip_peak_urls_from_list_page(list_url)
+        for peak_url in urls:
             if peak_url in visited_peak_urls:
                 continue
             visited_peak_urls.add(peak_url)
             yield peak_url
+
 
 def peak_names():
     base_url = "https://en.wikipedia.org/wiki/Category:Lists_of_mountains"
@@ -179,8 +182,13 @@ def peak_names():
 if __name__ == "__main__":
     i = 1
     for name, url in peak_names():
-        peak = Peak(name, url)
-        peak.flesh_out()
-        print(f"{i}\t{peak}")
-        peak.save()
+        try:
+            peak = Peak(name, url)
+            peak.flesh_out()
+            print(f"{i}\t{peak}")
+            peak.save()
+        except Exception as e:
+            traceback.print_exc()
+            print("FAILED ON", name, url)
+
         i += 1

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.68861,
+            46.69389
+        ]
+    },
+    "properties": {
+        "feet": 1725.72184,
+        "meters": 526.0,
+        "latitude": 46.69389,
+        "longitude": -60.68861,
+        "name": "Bakeapple Barren Northeast",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nova Scotia"
+        ]
+    }
+}

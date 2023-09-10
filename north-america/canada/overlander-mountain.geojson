@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.19472,
+            52.99139
+        ]
+    },
+    "properties": {
+        "feet": 8815.61708,
+        "meters": 2687.0,
+        "latitude": 52.99139,
+        "longitude": -119.19472,
+        "name": "Overlander Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

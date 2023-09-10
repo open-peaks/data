@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.62833,
+            49.16667
+        ]
+    },
+    "properties": {
+        "feet": 7381.89,
+        "meters": 2250.0,
+        "latitude": 49.16667,
+        "longitude": -121.62833,
+        "name": "Baby Munday Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.90389,
+            51.73222
+        ]
+    },
+    "properties": {
+        "feet": 10974.4098,
+        "meters": 3345.0,
+        "latitude": 51.73222,
+        "longitude": -117.90389,
+        "name": "Adamant Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

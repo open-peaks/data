@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.84109,
+            54.55521
+        ]
+    },
+    "properties": {
+        "feet": 2204.72448,
+        "meters": 672.0,
+        "latitude": 54.55521,
+        "longitude": -2.84109,
+        "name": "Loadpot Hill",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

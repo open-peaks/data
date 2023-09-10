@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.78694,
+            50.16639
+        ]
+    },
+    "properties": {
+        "feet": 9301.1814,
+        "meters": 2835.0,
+        "latitude": 50.16639,
+        "longitude": -122.78694,
+        "name": "Mount Weart",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

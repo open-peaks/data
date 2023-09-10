@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.689,
-      51.2014
-    ]
-  },
-  "properties": {
-    "feet": 9193,
-    "meters": 2802,
-    "latitude": 51.2014,
-    "longitude": -115.689,
-    "name": "Mount Cory",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.68889,
+            51.20139
+        ]
+    },
+    "properties": {
+        "feet": 9192.91368,
+        "meters": 2802.0,
+        "latitude": 51.20139,
+        "longitude": -115.68889,
+        "name": "Mount Cory",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.42083,
+            50.62111
+        ]
+    },
+    "properties": {
+        "feet": 10561.02396,
+        "meters": 3219.0,
+        "latitude": 50.62111,
+        "longitude": -115.42083,
+        "name": "Mount Prince Henry",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.11167,
+            52.745
+        ]
+    },
+    "properties": {
+        "feet": 9094.48848,
+        "meters": 2772.0,
+        "latitude": 52.745,
+        "longitude": -118.11167,
+        "name": "Lectern Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

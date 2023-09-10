@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.78167,
+            50.305
+        ]
+    },
+    "properties": {
+        "feet": 8622.04752,
+        "meters": 2628.0,
+        "latitude": 50.305,
+        "longitude": -115.78167,
+        "name": "Fairmont Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

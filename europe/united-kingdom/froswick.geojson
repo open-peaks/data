@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.87326,
+            54.46871
+        ]
+    },
+    "properties": {
+        "feet": 2362.2048,
+        "meters": 720.0,
+        "latitude": 54.46871,
+        "longitude": -2.87326,
+        "name": "Froswick",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

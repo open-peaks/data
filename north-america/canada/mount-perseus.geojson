@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.53278,
+            52.35417
+        ]
+    },
+    "properties": {
+        "feet": 8375.98452,
+        "meters": 2553.0,
+        "latitude": 52.35417,
+        "longitude": -120.53278,
+        "name": "Mount Perseus",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

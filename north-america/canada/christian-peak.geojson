@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.09778,
+            51.94361
+        ]
+    },
+    "properties": {
+        "feet": 11174.54104,
+        "meters": 3406.0,
+        "latitude": 51.94361,
+        "longitude": -117.09778,
+        "name": "Christian Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

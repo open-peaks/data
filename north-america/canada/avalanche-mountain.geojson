@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.46944,
+            51.28806
+        ]
+    },
+    "properties": {
+        "feet": 9386.48324,
+        "meters": 2861.0,
+        "latitude": 51.28806,
+        "longitude": -117.46944,
+        "name": "Avalanche Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

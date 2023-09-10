@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.42028,
+            51.31611
+        ]
+    },
+    "properties": {
+        "feet": 10114.82972,
+        "meters": 3083.0,
+        "latitude": 51.31611,
+        "longitude": -116.42028,
+        "name": "Mount Owen",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

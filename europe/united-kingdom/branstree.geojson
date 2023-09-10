@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.80873,
+            54.48264
+        ]
+    },
+    "properties": {
+        "feet": 2339.23892,
+        "meters": 713.0,
+        "latitude": 54.48264,
+        "longitude": -2.80873,
+        "name": "Branstree",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

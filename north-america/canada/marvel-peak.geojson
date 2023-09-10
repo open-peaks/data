@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.55139,
+            50.85972
+        ]
+    },
+    "properties": {
+        "feet": 8884.51472,
+        "meters": 2708.0,
+        "latitude": 50.85972,
+        "longitude": -115.55139,
+        "name": "Marvel Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

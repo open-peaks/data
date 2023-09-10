@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.85333,
+            50.49417
+        ]
+    },
+    "properties": {
+        "feet": 7680.44644,
+        "meters": 2341.0,
+        "latitude": 50.49417,
+        "longitude": -122.85333,
+        "name": "Seven O%27clock Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

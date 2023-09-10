@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.29806,
+            52.655
+        ]
+    },
+    "properties": {
+        "feet": 10695.5384,
+        "meters": 3260.0,
+        "latitude": 52.655,
+        "longitude": -118.29806,
+        "name": "Bennington Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

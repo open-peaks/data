@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.62167,
+            49.51194
+        ]
+    },
+    "properties": {
+        "feet": 6994.75088,
+        "meters": 2132.0,
+        "latitude": 49.51194,
+        "longitude": -121.62167,
+        "name": "The Old Settler",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.32167,
+            49.50694
+        ]
+    },
+    "properties": {
+        "feet": 7421.26008,
+        "meters": 2262.0,
+        "latitude": 49.50694,
+        "longitude": -122.32167,
+        "name": "Mount Judge Howay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

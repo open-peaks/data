@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.33194,
+            50.97778
+        ]
+    },
+    "properties": {
+        "feet": 8848.42548,
+        "meters": 2697.0,
+        "latitude": 50.97778,
+        "longitude": -117.33194,
+        "name": "Foremast Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

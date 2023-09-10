@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.23889,
+            51.16389
+        ]
+    },
+    "properties": {
+        "feet": 9793.3074,
+        "meters": 2985.0,
+        "latitude": 51.16389,
+        "longitude": -125.23889,
+        "name": "Whitemantle Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.23556,
+            52.01667
+        ]
+    },
+    "properties": {
+        "feet": 10744.751,
+        "meters": 3275.0,
+        "latitude": 52.01667,
+        "longitude": -117.23556,
+        "name": "Mount Spring-Rice",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

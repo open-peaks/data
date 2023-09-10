@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.2822,
+            46.1101
+        ]
+    },
+    "properties": {
+        "feet": 1768.0,
+        "meters": 538.8863827556357,
+        "latitude": 46.1101,
+        "longitude": -81.2822,
+        "name": "Silver Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Ontario"
+        ]
+    }
+}

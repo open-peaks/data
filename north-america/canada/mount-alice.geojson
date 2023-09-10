@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.03806,
+            50.16944
+        ]
+    },
+    "properties": {
+        "feet": 5898.95032,
+        "meters": 1798.0,
+        "latitude": 50.16944,
+        "longitude": -124.03806,
+        "name": "Mount Alice",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

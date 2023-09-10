@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.88333,
+            51.20833
+        ]
+    },
+    "properties": {
+        "feet": 9169.9478,
+        "meters": 2795.0,
+        "latitude": 51.20833,
+        "longitude": -115.88333,
+        "name": "Copper Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

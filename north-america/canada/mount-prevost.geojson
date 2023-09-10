@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.76778,
+            48.83139
+        ]
+    },
+    "properties": {
+        "feet": 2585.30192,
+        "meters": 788.0,
+        "latitude": 48.83139,
+        "longitude": -123.76778,
+        "name": "Mount Prevost",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

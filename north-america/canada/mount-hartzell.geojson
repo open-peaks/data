@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.45167,
+            50.32444
+        ]
+    },
+    "properties": {
+        "feet": 8579.3966,
+        "meters": 2615.0,
+        "latitude": 50.32444,
+        "longitude": -122.45167,
+        "name": "Mount Hartzell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.76194,
+            51.03639
+        ]
+    },
+    "properties": {
+        "feet": 8464.5672,
+        "meters": 2580.0,
+        "latitude": 51.03639,
+        "longitude": -115.76194,
+        "name": "Quartz Hill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

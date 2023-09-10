@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.87528,
+            51.04833
+        ]
+    },
+    "properties": {
+        "feet": 9625.98456,
+        "meters": 2934.0,
+        "latitude": 51.04833,
+        "longitude": -117.87528,
+        "name": "North Albert Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

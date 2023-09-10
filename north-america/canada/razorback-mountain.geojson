@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -124.6911,
-            51.5906
+            -124.69167,
+            51.59
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.5906,
-        "longitude": -124.6911,
+        "feet": 10442.91372,
+        "meters": 3183.0,
+        "latitude": 51.59,
+        "longitude": -124.69167,
         "name": "Razorback Mountain",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

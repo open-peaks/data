@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.11028,
+            50.96167
+        ]
+    },
+    "properties": {
+        "feet": 2063.64836,
+        "meters": 629.0,
+        "latitude": 50.96167,
+        "longitude": -127.11028,
+        "name": "Mount Bullock",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

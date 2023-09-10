@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.7325,
+            52.18778
+        ]
+    },
+    "properties": {
+        "feet": 10433.0712,
+        "meters": 3180.0,
+        "latitude": 52.18778,
+        "longitude": -117.7325,
+        "name": "Eden Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

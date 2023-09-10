@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.400445,
+            54.319767
+        ]
+    },
+    "properties": {
+        "feet": 2224.40952,
+        "meters": 678.0,
+        "latitude": 54.319767,
+        "longitude": -2.400445,
+        "name": "Baugh Fell - Tarn Rigg Hill",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Cumbria"
+        ]
+    }
+}

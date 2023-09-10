@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.73861,
+            53.66222
+        ]
+    },
+    "properties": {
+        "feet": 6958.66164,
+        "meters": 2121.0,
+        "latitude": 53.66222,
+        "longitude": -119.73861,
+        "name": "Mount Forget",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

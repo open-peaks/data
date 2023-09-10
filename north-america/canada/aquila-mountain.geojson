@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.10917,
+            52.73694
+        ]
+    },
+    "properties": {
+        "feet": 9317.5856,
+        "meters": 2840.0,
+        "latitude": 52.73694,
+        "longitude": -118.10917,
+        "name": "Aquila Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

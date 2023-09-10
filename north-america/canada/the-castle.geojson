@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.19,
+            49.69
+        ]
+    },
+    "properties": {
+        "feet": 1673.2284,
+        "meters": 510.0,
+        "latitude": 49.69,
+        "longitude": -123.19,
+        "name": "The Castle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

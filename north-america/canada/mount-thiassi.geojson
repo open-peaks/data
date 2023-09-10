@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.18278,
+            50.71444
+        ]
+    },
+    "properties": {
+        "feet": 9094.48848,
+        "meters": 2772.0,
+        "latitude": 50.71444,
+        "longitude": -123.18278,
+        "name": "Mount Thiassi",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

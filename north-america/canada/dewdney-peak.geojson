@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.1980555,
+            49.1891666
+        ]
+    },
+    "properties": {
+        "feet": 3051.1812,
+        "meters": 930.0,
+        "latitude": 49.1891666,
+        "longitude": -122.1980555,
+        "name": "Dewdney Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.19611,
+            52.4425
+        ]
+    },
+    "properties": {
+        "feet": 9435.69584,
+        "meters": 2876.0,
+        "latitude": 52.4425,
+        "longitude": -120.19611,
+        "name": "Garnet Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

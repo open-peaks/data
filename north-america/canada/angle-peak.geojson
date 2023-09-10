@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.21194,
+            52.61
+        ]
+    },
+    "properties": {
+        "feet": 9547.2444,
+        "meters": 2910.0,
+        "latitude": 52.61,
+        "longitude": -118.21194,
+        "name": "Angle Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

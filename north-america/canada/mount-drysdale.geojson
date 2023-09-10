@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.27278,
+            51.15
+        ]
+    },
+    "properties": {
+        "feet": 9619.42288,
+        "meters": 2932.0,
+        "latitude": 51.15,
+        "longitude": -116.27278,
+        "name": "Mount Drysdale",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

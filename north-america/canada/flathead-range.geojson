@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.63111,
+            49.54889
+        ]
+    },
+    "properties": {
+        "feet": 9235.5646,
+        "meters": 2815.0,
+        "latitude": 49.54889,
+        "longitude": -114.63111,
+        "name": "Flathead Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

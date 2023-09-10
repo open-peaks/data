@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.07528,
+            51.00556
+        ]
+    },
+    "properties": {
+        "feet": 10124.67224,
+        "meters": 3086.0,
+        "latitude": 51.00556,
+        "longitude": -116.07528,
+        "name": "Mount Verendrye",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -128.0456,
-            53.9397
+            -128.045556,
+            53.939722
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.9397,
-        "longitude": -128.0456,
+        "feet": 8937.00816,
+        "meters": 2724.0,
+        "latitude": 53.939722,
+        "longitude": -128.045556,
         "name": "Atna Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.475,
+            52.39111
+        ]
+    },
+    "properties": {
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 52.39111,
+        "longitude": -117.475,
+        "name": "Mount Weiss",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.343,
+            54.486
+        ]
+    },
+    "properties": {
+        "feet": 2286.74548,
+        "meters": 697.0,
+        "latitude": 54.486,
+        "longitude": -3.343,
+        "name": "Caw Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

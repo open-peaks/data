@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.1886,
+            52.058
+        ]
+    },
+    "properties": {
+        "feet": 9944.22604,
+        "meters": 3031.0,
+        "latitude": 52.058,
+        "longitude": -126.1886,
+        "name": "West Jacobsen Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

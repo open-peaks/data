@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.26267,
+            54.5875
+        ]
+    },
+    "properties": {
+        "feet": 2526.2468,
+        "meters": 770.0,
+        "latitude": 54.5875,
+        "longitude": -3.26267,
+        "name": "Ladyside Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

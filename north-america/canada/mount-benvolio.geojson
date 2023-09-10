@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.81389,
+            50.01194
+        ]
+    },
+    "properties": {
+        "feet": 8572.83492,
+        "meters": 2613.0,
+        "latitude": 50.01194,
+        "longitude": -122.81389,
+        "name": "Mount Benvolio",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

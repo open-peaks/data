@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.28667,
+            49.2025
+        ]
+    },
+    "properties": {
+        "feet": 7116.14196,
+        "meters": 2169.0,
+        "latitude": 49.2025,
+        "longitude": -121.28667,
+        "name": "Mount Forddred",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

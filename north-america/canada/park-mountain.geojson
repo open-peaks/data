@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.35167,
+            51.32694
+        ]
+    },
+    "properties": {
+        "feet": 9681.75884,
+        "meters": 2951.0,
+        "latitude": 51.32694,
+        "longitude": -116.35167,
+        "name": "Park Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

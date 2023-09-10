@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.30111,
+            50.88861
+        ]
+    },
+    "properties": {
+        "feet": 8690.94516,
+        "meters": 2649.0,
+        "latitude": 50.88861,
+        "longitude": -118.30111,
+        "name": "Mount Tilley",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

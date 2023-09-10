@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.15583,
+            53.11056
+        ]
+    },
+    "properties": {
+        "feet": 12972.44136,
+        "meters": 3954.0,
+        "latitude": 53.11056,
+        "longitude": -119.15583,
+        "name": "Canadian Rockies",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

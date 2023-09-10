@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.20861,
+            51.39306
+        ]
+    },
+    "properties": {
+        "feet": 7982.28372,
+        "meters": 2433.0,
+        "latitude": 51.39306,
+        "longitude": -116.20861,
+        "name": "Saddle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

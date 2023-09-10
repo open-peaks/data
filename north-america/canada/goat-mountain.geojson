@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.07889,
+            49.40361
+        ]
+    },
+    "properties": {
+        "feet": 4596.45684,
+        "meters": 1401.0,
+        "latitude": 49.40361,
+        "longitude": -123.07889,
+        "name": "Goat Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

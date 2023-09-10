@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.39139,
+            52.71389
+        ]
+    },
+    "properties": {
+        "feet": 10820.21032,
+        "meters": 3298.0,
+        "latitude": 52.71389,
+        "longitude": -118.39139,
+        "name": "Mount Geikie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

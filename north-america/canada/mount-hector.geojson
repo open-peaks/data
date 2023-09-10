@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.2589,
-            51.5753
+            -116.25833,
+            51.57333
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.5753,
-        "longitude": -116.2589,
+        "feet": 11135.17096,
+        "meters": 3394.0,
+        "latitude": 51.57333,
+        "longitude": -116.25833,
         "name": "Mount Hector",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

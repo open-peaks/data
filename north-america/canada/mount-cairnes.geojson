@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -138.27694,
-            60.86833
+            -116.78028,
+            51.68472
         ]
     },
     "properties": {
-        "feet": 9219.1604,
-        "meters": 2810.0,
-        "latitude": 60.86833,
-        "longitude": -138.27694,
+        "feet": 10039.3704,
+        "meters": 3060.0,
+        "latitude": 51.68472,
+        "longitude": -116.78028,
         "name": "Mount Cairnes",
         "countries": [
             "Canada"

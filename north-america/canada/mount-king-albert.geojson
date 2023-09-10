@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.415,
+            50.71194
+        ]
+    },
+    "properties": {
+        "feet": 9799.86908,
+        "meters": 2987.0,
+        "latitude": 50.71194,
+        "longitude": -115.415,
+        "name": "Mount King Albert",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

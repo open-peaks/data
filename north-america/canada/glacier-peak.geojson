@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.28444,
+            51.35083
+        ]
+    },
+    "properties": {
+        "feet": 10833.33368,
+        "meters": 3302.0,
+        "latitude": 51.35083,
+        "longitude": -116.28444,
+        "name": "Glacier Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

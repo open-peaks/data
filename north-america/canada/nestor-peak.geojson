@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.70972,
+            50.94472
+        ]
+    },
+    "properties": {
+        "feet": 9750.65648,
+        "meters": 2972.0,
+        "latitude": 50.94472,
+        "longitude": -115.70972,
+        "name": "Nestor Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

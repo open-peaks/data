@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.00917,
+            51.12611
+        ]
+    },
+    "properties": {
+        "feet": 9625.98456,
+        "meters": 2934.0,
+        "latitude": 51.12611,
+        "longitude": -116.00917,
+        "name": "Isabelle Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

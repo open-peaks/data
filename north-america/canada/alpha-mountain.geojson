@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.27583,
+            49.79556
+        ]
+    },
+    "properties": {
+        "feet": 7552.49368,
+        "meters": 2302.0,
+        "latitude": 49.79556,
+        "longitude": -123.27583,
+        "name": "Alpha Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

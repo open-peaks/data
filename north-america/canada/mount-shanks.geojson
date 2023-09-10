@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.88111,
+            51.00389
+        ]
+    },
+    "properties": {
+        "feet": 9311.02392,
+        "meters": 2838.0,
+        "latitude": 51.00389,
+        "longitude": -115.88111,
+        "name": "Mount Shanks",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.58,
+            51.22833
+        ]
+    },
+    "properties": {
+        "feet": 8832.02128,
+        "meters": 2692.0,
+        "latitude": 51.22833,
+        "longitude": -117.58,
+        "name": "Mount Green",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

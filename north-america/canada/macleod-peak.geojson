@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.21306,
+            49.32861
+        ]
+    },
+    "properties": {
+        "feet": 7139.10784,
+        "meters": 2176.0,
+        "latitude": 49.32861,
+        "longitude": -121.21306,
+        "name": "Macleod Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

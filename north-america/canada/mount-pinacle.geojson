@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.89694,
+            45.02361
+        ]
+    },
+    "properties": {
+        "feet": 2181.7586,
+        "meters": 665.0,
+        "latitude": 45.02361,
+        "longitude": -71.89694,
+        "name": "Mount Pinacle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

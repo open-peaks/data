@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.66194,
+            49.46667
+        ]
+    },
+    "properties": {
+        "feet": 5853.0185599999995,
+        "meters": 1784.0,
+        "latitude": 49.46667,
+        "longitude": -121.66194,
+        "name": "Mount McNair",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.55028,
+            51.50056
+        ]
+    },
+    "properties": {
+        "feet": 10095.14468,
+        "meters": 3077.0,
+        "latitude": 51.50056,
+        "longitude": -116.55028,
+        "name": "The Vice President",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

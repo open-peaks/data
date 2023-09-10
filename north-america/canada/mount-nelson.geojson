@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.3514,
-            50.46
+            -117.46944,
+            52.34611
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 50.46,
-        "longitude": -116.3514,
+        "feet": 10334.646,
+        "meters": 3150.0,
+        "latitude": 52.34611,
+        "longitude": -117.46944,
         "name": "Mount Nelson",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

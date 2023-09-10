@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.247625,
-      51.37987
-    ]
-  },
-  "properties": {
-    "feet": 10341,
-    "meters": 3152,
-    "latitude": 51.37987,
-    "longitude": -116.247625,
-    "name": "Mount Aberdeen",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.2475,
+            51.38
+        ]
+    },
+    "properties": {
+        "feet": 10341.20768,
+        "meters": 3152.0,
+        "latitude": 51.38,
+        "longitude": -116.2475,
+        "name": "Mount Aberdeen",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

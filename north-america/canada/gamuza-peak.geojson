@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.2375,
+            49.63528
+        ]
+    },
+    "properties": {
+        "feet": 6377.95296,
+        "meters": 1944.0,
+        "latitude": 49.63528,
+        "longitude": -121.2375,
+        "name": "Gamuza Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

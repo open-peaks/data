@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.82361,
+            51.73722
+        ]
+    },
+    "properties": {
+        "feet": 9711.286399999999,
+        "meters": 2960.0,
+        "latitude": 51.73722,
+        "longitude": -117.82361,
+        "name": "Ygdrasil Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

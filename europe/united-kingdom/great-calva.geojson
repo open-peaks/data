@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.102,
+            54.669
+        ]
+    },
+    "properties": {
+        "feet": 2263.7796,
+        "meters": 690.0,
+        "latitude": 54.669,
+        "longitude": -3.102,
+        "name": "Great Calva",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.60722,
+            50.66778
+        ]
+    },
+    "properties": {
+        "feet": 9750.65648,
+        "meters": 2972.0,
+        "latitude": 50.66778,
+        "longitude": -116.60722,
+        "name": "Taurus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

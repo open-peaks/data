@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.49389,
+            46.82306
+        ]
+    },
+    "properties": {
+        "feet": 1591.2074,
+        "meters": 485.0,
+        "latitude": 46.82306,
+        "longitude": -71.49389,
+        "name": "Mount B%C3%A9lair",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

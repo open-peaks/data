@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.04806,
+            53.12639
+        ]
+    },
+    "properties": {
+        "feet": 10472.44128,
+        "meters": 3192.0,
+        "latitude": 53.12639,
+        "longitude": -119.04806,
+        "name": "Lynx Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

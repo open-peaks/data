@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.37583,
+            52.56333
+        ]
+    },
+    "properties": {
+        "feet": 11030.184079999999,
+        "meters": 3362.0,
+        "latitude": 52.56333,
+        "longitude": -117.37583,
+        "name": "Mount Warren",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

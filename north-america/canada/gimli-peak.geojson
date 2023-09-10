@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.64694,
+            49.76611
+        ]
+    },
+    "properties": {
+        "feet": 9206.03704,
+        "meters": 2806.0,
+        "latitude": 49.76611,
+        "longitude": -117.64694,
+        "name": "Gimli Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

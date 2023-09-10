@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.12639,
+            53.14389
+        ]
+    },
+    "properties": {
+        "feet": 9002.62496,
+        "meters": 2744.0,
+        "latitude": 53.14389,
+        "longitude": -119.12639,
+        "name": "Rearguard Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

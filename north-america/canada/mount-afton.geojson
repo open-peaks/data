@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.51389,
+            51.23556
+        ]
+    },
+    "properties": {
+        "feet": 8375.98452,
+        "meters": 2553.0,
+        "latitude": 51.23556,
+        "longitude": -117.51389,
+        "name": "Mount Afton",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

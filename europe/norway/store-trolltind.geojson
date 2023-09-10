@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.715556,
+            62.4875
+        ]
+    },
+    "properties": {
+        "feet": 5866.14192,
+        "meters": 1788.0,
+        "latitude": 62.4875,
+        "longitude": 7.715556,
+        "name": "Store Trolltind",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

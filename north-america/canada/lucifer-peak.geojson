@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.73444,
+            49.82444
+        ]
+    },
+    "properties": {
+        "feet": 8943.56984,
+        "meters": 2726.0,
+        "latitude": 49.82444,
+        "longitude": -117.73444,
+        "name": "Lucifer Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

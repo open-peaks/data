@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.68,
+            51.215
+        ]
+    },
+    "properties": {
+        "feet": 8799.21288,
+        "meters": 2682.0,
+        "latitude": 51.215,
+        "longitude": -115.68,
+        "name": "Mount Louis",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.15996,
+            54.45821
+        ]
+    },
+    "properties": {
+        "feet": 2135.82684,
+        "meters": 651.0,
+        "latitude": 54.45821,
+        "longitude": -3.15996,
+        "name": "Rossett Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

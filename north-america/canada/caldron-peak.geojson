@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.545544,
-      51.718734
-    ]
-  },
-  "properties": {
-    "feet": 9551,
-    "meters": 2911,
-    "latitude": 51.718734,
-    "longitude": -116.545544,
-    "name": "Caldron Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.545,
+            51.71889
+        ]
+    },
+    "properties": {
+        "feet": 9550.525239999999,
+        "meters": 2911.0,
+        "latitude": 51.71889,
+        "longitude": -116.545,
+        "name": "Caldron Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

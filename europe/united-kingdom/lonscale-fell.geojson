@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.10921,
+            54.63484
+        ]
+    },
+    "properties": {
+        "feet": 2345.8006,
+        "meters": 715.0,
+        "latitude": 54.63484,
+        "longitude": -3.10921,
+        "name": "Lonscale Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

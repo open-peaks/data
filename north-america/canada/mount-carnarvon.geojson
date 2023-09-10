@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.58889,
+            51.47028
+        ]
+    },
+    "properties": {
+        "feet": 9993.43864,
+        "meters": 3046.0,
+        "latitude": 51.47028,
+        "longitude": -116.58889,
+        "name": "Mount Carnarvon",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

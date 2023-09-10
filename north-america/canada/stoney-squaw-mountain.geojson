@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.577667,
+            51.200625
+        ]
+    },
+    "properties": {
+        "feet": 6128.60912,
+        "meters": 1868.0,
+        "latitude": 51.200625,
+        "longitude": -115.577667,
+        "name": "Stoney Squaw Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

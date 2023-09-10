@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.23222,
+            51.36556
+        ]
+    },
+    "properties": {
+        "feet": 10187.0082,
+        "meters": 3105.0,
+        "latitude": 51.36556,
+        "longitude": -125.23222,
+        "name": "Bravo Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

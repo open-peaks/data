@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -57.83389,
+            48.93
+        ]
+    },
+    "properties": {
+        "feet": 1791.33864,
+        "meters": 546.0,
+        "latitude": 48.93,
+        "longitude": -57.83389,
+        "name": "Mount Musgrave",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

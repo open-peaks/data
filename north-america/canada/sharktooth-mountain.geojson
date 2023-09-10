@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.96222,
+            58.5875
+        ]
+    },
+    "properties": {
+        "feet": 8753.28112,
+        "meters": 2668.0,
+        "latitude": 58.5875,
+        "longitude": -127.96222,
+        "name": "Sharktooth Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

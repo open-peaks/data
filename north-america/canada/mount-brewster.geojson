@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.65556,
+            51.24528
+        ]
+    },
+    "properties": {
+        "feet": 9379.92156,
+        "meters": 2859.0,
+        "latitude": 51.24528,
+        "longitude": -115.65556,
+        "name": "Mount Brewster",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

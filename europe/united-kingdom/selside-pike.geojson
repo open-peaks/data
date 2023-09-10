@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.78849,
+            54.49294
+        ]
+    },
+    "properties": {
+        "feet": 2148.9501999999998,
+        "meters": 655.0,
+        "latitude": 54.49294,
+        "longitude": -2.78849,
+        "name": "Selside Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

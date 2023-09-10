@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.105,
+            51.957222
+        ]
+    },
+    "properties": {
+        "feet": 11476.37832,
+        "meters": 3498.0,
+        "latitude": 51.957222,
+        "longitude": -117.105,
+        "name": "Ernest Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

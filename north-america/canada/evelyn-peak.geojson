@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.76194,
+            52.67167
+        ]
+    },
+    "properties": {
+        "feet": 9366.7982,
+        "meters": 2855.0,
+        "latitude": 52.67167,
+        "longitude": -117.76194,
+        "name": "Evelyn Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

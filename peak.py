@@ -26,7 +26,7 @@ class Peak:
         self.__continent = None
 
     def __repr__(self):
-        continent = self._continent.ljust(10, ' ')
+        continent = self._continent.ljust(15, ' ')
         country = self._country.ljust(20, ' ')
         name = self.name.ljust(50, ' ')
         return f"{continent}{country}{name}{self.url}"
@@ -70,7 +70,10 @@ class Peak:
                 desired_keys = ["Elevation", "Prominence", "Parent range", "Isolation", "Coordinates", "Country", "Territory"]
                 if key_element and val_element and key_element.text in desired_keys:
                     if key_element.text == "Coordinates":
-                        val = val_element.find('span', class_="geo-dec").text
+                        try:
+                            val = val_element.find('span', class_="geo-dec").text
+                        except:
+                            val = val_element.text
                         self.raw_coordinates = val
 
                     if key_element.text == "Elevation":
@@ -199,7 +202,10 @@ class Peak:
     def _country(self):
         if not self.location:
             return None
-        country_name = self.location.split(", ")[-1].strip().split("[")[0].split("(")[0].strip()
+        country_name = self.location.split(", ")[-1].strip().split("[")[0].split("(")[0].split(" and ")[0].strip()
+        for s in ["inland", "Inland", "northern", "Northern"]:
+            if s in country_name:
+                country_name = country_name.replace(s, "")
         mappings = {
             "england": "United Kingdom",
             "us": "United States",

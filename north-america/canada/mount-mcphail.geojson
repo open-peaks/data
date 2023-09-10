@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.86111,
+            50.40806
+        ]
+    },
+    "properties": {
+        "feet": 9468.50424,
+        "meters": 2886.0,
+        "latitude": 50.40806,
+        "longitude": -114.86111,
+        "name": "Mount McPhail",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

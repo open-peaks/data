@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -129.56667,
+            53.54167
+        ]
+    },
+    "properties": {
+        "feet": 2122.70348,
+        "meters": 647.0,
+        "latitude": 53.54167,
+        "longitude": -129.56667,
+        "name": "Anchor Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

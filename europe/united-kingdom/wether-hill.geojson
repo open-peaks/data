@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.839,
+            54.542
+        ]
+    },
+    "properties": {
+        "feet": 2211.28616,
+        "meters": 674.0,
+        "latitude": 54.542,
+        "longitude": -2.839,
+        "name": "Wether Hill",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

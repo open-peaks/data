@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.13278,
+            52.82694
+        ]
+    },
+    "properties": {
+        "feet": 8103.6748,
+        "meters": 2470.0,
+        "latitude": 52.82694,
+        "longitude": -118.13278,
+        "name": "The Whistlers",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

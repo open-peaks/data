@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.0,
+            48.267
+        ]
+    },
+    "properties": {
+        "feet": 2103.01844,
+        "meters": 641.0,
+        "latitude": 48.267,
+        "longitude": -86.0,
+        "name": "Tip Top Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Ontario"
+        ]
+    }
+}

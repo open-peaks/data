@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.56111,
+            52.23333
+        ]
+    },
+    "properties": {
+        "feet": 9534.12104,
+        "meters": 2906.0,
+        "latitude": 52.23333,
+        "longitude": -117.56111,
+        "name": "Warwick Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

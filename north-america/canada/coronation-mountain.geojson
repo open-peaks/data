@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.90861,
+            51.80611
+        ]
+    },
+    "properties": {
+        "feet": 10419.94784,
+        "meters": 3176.0,
+        "latitude": 51.80611,
+        "longitude": -116.90861,
+        "name": "Coronation Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

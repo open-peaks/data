@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.00083,
+            53.88333
+        ]
+    },
+    "properties": {
+        "feet": 7844.48844,
+        "meters": 2391.0,
+        "latitude": 53.88333,
+        "longitude": -120.00083,
+        "name": "Mount C%C3%B4t%C3%A9",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

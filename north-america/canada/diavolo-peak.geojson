@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.81583,
+            50.00556
+        ]
+    },
+    "properties": {
+        "feet": 8428.47796,
+        "meters": 2569.0,
+        "latitude": 50.00556,
+        "longitude": -122.81583,
+        "name": "Diavolo Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

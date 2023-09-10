@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.52417,
+            49.03333
+        ]
+    },
+    "properties": {
+        "feet": 7641.07636,
+        "meters": 2329.0,
+        "latitude": 49.03333,
+        "longitude": -121.52417,
+        "name": "Mount Rexford",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

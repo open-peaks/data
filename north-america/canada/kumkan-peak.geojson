@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.93722,
+            50.07472
+        ]
+    },
+    "properties": {
+        "feet": 8996.06328,
+        "meters": 2742.0,
+        "latitude": 50.07472,
+        "longitude": -121.93722,
+        "name": "Kumkan Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

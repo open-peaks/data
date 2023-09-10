@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.51833,
+            51.20833
+        ]
+    },
+    "properties": {
+        "feet": 9484.90844,
+        "meters": 2891.0,
+        "latitude": 51.20833,
+        "longitude": -117.51833,
+        "name": "Mount Swanzy",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

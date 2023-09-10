@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.87639,
+            50.44
+        ]
+    },
+    "properties": {
+        "feet": 9350.394,
+        "meters": 2850.0,
+        "latitude": 50.44,
+        "longitude": -114.87639,
+        "name": "Mount Bishop",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.12519,
+            54.42798
+        ]
+    },
+    "properties": {
+        "feet": 2312.9922,
+        "meters": 705.0,
+        "latitude": 54.42798,
+        "longitude": -3.12519,
+        "name": "Pike of Blisco",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

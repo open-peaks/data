@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.70111,
+            50.935
+        ]
+    },
+    "properties": {
+        "feet": 9219.1604,
+        "meters": 2810.0,
+        "latitude": 50.935,
+        "longitude": -124.70111,
+        "name": "Mount Bute",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

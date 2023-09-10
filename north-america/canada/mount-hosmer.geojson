@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.01139,
+            49.61389
+        ]
+    },
+    "properties": {
+        "feet": 8202.1,
+        "meters": 2500.0,
+        "latitude": 49.61389,
+        "longitude": -115.01139,
+        "name": "Mount Hosmer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

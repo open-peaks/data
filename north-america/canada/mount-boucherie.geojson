@@ -1,27 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -119.581389,
-      49.853889
-    ]
-  },
-  "properties": {
-    "feet": 2487,
-    "meters": 758,
-    "latitude": 49.853889,
-    "longitude": -119.581389,
-    "name": "Mount Boucherie",
-    "regions": [
-      "Intermountain West",
-      "British Columbia Interior"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.58139,
+            49.85389
+        ]
+    },
+    "properties": {
+        "feet": 2486.87672,
+        "meters": 758.0,
+        "latitude": 49.85389,
+        "longitude": -119.58139,
+        "name": "Mount Boucherie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "BC"
+        ]
+    }
 }

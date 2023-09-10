@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.09475,
+            54.50016
+        ]
+    },
+    "properties": {
+        "feet": 2381.88984,
+        "meters": 726.0,
+        "latitude": 54.50016,
+        "longitude": -3.09475,
+        "name": "Ullscarf",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

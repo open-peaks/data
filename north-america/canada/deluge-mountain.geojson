@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.05,
+            50.85
+        ]
+    },
+    "properties": {
+        "feet": 9150.26276,
+        "meters": 2789.0,
+        "latitude": 50.85,
+        "longitude": -117.05,
+        "name": "Deluge Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.25722,
+            53.07972
+        ]
+    },
+    "properties": {
+        "feet": 8946.85068,
+        "meters": 2727.0,
+        "latitude": 53.07972,
+        "longitude": -119.25722,
+        "name": "Cinnamon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

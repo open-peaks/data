@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.24,
+            52.00806
+        ]
+    },
+    "properties": {
+        "feet": 10236.2208,
+        "meters": 3120.0,
+        "latitude": 52.00806,
+        "longitude": -117.24,
+        "name": "Qu%C3%A9ant Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

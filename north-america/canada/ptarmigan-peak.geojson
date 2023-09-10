@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.09056,
+            51.49222
+        ]
+    },
+    "properties": {
+        "feet": 10036.08956,
+        "meters": 3059.0,
+        "latitude": 51.49222,
+        "longitude": -116.09056,
+        "name": "Ptarmigan Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

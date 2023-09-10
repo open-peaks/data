@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.44778,
+            50.35972
+        ]
+    },
+    "properties": {
+        "feet": 7237.53304,
+        "meters": 2206.0,
+        "latitude": 50.35972,
+        "longitude": -122.44778,
+        "name": "Mount Chief Pascall",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

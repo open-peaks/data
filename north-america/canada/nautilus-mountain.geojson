@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.27028,
+            50.92028
+        ]
+    },
+    "properties": {
+        "feet": 10269.029199999999,
+        "meters": 3130.0,
+        "latitude": 50.92028,
+        "longitude": -117.27028,
+        "name": "Nautilus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

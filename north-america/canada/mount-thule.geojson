@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -78.41694,
+            73.01694
+        ]
+    },
+    "properties": {
+        "feet": 5613.51724,
+        "meters": 1711.0,
+        "latitude": 73.01694,
+        "longitude": -78.41694,
+        "name": "Mount Thule",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.31556,
+            51.4125
+        ]
+    },
+    "properties": {
+        "feet": 9757.21816,
+        "meters": 2974.0,
+        "latitude": 51.4125,
+        "longitude": -116.31556,
+        "name": "Narao Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

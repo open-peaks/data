@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.22194,
+            51.39056
+        ]
+    },
+    "properties": {
+        "feet": 12191.60144,
+        "meters": 3716.0,
+        "latitude": 51.39056,
+        "longitude": -125.22194,
+        "name": "Asperity Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

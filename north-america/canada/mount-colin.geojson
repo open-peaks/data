@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.98806,
+            53.00194
+        ]
+    },
+    "properties": {
+        "feet": 8815.61708,
+        "meters": 2687.0,
+        "latitude": 53.00194,
+        "longitude": -117.98806,
+        "name": "Mount Colin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

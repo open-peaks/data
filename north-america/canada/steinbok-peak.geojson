@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.25111,
+            49.66056
+        ]
+    },
+    "properties": {
+        "feet": 6601.05008,
+        "meters": 2012.0,
+        "latitude": 49.66056,
+        "longitude": -121.25111,
+        "name": "Steinbok Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.1225,
+            51.49583
+        ]
+    },
+    "properties": {
+        "feet": 10124.67224,
+        "meters": 3086.0,
+        "latitude": 51.49583,
+        "longitude": -116.1225,
+        "name": "Slate Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

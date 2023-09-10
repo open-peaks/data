@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.53139,
+            52.75944
+        ]
+    },
+    "properties": {
+        "feet": 5898.95032,
+        "meters": 1798.0,
+        "latitude": 52.75944,
+        "longitude": -124.53139,
+        "name": "Baldface Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

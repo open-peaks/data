@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.21169,
+            51.092223
+        ]
+    },
+    "properties": {
+        "feet": 10059.05544,
+        "meters": 3066.0,
+        "latitude": 51.092223,
+        "longitude": -116.21169,
+        "name": "Hewitt Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.387,
-      50.8069
-    ]
-  },
-  "properties": {
-    "feet": 9639,
-    "meters": 2938,
-    "latitude": 50.8069,
-    "longitude": -115.387,
-    "name": "Mount Smuts",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.38694,
+            50.80778
+        ]
+    },
+    "properties": {
+        "feet": 9639.10792,
+        "meters": 2938.0,
+        "latitude": 50.80778,
+        "longitude": -115.38694,
+        "name": "Mount Smuts",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

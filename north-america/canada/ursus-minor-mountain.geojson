@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.57694,
+            51.31056
+        ]
+    },
+    "properties": {
+        "feet": 9019.02916,
+        "meters": 2749.0,
+        "latitude": 51.31056,
+        "longitude": -117.57694,
+        "name": "Ursus Minor Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

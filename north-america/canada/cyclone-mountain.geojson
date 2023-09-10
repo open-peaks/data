@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.07111,
+            51.56888
+        ]
+    },
+    "properties": {
+        "feet": 10006.562,
+        "meters": 3050.0,
+        "latitude": 51.56888,
+        "longitude": -116.07111,
+        "name": "Cyclone Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

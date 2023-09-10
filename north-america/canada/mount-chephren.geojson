@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.681671,
-      51.840126
-    ]
-  },
-  "properties": {
-    "feet": 10741,
-    "meters": 3274,
-    "latitude": 51.840126,
-    "longitude": -116.681671,
-    "name": "Mount Chephren",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.68306,
+            51.84028
+        ]
+    },
+    "properties": {
+        "feet": 10715.22344,
+        "meters": 3266.0,
+        "latitude": 51.84028,
+        "longitude": -116.68306,
+        "name": "Mount Chephren",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

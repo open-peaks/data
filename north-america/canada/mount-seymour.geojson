@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.94444,
+            49.39611
+        ]
+    },
+    "properties": {
+        "feet": 4753.93716,
+        "meters": 1449.0,
+        "latitude": 49.39611,
+        "longitude": -122.94444,
+        "name": "Mount Seymour",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.82111,
+            51.73722
+        ]
+    },
+    "properties": {
+        "feet": 10439.63288,
+        "meters": 3182.0,
+        "latitude": 51.73722,
+        "longitude": -116.82111,
+        "name": "Mount Lambe",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.70611,
+            50.6425
+        ]
+    },
+    "properties": {
+        "feet": 7988.8454,
+        "meters": 2435.0,
+        "latitude": 50.6425,
+        "longitude": -122.70611,
+        "name": "Mount Aragorn",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

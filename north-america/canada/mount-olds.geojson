@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.61389,
+            50.40889
+        ]
+    },
+    "properties": {
+        "feet": 8339.89528,
+        "meters": 2542.0,
+        "latitude": 50.40889,
+        "longitude": -122.61389,
+        "name": "Mount Olds",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

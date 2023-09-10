@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.66972,
+            51.80444
+        ]
+    },
+    "properties": {
+        "feet": 9839.23916,
+        "meters": 2999.0,
+        "latitude": 51.80444,
+        "longitude": -116.66972,
+        "name": "Aiguille Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

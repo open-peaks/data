@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.23528,
+            51.20472
+        ]
+    },
+    "properties": {
+        "feet": 7549.21284,
+        "meters": 2301.0,
+        "latitude": 51.20472,
+        "longitude": -119.23528,
+        "name": "Pukeashun Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

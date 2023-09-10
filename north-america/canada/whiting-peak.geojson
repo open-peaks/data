@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.93472,
+            58.13889
+        ]
+    },
+    "properties": {
+        "feet": 8280.84016,
+        "meters": 2524.0,
+        "latitude": 58.13889,
+        "longitude": -132.93472,
+        "name": "Whiting Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

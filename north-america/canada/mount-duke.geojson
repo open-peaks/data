@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.38306,
+            50.31861
+        ]
+    },
+    "properties": {
+        "feet": 7805.11836,
+        "meters": 2379.0,
+        "latitude": 50.31861,
+        "longitude": -122.38306,
+        "name": "Mount Duke",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.52389,
+            50.40222
+        ]
+    },
+    "properties": {
+        "feet": 8402.23124,
+        "meters": 2561.0,
+        "latitude": 50.40222,
+        "longitude": -122.52389,
+        "name": "Cayoosh Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.2277778,
+            53.2066667
+        ]
+    },
+    "properties": {
+        "feet": 7696.85064,
+        "meters": 2346.0,
+        "latitude": 53.2066667,
+        "longitude": -118.2277778,
+        "name": "Mount Bistre",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

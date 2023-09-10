@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.86611,
+            51.76167
+        ]
+    },
+    "properties": {
+        "feet": 10419.94784,
+        "meters": 3176.0,
+        "latitude": 51.76167,
+        "longitude": -116.86611,
+        "name": "Mount Bergne",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

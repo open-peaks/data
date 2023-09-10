@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.61028,
+            48.35889
+        ]
+    },
+    "properties": {
+        "feet": 958.00528,
+        "meters": 292.0,
+        "latitude": 48.35889,
+        "longitude": -123.61028,
+        "name": "Mount Matheson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

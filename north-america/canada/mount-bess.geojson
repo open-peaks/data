@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.37722,
+            53.34972
+        ]
+    },
+    "properties": {
+        "feet": 10508.53052,
+        "meters": 3203.0,
+        "latitude": 53.34972,
+        "longitude": -119.37722,
+        "name": "Mount Bess",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

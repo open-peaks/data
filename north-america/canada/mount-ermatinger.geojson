@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.0466667,
+            52.4175
+        ]
+    },
+    "properties": {
+        "feet": 10039.3704,
+        "meters": 3060.0,
+        "latitude": 52.4175,
+        "longitude": -118.0466667,
+        "name": "Mount Ermatinger",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

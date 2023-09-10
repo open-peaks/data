@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.93944,
+            52.84167
+        ]
+    },
+    "properties": {
+        "feet": 8838.58296,
+        "meters": 2694.0,
+        "latitude": 52.84167,
+        "longitude": -117.93944,
+        "name": "Mount Tekarra",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.03444,
+            52.43861
+        ]
+    },
+    "properties": {
+        "feet": 10236.2208,
+        "meters": 3120.0,
+        "latitude": 52.43861,
+        "longitude": -118.03444,
+        "name": "Mount Oates",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -65.08306,
+            66.76694
+        ]
+    },
+    "properties": {
+        "feet": 5685.69572,
+        "meters": 1733.0,
+        "latitude": 66.76694,
+        "longitude": -65.08306,
+        "name": "Bastille Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
+    }
+}

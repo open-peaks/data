@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.39194,
+            51.10833
+        ]
+    },
+    "properties": {
+        "feet": 10944.88224,
+        "meters": 3336.0,
+        "latitude": 51.10833,
+        "longitude": -117.39194,
+        "name": "Mount Wheeler",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

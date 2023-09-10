@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.43333,
+            51.32388
+        ]
+    },
+    "properties": {
+        "feet": 10374.01608,
+        "meters": 3162.0,
+        "latitude": 51.32388,
+        "longitude": -115.43333,
+        "name": "Mount Aylmer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.94333,
+            52.94472
+        ]
+    },
+    "properties": {
+        "feet": 8185.6957999999995,
+        "meters": 2495.0,
+        "latitude": 52.94472,
+        "longitude": -117.94333,
+        "name": "Roche Bonhomme",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

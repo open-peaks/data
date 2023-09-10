@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.99,
+            49.95139
+        ]
+    },
+    "properties": {
+        "feet": 7208.00548,
+        "meters": 2197.0,
+        "latitude": 49.95139,
+        "longitude": -122.99,
+        "name": "Gentian Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

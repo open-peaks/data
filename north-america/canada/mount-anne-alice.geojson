@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.2025,
+            53.18
+        ]
+    },
+    "properties": {
+        "feet": 9648.95044,
+        "meters": 2941.0,
+        "latitude": 53.18,
+        "longitude": -119.2025,
+        "name": "Mount Anne-Alice",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

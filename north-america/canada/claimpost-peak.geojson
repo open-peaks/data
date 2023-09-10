@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.89028,
+            50.17667
+        ]
+    },
+    "properties": {
+        "feet": 8763.12364,
+        "meters": 2671.0,
+        "latitude": 50.17667,
+        "longitude": -121.89028,
+        "name": "Claimpost Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

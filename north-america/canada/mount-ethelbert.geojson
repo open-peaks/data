@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.54444,
+            50.77583
+        ]
+    },
+    "properties": {
+        "feet": 10419.94784,
+        "meters": 3176.0,
+        "latitude": 50.77583,
+        "longitude": -116.54444,
+        "name": "Mount Ethelbert",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

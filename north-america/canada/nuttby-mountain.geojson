@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -63.2240861,
+            45.5548389
+        ]
+    },
+    "properties": {
+        "feet": 1181.1024,
+        "meters": 360.0,
+        "latitude": 45.5548389,
+        "longitude": -63.2240861,
+        "name": "Nuttby Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

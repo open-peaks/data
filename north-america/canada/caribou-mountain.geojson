@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.77917,
+            47.05833
+        ]
+    },
+    "properties": {
+        "feet": 1299.21264,
+        "meters": 396.0,
+        "latitude": 47.05833,
+        "longitude": -79.77917,
+        "name": "Caribou Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.787,
+            54.463
+        ]
+    },
+    "properties": {
+        "feet": 2178.4777599999998,
+        "meters": 664.0,
+        "latitude": 54.463,
+        "longitude": -2.787,
+        "name": "Tarn Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

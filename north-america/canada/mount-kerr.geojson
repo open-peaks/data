@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.22083,
+            52.93611
+        ]
+    },
+    "properties": {
+        "feet": 8398.9504,
+        "meters": 2560.0,
+        "latitude": 52.93611,
+        "longitude": -118.22083,
+        "name": "Mount Kerr",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

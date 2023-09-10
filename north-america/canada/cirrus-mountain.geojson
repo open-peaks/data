@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.9775,
-      52.1694
-    ]
-  },
-  "properties": {
-    "feet": 10728,
-    "meters": 3270,
-    "latitude": 52.1694,
-    "longitude": -116.9775,
-    "name": "Cirrus Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.97722,
+            52.16944
+        ]
+    },
+    "properties": {
+        "feet": 10728.3468,
+        "meters": 3270.0,
+        "latitude": 52.16944,
+        "longitude": -116.97722,
+        "name": "Cirrus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

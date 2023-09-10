@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.84833,
+            51.05139
+        ]
+    },
+    "properties": {
+        "feet": 9498.0318,
+        "meters": 2895.0,
+        "latitude": 51.05139,
+        "longitude": -115.84833,
+        "name": "The Monarch",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.17472,
+            50.51861
+        ]
+    },
+    "properties": {
+        "feet": 10682.41504,
+        "meters": 3256.0,
+        "latitude": 50.51861,
+        "longitude": -115.17472,
+        "name": "Mount Nivelle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

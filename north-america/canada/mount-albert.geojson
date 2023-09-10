@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.87667,
+            50.23361
+        ]
+    },
+    "properties": {
+        "feet": 8372.70368,
+        "meters": 2552.0,
+        "latitude": 50.23361,
+        "longitude": -123.87667,
+        "name": "Mount Albert",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

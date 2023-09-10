@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.14167,
+            49.68389
+        ]
+    },
+    "properties": {
+        "feet": 2303.14968,
+        "meters": 702.0,
+        "latitude": 49.68389,
+        "longitude": -123.14167,
+        "name": "Stawamus Chief",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.79472,
+            51.18167
+        ]
+    },
+    "properties": {
+        "feet": 7988.8454,
+        "meters": 2435.0,
+        "latitude": 51.18167,
+        "longitude": -115.79472,
+        "name": "Massive Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

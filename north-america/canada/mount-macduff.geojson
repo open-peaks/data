@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78361,
+            50.43194
+        ]
+    },
+    "properties": {
+        "feet": 9872.047559999999,
+        "meters": 3009.0,
+        "latitude": 50.43194,
+        "longitude": -116.78361,
+        "name": "Mount Macduff",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

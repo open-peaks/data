@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.023148,
+            54.693561
+        ]
+    },
+    "properties": {
+        "feet": 2168.63524,
+        "meters": 661.0,
+        "latitude": 54.693561,
+        "longitude": -3.023148,
+        "name": "Carrock Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

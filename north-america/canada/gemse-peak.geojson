@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.21972,
+            49.65333
+        ]
+    },
+    "properties": {
+        "feet": 6200.7876,
+        "meters": 1890.0,
+        "latitude": 49.65333,
+        "longitude": -121.21972,
+        "name": "Gemse Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

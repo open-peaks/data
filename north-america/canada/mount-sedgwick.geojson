@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.33722,
+            49.74361
+        ]
+    },
+    "properties": {
+        "feet": 6830.70888,
+        "meters": 2082.0,
+        "latitude": 49.74361,
+        "longitude": -123.33722,
+        "name": "Mount Sedgwick",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

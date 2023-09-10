@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.28222,
+            55.21722
+        ]
+    },
+    "properties": {
+        "feet": 6870.07896,
+        "meters": 2094.0,
+        "latitude": 55.21722,
+        "longitude": -122.28222,
+        "name": "Murray Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

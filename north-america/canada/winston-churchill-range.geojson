@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.44056,
+            52.1475
+        ]
+    },
+    "properties": {
+        "feet": 12293.30748,
+        "meters": 3747.0,
+        "latitude": 52.1475,
+        "longitude": -117.44056,
+        "name": "Winston Churchill Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

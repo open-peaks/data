@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -62.02083,
+            66.5575
+        ]
+    },
+    "properties": {
+        "feet": 5610.2364,
+        "meters": 1710.0,
+        "latitude": 66.5575,
+        "longitude": -62.02083,
+        "name": "Angna Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Nunavut"
+        ]
+    }
+}

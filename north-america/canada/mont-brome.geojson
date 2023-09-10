@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -72.63306,
+            45.28306
+        ]
+    },
+    "properties": {
+        "feet": 1814.30452,
+        "meters": 553.0,
+        "latitude": 45.28306,
+        "longitude": -72.63306,
+        "name": "Mont Brome",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "Quebec"
+        ]
+    }
+}

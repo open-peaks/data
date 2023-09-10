@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.42222,
+            49.565
+        ]
+    },
+    "properties": {
+        "feet": 9199.47536,
+        "meters": 2804.0,
+        "latitude": 49.565,
+        "longitude": -115.42222,
+        "name": "The Steeples",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

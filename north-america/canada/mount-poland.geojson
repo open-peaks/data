@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.80472,
+            51.64111
+        ]
+    },
+    "properties": {
+        "feet": 9317.5856,
+        "meters": 2840.0,
+        "latitude": 51.64111,
+        "longitude": -116.80472,
+        "name": "Mount Poland",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

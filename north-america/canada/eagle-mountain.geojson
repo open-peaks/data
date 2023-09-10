@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.74472,
+            51.0975
+        ]
+    },
+    "properties": {
+        "feet": 9304.46224,
+        "meters": 2836.0,
+        "latitude": 51.0975,
+        "longitude": -115.74472,
+        "name": "Eagle Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

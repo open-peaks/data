@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.18528,
+            50.54417
+        ]
+    },
+    "properties": {
+        "feet": 10485.56464,
+        "meters": 3196.0,
+        "latitude": 50.54417,
+        "longitude": -115.18528,
+        "name": "Unnamed Alberta%E2%80%93BC mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

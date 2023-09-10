@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.875,
-            51.90167
+            -118.4275,
+            53.00222
         ]
     },
     "properties": {
-        "feet": 11663.3862,
-        "meters": 3555.0,
-        "latitude": 51.90167,
-        "longitude": -125.875,
+        "feet": 9110.89268,
+        "meters": 2777.0,
+        "latitude": 53.00222,
+        "longitude": -118.4275,
         "name": "Monarch Mountain",
         "countries": [
             "Canada"

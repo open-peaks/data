@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.833,
+            57.167
+        ]
+    },
+    "properties": {
+        "feet": 5318.24164,
+        "meters": 1621.0,
+        "latitude": 57.167,
+        "longitude": -125.833,
+        "name": "Russel Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.37694,
+            49.32056
+        ]
+    },
+    "properties": {
+        "feet": 4458.66156,
+        "meters": 1359.0,
+        "latitude": 49.32056,
+        "longitude": -122.37694,
+        "name": "Mount Crickmer",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

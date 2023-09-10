@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.53806,
+            48.4825
+        ]
+    },
+    "properties": {
+        "feet": 1374.67196,
+        "meters": 419.0,
+        "latitude": 48.4825,
+        "longitude": -123.53806,
+        "name": "Mount Finlayson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

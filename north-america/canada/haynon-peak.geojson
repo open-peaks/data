@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.91,
+            50.0975
+        ]
+    },
+    "properties": {
+        "feet": 8179.13412,
+        "meters": 2493.0,
+        "latitude": 50.0975,
+        "longitude": -121.91,
+        "name": "Haynon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

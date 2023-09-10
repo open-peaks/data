@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -137.1614,
-            59.355
+            -137.271306,
+            59.597222
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 59.355,
-        "longitude": -137.1614,
+        "feet": 8877.95304,
+        "meters": 2706.0,
+        "latitude": 59.597222,
+        "longitude": -137.271306,
         "name": "Basement Peak",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

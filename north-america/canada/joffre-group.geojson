@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.90306,
+            50.1875
+        ]
+    },
+    "properties": {
+        "feet": 9737.53312,
+        "meters": 2968.0,
+        "latitude": 50.1875,
+        "longitude": -121.90306,
+        "name": "Joffre Group",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

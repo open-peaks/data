@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.77739,
+            54.45768
+        ]
+    },
+    "properties": {
+        "feet": 2093.17592,
+        "meters": 638.0,
+        "latitude": 54.45768,
+        "longitude": -2.77739,
+        "name": "Harrop Pike",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

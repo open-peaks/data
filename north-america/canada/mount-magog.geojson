@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.63472,
+            50.87917
+        ]
+    },
+    "properties": {
+        "feet": 10154.1998,
+        "meters": 3095.0,
+        "latitude": 50.87917,
+        "longitude": -115.63472,
+        "name": "Mount Magog",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

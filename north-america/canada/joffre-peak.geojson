@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.44556,
+            50.34111
+        ]
+    },
+    "properties": {
+        "feet": 8927.16564,
+        "meters": 2721.0,
+        "latitude": 50.34111,
+        "longitude": -122.44556,
+        "name": "Joffre Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

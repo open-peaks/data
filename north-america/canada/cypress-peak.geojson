@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.25306,
+            50.03556
+        ]
+    },
+    "properties": {
+        "feet": 6833.98972,
+        "meters": 2083.0,
+        "latitude": 50.03556,
+        "longitude": -123.25306,
+        "name": "Cypress Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

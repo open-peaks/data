@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78083,
+            50.29722
+        ]
+    },
+    "properties": {
+        "feet": 10259.18668,
+        "meters": 3127.0,
+        "latitude": 50.29722,
+        "longitude": -116.78083,
+        "name": "Emperor Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

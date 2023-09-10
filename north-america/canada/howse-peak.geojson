@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.682,
-      51.8133
-    ]
-  },
-  "properties": {
-    "feet": 10810,
-    "meters": 3295,
-    "latitude": 51.8133,
-    "longitude": -116.682,
-    "name": "Howse Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.68111,
+            51.81389
+        ]
+    },
+    "properties": {
+        "feet": 10810.3678,
+        "meters": 3295.0,
+        "latitude": 51.81389,
+        "longitude": -116.68111,
+        "name": "Howse Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

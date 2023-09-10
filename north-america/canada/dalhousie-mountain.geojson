@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -62.96306,
+            45.56722
+        ]
+    },
+    "properties": {
+        "feet": 1118.76644,
+        "meters": 341.0,
+        "latitude": 45.56722,
+        "longitude": -62.96306,
+        "name": "Dalhousie Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

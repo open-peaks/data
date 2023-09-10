@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.3767,
-      51.21
-    ]
-  },
-  "properties": {
-    "feet": 9626,
-    "meters": 2934,
-    "latitude": 51.21,
-    "longitude": -115.3767,
-    "name": "Mount Peechee",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.37722,
+            51.20972
+        ]
+    },
+    "properties": {
+        "feet": 9629.2654,
+        "meters": 2935.0,
+        "latitude": 51.20972,
+        "longitude": -115.37722,
+        "name": "Mount Peechee",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

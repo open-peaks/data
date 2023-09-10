@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.57472,
+            50.40111
+        ]
+    },
+    "properties": {
+        "feet": 11190.94524,
+        "meters": 3411.0,
+        "latitude": 50.40111,
+        "longitude": -116.57472,
+        "name": "Karnak Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

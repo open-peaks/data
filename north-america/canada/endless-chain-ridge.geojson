@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.55444,
+            52.53667
+        ]
+    },
+    "properties": {
+        "feet": 9406.16828,
+        "meters": 2867.0,
+        "latitude": 52.53667,
+        "longitude": -117.55444,
+        "name": "Endless Chain Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

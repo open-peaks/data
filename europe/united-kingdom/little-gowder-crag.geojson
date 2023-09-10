@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.32278,
+            54.4844
+        ]
+    },
+    "properties": {
+        "feet": 2614.82948,
+        "meters": 797.0,
+        "latitude": 54.4844,
+        "longitude": -3.32278,
+        "name": "Little Gowder Crag",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

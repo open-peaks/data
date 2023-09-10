@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.12722,
+            52.71194
+        ]
+    },
+    "properties": {
+        "feet": 9104.331,
+        "meters": 2775.0,
+        "latitude": 52.71194,
+        "longitude": -118.12722,
+        "name": "Chak Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

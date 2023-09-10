@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.92124,
+            54.54384
+        ]
+    },
+    "properties": {
+        "feet": 2155.51188,
+        "meters": 657.0,
+        "latitude": 54.54384,
+        "longitude": -2.92124,
+        "name": "Place Fell",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

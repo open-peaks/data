@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.08806,
+            53.105
+        ]
+    },
+    "properties": {
+        "feet": 6801.18132,
+        "meters": 2073.0,
+        "latitude": 53.105,
+        "longitude": -118.08806,
+        "name": "Mount Greenock",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.05639,
+            49.38333
+        ]
+    },
+    "properties": {
+        "feet": 3887.7954,
+        "meters": 1185.0,
+        "latitude": 49.38333,
+        "longitude": -123.05639,
+        "name": "Mount Fromme",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

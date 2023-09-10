@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.4417,
-            52.1472
+            -117.44167,
+            52.14722
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 52.1472,
-        "longitude": -117.4417,
+        "feet": 12293.30748,
+        "meters": 3747.0,
+        "latitude": 52.14722,
+        "longitude": -117.44167,
         "name": "Mount Columbia",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

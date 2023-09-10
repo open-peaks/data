@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.4725,
+            46.95528
+        ]
+    },
+    "properties": {
+        "feet": 1351.049912,
+        "meters": 411.8,
+        "latitude": 46.95528,
+        "longitude": -60.4725,
+        "name": "Wilkie Sugar Loaf",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

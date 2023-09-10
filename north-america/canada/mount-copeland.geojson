@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.42222,
+            51.12333
+        ]
+    },
+    "properties": {
+        "feet": 8385.82704,
+        "meters": 2556.0,
+        "latitude": 51.12333,
+        "longitude": -118.42222,
+        "name": "Mount Copeland",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

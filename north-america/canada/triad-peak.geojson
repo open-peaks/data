@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.55778,
+            52.12833
+        ]
+    },
+    "properties": {
+        "feet": 10000.00032,
+        "meters": 3048.0,
+        "latitude": 52.12833,
+        "longitude": -117.55778,
+        "name": "Triad Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

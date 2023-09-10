@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.695232,
-      51.835778
-    ]
-  },
-  "properties": {
-    "feet": 10745,
-    "meters": 3275,
-    "latitude": 51.835778,
-    "longitude": -116.695232,
-    "name": "White Pyramid",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.69444,
+            51.83556
+        ]
+    },
+    "properties": {
+        "feet": 10561.02396,
+        "meters": 3219.0,
+        "latitude": 51.83556,
+        "longitude": -116.69444,
+        "name": "White Pyramid",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

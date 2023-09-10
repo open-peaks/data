@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.09222,
+            52.18083
+        ]
+    },
+    "properties": {
+        "feet": 7398.2942,
+        "meters": 2255.0,
+        "latitude": 52.18083,
+        "longitude": -117.09222,
+        "name": "Parker Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

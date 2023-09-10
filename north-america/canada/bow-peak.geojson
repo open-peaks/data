@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.378946,
-      51.626489
-    ]
-  },
-  "properties": {
-    "feet": 9409,
-    "meters": 2868,
-    "latitude": 51.626489,
-    "longitude": -116.378946,
-    "name": "Bow Peak",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.37917,
+            51.62639
+        ]
+    },
+    "properties": {
+        "feet": 9317.5856,
+        "meters": 2840.0,
+        "latitude": 51.62639,
+        "longitude": -116.37917,
+        "name": "Bow Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

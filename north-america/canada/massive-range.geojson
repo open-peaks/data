@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.82167,
+            51.16167
+        ]
+    },
+    "properties": {
+        "feet": 9790.02656,
+        "meters": 2984.0,
+        "latitude": 51.16167,
+        "longitude": -115.82167,
+        "name": "Massive Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

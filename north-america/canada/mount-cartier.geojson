@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.05722,
+            50.91306
+        ]
+    },
+    "properties": {
+        "feet": 8562.9924,
+        "meters": 2610.0,
+        "latitude": 50.91306,
+        "longitude": -118.05722,
+        "name": "Mount Cartier",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

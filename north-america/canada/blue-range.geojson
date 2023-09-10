@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.52583,
+            50.82861
+        ]
+    },
+    "properties": {
+        "feet": 9727.6906,
+        "meters": 2965.0,
+        "latitude": 50.82861,
+        "longitude": -115.52583,
+        "name": "Blue Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

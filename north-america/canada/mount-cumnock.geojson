@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.18389,
+            53.17333
+        ]
+    },
+    "properties": {
+        "feet": 7998.68792,
+        "meters": 2438.0,
+        "latitude": 53.17333,
+        "longitude": -118.18389,
+        "name": "Mount Cumnock",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

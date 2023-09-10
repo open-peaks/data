@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -63.5,
+            44.8
+        ]
+    },
+    "properties": {
+        "feet": 606.9553999999999,
+        "meters": 185.0,
+        "latitude": 44.8,
+        "longitude": -63.5,
+        "name": "Eastern Shore Granite Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

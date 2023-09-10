@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.57139,
+            51.64861
+        ]
+    },
+    "properties": {
+        "feet": 10082.02132,
+        "meters": 3073.0,
+        "latitude": 51.64861,
+        "longitude": -116.57139,
+        "name": "Mount Habel",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

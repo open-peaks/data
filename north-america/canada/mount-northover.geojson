@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.24028,
+            50.58889
+        ]
+    },
+    "properties": {
+        "feet": 10000.00032,
+        "meters": 3048.0,
+        "latitude": 50.58889,
+        "longitude": -115.24028,
+        "name": "Mount Northover",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.79306,
+            51.76444
+        ]
+    },
+    "properties": {
+        "feet": 10164.04232,
+        "meters": 3098.0,
+        "latitude": 51.76444,
+        "longitude": -116.79306,
+        "name": "Mount Conway",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

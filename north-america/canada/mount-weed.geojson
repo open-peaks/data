@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.527605,
-      51.791736
-    ]
-  },
-  "properties": {
-    "feet": 10105,
-    "meters": 3080,
-    "latitude": 51.791736,
-    "longitude": -116.527605,
-    "name": "Mount Weed",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.52806,
+            51.79222
+        ]
+    },
+    "properties": {
+        "feet": 10104.9872,
+        "meters": 3080.0,
+        "latitude": 51.79222,
+        "longitude": -116.52806,
+        "name": "Mount Weed",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.06,
+            51.53
+        ]
+    },
+    "properties": {
+        "feet": 8881.23388,
+        "meters": 2707.0,
+        "latitude": 51.53,
+        "longitude": -116.06,
+        "name": "Skoki Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

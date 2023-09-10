@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.29333,
+            49.77528
+        ]
+    },
+    "properties": {
+        "feet": 6889.764,
+        "meters": 2100.0,
+        "latitude": 49.77528,
+        "longitude": -123.29333,
+        "name": "Lydia Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

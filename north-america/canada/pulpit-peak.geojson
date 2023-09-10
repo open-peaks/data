@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.36806,
+            51.56806
+        ]
+    },
+    "properties": {
+        "feet": 8923.8848,
+        "meters": 2720.0,
+        "latitude": 51.56806,
+        "longitude": -116.36806,
+        "name": "Pulpit Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

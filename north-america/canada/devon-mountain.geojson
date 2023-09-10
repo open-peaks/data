@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.2572222,
+            51.7136111
+        ]
+    },
+    "properties": {
+        "feet": 9855.64336,
+        "meters": 3004.0,
+        "latitude": 51.7136111,
+        "longitude": -116.2572222,
+        "name": "Devon Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

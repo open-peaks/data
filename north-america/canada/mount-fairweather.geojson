@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.52667,
+            58.90639
+        ]
+    },
+    "properties": {
+        "feet": 15324.80364,
+        "meters": 4671.0,
+        "latitude": 58.90639,
+        "longitude": -137.52667,
+        "name": "Mount Fairweather",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska / Stikine Region"
+        ]
+    }
+}

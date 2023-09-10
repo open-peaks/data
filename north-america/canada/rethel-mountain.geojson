@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.82306,
+            50.15417
+        ]
+    },
+    "properties": {
+        "feet": 7900.26272,
+        "meters": 2408.0,
+        "latitude": 50.15417,
+        "longitude": -122.82306,
+        "name": "Rethel Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

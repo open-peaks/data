@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.47306,
+            51.23333
+        ]
+    },
+    "properties": {
+        "feet": 10049.21292,
+        "meters": 3063.0,
+        "latitude": 51.23333,
+        "longitude": -123.47306,
+        "name": "Taseko Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.2115,
+            54.45424
+        ]
+    },
+    "properties": {
+        "feet": 3208.66152,
+        "meters": 978.0,
+        "latitude": 54.45424,
+        "longitude": -3.2115,
+        "name": "Middleboot Knotts",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Cumbria"
+        ]
+    }
+}

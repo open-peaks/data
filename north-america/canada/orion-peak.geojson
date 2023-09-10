@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.22611,
+            54.99278
+        ]
+    },
+    "properties": {
+        "feet": 7395.01336,
+        "meters": 2254.0,
+        "latitude": 54.99278,
+        "longitude": -128.22611,
+        "name": "Orion Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

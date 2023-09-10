@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.49806,
+            49.35611
+        ]
+    },
+    "properties": {
+        "feet": 5511.8112,
+        "meters": 1680.0,
+        "latitude": 49.35611,
+        "longitude": -122.49806,
+        "name": "Edge Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

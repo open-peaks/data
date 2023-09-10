@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.4075,
+            52.23833
+        ]
+    },
+    "properties": {
+        "feet": 11318.898,
+        "meters": 3450.0,
+        "latitude": 52.23833,
+        "longitude": -117.4075,
+        "name": "Stutfield Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.098537,
-      51.224142
-    ]
-  },
-  "properties": {
-    "feet": 9331,
-    "meters": 2844,
-    "latitude": 51.224142,
-    "longitude": -116.098537,
-    "name": "Mount Whymper",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.16222,
+            48.95111
+        ]
+    },
+    "properties": {
+        "feet": 5049.21276,
+        "meters": 1539.0,
+        "latitude": 48.95111,
+        "longitude": -124.16222,
+        "name": "Mount Whymper",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }
