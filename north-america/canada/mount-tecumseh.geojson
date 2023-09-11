@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.64611,
+            49.66528
+        ]
+    },
+    "properties": {
+        "feet": 8356.29948,
+        "meters": 2547.0,
+        "latitude": 49.66528,
+        "longitude": -114.64611,
+        "name": "Mount Tecumseh",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.33056,
+            51.02472
+        ]
+    },
+    "properties": {
+        "feet": 9632.54624,
+        "meters": 2936.0,
+        "latitude": 51.02472,
+        "longitude": -115.33056,
+        "name": "The Three Sisters",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.41778,
-            51.69972
+            -122.58139,
+            50.41667
         ]
     },
     "properties": {
-        "feet": 9819.55412,
-        "meters": 2993.0,
-        "latitude": 51.69972,
-        "longitude": -116.41778,
+        "feet": 8303.80604,
+        "meters": 2531.0,
+        "latitude": 50.41667,
+        "longitude": -122.58139,
         "name": "Cirque Peak",
         "countries": [
             "Canada"

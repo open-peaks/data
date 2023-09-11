@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.436917,
+            59.487194
+        ]
+    },
+    "properties": {
+        "feet": 7158.79288,
+        "meters": 2182.0,
+        "latitude": 59.487194,
+        "longitude": -130.436917,
+        "name": "Toozaza Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

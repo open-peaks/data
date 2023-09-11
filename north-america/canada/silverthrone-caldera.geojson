@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.3,
+            51.43333
+        ]
+    },
+    "properties": {
+        "feet": 10367.4544,
+        "meters": 3160.0,
+        "latitude": 51.43333,
+        "longitude": -126.3,
+        "name": "Silverthrone Caldera",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

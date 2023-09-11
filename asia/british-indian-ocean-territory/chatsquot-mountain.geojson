@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.47722,
+            53.14222
+        ]
+    },
+    "properties": {
+        "feet": 7759.1866,
+        "meters": 2365.0,
+        "latitude": 53.14222,
+        "longitude": -127.47722,
+        "name": "Chatsquot Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

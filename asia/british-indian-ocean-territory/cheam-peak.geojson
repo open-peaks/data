@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.68167,
+            49.18667
+        ]
+    },
+    "properties": {
+        "feet": 6902.88736,
+        "meters": 2104.0,
+        "latitude": 49.18667,
+        "longitude": -121.68167,
+        "name": "Cheam Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            130.796389,
+            33.846389
+        ]
+    },
+    "properties": {
+        "feet": 2040.68248,
+        "meters": 622.0,
+        "latitude": 33.846389,
+        "longitude": 130.796389,
+        "name": "Mount Sarakura",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

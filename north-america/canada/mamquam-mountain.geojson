@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.85111,
+            49.77528
+        ]
+    },
+    "properties": {
+        "feet": 8490.81392,
+        "meters": 2588.0,
+        "latitude": 49.77528,
+        "longitude": -122.85111,
+        "name": "Mamquam Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

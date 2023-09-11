@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.97889,
+            49.87944
+        ]
+    },
+    "properties": {
+        "feet": 7037.4018,
+        "meters": 2145.0,
+        "latitude": 49.87944,
+        "longitude": -122.97889,
+        "name": "Glacier Pikes",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.46528,
+            48.7025
+        ]
+    },
+    "properties": {
+        "feet": 7142.38868,
+        "meters": 2177.0,
+        "latitude": 48.7025,
+        "longitude": -118.46528,
+        "name": "Kettle River Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

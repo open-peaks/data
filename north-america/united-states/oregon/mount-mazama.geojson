@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.0844711,
+            42.9165186
+        ]
+    },
+    "properties": {
+        "feet": 8157.0,
+        "meters": 2486.2535204398873,
+        "latitude": 42.9165186,
+        "longitude": -122.0844711,
+        "name": "Mount Mazama",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Oregon"
+        ]
+    }
+}

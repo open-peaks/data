@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.8675,
+            54.93944
+        ]
+    },
+    "properties": {
+        "feet": 7116.14196,
+        "meters": 2169.0,
+        "latitude": 54.93944,
+        "longitude": -121.8675,
+        "name": "Mount Dudzic",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

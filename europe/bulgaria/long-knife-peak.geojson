@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.20778,
+            48.99722
+        ]
+    },
+    "properties": {
+        "feet": 9789.0,
+        "meters": 2983.6871045220128,
+        "latitude": 48.99722,
+        "longitude": -114.20778,
+        "name": "Long Knife Peak",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

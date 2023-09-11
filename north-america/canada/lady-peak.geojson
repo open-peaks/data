@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.66583,
+            49.17528
+        ]
+    },
+    "properties": {
+        "feet": 7145.66952,
+        "meters": 2178.0,
+        "latitude": 49.17528,
+        "longitude": -121.66583,
+        "name": "Lady Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

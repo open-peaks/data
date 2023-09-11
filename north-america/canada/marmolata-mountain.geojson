@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78194,
+            50.72111
+        ]
+    },
+    "properties": {
+        "feet": 9904.85596,
+        "meters": 3019.0,
+        "latitude": 50.72111,
+        "longitude": -116.78194,
+        "name": "Marmolata Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

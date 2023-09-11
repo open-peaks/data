@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.66514,
+            48.9954056
+        ]
+    },
+    "properties": {
+        "feet": 7998.0,
+        "meters": 2437.79032199071,
+        "latitude": 48.9954056,
+        "longitude": -121.66514,
+        "name": "American Border Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

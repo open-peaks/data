@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.205,
+            50.68972
+        ]
+    },
+    "properties": {
+        "feet": 10085.30216,
+        "meters": 3074.0,
+        "latitude": 50.68972,
+        "longitude": -117.205,
+        "name": "Badshot Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

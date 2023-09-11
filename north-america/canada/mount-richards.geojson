@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.94167,
+            49.01028
+        ]
+    },
+    "properties": {
+        "feet": 7798.55668,
+        "meters": 2377.0,
+        "latitude": 49.01028,
+        "longitude": -113.94167,
+        "name": "Mount Richards",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

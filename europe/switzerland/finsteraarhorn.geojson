@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.13333,
-      46.5333
-    ]
-  },
-  "properties": {
-    "feet": 14019,
-    "meters": 4273,
-    "latitude": 46.5333,
-    "longitude": 8.13333,
-    "name": "Finsteraarhorn",
-    "regions": [
-      "Northern Alps",
-      "Berner Oberland"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.126028,
+            46.537472
+        ]
+    },
+    "properties": {
+        "feet": 14022.310159999999,
+        "meters": 4274.0,
+        "latitude": 46.537472,
+        "longitude": 8.126028,
+        "name": "Finsteraarhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

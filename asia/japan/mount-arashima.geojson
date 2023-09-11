@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            136.601389,
+            35.934167
+        ]
+    },
+    "properties": {
+        "feet": 4996.71932,
+        "meters": 1523.0,
+        "latitude": 35.934167,
+        "longitude": 136.601389,
+        "name": "Mount Arashima",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

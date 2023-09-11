@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.405,
+            49.21333
+        ]
+    },
+    "properties": {
+        "feet": 8572.83492,
+        "meters": 2613.0,
+        "latitude": 49.21333,
+        "longitude": -114.405,
+        "name": "Scarpe Mountain",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

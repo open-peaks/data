@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.05806,
+            48.98028
+        ]
+    },
+    "properties": {
+        "feet": 8888.0,
+        "meters": 2709.062313310006,
+        "latitude": 48.98028,
+        "longitude": -114.05806,
+        "name": "Mount Custer",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

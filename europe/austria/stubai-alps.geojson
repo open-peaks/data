@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.15361,
+            46.96167
+        ]
+    },
+    "properties": {
+        "feet": 11505.90588,
+        "meters": 3507.0,
+        "latitude": 46.96167,
+        "longitude": 11.15361,
+        "name": "Stubai Alps",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

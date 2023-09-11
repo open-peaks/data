@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.94083,
+            50.04667
+        ]
+    },
+    "properties": {
+        "feet": 6702.75612,
+        "meters": 2043.0,
+        "latitude": 50.04667,
+        "longitude": -122.94083,
+        "name": "Piccolo Summit",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

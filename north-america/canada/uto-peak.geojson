@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.44056,
+            51.2725
+        ]
+    },
+    "properties": {
+        "feet": 9603.01868,
+        "meters": 2927.0,
+        "latitude": 51.2725,
+        "longitude": -117.44056,
+        "name": "Uto Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

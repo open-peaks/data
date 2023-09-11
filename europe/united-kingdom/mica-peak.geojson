@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.988438,
+            47.62219
+        ]
+    },
+    "properties": {
+        "feet": 5241.0,
+        "meters": 1597.456748881384,
+        "latitude": 47.62219,
+        "longitude": -116.988438,
+        "name": "Mica Peak",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

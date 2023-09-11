@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.92556,
+            50.04
+        ]
+    },
+    "properties": {
+        "feet": 6610.8926,
+        "meters": 2015.0,
+        "latitude": 50.04,
+        "longitude": -122.92556,
+        "name": "Flute Summit",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

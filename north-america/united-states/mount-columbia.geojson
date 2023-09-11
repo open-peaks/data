@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.2974989,
+            38.9039357
+        ]
+    },
+    "properties": {
+        "feet": 14077.0,
+        "meters": 4290.669462698577,
+        "latitude": 38.9039357,
+        "longitude": -106.2974989,
+        "name": "Mount Columbia",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

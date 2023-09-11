@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.323306,
+            52.786694
+        ]
+    },
+    "properties": {
+        "feet": 7906.8243999999995,
+        "meters": 2410.0,
+        "latitude": 52.786694,
+        "longitude": -125.323306,
+        "name": "Ilgachuz Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

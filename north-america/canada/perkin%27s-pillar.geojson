@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.521389,
+            50.630278
+        ]
+    },
+    "properties": {
+        "feet": 7972.4412,
+        "meters": 2430.0,
+        "latitude": 50.630278,
+        "longitude": -123.521389,
+        "name": "Perkin%27s Pillar",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

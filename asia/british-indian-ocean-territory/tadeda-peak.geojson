@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.616111,
+            57.542194
+        ]
+    },
+    "properties": {
+        "feet": 7198.16296,
+        "meters": 2194.0,
+        "latitude": 57.542194,
+        "longitude": -130.616111,
+        "name": "Tadeda Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

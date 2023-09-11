@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.631694,
+            49.548306
+        ]
+    },
+    "properties": {
+        "feet": 9225.72208,
+        "meters": 2812.0,
+        "latitude": 49.548306,
+        "longitude": -114.631694,
+        "name": "Crowsnest Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

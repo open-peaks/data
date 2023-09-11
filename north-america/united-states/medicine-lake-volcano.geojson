@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.59889,
+            41.58167
+        ]
+    },
+    "properties": {
+        "feet": 7921.0,
+        "meters": 2414.320722741737,
+        "latitude": 41.58167,
+        "longitude": -121.59889,
+        "name": "Medicine Lake Volcano",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

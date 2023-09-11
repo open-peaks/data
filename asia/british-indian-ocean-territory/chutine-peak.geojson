@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.33333,
+            57.77667
+        ]
+    },
+    "properties": {
+        "feet": 9547.2444,
+        "meters": 2910.0,
+        "latitude": 57.77667,
+        "longitude": -132.33333,
+        "name": "Chutine Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.02889,
+            50.59917
+        ]
+    },
+    "properties": {
+        "feet": 9648.95044,
+        "meters": 2941.0,
+        "latitude": 50.59917,
+        "longitude": -115.02889,
+        "name": "Mount Pocaterra",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

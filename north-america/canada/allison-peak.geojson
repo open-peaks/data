@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.64667,
+            49.74333
+        ]
+    },
+    "properties": {
+        "feet": 8681.10264,
+        "meters": 2646.0,
+        "latitude": 49.74333,
+        "longitude": -114.64667,
+        "name": "Allison Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

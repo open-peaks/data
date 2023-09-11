@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.9171722,
+            50.1288222
+        ]
+    },
+    "properties": {
+        "feet": 5666.01068,
+        "meters": 1727.0,
+        "latitude": 50.1288222,
+        "longitude": -123.9171722,
+        "name": "Mount Wellington",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

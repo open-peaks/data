@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.11333,
+            51.52833
+        ]
+    },
+    "properties": {
+        "feet": 10367.4544,
+        "meters": 3160.0,
+        "latitude": 51.52833,
+        "longitude": -126.11333,
+        "name": "Canadian Cascade Arc",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

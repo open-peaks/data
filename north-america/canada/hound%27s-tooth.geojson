@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.775,
+            50.72417
+        ]
+    },
+    "properties": {
+        "feet": 9265.09216,
+        "meters": 2824.0,
+        "latitude": 50.72417,
+        "longitude": -116.775,
+        "name": "Hound%27s Tooth",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

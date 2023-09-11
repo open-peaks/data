@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.32083,
+            52.21611
+        ]
+    },
+    "properties": {
+        "feet": 11499.3442,
+        "meters": 3505.0,
+        "latitude": 52.21611,
+        "longitude": -117.32083,
+        "name": "Mount K2",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

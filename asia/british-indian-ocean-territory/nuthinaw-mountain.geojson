@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.062806,
+            58.79
+        ]
+    },
+    "properties": {
+        "feet": 5682.41488,
+        "meters": 1732.0,
+        "latitude": 58.79,
+        "longitude": -131.062806,
+        "name": "Nuthinaw Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.625556,
+            55.683056
+        ]
+    },
+    "properties": {
+        "feet": 7500.00024,
+        "meters": 2286.0,
+        "latitude": 55.683056,
+        "longitude": -126.625556,
+        "name": "Bait Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

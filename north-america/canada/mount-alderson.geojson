@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.96917,
+            49.02333
+        ]
+    },
+    "properties": {
+        "feet": 8832.02128,
+        "meters": 2692.0,
+        "latitude": 49.02333,
+        "longitude": -113.96917,
+        "name": "Mount Alderson",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.986889,
+            51.464389
+        ]
+    },
+    "properties": {
+        "feet": 7552.49368,
+        "meters": 2302.0,
+        "latitude": 51.464389,
+        "longitude": -125.986889,
+        "name": "Fang Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

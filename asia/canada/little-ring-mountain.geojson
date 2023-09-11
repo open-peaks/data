@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.315556,
+            50.279167
+        ]
+    },
+    "properties": {
+        "feet": 7103.0186,
+        "meters": 2165.0,
+        "latitude": 50.279167,
+        "longitude": -123.315556,
+        "name": "Little Ring Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

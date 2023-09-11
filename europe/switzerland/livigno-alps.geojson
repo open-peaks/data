@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.09528,
+            46.51778
+        ]
+    },
+    "properties": {
+        "feet": 11282.80876,
+        "meters": 3439.0,
+        "latitude": 46.51778,
+        "longitude": 10.09528,
+        "name": "Livigno Alps",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

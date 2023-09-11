@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.77722,
+            50.75028
+        ]
+    },
+    "properties": {
+        "feet": 9324.14728,
+        "meters": 2842.0,
+        "latitude": 50.75028,
+        "longitude": -116.77722,
+        "name": "Crescent Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

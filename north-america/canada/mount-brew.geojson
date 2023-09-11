@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.18861,
+            50.04361
+        ]
+    },
+    "properties": {
+        "feet": 5764.43588,
+        "meters": 1757.0,
+        "latitude": 50.04361,
+        "longitude": -123.18861,
+        "name": "Mount Brew",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

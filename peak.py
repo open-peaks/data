@@ -9,7 +9,7 @@ import pycountry_convert
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 
-from utils import get_cache, extract_coordinates
+from utils import get_cache, extract_coordinates, elevation_feet, elevation_meters
 
 
 class Peak:
@@ -26,10 +26,14 @@ class Peak:
         self.__continent = None
 
     def __repr__(self):
-        continent = self._continent.ljust(15, ' ')
+        continent = self._continent
+        if continent is None:
+            continent = ""
+        continent = continent.ljust(15, ' ')
         country = self._country.ljust(20, ' ')
         name = self.name.ljust(50, ' ')
         return f"{continent}{country}{name}{self.url}"
+
     @property
     def parent_range_url(self):
         if not self.parent_range:
@@ -54,20 +58,21 @@ class Peak:
             for row in table.find_all('tr'):
                 key_element = row.find('th')
                 val_element = row.find('td')
-                if key_element and val_element:
-                    raw_text_data[key_element.text] = val_element.text
+                if val_element is not None and key_element is not None:
+                    children = val_element.findChildren()
+                    children_text = [child.text for child in children]
+                    raw_text_data[key_element.text] = " ".join(children_text)
         if "Location" in raw_text_data:
             self.location = raw_text_data["Location"]
 
         if "(" in self.name:
             self.name = self.name.split("(")[0].replace("_", " ").strip()
 
-
         for table in tables:
             for row in table.find_all('tr'):
                 key_element = row.find('th', class_="infobox-label")
                 val_element = row.find('td', class_="infobox-data")
-                desired_keys = ["Elevation", "Prominence", "Parent range", "Isolation", "Coordinates", "Country", "Territory"]
+                desired_keys = ["Elevation", "Prominence", "Parent range", "Isolation", "Coordinates", "Country", "Countries", "Territory"]
                 if key_element and val_element and key_element.text in desired_keys:
                     if key_element.text == "Coordinates":
                         try:
@@ -77,7 +82,7 @@ class Peak:
                         self.raw_coordinates = val
 
                     if key_element.text == "Elevation":
-                        val = val_element.text.split(" (")[0].replace("\xa0", "").replace("+", "").strip()
+                        val = val_element.text
                         self.elevation = val
 
                     if key_element.text == "Prominence":
@@ -94,6 +99,16 @@ class Peak:
                                     val = val.replace(bad_word, "")
                         self.location = val
 
+                    if key_element.text == "Countries":
+                        try:
+                            val = val_element.find('a').text
+                        except:
+                            val = val_element.text
+                            for bad_word in ["nuevo-león", "méxico", "veracruz"]:
+                                if bad_word in val:
+                                    val = val.replace(bad_word, "")
+                        self.location = val.split("and")[0].strip()
+
                     if key_element.text == "Parent range":
                         a = val_element.find('a')
                         if a:
@@ -102,7 +117,9 @@ class Peak:
                             data = self.flesh_out_parent_range()
                             if data:
                                 self._parent_data = data
-                                if "State" in data:
+                                if "Country" in data:
+                                    self.location = data["Country"]
+                                elif "State" in data:
                                     self.location = data["State"]
                                     if self.location == "Hawaii":
                                         self.location = "Hawaii, United States"
@@ -136,14 +153,7 @@ class Peak:
     def size(self):
         if not self.elevation:
             return None
-        postfixes = ["ft", "m", "feet"]
-        elevation = self.elevation
-        for postfix in postfixes:
-            if elevation.endswith(postfix):
-                elevation = elevation.replace(postfix, "")
-        elevation = elevation.replace(",", "")
-
-        elevation = int(elevation.strip().split(".")[0])
+        elevation = self._elevation_meters
         if elevation < 600:
             return "small"
         if elevation < 4200:
@@ -170,58 +180,48 @@ class Peak:
 
     @property
     def elevation_feet(self):
-        if not self.elevation:
-            return None
-        elevation = self.elevation.replace(",", "")
-        if elevation.endswith("ft"):
-            elevation = elevation.replace("ft", "")
-            elevation = float(elevation.split("[")[0])
-            return elevation
-
-        if elevation.endswith("m"):
-            elevation = elevation.replace("m", "")
-            elevation = float(elevation.split("[")[0])
-            return elevation * 3.28084
+        return elevation_feet(self.elevation)
 
     @property
     def _elevation_meters(self):
-        if not self.elevation:
-            return None
-        elevation = self.elevation.replace(",", "")
-        if elevation.endswith("ft"):
-            elevation = elevation.replace("ft", "")
-            elevation = float(elevation.split("[")[0])
-            return elevation / 3.28084
-
-        if elevation.endswith("m"):
-            elevation = elevation.replace("m", "")
-            elevation = float(elevation.split("[")[0])
-            return elevation
+        return elevation_meters(self.elevation)
 
     @property
     def _country(self):
-        if not self.location:
+        def pull_country(name: str) -> Optional[str]:
+            try:
+                country_name = name.split("[")[0].split("(")[0].split(" and ")[0].strip()
+                for s in ["inland", "Inland", "northern", "Northern"]:
+                    if s in country_name:
+                        country_name = country_name.replace(s, "")
+                mappings = {
+                    "england": "United Kingdom",
+                    "us": "United States",
+                    "u.s.": "United States",
+                }
+                if country_name.lower() in mappings:
+                    country_name = mappings[country_name.lower()]
+                c = pycountry.countries.search_fuzzy(country_name)
+                country_name = c[0].name
+
+                # calculate continent
+                country_alpha2 = c[0].alpha_2
+                continent_alpha2 = pycountry_convert.country_alpha2_to_continent_code(country_alpha2)
+                self.__continent = pycountry_convert.convert_continent_code_to_continent_name(continent_alpha2)
+
+                return country_name
+            except:
+                return None
+
+        if self.location is None:
             return None
-        country_name = self.location.split(", ")[-1].strip().split("[")[0].split("(")[0].split(" and ")[0].strip()
-        for s in ["inland", "Inland", "northern", "Northern"]:
-            if s in country_name:
-                country_name = country_name.replace(s, "")
-        mappings = {
-            "england": "United Kingdom",
-            "us": "United States",
-            "u.s.": "United States",
-        }
-        if country_name.lower() in mappings:
-            country_name = mappings[country_name.lower()]
-        c = pycountry.countries.search_fuzzy(country_name)
-        country_name = c[0].name
-
-        # calculate continent
-        country_alpha2 = c[0].alpha_2
-        continent_alpha2 = pycountry_convert.country_alpha2_to_continent_code(country_alpha2)
-        self.__continent = pycountry_convert.convert_continent_code_to_continent_name(continent_alpha2)
-
-        return country_name
+        for splitter in [",", " ", "and"]:
+            for possible_country_name in self.location.split(splitter):
+                possible_country_name = pull_country(possible_country_name)
+                if possible_country_name is not None:
+                    return possible_country_name
+        if "antartica" in self.location.lower():
+            return "Antartica"
 
     def dict(self):
         return {

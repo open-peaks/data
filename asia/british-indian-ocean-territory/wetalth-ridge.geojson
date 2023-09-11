@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.78722,
+            57.30389
+        ]
+    },
+    "properties": {
+        "feet": 6187.66424,
+        "meters": 1886.0,
+        "latitude": 57.30389,
+        "longitude": -130.78722,
+        "name": "Wetalth Ridge",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

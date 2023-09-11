@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.49639,
+            46.15611
+        ]
+    },
+    "properties": {
+        "feet": 11610.89276,
+        "meters": 3539.0,
+        "latitude": 46.15611,
+        "longitude": 10.49639,
+        "name": "Mount Adamello",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

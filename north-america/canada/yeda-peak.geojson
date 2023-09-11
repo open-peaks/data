@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.678306,
+            57.381111
+        ]
+    },
+    "properties": {
+        "feet": 7424.54092,
+        "meters": 2263.0,
+        "latitude": 57.381111,
+        "longitude": -130.678306,
+        "name": "Yeda Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.31806,
+            51.50361
+        ]
+    },
+    "properties": {
+        "feet": 8976.37824,
+        "meters": 2736.0,
+        "latitude": 51.50361,
+        "longitude": -116.31806,
+        "name": "Waputik Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

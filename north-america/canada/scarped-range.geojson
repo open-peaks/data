@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.698889,
+            50.611389
+        ]
+    },
+    "properties": {
+        "feet": 7657.48056,
+        "meters": 2334.0,
+        "latitude": 50.611389,
+        "longitude": -121.698889,
+        "name": "Scarped Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

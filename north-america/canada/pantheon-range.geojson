@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.151944,
+            51.624722
+        ]
+    },
+    "properties": {
+        "feet": 9868.76672,
+        "meters": 3008.0,
+        "latitude": 51.624722,
+        "longitude": -125.151944,
+        "name": "Pantheon Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

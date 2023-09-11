@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.20833,
+            56.18333
+        ]
+    },
+    "properties": {
+        "feet": 7647.63804,
+        "meters": 2331.0,
+        "latitude": 56.18333,
+        "longitude": -130.20833,
+        "name": "Mount White-Fraser",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

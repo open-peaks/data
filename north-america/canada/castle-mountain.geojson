@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.44861,
-            51.03944
+            -115.9225,
+            51.29972
         ]
     },
     "properties": {
-        "feet": 8353.01864,
-        "meters": 2546.0,
-        "latitude": 51.03944,
-        "longitude": -116.44861,
+        "feet": 9074.80344,
+        "meters": 2766.0,
+        "latitude": 51.29972,
+        "longitude": -115.9225,
         "name": "Castle Mountain",
         "countries": [
             "Canada"

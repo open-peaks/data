@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.70694,
+            49.39278
+        ]
+    },
+    "properties": {
+        "feet": 5193.56972,
+        "meters": 1583.0,
+        "latitude": 49.39278,
+        "longitude": -122.70694,
+        "name": "Coquitlam Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

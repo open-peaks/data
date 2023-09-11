@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.4967,
-      51.3367
-    ]
-  },
-  "properties": {
-    "feet": 9239,
-    "meters": 2816,
-    "latitude": 51.3367,
-    "longitude": -117.4967,
-    "name": "Mount Tupper",
-    "regions": [
-      "Intermountain West",
-      "Columbia Mountains"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.49861,
+            51.33583
+        ]
+    },
+    "properties": {
+        "feet": 9199.47536,
+        "meters": 2804.0,
+        "latitude": 51.33583,
+        "longitude": -117.49861,
+        "name": "Mount Tupper",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

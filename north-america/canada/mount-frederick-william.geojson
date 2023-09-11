@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.867028,
+            50.082861
+        ]
+    },
+    "properties": {
+        "feet": 5964.56712,
+        "meters": 1818.0,
+        "latitude": 50.082861,
+        "longitude": -123.867028,
+        "name": "Mount Frederick William",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.073,
-      50.7267
-    ]
-  },
-  "properties": {
-    "feet": 9820,
-    "meters": 2993,
-    "latitude": 50.7267,
-    "longitude": -115.073,
-    "name": "Mount Blane",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.69806,
+            53.09611
+        ]
+    },
+    "properties": {
+        "feet": 5495.407,
+        "meters": 1675.0,
+        "latitude": 53.09611,
+        "longitude": -127.69806,
+        "name": "Mount Blane",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

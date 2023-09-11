@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.85944,
+            50.18944
+        ]
+    },
+    "properties": {
+        "feet": 5131.23376,
+        "meters": 1564.0,
+        "latitude": 50.18944,
+        "longitude": -123.85944,
+        "name": "Mount Helena",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "British Columbia"
+        ]
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -114.974,
-      50.6223
-    ]
-  },
-  "properties": {
-    "feet": 10558,
-    "meters": 3218,
-    "latitude": 50.6223,
-    "longitude": -114.974,
-    "name": "Mount Rae",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.97472,
+            50.62278
+        ]
+    },
+    "properties": {
+        "feet": 10557.74312,
+        "meters": 3218.0,
+        "latitude": 50.62278,
+        "longitude": -114.97472,
+        "name": "Mount Rae",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

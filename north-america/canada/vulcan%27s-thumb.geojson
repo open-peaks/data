@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.2945056,
+            50.1114056
+        ]
+    },
+    "properties": {
+        "feet": 7513.1236,
+        "meters": 2290.0,
+        "latitude": 50.1114056,
+        "longitude": -123.2945056,
+        "name": "Vulcan%27s Thumb",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

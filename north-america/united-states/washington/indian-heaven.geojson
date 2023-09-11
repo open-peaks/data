@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.81667,
+            45.93333
+        ]
+    },
+    "properties": {
+        "feet": 5925.0,
+        "meters": 1805.9399422099218,
+        "latitude": 45.93333,
+        "longitude": -121.81667,
+        "name": "Indian Heaven",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

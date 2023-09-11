@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            130.22333,
+            33.47861
+        ]
+    },
+    "properties": {
+        "feet": 3131.56178,
+        "meters": 954.5,
+        "latitude": 33.47861,
+        "longitude": 130.22333,
+        "name": "Mount Rai",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

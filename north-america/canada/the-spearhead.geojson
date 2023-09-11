@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.86389,
+            50.08639
+        ]
+    },
+    "properties": {
+        "feet": 8061.02388,
+        "meters": 2457.0,
+        "latitude": 50.08639,
+        "longitude": -122.86389,
+        "name": "The Spearhead",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

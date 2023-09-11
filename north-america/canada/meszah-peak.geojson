@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.437194,
+            58.478611
+        ]
+    },
+    "properties": {
+        "feet": 7099.73776,
+        "meters": 2164.0,
+        "latitude": 58.478611,
+        "longitude": -131.437194,
+        "name": "Meszah Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

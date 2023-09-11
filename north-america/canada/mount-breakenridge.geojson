@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.93389,
+            49.72
+        ]
+    },
+    "properties": {
+        "feet": 7857.6118,
+        "meters": 2395.0,
+        "latitude": 49.72,
+        "longitude": -121.93389,
+        "name": "Mount Breakenridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

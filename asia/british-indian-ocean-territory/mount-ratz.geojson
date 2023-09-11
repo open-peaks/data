@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -132.30333,
+            57.39306
+        ]
+    },
+    "properties": {
+        "feet": 10137.7956,
+        "meters": 3090.0,
+        "latitude": 57.39306,
+        "longitude": -132.30333,
+        "name": "Mount Ratz",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.4314,
-            51.2631
+            -117.431389,
+            51.263111
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 51.2631,
-        "longitude": -117.4314,
+        "feet": 10774.27856,
+        "meters": 3284.0,
+        "latitude": 51.263111,
+        "longitude": -117.431389,
         "name": "Mount Sir Donald",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

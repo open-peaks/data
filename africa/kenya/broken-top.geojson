@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.6997595,
+            44.0828931
+        ]
+    },
+    "properties": {
+        "feet": 9177.0,
+        "meters": 2797.1495104912156,
+        "latitude": 44.0828931,
+        "longitude": -121.6997595,
+        "name": "Broken Top",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

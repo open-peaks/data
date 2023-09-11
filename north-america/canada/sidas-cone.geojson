@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.628111,
+            57.858889
+        ]
+    },
+    "properties": {
+        "feet": 5062.33612,
+        "meters": 1543.0,
+        "latitude": 57.858889,
+        "longitude": -130.628111,
+        "name": "Sidas Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

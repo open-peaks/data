@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -123.98333,
-            50.24778
+            -116.30667,
+            51.37694
         ]
     },
     "properties": {
-        "feet": 6850.3939199999995,
-        "meters": 2088.0,
-        "latitude": 50.24778,
-        "longitude": -123.98333,
+        "feet": 11364.82976,
+        "meters": 3464.0,
+        "latitude": 51.37694,
+        "longitude": -116.30667,
         "name": "Mount Victoria",
         "countries": [
             "Canada"

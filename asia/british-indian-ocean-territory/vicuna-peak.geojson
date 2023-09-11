@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.15389,
+            49.65556
+        ]
+    },
+    "properties": {
+        "feet": 6975.06584,
+        "meters": 2126.0,
+        "latitude": 49.65556,
+        "longitude": -121.15389,
+        "name": "Vicuna Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

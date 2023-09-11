@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.102806,
+            51.469389
+        ]
+    },
+    "properties": {
+        "feet": 8720.47272,
+        "meters": 2658.0,
+        "latitude": 51.469389,
+        "longitude": -126.102806,
+        "name": "Mount Somolenko",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

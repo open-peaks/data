@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.61167,
+            49.17083
+        ]
+    },
+    "properties": {
+        "feet": 7342.51992,
+        "meters": 2238.0,
+        "latitude": 49.17083,
+        "longitude": -121.61167,
+        "name": "Stewart Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

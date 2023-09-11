@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.40306,
+            51.23611
+        ]
+    },
+    "properties": {
+        "feet": 9826.1158,
+        "meters": 2995.0,
+        "latitude": 51.23611,
+        "longitude": -115.40306,
+        "name": "Fairholme Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

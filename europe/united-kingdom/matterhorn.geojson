@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65861,
+            45.97639
+        ]
+    },
+    "properties": {
+        "feet": 14691.60152,
+        "meters": 4478.0,
+        "latitude": 45.97639,
+        "longitude": 7.65861,
+        "name": "Matterhorn",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

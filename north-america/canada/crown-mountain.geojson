@@ -3,24 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -125.81333,
-            49.94444
+            -123.09194,
+            49.41
         ]
     },
     "properties": {
-        "feet": 6056.43064,
-        "meters": 1846.0,
-        "latitude": 49.94444,
-        "longitude": -125.81333,
+        "feet": 4934.38336,
+        "meters": 1504.0,
+        "latitude": 49.41,
+        "longitude": -123.09194,
         "name": "Crown Mountain",
         "countries": [
             "Canada"
         ],
         "continent": "North America",
         "marker-size": "medium",
-        "marker-symbol": "triangle",
-        "states": [
-            "British Columbia"
-        ]
+        "marker-symbol": "triangle"
     }
 }

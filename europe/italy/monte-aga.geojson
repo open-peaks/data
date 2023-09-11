@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88056,
+            46.04694
+        ]
+    },
+    "properties": {
+        "feet": 8923.8848,
+        "meters": 2720.0,
+        "latitude": 46.04694,
+        "longitude": 9.88056,
+        "name": "Monte Aga",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.61472,
+            57.60667
+        ]
+    },
+    "properties": {
+        "feet": 7562.3362,
+        "meters": 2305.0,
+        "latitude": 57.60667,
+        "longitude": -130.61472,
+        "name": "Cartoona Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

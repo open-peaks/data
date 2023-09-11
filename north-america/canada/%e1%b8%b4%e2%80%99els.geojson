@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.98333,
+            50.24778
+        ]
+    },
+    "properties": {
+        "feet": 6850.3939199999995,
+        "meters": 2088.0,
+        "latitude": 50.24778,
+        "longitude": -123.98333,
+        "name": "%E1%B8%B4%E2%80%99els",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

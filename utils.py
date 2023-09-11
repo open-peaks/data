@@ -63,6 +63,7 @@ def get_cache(url: str) -> Optional[str]:
                 return None
             return content
 
+    print(f"Fetching {url}")
     # Add a delay to avoid overloading the server
     time.sleep(2)
 
@@ -85,3 +86,43 @@ def get_cache(url: str) -> Optional[str]:
         f.write(response.text)
     return response.text
 
+def elevation_feet(elevation):
+    if elevation is None:
+        return None
+    elevation = elevation.replace(",", "")
+    elevation = elevation.replace("+", "")
+    for s in elevation.split("("):
+        for s in s.split(")"):
+            try:
+                s = s.replace(")", "").strip().split("[")[0]
+                if s.endswith("ft"):
+                    s = s.replace("ft", "").strip()
+                    s = float(s.split("[")[0])
+                    return s
+
+                if s.endswith("m"):
+                    s = s.replace("m", "").strip()
+                    s = float(s.split("[")[0])
+                    return s * 3.28084
+            except:
+                continue
+def elevation_meters(elevation):
+    if elevation is None:
+        return None
+    elevation = elevation.replace(",", "")
+    elevation = elevation.replace("+", "")
+    for s in elevation.split("("):
+        for s in s.split(")"):
+            try:
+                s = s.replace(")", "").strip().split("[")[0]
+                if s.endswith("ft"):
+                    s = s.replace("ft", "").strip()
+                    s = float(s.split("[")[0])
+                    return s / 3.28084
+
+                if s.endswith("m"):
+                    s = s.replace("m", "").strip()
+                    s = float(s.split("[")[0])
+                    return s
+            except:
+                continue

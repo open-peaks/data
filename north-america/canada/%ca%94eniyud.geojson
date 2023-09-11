@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.5225,
+            51.6392
+        ]
+    },
+    "properties": {
+        "feet": 9438.97668,
+        "meters": 2877.0,
+        "latitude": 51.6392,
+        "longitude": -124.5225,
+        "name": "%CA%94Eniyud",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

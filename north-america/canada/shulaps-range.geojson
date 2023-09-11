@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.517194,
+            50.948889
+        ]
+    },
+    "properties": {
+        "feet": 9448.8192,
+        "meters": 2880.0,
+        "latitude": 50.948889,
+        "longitude": -122.517194,
+        "name": "Shulaps Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

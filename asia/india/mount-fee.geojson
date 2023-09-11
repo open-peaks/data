@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.25,
+            50.08306
+        ]
+    },
+    "properties": {
+        "feet": 7093.17608,
+        "meters": 2162.0,
+        "latitude": 50.08306,
+        "longitude": -123.25,
+        "name": "Mount Fee",
+        "countries": [
+            "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

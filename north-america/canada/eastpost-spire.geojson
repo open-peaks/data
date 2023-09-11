@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.7627,
+            50.74667
+        ]
+    },
+    "properties": {
+        "feet": 8848.42548,
+        "meters": 2697.0,
+        "latitude": 50.74667,
+        "longitude": -116.7627,
+        "name": "Eastpost Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

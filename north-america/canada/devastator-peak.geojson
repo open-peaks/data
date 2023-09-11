@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.53083,
+            50.59278
+        ]
+    },
+    "properties": {
+        "feet": 7634.51468,
+        "meters": 2327.0,
+        "latitude": 50.59278,
+        "longitude": -123.53083,
+        "name": "Devastator Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

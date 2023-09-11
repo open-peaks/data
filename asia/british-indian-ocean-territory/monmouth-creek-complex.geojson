@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.19694,
+            49.69389
+        ]
+    },
+    "properties": {
+        "feet": 1673.2284,
+        "meters": 510.0,
+        "latitude": 49.69389,
+        "longitude": -123.19694,
+        "name": "Monmouth Creek complex",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

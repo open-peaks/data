@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.53167,
+            50.62444
+        ]
+    },
+    "properties": {
+        "feet": 8369.42284,
+        "meters": 2551.0,
+        "latitude": 50.62444,
+        "longitude": -123.53167,
+        "name": "Capricorn Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

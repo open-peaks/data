@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.178111,
+            51.430806
+        ]
+    },
+    "properties": {
+        "feet": 8103.6748,
+        "meters": 2470.0,
+        "latitude": 51.430806,
+        "longitude": -126.178111,
+        "name": "Mount Kinch",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

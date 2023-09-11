@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.62417,
+            50.83472
+        ]
+    },
+    "properties": {
+        "feet": 10843.1762,
+        "meters": 3305.0,
+        "latitude": 50.83472,
+        "longitude": -115.62417,
+        "name": "Eon Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

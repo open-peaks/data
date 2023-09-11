@@ -1,30 +1,26 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.149558,
-      43.520765
-    ]
-  },
-  "properties": {
-    "feet": 8744,
-    "meters": 2665,
-    "latitude": 43.520765,
-    "longitude": -122.149558,
-    "name": "Diamond Peak",
-    "regions": [
-      "Pacific Ranges",
-      "Cascade Range"
-    ],
-    "states": [
-      "Oregon"
-    ],
-    "countries": [
-      "United States"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.149582933,
+            43.520696292
+        ]
+    },
+    "properties": {
+        "feet": 8748.0,
+        "meters": 2666.39031467551,
+        "latitude": 43.520696292,
+        "longitude": -122.149582933,
+        "name": "Diamond Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle",
+        "states": [
+            "Oregon"
+        ]
+    }
 }

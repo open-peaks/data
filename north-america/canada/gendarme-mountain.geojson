@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.20944,
+            53.21028
+        ]
+    },
+    "properties": {
+        "feet": 9603.01868,
+        "meters": 2927.0,
+        "latitude": 53.21028,
+        "longitude": -118.20944,
+        "name": "Gendarme Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -66.09138,
-            48.78944
+            -114.7047222,
+            50.0897222
         ]
     },
     "properties": {
-        "feet": 3070.86624,
-        "meters": 936.0,
-        "latitude": 48.78944,
-        "longitude": -66.09138,
+        "feet": 9678.478,
+        "meters": 2950.0,
+        "latitude": 50.0897222,
+        "longitude": -114.7047222,
         "name": "Mount Lyall",
         "countries": [
             "Canada"

@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 11673,
-    "meters": 3558,
-    "name": "Presanella",
-    "regions": [
-      "Southern Alps",
-      "Brenta-Adamello-Garda Group"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66389,
+            46.22
+        ]
+    },
+    "properties": {
+        "feet": 11673.22872,
+        "meters": 3558.0,
+        "latitude": 46.22,
+        "longitude": 10.66389,
+        "name": "Presanella",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

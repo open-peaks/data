@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.208111,
+            57.84
+        ]
+    },
+    "properties": {
+        "feet": 6108.92408,
+        "meters": 1862.0,
+        "latitude": 57.84,
+        "longitude": -130.208111,
+        "name": "Castle Rock",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

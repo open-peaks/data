@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.389194,
+            49.525611
+        ]
+    },
+    "properties": {
+        "feet": 6673.22856,
+        "meters": 2034.0,
+        "latitude": 49.525611,
+        "longitude": -125.389194,
+        "name": "The Red Pillar",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

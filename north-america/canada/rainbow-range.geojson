@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.78,
+            52.72333
+        ]
+    },
+    "properties": {
+        "feet": 8185.6957999999995,
+        "meters": 2495.0,
+        "latitude": 52.72333,
+        "longitude": -125.78,
+        "name": "Rainbow Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

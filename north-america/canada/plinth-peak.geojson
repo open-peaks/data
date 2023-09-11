@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.510806,
+            50.645194
+        ]
+    },
+    "properties": {
+        "feet": 8782.80868,
+        "meters": 2677.0,
+        "latitude": 50.645194,
+        "longitude": -123.510806,
+        "name": "Plinth Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

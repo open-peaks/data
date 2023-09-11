@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.047807,
+            53.123379
+        ]
+    },
+    "properties": {
+        "feet": 8343.17612,
+        "meters": 2543.0,
+        "latitude": 53.123379,
+        "longitude": -121.047807,
+        "name": "Mowdish Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.066514283,
+            43.152837292
+        ]
+    },
+    "properties": {
+        "feet": 9184.0,
+        "meters": 2799.2831104229404,
+        "latitude": 43.152837292,
+        "longitude": -122.066514283,
+        "name": "Mount Thielsen",
+        "countries": [
+            "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

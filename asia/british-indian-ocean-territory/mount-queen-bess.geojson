@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.56833,
+            51.27167
+        ]
+    },
+    "properties": {
+        "feet": 10820.21032,
+        "meters": 3298.0,
+        "latitude": 51.27167,
+        "longitude": -124.56833,
+        "name": "Mount Queen Bess",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

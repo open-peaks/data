@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.27389,
+            50.83972
+        ]
+    },
+    "properties": {
+        "feet": 10449.4754,
+        "meters": 3185.0,
+        "latitude": 50.83972,
+        "longitude": -115.27389,
+        "name": "Kananaskis Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

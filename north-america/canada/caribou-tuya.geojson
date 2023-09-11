@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.5625,
+            59.23639
+        ]
+    },
+    "properties": {
+        "feet": 5807.0868,
+        "meters": 1770.0,
+        "latitude": 59.23639,
+        "longitude": -130.5625,
+        "name": "Caribou Tuya",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

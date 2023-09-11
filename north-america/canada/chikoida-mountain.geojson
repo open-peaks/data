@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -133.041,
+            59.22633
+        ]
+    },
+    "properties": {
+        "feet": 6322.17868,
+        "meters": 1927.0,
+        "latitude": 59.22633,
+        "longitude": -133.041,
+        "name": "Chikoida Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

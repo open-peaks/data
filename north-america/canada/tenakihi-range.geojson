@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.25,
+            56.21667
+        ]
+    },
+    "properties": {
+        "feet": 3182.4148,
+        "meters": 970.0,
+        "latitude": 56.21667,
+        "longitude": -125.25,
+        "name": "Tenakihi Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

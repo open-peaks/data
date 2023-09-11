@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.971111,
+            49.827222
+        ]
+    },
+    "properties": {
+        "feet": 5695.53824,
+        "meters": 1736.0,
+        "latitude": 49.827222,
+        "longitude": -122.971111,
+        "name": "Opal Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

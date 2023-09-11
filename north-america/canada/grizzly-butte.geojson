@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.922722,
+            59.083917
+        ]
+    },
+    "properties": {
+        "feet": 4632.54608,
+        "meters": 1412.0,
+        "latitude": 59.083917,
+        "longitude": -130.922722,
+        "name": "Grizzly Butte",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

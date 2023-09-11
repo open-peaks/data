@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.00167,
+            49.03222
+        ]
+    },
+    "properties": {
+        "feet": 8648.29424,
+        "meters": 2636.0,
+        "latitude": 49.03222,
+        "longitude": -114.00167,
+        "name": "Mount Carthew",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

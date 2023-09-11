@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.68944,
+            52.47611
+        ]
+    },
+    "properties": {
+        "feet": 6302.49364,
+        "meters": 1921.0,
+        "latitude": 52.47611,
+        "longitude": -124.68944,
+        "name": "Satah Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

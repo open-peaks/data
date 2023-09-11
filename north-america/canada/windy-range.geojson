@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.15,
+            51.867
+        ]
+    },
+    "properties": {
+        "feet": 10501.96884,
+        "meters": 3201.0,
+        "latitude": 51.867,
+        "longitude": -118.15,
+        "name": "Windy Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

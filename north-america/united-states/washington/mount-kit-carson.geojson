@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1418,
+            47.9171
+        ]
+    },
+    "properties": {
+        "feet": 5286.0,
+        "meters": 1611.172748442472,
+        "latitude": 47.9171,
+        "longitude": -117.1418,
+        "name": "Mount Kit Carson",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.50889,
+            59.27444
+        ]
+    },
+    "properties": {
+        "feet": 6971.785,
+        "meters": 2125.0,
+        "latitude": 59.27444,
+        "longitude": -130.50889,
+        "name": "Ash Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

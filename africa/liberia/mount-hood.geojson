@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.69583,
+            45.37361
+        ]
+    },
+    "properties": {
+        "feet": 11249.0,
+        "meters": 3428.695090281757,
+        "latitude": 45.37361,
+        "longitude": -121.69583,
+        "name": "Mount Hood",
+        "countries": [
+            "Liberia"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

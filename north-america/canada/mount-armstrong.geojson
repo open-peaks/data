@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.76778,
+            50.35028
+        ]
+    },
+    "properties": {
+        "feet": 9261.81132,
+        "meters": 2823.0,
+        "latitude": 50.35028,
+        "longitude": -114.76778,
+        "name": "Mount Armstrong",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

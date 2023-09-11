@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.66306,
+            50.065
+        ]
+    },
+    "properties": {
+        "feet": 9498.0318,
+        "meters": 2895.0,
+        "latitude": 50.065,
+        "longitude": -114.66306,
+        "name": "Beehive Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

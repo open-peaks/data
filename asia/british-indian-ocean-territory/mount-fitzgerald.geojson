@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.065611,
+            51.517194
+        ]
+    },
+    "properties": {
+        "feet": 8664.69844,
+        "meters": 2641.0,
+        "latitude": 51.517194,
+        "longitude": -126.065611,
+        "name": "Mount Fitzgerald",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

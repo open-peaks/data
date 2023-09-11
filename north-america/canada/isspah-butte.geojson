@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.533,
+            59.117
+        ]
+    },
+    "properties": {
+        "feet": 5488.84532,
+        "meters": 1673.0,
+        "latitude": 59.117,
+        "longitude": -131.533,
+        "name": "Isspah Butte",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

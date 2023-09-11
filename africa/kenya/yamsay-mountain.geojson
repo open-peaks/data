@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.36074595,
+            42.930599108
+        ]
+    },
+    "properties": {
+        "feet": 8200.0,
+        "meters": 2499.3599200204826,
+        "latitude": 42.930599108,
+        "longitude": -121.36074595,
+        "name": "Yamsay Mountain",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

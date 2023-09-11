@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.51,
+            50.9
+        ]
+    },
+    "properties": {
+        "feet": 6233.596,
+        "meters": 1900.0,
+        "latitude": 50.9,
+        "longitude": -123.51,
+        "name": "Sham Hill",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

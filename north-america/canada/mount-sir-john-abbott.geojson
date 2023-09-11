@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.79417,
+            52.81083
+        ]
+    },
+    "properties": {
+        "feet": 11148.294319999999,
+        "meters": 3398.0,
+        "latitude": 52.81083,
+        "longitude": -119.79417,
+        "name": "Mount Sir John Abbott",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

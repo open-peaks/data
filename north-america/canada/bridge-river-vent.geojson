@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.5017667,
+            50.6562889
+        ]
+    },
+    "properties": {
+        "feet": 5000.00016,
+        "meters": 1524.0,
+        "latitude": 50.6562889,
+        "longitude": -123.5017667,
+        "name": "Bridge River Vent",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

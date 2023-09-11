@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.8039882,
+            48.1373508
+        ]
+    },
+    "properties": {
+        "feet": 9040.0,
+        "meters": 2755.391911827459,
+        "latitude": 48.1373508,
+        "longitude": -120.8039882,
+        "name": "Mount Maude",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

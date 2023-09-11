@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.335306,
+            49.942944
+        ]
+    },
+    "properties": {
+        "feet": 8362.86116,
+        "meters": 2549.0,
+        "latitude": 49.942944,
+        "longitude": -114.335306,
+        "name": "Livingstone Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

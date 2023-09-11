@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.65167,
+            57.75944
+        ]
+    },
+    "properties": {
+        "feet": 7874.016,
+        "meters": 2400.0,
+        "latitude": 57.75944,
+        "longitude": -130.65167,
+        "name": "Pillow Ridge",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.043889,
+            49.914722
+        ]
+    },
+    "properties": {
+        "feet": 6535.43328,
+        "meters": 1992.0,
+        "latitude": 49.914722,
+        "longitude": -123.043889,
+        "name": "Clinker Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

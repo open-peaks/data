@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.820806,
+            57.308306
+        ]
+    },
+    "properties": {
+        "feet": 5544.6196,
+        "meters": 1690.0,
+        "latitude": 57.308306,
+        "longitude": -130.820806,
+        "name": "Nahta Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

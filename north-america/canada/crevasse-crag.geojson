@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.19806,
+            50.11111
+        ]
+    },
+    "properties": {
+        "feet": 8188.97664,
+        "meters": 2496.0,
+        "latitude": 50.11111,
+        "longitude": -122.19806,
+        "name": "Crevasse Crag",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

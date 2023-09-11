@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.6886,
-            43.9794
+            -121.688507775,
+            43.979415733
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.9794,
-        "longitude": -121.6886,
+        "feet": 9068.0,
+        "meters": 2763.926311554358,
+        "latitude": 43.979415733,
+        "longitude": -121.688507775,
         "name": "Mount Bachelor",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Oregon"
-        ]
+        "marker-symbol": "triangle"
     }
 }

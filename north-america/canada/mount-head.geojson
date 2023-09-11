@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.65,
+            50.44028
+        ]
+    },
+    "properties": {
+        "feet": 9127.29688,
+        "meters": 2782.0,
+        "latitude": 50.44028,
+        "longitude": -114.65,
+        "name": "Mount Head",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.745,
+            53.17944
+        ]
+    },
+    "properties": {
+        "feet": 7358.92412,
+        "meters": 2243.0,
+        "latitude": 53.17944,
+        "longitude": -117.745,
+        "name": "Fiddle Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

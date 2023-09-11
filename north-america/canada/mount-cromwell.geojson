@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.393551,
-      52.268788
-    ]
-  },
-  "properties": {
-    "feet": 10925,
-    "meters": 3330,
-    "latitude": 52.268788,
-    "longitude": -117.393551,
-    "name": "Mount Cromwell",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.39167,
+            52.26944
+        ]
+    },
+    "properties": {
+        "feet": 10925.1972,
+        "meters": 3330.0,
+        "latitude": 52.26944,
+        "longitude": -117.39167,
+        "name": "Mount Cromwell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

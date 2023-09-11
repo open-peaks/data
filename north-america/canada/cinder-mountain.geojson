@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.61,
+            56.57
+        ]
+    },
+    "properties": {
+        "feet": 984.252,
+        "meters": 300.0,
+        "latitude": 56.57,
+        "longitude": -130.61,
+        "name": "Cinder Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

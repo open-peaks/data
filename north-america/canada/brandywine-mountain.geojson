@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.22111,
+            50.11444
+        ]
+    },
+    "properties": {
+        "feet": 7260.49892,
+        "meters": 2213.0,
+        "latitude": 50.11444,
+        "longitude": -123.22111,
+        "name": "Brandywine Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

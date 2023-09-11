@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.130806,
+            51.476889
+        ]
+    },
+    "properties": {
+        "feet": 7723.09736,
+        "meters": 2354.0,
+        "latitude": 51.476889,
+        "longitude": -126.130806,
+        "name": "Mount Overill",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

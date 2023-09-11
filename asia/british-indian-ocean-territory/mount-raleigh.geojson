@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.27417,
+            50.91
+        ]
+    },
+    "properties": {
+        "feet": 10275.59088,
+        "meters": 3132.0,
+        "latitude": 50.91,
+        "longitude": -124.27417,
+        "name": "Mount Raleigh",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

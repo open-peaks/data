@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.74917,
+            51.21222
+        ]
+    },
+    "properties": {
+        "feet": 8930.44648,
+        "meters": 2722.0,
+        "latitude": 51.21222,
+        "longitude": -116.74917,
+        "name": "Beaverfoot Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

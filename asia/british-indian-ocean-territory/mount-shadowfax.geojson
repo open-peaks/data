@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.67694,
+            50.64194
+        ]
+    },
+    "properties": {
+        "feet": 7595.1446,
+        "meters": 2315.0,
+        "latitude": 50.64194,
+        "longitude": -122.67694,
+        "name": "Mount Shadowfax",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.42056,
+            51.15167
+        ]
+    },
+    "properties": {
+        "feet": 11079.39668,
+        "meters": 3377.0,
+        "latitude": 51.15167,
+        "longitude": -117.42056,
+        "name": "Dawson Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

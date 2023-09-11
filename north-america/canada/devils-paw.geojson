@@ -18,6 +18,9 @@
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle"
+        "marker-symbol": "triangle",
+        "states": [
+            "Alaska Stikine Region"
+        ]
     }
 }

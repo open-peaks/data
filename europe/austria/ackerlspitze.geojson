@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.335587,
-      47.55753
-    ]
-  },
-  "properties": {
-    "feet": 7641,
-    "meters": 2329,
-    "latitude": 47.55753,
-    "longitude": 12.335587,
-    "name": "Ackerlspitze",
-    "regions": [
-      "Eastern Alps",
-      "Austrian Alps"
-    ],
-    "countries": [
-      "Austria"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0,
+            47.0
+        ]
+    },
+    "properties": {
+        "feet": null,
+        "meters": null,
+        "latitude": 47.0,
+        "longitude": 12.0,
+        "name": "Ackerlspitze",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.937194,
+            49.406889
+        ]
+    },
+    "properties": {
+        "feet": 4655.51196,
+        "meters": 1419.0,
+        "latitude": 49.406889,
+        "longitude": -122.937194,
+        "name": "Mount Elsay",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.132771,
-      51.037994
-    ]
-  },
-  "properties": {
-    "feet": 7005,
-    "meters": 2135,
-    "latitude": 51.037994,
-    "longitude": -115.132771,
-    "name": "Heart Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.13472,
+            51.04028
+        ]
+    },
+    "properties": {
+        "feet": 7004.5934,
+        "meters": 2135.0,
+        "latitude": 51.04028,
+        "longitude": -115.13472,
+        "name": "Heart Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

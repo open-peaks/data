@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.108306,
+            51.315
+        ]
+    },
+    "properties": {
+        "feet": 9596.457,
+        "meters": 2925.0,
+        "latitude": 51.315,
+        "longitude": -125.108306,
+        "name": "Merlon Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

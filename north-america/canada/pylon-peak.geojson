@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.517694,
+            50.597389
+        ]
+    },
+    "properties": {
+        "feet": 8139.76404,
+        "meters": 2481.0,
+        "latitude": 50.597389,
+        "longitude": -123.517694,
+        "name": "Pylon Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

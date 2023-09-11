@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.16417,
-            51.06556
+            -115.58222,
+            51.26806
         ]
     },
     "properties": {
-        "feet": 10511.81136,
-        "meters": 3204.0,
-        "latitude": 51.06556,
-        "longitude": -116.16417,
+        "feet": 9835.95832,
+        "meters": 2998.0,
+        "latitude": 51.26806,
+        "longitude": -115.58222,
         "name": "Vermilion Range",
         "countries": [
             "Canada"

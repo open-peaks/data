@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.20778,
+            48.99722
+        ]
+    },
+    "properties": {
+        "feet": 9783.46488,
+        "meters": 2982.0,
+        "latitude": 48.99722,
+        "longitude": -114.20778,
+        "name": "Clark Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

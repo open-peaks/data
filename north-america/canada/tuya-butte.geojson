@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.567806,
+            59.132806
+        ]
+    },
+    "properties": {
+        "feet": 5528.2154,
+        "meters": 1685.0,
+        "latitude": 59.132806,
+        "longitude": -130.567806,
+        "name": "Tuya Butte",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

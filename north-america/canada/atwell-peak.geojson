@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.00917,
+            49.84111
+        ]
+    },
+    "properties": {
+        "feet": 8710.6302,
+        "meters": 2655.0,
+        "latitude": 49.84111,
+        "longitude": -123.00917,
+        "name": "Atwell Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.1144389,
+            46.5465806
+        ]
+    },
+    "properties": {
+        "feet": 12946.19464,
+        "meters": 3946.0,
+        "latitude": 46.5465806,
+        "longitude": 8.1144389,
+        "name": "Agassizhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

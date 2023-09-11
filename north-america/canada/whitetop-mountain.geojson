@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.55583,
+            52.64861
+        ]
+    },
+    "properties": {
+        "feet": 5003.281,
+        "meters": 1525.0,
+        "latitude": 52.64861,
+        "longitude": -124.55583,
+        "name": "Whitetop Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

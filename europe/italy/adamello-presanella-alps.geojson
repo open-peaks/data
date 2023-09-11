@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66417,
+            46.21944
+        ]
+    },
+    "properties": {
+        "feet": 11673.22872,
+        "meters": 3558.0,
+        "latitude": 46.21944,
+        "longitude": 10.66417,
+        "name": "Adamello-Presanella Alps",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

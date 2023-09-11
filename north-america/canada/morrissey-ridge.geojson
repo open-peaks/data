@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.44861,
+            51.03944
+        ]
+    },
+    "properties": {
+        "feet": 8353.01864,
+        "meters": 2546.0,
+        "latitude": 51.03944,
+        "longitude": -116.44861,
+        "name": "Morrissey Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

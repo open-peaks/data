@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.78139,
+            50.30056
+        ]
+    },
+    "properties": {
+        "feet": 9750.65648,
+        "meters": 2972.0,
+        "latitude": 50.30056,
+        "longitude": -114.78139,
+        "name": "Mount Cornwell",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

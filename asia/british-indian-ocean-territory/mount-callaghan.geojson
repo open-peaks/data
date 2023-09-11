@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.26611,
+            50.22778
+        ]
+    },
+    "properties": {
+        "feet": 7903.54356,
+        "meters": 2409.0,
+        "latitude": 50.22778,
+        "longitude": -123.26611,
+        "name": "Mount Callaghan",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

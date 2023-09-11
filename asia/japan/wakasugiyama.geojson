@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            130.54472,
+            33.59778
+        ]
+    },
+    "properties": {
+        "feet": 2234.25204,
+        "meters": 681.0,
+        "latitude": 33.59778,
+        "longitude": 130.54472,
+        "name": "Wakasugiyama",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

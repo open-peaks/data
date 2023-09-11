@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.70222,
+            57.77333
+        ]
+    },
+    "properties": {
+        "feet": 6328.74036,
+        "meters": 1929.0,
+        "latitude": 57.77333,
+        "longitude": -130.70222,
+        "name": "Tsekone Ridge",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

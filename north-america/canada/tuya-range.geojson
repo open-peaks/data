@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.50861,
+            59.344389
+        ]
+    },
+    "properties": {
+        "feet": 6938.9766,
+        "meters": 2115.0,
+        "latitude": 59.344389,
+        "longitude": -130.50861,
+        "name": "Tuya Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

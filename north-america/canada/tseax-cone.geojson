@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.89889,
+            55.11083
+        ]
+    },
+    "properties": {
+        "feet": 2001.3124,
+        "meters": 610.0,
+        "latitude": 55.11083,
+        "longitude": -128.89889,
+        "name": "Tseax Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -114.909697,
-      50.554398
-    ]
-  },
-  "properties": {
-    "feet": 10302,
-    "meters": 3140,
-    "latitude": 50.554398,
-    "longitude": -114.909697,
-    "name": "Mist Mountain",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.91,
+            50.5541667
+        ]
+    },
+    "properties": {
+        "feet": 10301.8376,
+        "meters": 3140.0,
+        "latitude": 50.5541667,
+        "longitude": -114.91,
+        "name": "Mist Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

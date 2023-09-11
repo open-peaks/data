@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.57639,
+            52.40361
+        ]
+    },
+    "properties": {
+        "feet": 9740.81396,
+        "meters": 2969.0,
+        "latitude": 52.40361,
+        "longitude": -117.57639,
+        "name": "Mount Confederation",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.77222,
+            50.76
+        ]
+    },
+    "properties": {
+        "feet": 9704.72472,
+        "meters": 2958.0,
+        "latitude": 50.76,
+        "longitude": -116.77222,
+        "name": "Brenta Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

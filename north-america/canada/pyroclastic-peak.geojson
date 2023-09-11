@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.292806,
+            50.114389
+        ]
+    },
+    "properties": {
+        "feet": 7706.69316,
+        "meters": 2349.0,
+        "latitude": 50.114389,
+        "longitude": -123.292806,
+        "name": "Pyroclastic Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

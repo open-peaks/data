@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.17139,
+            49.64917
+        ]
+    },
+    "properties": {
+        "feet": 6833.98972,
+        "meters": 2083.0,
+        "latitude": 49.64917,
+        "longitude": -121.17139,
+        "name": "Alpaca Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

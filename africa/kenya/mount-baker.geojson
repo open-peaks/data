@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.8144732,
+            48.7766298
+        ]
+    },
+    "properties": {
+        "feet": 10786.0,
+        "meters": 3287.5726947976736,
+        "latitude": 48.7766298,
+        "longitude": -121.8144732,
+        "name": "Mount Baker",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

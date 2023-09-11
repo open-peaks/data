@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.2974,
+            47.5793
+        ]
+    },
+    "properties": {
+        "feet": 3658.0,
+        "meters": 1114.9583643213323,
+        "latitude": 47.5793,
+        "longitude": -117.2974,
+        "name": "Krell Hill",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Washington"
+        ]
+    }
+}

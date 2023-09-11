@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.4925,
+            49.73806
+        ]
+    },
+    "properties": {
+        "feet": 6505.90572,
+        "meters": 1983.0,
+        "latitude": 49.73806,
+        "longitude": -125.4925,
+        "name": "Alexandra Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

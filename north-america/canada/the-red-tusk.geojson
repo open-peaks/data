@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.3,
+            49.776111
+        ]
+    },
+    "properties": {
+        "feet": 7043.96348,
+        "meters": 2147.0,
+        "latitude": 49.776111,
+        "longitude": -123.3,
+        "name": "The Red Tusk",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

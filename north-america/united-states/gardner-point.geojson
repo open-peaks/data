@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.1276632,
+            48.9770088
+        ]
+    },
+    "properties": {
+        "feet": 7405.0,
+        "meters": 2257.0439277745945,
+        "latitude": 48.9770088,
+        "longitude": -114.1276632,
+        "name": "Gardner Point",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

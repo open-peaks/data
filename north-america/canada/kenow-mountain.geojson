@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.32306,
+            49.07806
+        ]
+    },
+    "properties": {
+        "feet": 8848.42548,
+        "meters": 2697.0,
+        "latitude": 49.07806,
+        "longitude": -114.32306,
+        "name": "Kenow Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

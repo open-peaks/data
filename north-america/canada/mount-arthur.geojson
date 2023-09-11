@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.93833,
+            50.11722
+        ]
+    },
+    "properties": {
+        "feet": 5311.67996,
+        "meters": 1619.0,
+        "latitude": 50.11722,
+        "longitude": -123.93833,
+        "name": "Mount Arthur",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

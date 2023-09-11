@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.951389,
+            49.901944
+        ]
+    },
+    "properties": {
+        "feet": 7880.57768,
+        "meters": 2402.0,
+        "latitude": 49.901944,
+        "longitude": -122.951389,
+        "name": "The Sphinx",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

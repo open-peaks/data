@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.59361,
+            49.47278
+        ]
+    },
+    "properties": {
+        "feet": 9038.7142,
+        "meters": 2755.0,
+        "latitude": 49.47278,
+        "longitude": -114.59361,
+        "name": "Mount Darrah",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

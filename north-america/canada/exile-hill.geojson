@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.825,
+            57.378333
+        ]
+    },
+    "properties": {
+        "feet": 6276.24692,
+        "meters": 1913.0,
+        "latitude": 57.378333,
+        "longitude": -130.825,
+        "name": "Exile Hill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

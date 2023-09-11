@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.102778,
+            49.533056
+        ]
+    },
+    "properties": {
+        "feet": 7083.33356,
+        "meters": 2159.0,
+        "latitude": 49.533056,
+        "longitude": -122.102778,
+        "name": "Mount Clarke",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

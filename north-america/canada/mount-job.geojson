@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.550667,
+            50.62475
+        ]
+    },
+    "properties": {
+        "feet": 8179.13412,
+        "meters": 2493.0,
+        "latitude": 50.62475,
+        "longitude": -123.550667,
+        "name": "Mount Job",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

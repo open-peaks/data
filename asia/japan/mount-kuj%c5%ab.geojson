@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            131.24,
+            33.08167
+        ]
+    },
+    "properties": {
+        "feet": 5875.98444,
+        "meters": 1791.0,
+        "latitude": 33.08167,
+        "longitude": 131.24,
+        "name": "Mount Kuj%C5%AB",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "\u014cita"
+        ]
+    }
+}

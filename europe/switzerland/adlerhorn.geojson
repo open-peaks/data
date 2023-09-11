@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.889028,
+            46.009111
+        ]
+    },
+    "properties": {
+        "feet": 13083.98992,
+        "meters": 3988.0,
+        "latitude": 46.009111,
+        "longitude": 7.889028,
+        "name": "Adlerhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

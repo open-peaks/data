@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.23186,
+            49.50804
+        ]
+    },
+    "properties": {
+        "feet": 7742.7824,
+        "meters": 2360.0,
+        "latitude": 49.50804,
+        "longitude": -115.23186,
+        "name": "Lizard Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

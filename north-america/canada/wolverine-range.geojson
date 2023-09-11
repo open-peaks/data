@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.31667,
+            55.76667
+        ]
+    },
+    "properties": {
+        "feet": 4862.20488,
+        "meters": 1482.0,
+        "latitude": 55.76667,
+        "longitude": -124.31667,
+        "name": "Wolverine Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

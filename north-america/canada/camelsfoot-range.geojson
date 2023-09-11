@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.548611,
+            51.203611
+        ]
+    },
+    "properties": {
+        "feet": 8021.6538,
+        "meters": 2445.0,
+        "latitude": 51.203611,
+        "longitude": -122.548611,
+        "name": "Camelsfoot Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

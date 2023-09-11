@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.27667,
+            50.14722
+        ]
+    },
+    "properties": {
+        "feet": 7700.13148,
+        "meters": 2347.0,
+        "latitude": 50.14722,
+        "longitude": -123.27667,
+        "name": "Powder Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

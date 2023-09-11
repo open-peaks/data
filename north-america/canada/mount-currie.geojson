@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.78194,
+            50.24833
+        ]
+    },
+    "properties": {
+        "feet": 8500.65644,
+        "meters": 2591.0,
+        "latitude": 50.24833,
+        "longitude": -122.78194,
+        "name": "Mount Currie",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

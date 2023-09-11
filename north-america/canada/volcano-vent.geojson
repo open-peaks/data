@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.922889,
+            59.124472
+        ]
+    },
+    "properties": {
+        "feet": 4343.83216,
+        "meters": 1324.0,
+        "latitude": 59.124472,
+        "longitude": -130.922889,
+        "name": "Volcano Vent",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

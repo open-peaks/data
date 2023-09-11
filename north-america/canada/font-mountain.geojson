@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.21333,
+            49.175
+        ]
+    },
+    "properties": {
+        "feet": 7719.81652,
+        "meters": 2353.0,
+        "latitude": 49.175,
+        "longitude": -114.21333,
+        "name": "Font Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

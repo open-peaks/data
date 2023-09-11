@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.83,
+            49.34778
+        ]
+    },
+    "properties": {
+        "feet": 3444.882,
+        "meters": 1050.0,
+        "latitude": 49.34778,
+        "longitude": -122.83,
+        "name": "Eagle Mountain",
+        "countries": [
+            "Gambia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

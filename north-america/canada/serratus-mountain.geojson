@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.30194,
+            49.79278
+        ]
+    },
+    "properties": {
+        "feet": 7614.82964,
+        "meters": 2321.0,
+        "latitude": 49.79278,
+        "longitude": -123.30194,
+        "name": "Serratus Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

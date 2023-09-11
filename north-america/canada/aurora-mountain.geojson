@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.54306,
+            50.825
+        ]
+    },
+    "properties": {
+        "feet": 9176.50948,
+        "meters": 2797.0,
+        "latitude": 50.825,
+        "longitude": -115.54306,
+        "name": "Aurora Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

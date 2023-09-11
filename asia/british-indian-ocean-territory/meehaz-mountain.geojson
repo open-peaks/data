@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.450806,
+            59.003111
+        ]
+    },
+    "properties": {
+        "feet": 5275.59072,
+        "meters": 1608.0,
+        "latitude": 59.003111,
+        "longitude": -131.450806,
+        "name": "Meehaz Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

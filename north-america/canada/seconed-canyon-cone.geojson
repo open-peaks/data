@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.72,
+            56.41
+        ]
+    },
+    "properties": {
+        "feet": 984.252,
+        "meters": 300.0,
+        "latitude": 56.41,
+        "longitude": -130.72,
+        "name": "Seconed Canyon Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

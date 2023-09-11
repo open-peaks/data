@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.774167,
+            57.39
+        ]
+    },
+    "properties": {
+        "feet": 5905.512,
+        "meters": 1800.0,
+        "latitude": 57.39,
+        "longitude": -130.774167,
+        "name": "Outcast Hill",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.95694,
+            50.05917
+        ]
+    },
+    "properties": {
+        "feet": 7155.51204,
+        "meters": 2181.0,
+        "latitude": 50.05917,
+        "longitude": -122.95694,
+        "name": "Whistler Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

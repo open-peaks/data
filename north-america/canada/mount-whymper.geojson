@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -124.16222,
-            48.95111
+            -116.09861,
+            51.22444
         ]
     },
     "properties": {
-        "feet": 5049.21276,
-        "meters": 1539.0,
-        "latitude": 48.95111,
-        "longitude": -124.16222,
+        "feet": 9330.70896,
+        "meters": 2844.0,
+        "latitude": 51.22444,
+        "longitude": -116.09861,
         "name": "Mount Whymper",
         "countries": [
             "Canada"

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.75,
+            56.517
+        ]
+    },
+    "properties": {
+        "feet": 5022.96604,
+        "meters": 1531.0,
+        "latitude": 56.517,
+        "longitude": -125.75,
+        "name": "Lay Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

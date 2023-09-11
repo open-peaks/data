@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.3215994,
+            36.6284032
+        ]
+    },
+    "properties": {
+        "feet": 13996.0,
+        "meters": 4265.980663488619,
+        "latitude": 36.6284032,
+        "longitude": -118.3215994,
+        "name": "Mount Barnard",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

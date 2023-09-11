@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.20611,
+            55.955
+        ]
+    },
+    "properties": {
+        "feet": 8110.23648,
+        "meters": 2472.0,
+        "latitude": 55.955,
+        "longitude": -127.20611,
+        "name": "Shelagyote Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

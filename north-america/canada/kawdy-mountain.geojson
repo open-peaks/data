@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.23,
+            58.88
+        ]
+    },
+    "properties": {
+        "feet": 6351.7062399999995,
+        "meters": 1936.0,
+        "latitude": 58.88,
+        "longitude": -131.23,
+        "name": "Kawdy Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

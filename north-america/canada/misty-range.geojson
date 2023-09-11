@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.97472,
+            50.62278
+        ]
+    },
+    "properties": {
+        "feet": 10557.74312,
+        "meters": 3218.0,
+        "latitude": 50.62278,
+        "longitude": -114.97472,
+        "name": "Misty Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

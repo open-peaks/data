@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.29944,
+            50.22139
+        ]
+    },
+    "properties": {
+        "feet": 7191.60128,
+        "meters": 2192.0,
+        "latitude": 50.22139,
+        "longitude": -123.29944,
+        "name": "Ring Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -134.11611,
+            58.76417
+        ]
+    },
+    "properties": {
+        "feet": 6073.0,
+        "meters": 1851.0503407663891,
+        "latitude": 58.76417,
+        "longitude": -134.11611,
+        "name": "Dipyramid",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

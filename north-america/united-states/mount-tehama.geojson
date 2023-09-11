@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.55944,
+            40.44556
+        ]
+    },
+    "properties": {
+        "feet": 9239.0,
+        "meters": 2816.0471098864923,
+        "latitude": 40.44556,
+        "longitude": -121.55944,
+        "name": "Mount Tehama",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

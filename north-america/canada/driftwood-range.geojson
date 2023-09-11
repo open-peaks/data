@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.673306,
+            55.901889
+        ]
+    },
+    "properties": {
+        "feet": 6650.26268,
+        "meters": 2027.0,
+        "latitude": 55.901889,
+        "longitude": -126.673306,
+        "name": "Driftwood Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

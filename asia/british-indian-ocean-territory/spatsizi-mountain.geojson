@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.63333,
+            57.52917
+        ]
+    },
+    "properties": {
+        "feet": 6745.40704,
+        "meters": 2056.0,
+        "latitude": 57.52917,
+        "longitude": -128.63333,
+        "name": "Spatsizi Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

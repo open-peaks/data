@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.848306,
+            57.926889
+        ]
+    },
+    "properties": {
+        "feet": 9015.74832,
+        "meters": 2748.0,
+        "latitude": 57.926889,
+        "longitude": -126.848306,
+        "name": "Thudaka Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

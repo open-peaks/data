@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.34556,
+            47.10944
+        ]
+    },
+    "properties": {
+        "feet": 12027.559439999999,
+        "meters": 3666.0,
+        "latitude": 47.10944,
+        "longitude": 12.34556,
+        "name": "Gro%C3%9Fvenediger",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

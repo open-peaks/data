@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.39722,
+            59.41861
+        ]
+    },
+    "properties": {
+        "feet": 5249.344,
+        "meters": 1600.0,
+        "latitude": 59.41861,
+        "longitude": -130.39722,
+        "name": "Gabrielse Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

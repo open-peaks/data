@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.647958,
+            48.979182
+        ]
+    },
+    "properties": {
+        "feet": 7865.0,
+        "meters": 2397.2519232879386,
+        "latitude": 48.979182,
+        "longitude": -121.647958,
+        "name": "Mount Larrabee",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

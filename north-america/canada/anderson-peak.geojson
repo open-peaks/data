@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.07861,
+            49.13444
+        ]
+    },
+    "properties": {
+        "feet": 8809.0554,
+        "meters": 2685.0,
+        "latitude": 49.13444,
+        "longitude": -114.07861,
+        "name": "Anderson Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

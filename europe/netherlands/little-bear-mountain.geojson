@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.3,
+            56.8
+        ]
+    },
+    "properties": {
+        "feet": 3874.67204,
+        "meters": 1181.0,
+        "latitude": 56.8,
+        "longitude": -131.3,
+        "name": "Little Bear Mountain",
+        "countries": [
+            "Netherlands"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            130.36861,
+            33.43639
+        ]
+    },
+    "properties": {
+        "feet": 3459.9738639999996,
+        "meters": 1054.6,
+        "latitude": 33.43639,
+        "longitude": 130.36861,
+        "name": "Mount Sefuri",
+        "countries": [
+            "Japan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

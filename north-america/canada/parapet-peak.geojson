@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.29416,
-            52.66694
+            -122.90472,
+            49.905
         ]
     },
     "properties": {
-        "feet": 9940.9452,
-        "meters": 3030.0,
-        "latitude": 52.66694,
-        "longitude": -118.29416,
+        "feet": 8080.70892,
+        "meters": 2463.0,
+        "latitude": 49.905,
+        "longitude": -122.90472,
         "name": "Parapet Peak",
         "countries": [
             "Canada"

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.87083,
+            50.08139
+        ]
+    },
+    "properties": {
+        "feet": 7992.12624,
+        "meters": 2436.0,
+        "latitude": 50.08139,
+        "longitude": -122.87083,
+        "name": "Blackcomb Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

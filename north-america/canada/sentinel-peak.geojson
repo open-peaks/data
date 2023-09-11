@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.96111,
-            54.90806
+            -117.87222,
+            51.74556
         ]
     },
     "properties": {
-        "feet": 8244.75092,
-        "meters": 2513.0,
-        "latitude": 54.90806,
-        "longitude": -121.96111,
+        "feet": 9816.27328,
+        "meters": 2992.0,
+        "latitude": 51.74556,
+        "longitude": -117.87222,
         "name": "Sentinel Peak",
         "countries": [
             "Canada"

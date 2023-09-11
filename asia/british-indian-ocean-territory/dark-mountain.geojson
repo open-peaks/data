@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -129.439194,
+            58.635306
+        ]
+    },
+    "properties": {
+        "feet": 6476.37816,
+        "meters": 1974.0,
+        "latitude": 58.635306,
+        "longitude": -129.439194,
+        "name": "Dark Mountain",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

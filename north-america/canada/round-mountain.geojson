@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.024194,
+            49.764861
+        ]
+    },
+    "properties": {
+        "feet": 5400.26264,
+        "meters": 1646.0,
+        "latitude": 49.764861,
+        "longitude": -123.024194,
+        "name": "Round Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.79861,
+            59.92389
+        ]
+    },
+    "properties": {
+        "feet": 9285.0,
+        "meters": 2830.067909437827,
+        "latitude": 59.92389,
+        "longitude": -138.79861,
+        "name": "Mount Aylesworth",
+        "countries": [
+            "Tanzania, United Republic of"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.460060439,
+            48.928316022
+        ]
+    },
+    "properties": {
+        "feet": 7310.0,
+        "meters": 2228.0879287011862,
+        "latitude": 48.928316022,
+        "longitude": -117.460060439,
+        "name": "Abercrombie Mountain",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

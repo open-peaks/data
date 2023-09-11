@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.15222,
+            48.94583
+        ]
+    },
+    "properties": {
+        "feet": 7320.0,
+        "meters": 2231.1359286036504,
+        "latitude": 48.94583,
+        "longitude": -117.15222,
+        "name": "Gypsy Peak",
+        "countries": [
+            "Papua New Guinea"
+        ],
+        "continent": "Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

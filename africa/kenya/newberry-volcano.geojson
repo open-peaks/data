@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.25488985,
+            43.689195264
+        ]
+    },
+    "properties": {
+        "feet": 7989.0,
+        "meters": 2435.047122078492,
+        "latitude": 43.689195264,
+        "longitude": -121.25488985,
+        "name": "Newberry Volcano",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

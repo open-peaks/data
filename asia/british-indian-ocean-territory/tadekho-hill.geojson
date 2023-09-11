@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.785278,
+            57.350278
+        ]
+    },
+    "properties": {
+        "feet": 6154.85584,
+        "meters": 1876.0,
+        "latitude": 57.350278,
+        "longitude": -130.785278,
+        "name": "Tadekho Hill",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

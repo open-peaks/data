@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.244738833,
+            50.013733
+        ]
+    },
+    "properties": {
+        "feet": 6961.94248,
+        "meters": 2122.0,
+        "latitude": 50.013733,
+        "longitude": -123.244738833,
+        "name": "Tricouni Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

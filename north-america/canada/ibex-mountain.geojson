@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -135.4945,
+            60.521194
+        ]
+    },
+    "properties": {
+        "feet": 6909.4490399999995,
+        "meters": 2106.0,
+        "latitude": 60.521194,
+        "longitude": -135.4945,
+        "name": "Ibex Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.7997,
-            44.6742
+            -121.799573611,
+            44.6743006
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.6742,
-        "longitude": -121.7997,
+        "feet": 10502.0,
+        "meters": 3201.009497567696,
+        "latitude": 44.6743006,
+        "longitude": -121.799573611,
         "name": "Mount Jefferson",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Oregon"
-        ]
+        "marker-symbol": "triangle"
     }
 }

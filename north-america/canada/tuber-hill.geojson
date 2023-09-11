@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.4,
+            50.9
+        ]
+    },
+    "properties": {
+        "feet": 8202.1,
+        "meters": 2500.0,
+        "latitude": 50.9,
+        "longitude": -123.4,
+        "name": "Tuber Hill",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

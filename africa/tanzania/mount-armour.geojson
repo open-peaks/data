@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.71778,
+            59.90639
+        ]
+    },
+    "properties": {
+        "feet": 8773.0,
+        "meters": 2674.01031443167,
+        "latitude": 59.90639,
+        "longitude": -138.71778,
+        "name": "Mount Armour",
+        "countries": [
+            "Tanzania, United Republic of"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

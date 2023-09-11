@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.098055,
+            53.0875
+        ]
+    },
+    "properties": {
+        "feet": 11236.877,
+        "meters": 3425.0,
+        "latitude": 53.0875,
+        "longitude": -119.098055,
+        "name": "Resplendent Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

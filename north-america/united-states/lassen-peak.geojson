@@ -4,24 +4,20 @@
         "type": "Point",
         "coordinates": [
             -121.505,
-            40.4883
+            40.48806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.4883,
+        "feet": 10457.0,
+        "meters": 3187.293498006608,
+        "latitude": 40.48806,
         "longitude": -121.505,
         "name": "Lassen Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -134.38194,
+            59.03889
+        ]
+    },
+    "properties": {
+        "feet": 7631.23384,
+        "meters": 2326.0,
+        "latitude": 59.03889,
+        "longitude": -134.38194,
+        "name": "Mount London",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Canada Alaska"
+        ]
+    }
+}

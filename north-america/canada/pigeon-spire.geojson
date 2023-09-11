@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.78472,
+            50.71889
+        ]
+    },
+    "properties": {
+        "feet": 10354.33104,
+        "meters": 3156.0,
+        "latitude": 50.71889,
+        "longitude": -116.78472,
+        "name": "Pigeon Spire",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

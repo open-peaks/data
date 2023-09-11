@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.22278,
+            49.18889
+        ]
+    },
+    "properties": {
+        "feet": 7906.8243999999995,
+        "meters": 2410.0,
+        "latitude": 49.18889,
+        "longitude": -114.22278,
+        "name": "Mount Matkin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.43278,
+            59.19528
+        ]
+    },
+    "properties": {
+        "feet": 5823.491,
+        "meters": 1775.0,
+        "latitude": 59.19528,
+        "longitude": -130.43278,
+        "name": "Mathews Tuya",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

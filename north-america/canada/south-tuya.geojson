@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -130.50528,
+            59.20861
+        ]
+    },
+    "properties": {
+        "feet": 6069.554,
+        "meters": 1850.0,
+        "latitude": 59.20861,
+        "longitude": -130.50528,
+        "name": "South Tuya",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

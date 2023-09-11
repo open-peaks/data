@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -114.035,
-      49.0933
-    ]
-  },
-  "properties": {
-    "feet": 9547,
-    "meters": 2910,
-    "latitude": 49.0933,
-    "longitude": -114.035,
-    "name": "Mount Blakiston",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.035,
+            49.09417
+        ]
+    },
+    "properties": {
+        "feet": 9547.2444,
+        "meters": 2910.0,
+        "latitude": 49.09417,
+        "longitude": -114.035,
+        "name": "Mount Blakiston",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

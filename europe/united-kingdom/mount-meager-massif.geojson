@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.51667,
+            50.66667
+        ]
+    },
+    "properties": {
+        "feet": 8792.6512,
+        "meters": 2680.0,
+        "latitude": 50.66667,
+        "longitude": -123.51667,
+        "name": "Mount Meager massif",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

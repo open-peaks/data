@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.35333,
+            49.54944
+        ]
+    },
+    "properties": {
+        "feet": 6430.4464,
+        "meters": 1960.0,
+        "latitude": 49.54944,
+        "longitude": -125.35333,
+        "name": "Comox Glacier",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

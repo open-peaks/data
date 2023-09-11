@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.00694,
+            49.97167
+        ]
+    },
+    "properties": {
+        "feet": 6266.4044,
+        "meters": 1910.0,
+        "latitude": 49.97167,
+        "longitude": -123.00694,
+        "name": "Cinder Cone",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

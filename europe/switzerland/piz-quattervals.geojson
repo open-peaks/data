@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.094917,
+            46.627167
+        ]
+    },
+    "properties": {
+        "feet": 10383.8586,
+        "meters": 3165.0,
+        "latitude": 46.627167,
+        "longitude": 10.094917,
+        "name": "Piz Quattervals",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.38,
+            50.79
+        ]
+    },
+    "properties": {
+        "feet": 7874.016,
+        "meters": 2400.0,
+        "latitude": 50.79,
+        "longitude": -123.38,
+        "name": "Salal Glacier volcanic complex",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

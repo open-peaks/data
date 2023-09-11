@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.40583,
+            46.48861
+        ]
+    },
+    "properties": {
+        "feet": 8201.0,
+        "meters": 2499.664720010729,
+        "latitude": 46.48861,
+        "longitude": -121.40583,
+        "name": "Goat Rocks",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

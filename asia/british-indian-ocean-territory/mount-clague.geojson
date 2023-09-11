@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.77528,
+            54.08861
+        ]
+    },
+    "properties": {
+        "feet": 4425.85316,
+        "meters": 1349.0,
+        "latitude": 54.08861,
+        "longitude": -128.77528,
+        "name": "Mount Clague",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

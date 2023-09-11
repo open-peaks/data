@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -131.009917,
+            59.126333
+        ]
+    },
+    "properties": {
+        "feet": 4763.77968,
+        "meters": 1452.0,
+        "latitude": 59.126333,
+        "longitude": -131.009917,
+        "name": "West Vent",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

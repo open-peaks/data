@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.585,
+            49.16
+        ]
+    },
+    "properties": {
+        "feet": 7522.96612,
+        "meters": 2293.0,
+        "latitude": 49.16,
+        "longitude": -121.585,
+        "name": "Foley Peak",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

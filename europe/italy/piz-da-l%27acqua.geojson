@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.137361,
+            46.610694
+        ]
+    },
+    "properties": {
+        "feet": 10255.90584,
+        "meters": 3126.0,
+        "latitude": 46.610694,
+        "longitude": 10.137361,
+        "name": "Piz da l%27Acqua",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

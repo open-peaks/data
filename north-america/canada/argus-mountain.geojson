@@ -18,9 +18,6 @@
         ],
         "continent": "North America",
         "marker-size": "medium",
-        "marker-symbol": "triangle",
-        "states": [
-            "British Columbia"
-        ]
+        "marker-symbol": "triangle"
     }
 }

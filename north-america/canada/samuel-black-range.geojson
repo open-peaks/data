@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -127.07,
+            57.327806
+        ]
+    },
+    "properties": {
+        "feet": 6955.3808,
+        "meters": 2120.0,
+        "latitude": 57.327806,
+        "longitude": -127.07,
+        "name": "Samuel Black Range",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

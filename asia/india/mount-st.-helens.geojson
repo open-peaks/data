@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.1944,
+            46.1912
+        ]
+    },
+    "properties": {
+        "feet": 8363.0,
+        "meters": 2549.042318430646,
+        "latitude": 46.1912,
+        "longitude": -122.1944,
+        "name": "Mount St. Helens",
+        "countries": [
+            "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}
